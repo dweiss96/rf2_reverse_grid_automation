@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674390051</DateTime>
+<TimeString>2023/01/22 13:20:51</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674390103</DateTime>
+<TimeString>2023/01/22 13:21:43</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Command et="10.8">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="10.8">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.0">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.0">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="11.2">&gt; /w Your Name If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.2">/w Your Name If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.4">&gt; /w Your Name germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.4">/w Your Name germansimracing.de | discord.gg/GSR</Command>
+<Chat et="31.4">Your Name left the race.</Chat>
+<Chat et="60.5">Fred Bart left the race.</Chat>
+<Chat et="134.9">Fred Bart has entered the race.</Chat>
+<System et="134.9">Fred Bart(36) 176.168.165.76 has joined as a participant</System>
+<System et="134.9">Fred Bart returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Chat et="141.8">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="141.8">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="142.0">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="142.0">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="173.7">Your Name has entered the race.</Chat>
+<System et="173.7">Your Name(37) 86.201.141.15 has joined as a participant</System>
+<System et="173.7">Your Name returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Command et="181.6">/w Your Name If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="181.6">&gt; /w Your Name If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="181.8">/w Your Name germansimracing.de | discord.gg/GSR</Command>
+<Chat et="181.8">&gt; /w Your Name germansimracing.de | discord.gg/GSR</Chat>
+<Score et="329.1">Fred Bart(36) lap=0 point=1 t=-1.000 et=329.097</Score>
+<Score et="331.8">Your Name(37) lap=0 point=1 t=-1.000 et=331.754</Score>
+<Score et="364.7">Fred Bart(36) lap=0 point=2 t=-1.000 et=364.640</Score>
+<Score et="364.7">Fred Bart(36) lap=1 point=0 t=-1.000 et=364.640</Score>
+<Score et="387.1">Your Name(37) lap=0 point=2 t=-1.000 et=387.023</Score>
+<Score et="427.3">Your Name(37) lap=1 point=0 t=-1.000 et=427.238</Score>
+<Sector et="455.0">Your Name(37) set new best for sector 2</Sector>
+<Score et="455.0">Your Name(37) lap=1 point=1 t=27.765 et=455.003</Score>
+<Sector et="455.0">Your Name(37) set new best for sector 2</Sector>
+<Sector et="455.1">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="455.9">Fred Bart(36) lap=1 point=1 t=-1.000 et=455.894</Score>
+<Incident et="488.9">Fred Bart(36) reported contact (2301.63) with another vehicle Fred Bart(36)</Incident>
+<Incident et="488.9">Fred Bart(36) reported contact (2301.63) with another vehicle Your Name(37)</Incident>
+<Incident et="488.9">Fred Bart(36) reported contact (2234.36) with another vehicle Fred Bart(36)</Incident>
+<Incident et="488.9">Fred Bart(36) reported contact (2234.36) with another vehicle Your Name(37)</Incident>
+<Incident et="488.9">Your Name(37) reported contact (2289.60) with another vehicle Fred Bart(36)</Incident>
+<Incident et="488.9">Your Name(37) reported contact (2289.60) with another vehicle Your Name(37)</Incident>
+<Incident et="488.9">Your Name(37) reported contact (2230.56) with another vehicle Fred Bart(36)</Incident>
+<Incident et="488.9">Your Name(37) reported contact (2230.56) with another vehicle Your Name(37)</Incident>
+<Incident et="488.9">Fred Bart(36) reported contact (1053.73) with another vehicle Fred Bart(36)</Incident>
+<Incident et="488.9">Fred Bart(36) reported contact (1053.73) with another vehicle Your Name(37)</Incident>
+<Incident et="488.9">Your Name(37) reported contact (1072.54) with another vehicle Fred Bart(36)</Incident>
+<Incident et="488.9">Your Name(37) reported contact (1072.54) with another vehicle Your Name(37)</Incident>
+<Score et="519.9">Fred Bart(36) lap=1 point=2 t=-1.000 et=519.890</Score>
+<Sector et="520.2">Your Name(37) set new best for sector 3</Sector>
+<Score et="520.2">Your Name(37) lap=1 point=2 t=92.920 et=520.158</Score>
+<Sector et="520.2">Your Name(37) set new best for sector 3</Sector>
+<Sector et="520.2">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="557.5">Fred Bart(36) lap=2 point=0 t=-1.000 et=557.459</Score>
+<Sector et="559.2">Your Name(37) set new best for sector 1</Sector>
+<Score et="559.2">Your Name(37) lap=2 point=0 t=131.916 et=559.154</Score>
+<Sector et="559.2">Your Name(37) set new best for sector 1</Sector>
+<Sector et="559.2">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="586.9">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="586.9">Fred Bart(36) lap=2 point=1 t=29.444 et=586.903</Score>
+<Sector et="586.9">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="587.0">Your Name(37) set new best for sector 2</Sector>
+<Sector et="587.4">Your Name(37) set new best for sector 2</Sector>
+<Score et="587.4">Your Name(37) lap=2 point=1 t=28.226 et=587.380</Score>
+<Sector et="587.4">Your Name(37) set new best for sector 2</Sector>
+<Sector et="587.5">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="594.3">Your Name(37) lap=2 point=2 t=-1.000 et=594.261</Score>
+<Score et="594.3">Your Name(37) lap=3 point=0 t=-1.000 et=594.261</Score>
+<Score et="599.6">Fred Bart(36) lap=2 point=2 t=-1.000 et=599.568</Score>
+<Score et="599.6">Fred Bart(36) lap=3 point=0 t=-1.000 et=599.568</Score>
+<Score et="659.1">Your Name(37) lap=3 point=1 t=-1.000 et=659.026</Score>
+<Score et="659.7">Fred Bart(36) lap=3 point=1 t=-1.000 et=659.663</Score>
+<Score et="713.2">Fred Bart(36) lap=3 point=2 t=-1.000 et=713.155</Score>
+<Score et="714.2">Your Name(37) lap=3 point=2 t=-1.000 et=714.214</Score>
+<Score et="763.9">Fred Bart(36) lap=4 point=0 t=-1.000 et=763.825</Score>
+<Score et="763.9">Your Name(37) lap=4 point=0 t=-1.000 et=763.827</Score>
+<Sector et="792.1">Your Name(37) set new best for sector 2</Sector>
+<Score et="792.1">Your Name(37) lap=4 point=1 t=28.260 et=792.087</Score>
+<Sector et="792.1">Your Name(37) set new best for sector 2</Sector>
+<Sector et="792.2">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="792.9">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="792.9">Fred Bart(36) lap=4 point=1 t=29.042 et=792.867</Score>
+<Sector et="792.9">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="793.0">Your Name(37) set new best for sector 2</Sector>
+<Sector et="846.9">Your Name(37) set new best for sector 3</Sector>
+<Score et="846.9">Your Name(37) lap=4 point=2 t=83.059 et=846.887</Score>
+<Sector et="846.9">Your Name(37) set new best for sector 3</Sector>
+<Sector et="847.0">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="847.7">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="847.7">Fred Bart(36) lap=4 point=2 t=83.876 et=847.701</Score>
+<Sector et="847.7">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="847.8">Your Name(37) set new best for sector 3</Sector>
+<Sector et="892.9">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="892.9">Fred Bart(36) lap=5 point=0 t=129.086 et=892.911</Score>
+<Sector et="892.9">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="893.0">Your Name(37) set new best for sector 1</Sector>
+<Sector et="893.5">Your Name(37) set new best for sector 1</Sector>
+<Score et="893.5">Your Name(37) lap=5 point=0 t=129.606 et=893.433</Score>
+<Sector et="893.5">Your Name(37) set new best for sector 1</Sector>
+<Sector et="893.5">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="921.6">Your Name(37) set new best for sector 2</Sector>
+<Score et="921.6">Your Name(37) lap=5 point=1 t=28.136 et=921.569</Score>
+<Sector et="921.6">Your Name(37) set new best for sector 2</Sector>
+<Sector et="921.6">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="921.9">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="921.9">Fred Bart(36) lap=5 point=1 t=28.964 et=921.875</Score>
+<Sector et="921.9">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="921.9">Your Name(37) set new best for sector 2</Sector>
+<Score et="976.6">Your Name(37) lap=5 point=2 t=83.129 et=976.561</Score>
+<Sector et="976.6">Your Name(37) set new best for sector 3</Sector>
+<Sector et="976.6">Your Name(37) set new best for sector 3</Sector>
+<Sector et="976.6">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="986.1">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="986.1">Fred Bart(36) lap=5 point=2 t=93.126 et=986.037</Score>
+<Sector et="986.1">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="986.1">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1015.4">Your Name(37) set new best for sector 1</Sector>
+<Score et="1015.4">Your Name(37) lap=6 point=0 t=121.956 et=1015.388</Score>
+<Sector et="1015.4">Your Name(37) set new best for sector 1</Sector>
+<Sector et="1015.5">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="1024.8">Fred Bart(36) lap=6 point=0 t=131.864 et=1024.775</Score>
+<Score et="1041.8">Your Name(37) lap=6 point=1 t=26.351 et=1041.739</Score>
+<Sector et="1041.8">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1041.8">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1041.8">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1055.8">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="1055.8">Fred Bart(36) lap=6 point=1 t=31.038 et=1055.813</Score>
+<Sector et="1055.8">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1055.9">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1095.4">Your Name(37) set new best for sector 3</Sector>
+<Score et="1095.4">Your Name(37) lap=6 point=2 t=79.964 et=1095.352</Score>
+<Sector et="1095.4">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1095.4">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1107.7">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="1107.7">Fred Bart(36) lap=6 point=2 t=82.863 et=1107.638</Score>
+<Sector et="1107.7">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1107.7">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1134.2">Your Name(37) set new best for sector 1</Sector>
+<Score et="1134.2">Your Name(37) lap=7 point=0 t=118.801 et=1134.189</Score>
+<Sector et="1134.2">Your Name(37) set new best for sector 1</Sector>
+<Sector et="1134.3">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="1146.0">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="1146.0">Fred Bart(36) lap=7 point=0 t=121.177 et=1145.952</Score>
+<Sector et="1146.0">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="1146.0">Your Name(37) set new best for sector 1</Sector>
+<Sector et="1161.2">Your Name(37) set new best for sector 2</Sector>
+<Score et="1161.2">Your Name(37) lap=7 point=1 t=27.009 et=1161.198</Score>
+<Sector et="1161.2">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1161.3">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1172.9">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="1172.9">Fred Bart(36) lap=7 point=1 t=26.883 et=1172.835</Score>
+<Sector et="1172.9">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1172.9">Your Name(37) set new best for sector 2</Sector>
+<Score et="1216.5">Your Name(37) lap=7 point=2 t=82.279 et=1216.468</Score>
+<Sector et="1216.5">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1216.5">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1216.5">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1224.5">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="1224.5">Fred Bart(36) lap=7 point=2 t=78.529 et=1224.481</Score>
+<Sector et="1224.5">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1224.6">Your Name(37) set new best for sector 3</Sector>
+<Score et="1256.7">Your Name(37) lap=8 point=0 t=122.513 et=1256.702</Score>
+<Score et="1274.4">Fred Bart(36) lap=8 point=0 t=128.453 et=1274.406</Score>
+<Sector et="1283.7">Your Name(37) set new best for sector 2</Sector>
+<Score et="1283.7">Your Name(37) lap=8 point=1 t=26.993 et=1283.695</Score>
+<Sector et="1283.7">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1283.8">Fred Bart(36) set new best for sector 2</Sector>
+<Incident et="1283.8">Fred Bart(36) reported contact (4781.72) with Immovable</Incident>
+<Incident et="1283.8">Fred Bart(36) reported contact (3190.57) with Immovable</Incident>
+<Incident et="1283.8">Fred Bart(36) reported contact (2424.44) with Immovable</Incident>
+<Incident et="1283.9">Fred Bart(36) reported contact (1266.18) with Immovable</Incident>
+<Incident et="1283.9">Fred Bart(36) reported contact (1292.20) with Immovable</Incident>
+<Incident et="1283.9">Fred Bart(36) reported contact (1351.35) with Immovable</Incident>
+<Incident et="1283.9">Fred Bart(36) reported contact (1240.70) with Immovable</Incident>
+<Score et="1286.7">Fred Bart(36) lap=8 point=1 t=-1.000 et=1286.692</Score>
+<Score et="1286.7">Fred Bart(36) lap=8 point=2 t=-1.000 et=1286.692</Score>
+<Score et="1286.7">Fred Bart(36) lap=9 point=0 t=-1.000 et=1286.692</Score>
+<Score et="1335.1">Fred Bart(36) lap=9 point=1 t=-1.000 et=1335.070</Score>
+<Sector et="1337.6">Your Name(37) set new best for sector 3</Sector>
+<Score et="1337.6">Your Name(37) lap=8 point=2 t=80.867 et=1337.570</Score>
+<Sector et="1337.6">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1337.6">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="1376.8">Your Name(37) lap=9 point=0 t=120.098 et=1376.800</Score>
+<Score et="1387.1">Fred Bart(36) lap=9 point=2 t=-1.000 et=1387.049</Score>
+<Sector et="1403.8">Your Name(37) set new best for sector 2</Sector>
+<Score et="1403.8">Your Name(37) lap=9 point=1 t=27.017 et=1403.818</Score>
+<Sector et="1403.8">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1403.9">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="1424.3">Fred Bart(36) lap=10 point=0 t=-1.000 et=1424.228</Score>
+<Sector et="1449.9">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="1449.9">Fred Bart(36) lap=10 point=1 t=25.689 et=1449.917</Score>
+<Sector et="1449.9">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1450.0">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1459.0">Your Name(37) set new best for sector 3</Sector>
+<Score et="1459.0">Your Name(37) lap=9 point=2 t=82.208 et=1459.008</Score>
+<Sector et="1459.0">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1459.1">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="1500.5">Your Name(37) lap=10 point=0 t=123.687 et=1500.487</Score>
+<Sector et="1501.1">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="1501.1">Fred Bart(36) lap=10 point=2 t=76.841 et=1501.069</Score>
+<Sector et="1501.1">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1501.1">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1528.1">Your Name(37) set new best for sector 2</Sector>
+<Score et="1528.1">Your Name(37) lap=10 point=1 t=27.548 et=1528.035</Score>
+<Sector et="1528.1">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1528.1">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1538.8">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="1538.8">Fred Bart(36) lap=11 point=0 t=114.526 et=1538.753</Score>
+<Sector et="1538.8">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="1538.8">Your Name(37) set new best for sector 1</Sector>
+<Score et="1552.1">Your Name(37) lap=10 point=2 t=-1.000 et=1552.061</Score>
+<Score et="1552.1">Your Name(37) lap=11 point=0 t=-1.000 et=1552.061</Score>
+<Score et="1561.9">Fred Bart(36) lap=11 point=1 t=-1.000 et=1561.904</Score>
+<Score et="1561.9">Fred Bart(36) lap=11 point=2 t=-1.000 et=1561.904</Score>
+<Score et="1561.9">Fred Bart(36) lap=12 point=0 t=-1.000 et=1561.904</Score>
+<Score et="1694.1">Your Name(37) lap=11 point=1 t=-1.000 et=1694.047</Score>
+<Score et="1697.0">Fred Bart(36) lap=12 point=1 t=-1.000 et=1696.979</Score>
+<Score et="1748.5">Your Name(37) lap=11 point=2 t=-1.000 et=1748.443</Score>
+<Score et="1749.5">Fred Bart(36) lap=12 point=2 t=-1.000 et=1749.486</Score>
+<Score et="1787.0">Your Name(37) lap=12 point=0 t=-1.000 et=1786.957</Score>
+<Score et="1788.7">Fred Bart(36) lap=13 point=0 t=-1.000 et=1788.675</Score>
+<Sector et="1813.7">Your Name(37) set new best for sector 2</Sector>
+<Score et="1813.7">Your Name(37) lap=12 point=1 t=26.738 et=1813.695</Score>
+<Sector et="1813.7">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1813.8">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1814.4">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="1814.4">Fred Bart(36) lap=13 point=1 t=25.740 et=1814.415</Score>
+<Sector et="1814.4">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1814.5">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1867.4">Your Name(37) set new best for sector 3</Sector>
+<Score et="1867.4">Your Name(37) lap=12 point=2 t=80.398 et=1867.354</Score>
+<Sector et="1867.4">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1867.4">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1868.0">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="1868.0">Fred Bart(36) lap=13 point=2 t=79.253 et=1867.928</Score>
+<Sector et="1868.0">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1868.0">Your Name(37) set new best for sector 3</Sector>
+<Score et="1906.4">Your Name(37) lap=13 point=0 t=119.413 et=1906.370</Score>
+<Score et="1907.2">Fred Bart(36) lap=14 point=0 t=118.479 et=1907.155</Score>
+<Score et="1933.2">Your Name(37) lap=13 point=1 t=26.844 et=1933.214</Score>
+<Sector et="1933.2">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1933.2">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1933.3">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1934.5">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="1934.5">Fred Bart(36) lap=14 point=1 t=27.360 et=1934.514</Score>
+<Sector et="1934.5">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="1934.6">Your Name(37) set new best for sector 2</Sector>
+<Sector et="1986.4">Your Name(37) set new best for sector 3</Sector>
+<Score et="1986.4">Your Name(37) lap=13 point=2 t=80.041 et=1986.410</Score>
+<Sector et="1986.4">Your Name(37) set new best for sector 3</Sector>
+<Sector et="1986.5">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1987.1">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="1987.1">Fred Bart(36) lap=14 point=2 t=79.965 et=1987.119</Score>
+<Sector et="1987.1">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="1987.2">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2024.5">Your Name(37) set new best for sector 1</Sector>
+<Score et="2024.5">Your Name(37) lap=14 point=0 t=118.091 et=2024.461</Score>
+<Sector et="2024.5">Your Name(37) set new best for sector 1</Sector>
+<Sector et="2024.5">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="2025.1">Fred Bart(36) lap=15 point=0 t=117.953 et=2025.108</Score>
+<Sector et="2050.9">Your Name(37) set new best for sector 2</Sector>
+<Score et="2050.9">Your Name(37) lap=14 point=1 t=26.380 et=2050.841</Score>
+<Sector et="2050.9">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2050.9">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2051.6">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="2051.6">Fred Bart(36) lap=15 point=1 t=26.469 et=2051.577</Score>
+<Sector et="2051.6">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2051.6">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2104.3">Your Name(37) set new best for sector 3</Sector>
+<Score et="2104.3">Your Name(37) lap=14 point=2 t=79.795 et=2104.256</Score>
+<Sector et="2104.3">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2104.3">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="2105.1">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2105.1">Fred Bart(36) lap=15 point=2 t=79.988 et=2105.095</Score>
+<Sector et="2105.1">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="2105.2">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2142.2">Your Name(37) set new best for sector 1</Sector>
+<Score et="2142.2">Your Name(37) lap=15 point=0 t=117.743 et=2142.203</Score>
+<Sector et="2142.2">Your Name(37) set new best for sector 1</Sector>
+<Sector et="2142.3">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="2142.9">Fred Bart(36) lap=16 point=0 t=117.762 et=2142.869</Score>
+<Score et="2155.8">Your Name(37) lap=15 point=1 t=-1.000 et=2155.748</Score>
+<Score et="2155.8">Your Name(37) lap=15 point=2 t=-1.000 et=2155.748</Score>
+<Score et="2155.8">Your Name(37) lap=16 point=0 t=-1.000 et=2155.748</Score>
+<Score et="2157.4">Fred Bart(36) lap=16 point=1 t=-1.000 et=2157.382</Score>
+<Score et="2157.4">Fred Bart(36) lap=16 point=2 t=-1.000 et=2157.382</Score>
+<Score et="2157.4">Fred Bart(36) lap=17 point=0 t=-1.000 et=2157.382</Score>
+<Score et="2213.8">Your Name(37) lap=16 point=1 t=-1.000 et=2213.744</Score>
+<Score et="2215.6">Fred Bart(36) lap=17 point=1 t=-1.000 et=2215.522</Score>
+<Score et="2278.5">Fred Bart(36) lap=17 point=2 t=-1.000 et=2278.458</Score>
+<Score et="2280.9">Your Name(37) lap=16 point=2 t=-1.000 et=2280.822</Score>
+<Score et="2318.9">Fred Bart(36) lap=18 point=0 t=-1.000 et=2318.854</Score>
+<Score et="2322.2">Your Name(37) lap=17 point=0 t=-1.000 et=2322.171</Score>
+<Sector et="2343.7">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="2343.7">Fred Bart(36) lap=18 point=1 t=24.768 et=2343.622</Score>
+<Sector et="2343.7">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2343.7">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2349.5">Your Name(37) set new best for sector 2</Sector>
+<Score et="2349.5">Your Name(37) lap=17 point=1 t=27.279 et=2349.450</Score>
+<Sector et="2349.5">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2349.5">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2394.3">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2394.3">Fred Bart(36) lap=18 point=2 t=75.442 et=2394.295</Score>
+<Sector et="2394.3">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="2394.4">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2404.1">Your Name(37) set new best for sector 3</Sector>
+<Score et="2404.1">Your Name(37) lap=17 point=2 t=81.898 et=2404.070</Score>
+<Sector et="2404.1">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2404.1">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="2430.9">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="2430.9">Fred Bart(36) lap=19 point=0 t=111.973 et=2430.827</Score>
+<Sector et="2430.9">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="2430.9">Your Name(37) set new best for sector 1</Sector>
+<Score et="2444.4">Your Name(37) lap=18 point=0 t=122.201 et=2444.373</Score>
+<Sector et="2455.8">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="2455.8">Fred Bart(36) lap=19 point=1 t=24.992 et=2455.819</Score>
+<Sector et="2455.8">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2455.9">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2471.3">Your Name(37) set new best for sector 2</Sector>
+<Score et="2471.3">Your Name(37) lap=18 point=1 t=26.903 et=2471.275</Score>
+<Sector et="2471.3">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2471.3">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2506.3">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2506.3">Fred Bart(36) lap=19 point=2 t=75.400 et=2506.227</Score>
+<Sector et="2506.3">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="2506.3">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2525.8">Your Name(37) set new best for sector 3</Sector>
+<Score et="2525.8">Your Name(37) lap=18 point=2 t=81.406 et=2525.779</Score>
+<Sector et="2525.8">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2525.8">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2542.9">Fred Bart(36) lap=20 point=0 t=112.084 et=2542.911</Score>
+<Score et="2566.0">Your Name(37) lap=19 point=0 t=121.629 et=2566.001</Score>
+<Sector et="2568.0">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="2568.0">Fred Bart(36) lap=20 point=1 t=25.085 et=2567.996</Score>
+<Sector et="2568.0">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2568.1">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2592.8">Your Name(37) set new best for sector 2</Sector>
+<Score et="2592.8">Your Name(37) lap=19 point=1 t=26.720 et=2592.721</Score>
+<Sector et="2592.8">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2592.8">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2618.8">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2618.8">Fred Bart(36) lap=20 point=2 t=75.874 et=2618.785</Score>
+<Sector et="2618.8">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="2618.9">Your Name(37) set new best for sector 3</Sector>
+<Score et="2646.9">Your Name(37) lap=19 point=2 t=80.893 et=2646.894</Score>
+<Sector et="2646.9">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2646.9">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2647.0">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2655.3">Fred Bart(36) lap=21 point=0 t=112.368 et=2655.279</Score>
+<Sector et="2680.2">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="2680.2">Fred Bart(36) lap=21 point=1 t=24.872 et=2680.150</Score>
+<Sector et="2680.2">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2680.2">Your Name(37) set new best for sector 2</Sector>
+<Score et="2686.9">Your Name(37) lap=20 point=0 t=120.904 et=2686.905</Score>
+<Sector et="2713.6">Your Name(37) set new best for sector 2</Sector>
+<Score et="2713.6">Your Name(37) lap=20 point=1 t=26.648 et=2713.553</Score>
+<Sector et="2713.6">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2713.6">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2731.2">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2731.2">Fred Bart(36) lap=21 point=2 t=75.843 et=2731.122</Score>
+<Sector et="2731.2">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="2731.2">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2767.2">Your Name(37) set new best for sector 3</Sector>
+<Score et="2767.2">Your Name(37) lap=20 point=2 t=80.243 et=2767.148</Score>
+<Sector et="2767.2">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2767.2">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2774.6">Fred Bart(36) lap=22 point=0 t=-1.000 et=2774.539</Score>
+<Score et="2818.3">Your Name(37) lap=21 point=0 t=131.318 et=2818.223</Score>
+<Sector et="2845.7">Your Name(37) set new best for sector 2</Sector>
+<Score et="2845.7">Your Name(37) lap=21 point=1 t=27.485 et=2845.708</Score>
+<Sector et="2845.7">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2845.8">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="2881.9">Fred Bart(36) lap=22 point=1 t=-1.000 et=2881.886</Score>
+<Sector et="2899.7">Your Name(37) set new best for sector 3</Sector>
+<Score et="2899.7">Your Name(37) lap=21 point=2 t=81.420 et=2899.644</Score>
+<Sector et="2899.7">Your Name(37) set new best for sector 3</Sector>
+<Sector et="2899.7">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="2935.3">Fred Bart(36) lap=22 point=2 t=-1.000 et=2935.308</Score>
+<Score et="2939.1">Your Name(37) lap=22 point=0 t=120.816 et=2939.039</Score>
+<Sector et="2965.8">Your Name(37) set new best for sector 2</Sector>
+<Score et="2965.8">Your Name(37) lap=22 point=1 t=26.720 et=2965.759</Score>
+<Sector et="2965.8">Your Name(37) set new best for sector 2</Sector>
+<Sector et="2965.8">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="2974.1">Fred Bart(36) lap=23 point=0 t=-1.000 et=2974.050</Score>
+<Sector et="2999.6">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="2999.6">Fred Bart(36) lap=23 point=1 t=25.508 et=2999.557</Score>
+<Sector et="2999.6">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="2999.6">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3019.1">Your Name(37) set new best for sector 3</Sector>
+<Score et="3019.1">Your Name(37) lap=22 point=2 t=79.983 et=3019.022</Score>
+<Sector et="3019.1">Your Name(37) set new best for sector 3</Sector>
+<Sector et="3019.1">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="3042.8">Fred Bart(36) lap=23 point=2 t=-1.000 et=3042.746</Score>
+<Score et="3042.8">Fred Bart(36) lap=24 point=0 t=-1.000 et=3042.746</Score>
+<Score et="3058.8">Your Name(37) lap=23 point=0 t=119.770 et=3058.809</Score>
+<Sector et="3085.1">Your Name(37) set new best for sector 2</Sector>
+<Score et="3085.1">Your Name(37) lap=23 point=1 t=26.303 et=3085.112</Score>
+<Sector et="3085.1">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3085.2">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="3126.1">Fred Bart(36) lap=24 point=1 t=-1.000 et=3126.087</Score>
+<Sector et="3138.8">Your Name(37) set new best for sector 3</Sector>
+<Score et="3138.8">Your Name(37) lap=23 point=2 t=80.000 et=3138.809</Score>
+<Sector et="3138.8">Your Name(37) set new best for sector 3</Sector>
+<Sector et="3138.9">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="3177.9">Fred Bart(36) lap=24 point=2 t=-1.000 et=3177.897</Score>
+<Score et="3178.3">Your Name(37) lap=24 point=0 t=119.443 et=3178.252</Score>
+<Sector et="3204.4">Your Name(37) set new best for sector 2</Sector>
+<Score et="3204.4">Your Name(37) lap=24 point=1 t=26.135 et=3204.387</Score>
+<Sector et="3204.4">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3204.5">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="3215.8">Fred Bart(36) lap=25 point=0 t=-1.000 et=3215.738</Score>
+<Sector et="3241.3">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="3241.3">Fred Bart(36) lap=25 point=1 t=25.512 et=3241.250</Score>
+<Sector et="3241.3">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="3241.3">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3257.5">Your Name(37) set new best for sector 3</Sector>
+<Score et="3257.5">Your Name(37) lap=24 point=2 t=79.236 et=3257.488</Score>
+<Sector et="3257.5">Your Name(37) set new best for sector 3</Sector>
+<Sector et="3257.6">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="3292.6">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="3292.6">Fred Bart(36) lap=25 point=2 t=76.858 et=3292.596</Score>
+<Sector et="3292.6">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="3292.7">Your Name(37) set new best for sector 3</Sector>
+<Score et="3296.6">Your Name(37) lap=25 point=0 t=118.269 et=3296.521</Score>
+<Sector et="3322.5">Your Name(37) set new best for sector 2</Sector>
+<Score et="3322.5">Your Name(37) lap=25 point=1 t=25.958 et=3322.479</Score>
+<Sector et="3322.5">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3322.5">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="3329.8">Fred Bart(36) lap=26 point=0 t=114.059 et=3329.797</Score>
+<Score et="3354.8">Fred Bart(36) lap=26 point=1 t=25.018 et=3354.815</Score>
+<Sector et="3354.8">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="3354.8">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="3354.9">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3375.0">Your Name(37) set new best for sector 3</Sector>
+<Score et="3375.0">Your Name(37) lap=25 point=2 t=78.406 et=3374.926</Score>
+<Sector et="3375.0">Your Name(37) set new best for sector 3</Sector>
+<Sector et="3375.0">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="3377.8">Fred Bart(36) lap=26 point=2 t=-1.000 et=3377.739</Score>
+<Score et="3377.8">Fred Bart(36) lap=27 point=0 t=-1.000 et=3377.739</Score>
+<Sector et="3413.7">Your Name(37) set new best for sector 1</Sector>
+<Score et="3413.7">Your Name(37) lap=26 point=0 t=117.149 et=3413.670</Score>
+<Sector et="3413.7">Your Name(37) set new best for sector 1</Sector>
+<Sector et="3413.7">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="3425.0">Your Name(37) lap=26 point=1 t=-1.000 et=3425.001</Score>
+<Score et="3425.0">Your Name(37) lap=26 point=2 t=-1.000 et=3425.001</Score>
+<Score et="3425.0">Your Name(37) lap=27 point=0 t=-1.000 et=3425.001</Score>
+<Score et="3597.3">Your Name(37) lap=27 point=1 t=-1.000 et=3597.294</Score>
+<Score et="3608.3">Fred Bart(36) lap=27 point=1 t=-1.000 et=3608.250</Score>
+<Score et="3652.2">Your Name(37) lap=27 point=2 t=-1.000 et=3652.149</Score>
+<Score et="3652.2">Your Name(37) lap=28 point=0 t=-1.000 et=3652.149</Score>
+<Score et="3659.4">Fred Bart(36) lap=27 point=2 t=-1.000 et=3659.397</Score>
+<Score et="3695.6">Fred Bart(36) lap=28 point=0 t=-1.000 et=3695.579</Score>
+<Sector et="3720.4">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="3720.4">Fred Bart(36) lap=28 point=1 t=24.817 et=3720.396</Score>
+<Sector et="3720.4">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="3720.5">Your Name(37) set new best for sector 2</Sector>
+<Score et="3723.7">Your Name(37) lap=28 point=1 t=-1.000 et=3723.705</Score>
+<Sector et="3770.9">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="3770.9">Fred Bart(36) lap=28 point=2 t=75.334 et=3770.913</Score>
+<Sector et="3770.9">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="3771.0">Your Name(37) set new best for sector 3</Sector>
+<Score et="3775.5">Your Name(37) lap=28 point=2 t=-1.000 et=3775.484</Score>
+<Sector et="3806.7">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="3806.7">Fred Bart(36) lap=29 point=0 t=111.069 et=3806.647</Score>
+<Sector et="3806.7">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="3806.7">Your Name(37) set new best for sector 1</Sector>
+<Score et="3813.7">Your Name(37) lap=29 point=0 t=-1.000 et=3813.622</Score>
+<Sector et="3831.7">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="3831.7">Fred Bart(36) lap=29 point=1 t=25.010 et=3831.658</Score>
+<Sector et="3831.7">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="3831.7">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3839.2">Your Name(37) set new best for sector 2</Sector>
+<Score et="3839.2">Your Name(37) lap=29 point=1 t=25.536 et=3839.158</Score>
+<Sector et="3839.2">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3839.2">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="3881.2">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="3881.2">Fred Bart(36) lap=29 point=2 t=74.535 et=3881.182</Score>
+<Sector et="3881.2">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="3881.3">Your Name(37) set new best for sector 3</Sector>
+<Sector et="3890.5">Your Name(37) set new best for sector 3</Sector>
+<Score et="3890.5">Your Name(37) lap=29 point=2 t=76.808 et=3890.430</Score>
+<Sector et="3890.5">Your Name(37) set new best for sector 3</Sector>
+<Sector et="3890.5">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="3916.6">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="3916.6">Fred Bart(36) lap=30 point=0 t=109.952 et=3916.599</Score>
+<Sector et="3916.6">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="3916.7">Your Name(37) set new best for sector 1</Sector>
+<Sector et="3927.4">Your Name(37) set new best for sector 1</Sector>
+<Score et="3927.4">Your Name(37) lap=30 point=0 t=113.777 et=3927.399</Score>
+<Sector et="3927.4">Your Name(37) set new best for sector 1</Sector>
+<Sector et="3927.5">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="3940.9">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="3940.9">Fred Bart(36) lap=30 point=1 t=24.309 et=3940.908</Score>
+<Sector et="3940.9">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="3941.0">Your Name(37) set new best for sector 2</Sector>
+<Score et="3952.6">Your Name(37) lap=30 point=1 t=25.186 et=3952.585</Score>
+<Sector et="3952.6">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3952.6">Your Name(37) set new best for sector 2</Sector>
+<Sector et="3952.7">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="3990.4">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="3990.4">Fred Bart(36) lap=30 point=2 t=73.786 et=3990.385</Score>
+<Sector et="3990.4">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="3990.5">Your Name(37) set new best for sector 3</Sector>
+<Sector et="4003.5">Your Name(37) set new best for sector 3</Sector>
+<Score et="4003.5">Your Name(37) lap=30 point=2 t=76.107 et=4003.506</Score>
+<Sector et="4003.5">Your Name(37) set new best for sector 3</Sector>
+<Sector et="4003.6">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="4025.8">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="4025.8">Fred Bart(36) lap=31 point=0 t=109.193 et=4025.792</Score>
+<Sector et="4025.8">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="4025.9">Your Name(37) set new best for sector 1</Sector>
+<Score et="4040.4">Your Name(37) lap=31 point=0 t=112.961 et=4040.360</Score>
+<Sector et="4040.4">Your Name(37) set new best for sector 1</Sector>
+<Sector et="4040.4">Your Name(37) set new best for sector 1</Sector>
+<Sector et="4040.4">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="4050.1">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="4050.1">Fred Bart(36) lap=31 point=1 t=24.271 et=4050.064</Score>
+<Sector et="4050.1">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="4050.1">Your Name(37) set new best for sector 2</Sector>
+<Sector et="4065.3">Your Name(37) set new best for sector 2</Sector>
+<Score et="4065.3">Your Name(37) lap=31 point=1 t=24.865 et=4065.225</Score>
+<Sector et="4065.3">Your Name(37) set new best for sector 2</Sector>
+<Sector et="4065.3">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="4098.8">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="4098.8">Fred Bart(36) lap=31 point=2 t=73.023 et=4098.816</Score>
+<Sector et="4098.8">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="4098.9">Your Name(37) set new best for sector 3</Sector>
+<Sector et="4115.7">Your Name(37) set new best for sector 3</Sector>
+<Score et="4115.7">Your Name(37) lap=31 point=2 t=75.278 et=4115.638</Score>
+<Sector et="4115.7">Your Name(37) set new best for sector 3</Sector>
+<Sector et="4115.7">Fred Bart(36) set new best for sector 3</Sector>
+<Incident et="4134.3">Your Name(37) reported contact (766.22) with Sign</Incident>
+<Incident et="4134.3">Your Name(37) reported contact (435.07) with Sign</Incident>
+<Incident et="4134.3">Your Name(37) reported contact (238.37) with Sign</Incident>
+<Incident et="4134.3">Your Name(37) reported contact (94.82) with Sign</Incident>
+<Incident et="4134.4">Your Name(37) reported contact (339.79) with Sign</Incident>
+<Sector et="4134.8">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="4134.8">Fred Bart(36) lap=32 point=0 t=109.020 et=4134.813</Score>
+<Sector et="4134.8">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="4134.9">Your Name(37) set new best for sector 1</Sector>
+<Sector et="4159.4">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="4159.4">Fred Bart(36) lap=32 point=1 t=24.603 et=4159.415</Score>
+<Sector et="4159.4">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="4159.5">Your Name(37) set new best for sector 2</Sector>
+<Score et="4166.7">Your Name(37) lap=32 point=0 t=126.350 et=4166.709</Score>
+<Sector et="4191.4">Your Name(37) set new best for sector 2</Sector>
+<Score et="4191.4">Your Name(37) lap=32 point=1 t=24.694 et=4191.403</Score>
+<Sector et="4191.4">Your Name(37) set new best for sector 2</Sector>
+<Sector et="4191.5">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="4208.7">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="4208.7">Fred Bart(36) lap=32 point=2 t=73.888 et=4208.700</Score>
+<Sector et="4208.7">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="4208.8">Your Name(37) set new best for sector 3</Sector>
+<Sector et="4241.7">Your Name(37) set new best for sector 3</Sector>
+<Score et="4241.7">Your Name(37) lap=32 point=2 t=74.935 et=4241.644</Score>
+<Sector et="4241.7">Your Name(37) set new best for sector 3</Sector>
+<Sector et="4241.7">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="4243.9">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="4243.9">Fred Bart(36) lap=33 point=0 t=109.017 et=4243.830</Score>
+<Sector et="4243.9">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="4243.9">Your Name(37) set new best for sector 1</Sector>
+<Sector et="4267.7">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="4267.7">Fred Bart(36) lap=33 point=1 t=23.793 et=4267.623</Score>
+<Sector et="4267.7">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="4267.7">Your Name(37) set new best for sector 2</Sector>
+<Sector et="4278.6">Your Name(37) set new best for sector 1</Sector>
+<Score et="4278.6">Your Name(37) lap=33 point=0 t=111.861 et=4278.570</Score>
+<Sector et="4278.6">Your Name(37) set new best for sector 1</Sector>
+<Sector et="4278.6">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="4303.5">Your Name(37) set new best for sector 2</Sector>
+<Score et="4303.5">Your Name(37) lap=33 point=1 t=24.884 et=4303.455</Score>
+<Sector et="4303.5">Your Name(37) set new best for sector 2</Sector>
+<Sector et="4303.5">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="4317.2">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="4317.2">Fred Bart(36) lap=33 point=2 t=73.387 et=4317.216</Score>
+<Sector et="4317.2">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="4317.3">Your Name(37) set new best for sector 3</Sector>
+<Score et="4353.0">Fred Bart(36) lap=34 point=0 t=109.113 et=4352.943</Score>
+<Sector et="4353.7">Your Name(37) set new best for sector 3</Sector>
+<Score et="4353.7">Your Name(37) lap=33 point=2 t=75.089 et=4353.660</Score>
+<Sector et="4353.7">Your Name(37) set new best for sector 3</Sector>
+<Sector et="4353.7">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="4368.6">Your Name(37) lap=34 point=0 t=-1.000 et=4368.532</Score>
+<Sector et="4377.1">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="4377.1">Fred Bart(36) lap=34 point=1 t=24.110 et=4377.053</Score>
+<Sector et="4377.1">Fred Bart(36) set new best for sector 2</Sector>
+<Sector et="4377.1">Your Name(37) set new best for sector 2</Sector>
+<Sector et="4426.0">Fred Bart(36) set new best for sector 3</Sector>
+<Score et="4426.0">Fred Bart(36) lap=34 point=2 t=73.030 et=4425.973</Score>
+<Sector et="4426.0">Fred Bart(36) set new best for sector 3</Sector>
+<Sector et="4426.0">Your Name(37) set new best for sector 3</Sector>
+<Chat et="4458.0">Your Name left the race.</Chat>
+<Sector et="4460.9">Fred Bart(36) set new best for sector 1</Sector>
+<Score et="4460.9">Fred Bart(36) lap=35 point=0 t=107.947 et=4460.890</Score>
+<Sector et="4460.9">Fred Bart(36) set new best for sector 1</Sector>
+<Sector et="4494.3">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="4494.3">Fred Bart(36) lap=35 point=1 t=33.387 et=4494.277</Score>
+<Sector et="4494.3">Fred Bart(36) set new best for sector 2</Sector>
+<Score et="4513.4">Fred Bart(36) lap=35 point=2 t=-1.000 et=4513.376</Score>
+<Score et="4513.4">Fred Bart(36) lap=36 point=0 t=-1.000 et=4513.376</Score>
+<Score et="4569.6">Fred Bart(36) lap=36 point=1 t=-1.000 et=4569.580</Score>
+<Score et="4576.9">Fred Bart(36) lap=36 point=2 t=-1.000 et=4576.875</Score>
+<Score et="4576.9">Fred Bart(36) lap=37 point=0 t=-1.000 et=4576.875</Score>
+<Chat et="4606.9">Fred Bart left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="2" p="1" et="364.6401" fuel="0.063" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="3" p="2" et="557.4586" s1="29.4440" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="4" p="2" et="599.5677" fuel="0.227" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="5" p="1" et="763.8251" s1="29.0424" s2="54.8334" s3="45.2102" fuel="0.208" twfl="0.973" twfr="0.984" twrl="0.953" twrr="0.969" fcompound="1,Wet" rcompound="1,Wet">129.0859</Lap>
+<Lap num="6" p="2" et="892.9110" s1="28.9642" s2="64.1617" s3="38.7383" fuel="0.188" twfl="0.941" twfr="0.969" twrl="0.871" twrr="0.914" fcompound="1,Wet" rcompound="1,Wet">131.8641</Lap>
+<Lap num="7" p="2" et="1024.7751" s1="31.0383" s2="51.8242" s3="38.3143" fuel="0.169" twfl="0.914" twfr="0.957" twrl="0.820" twrr="0.890" fcompound="1,Wet" rcompound="1,Wet">121.1769</Lap>
+<Lap num="8" p="2" et="1145.9520" s1="26.8832" s2="51.6459" s3="49.9244" fuel="0.149" twfl="0.890" twfr="0.929" twrl="0.784" twrr="0.863" fcompound="1,Wet" rcompound="1,Wet">128.4535</Lap>
+<Lap num="9" p="2" et="1274.4055" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="10" p="2" et="1286.6924" fuel="0.224" twfl="0.984" twfr="0.984" twrl="0.980" twrr="0.984" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="11" p="1" et="1424.2275" s1="25.6893" s2="51.1521" s3="37.6843" fuel="0.204" twfl="0.957" twfr="0.961" twrl="0.961" twrr="0.969" fcompound="1,Wet" rcompound="1,Wet">114.5258</Lap>
+<Lap num="12" p="1" et="1538.7533" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="13" p="1" et="1561.9037" fuel="0.227" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="14" p="1" et="1788.6750" s1="25.7395" s2="53.5135" s3="39.2264" fuel="0.208" twfl="0.976" twfr="0.988" twrl="0.969" twrr="0.976" fcompound="1,Wet" rcompound="1,Wet">118.4795</Lap>
+<Lap num="15" p="1" et="1907.1545" s1="27.3599" s2="52.6047" s3="37.9885" fuel="0.184" twfl="0.961" twfr="0.973" twrl="0.953" twrr="0.965" fcompound="1,Wet" rcompound="1,Wet">117.9531</Lap>
+<Lap num="16" p="1" et="2025.1077" s1="26.4690" s2="53.5186" s3="37.7742" fuel="0.165" twfl="0.949" twfr="0.961" twrl="0.929" twrr="0.945" fcompound="1,Wet" rcompound="1,Wet">117.7617</Lap>
+<Lap num="17" p="1" et="2142.8694" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="18" p="1" et="2157.3818" fuel="0.227" twfl="0.984" twfr="0.988" twrl="0.980" twrr="0.988" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="19" p="1" et="2318.8538" s1="24.7683" s2="50.6733" s3="36.5315" fuel="0.204" twfl="0.953" twfr="0.973" twrl="0.949" twrr="0.965" fcompound="1,Wet" rcompound="1,Wet">111.9731</Lap>
+<Lap num="20" p="1" et="2430.8269" s1="24.9922" s2="50.4082" s3="36.6838" fuel="0.184" twfl="0.922" twfr="0.953" twrl="0.914" twrr="0.941" fcompound="1,Wet" rcompound="1,Wet">112.0842</Lap>
+<Lap num="21" p="1" et="2542.9111" s1="25.0852" s2="50.7891" s3="36.4934" fuel="0.165" twfl="0.890" twfr="0.937" twrl="0.878" twrr="0.914" fcompound="1,Wet" rcompound="1,Wet">112.3677</Lap>
+<Lap num="22" p="1" et="2655.2788" s1="24.8716" s2="50.9714" fuel="0.145" twfl="0.867" twfr="0.922" twrl="0.851" twrr="0.890" fcompound="1,Wet" rcompound="1,Wet" pit="1">--.----</Lap>
+<Lap num="23" p="1" et="2774.5391" fuel="0.224" twfl="0.984" twfr="0.984" twrl="0.980" twrr="0.984" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="24" p="1" et="2974.0496" s1="25.5078" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="1" et="3042.7461" fuel="0.180" twfl="0.980" twfr="0.984" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="1" et="3215.7380" s1="25.5120" s2="51.3462" s3="37.2009" fuel="0.157" twfl="0.961" twfr="0.973" twrl="0.965" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">114.0591</Lap>
+<Lap num="27" p="1" et="3329.7971" s1="25.0176" fuel="0.200" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="28" p="1" et="3377.7388" fuel="0.180" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="29" p="1" et="3695.5789" s1="24.8169" s2="50.5173" s3="35.7344" fuel="0.157" twfl="0.961" twfr="0.980" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">111.0686</Lap>
+<Lap num="30" p="1" et="3806.6475" s1="25.0103" s2="49.5244" s3="35.4170" fuel="0.137" twfl="0.941" twfr="0.965" twrl="0.937" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">109.9517</Lap>
+<Lap num="31" p="1" et="3916.5991" s1="24.3091" s2="49.4771" s3="35.4072" fuel="0.118" twfl="0.914" twfr="0.949" twrl="0.906" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">109.1934</Lap>
+<Lap num="32" p="1" et="4025.7925" s1="24.2712" s2="48.7522" s3="35.9966" fuel="0.094" twfl="0.886" twfr="0.937" twrl="0.878" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">109.0200</Lap>
+<Lap num="33" p="1" et="4134.8125" s1="24.6025" s2="49.2852" s3="35.1294" fuel="0.075" twfl="0.863" twfr="0.925" twrl="0.855" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry">109.0171</Lap>
+<Lap num="34" p="1" et="4243.8296" s1="23.7930" s2="49.5938" s3="35.7266" fuel="0.051" twfl="0.835" twfr="0.914" twrl="0.831" twrr="0.894" fcompound="0,Dry" rcompound="0,Dry">109.1133</Lap>
+<Lap num="35" p="1" et="4352.9429" s1="24.1099" s2="48.9199" s3="34.9175" fuel="0.031" twfl="0.816" twfr="0.902" twrl="0.812" twrr="0.878" fcompound="0,Dry" rcompound="0,Dry">107.9473</Lap>
+<Lap num="36" p="1" et="4460.8901" s1="33.3872" fuel="0.200" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="37" p="1" et="4513.3760" fuel="0.200" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>107.9473</BestLapTime>
+<Laps>37</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="36">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="37" endLap="37">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="37"></Swap></Driver>
+<Driver>
+<Name>Your Name</Name>
+<SteamID>76561198884284323</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.059" twfl="0.973" twfr="0.953" twrl="0.980" twrr="0.980" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="2" p="1" et="427.2381" s1="27.7650" s2="65.1552" s3="38.9960" fuel="0.035" twfl="0.941" twfr="0.824" twrl="0.949" twrr="0.965" fcompound="1,Wet" rcompound="1,Wet">131.9162</Lap>
+<Lap num="3" p="1" et="559.1543" s1="28.2258" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="4" p="1" et="594.2610" fuel="0.243" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.980" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="5" p="2" et="763.8271" s1="28.2596" s2="54.7999" s3="46.5461" fuel="0.220" twfl="0.945" twfr="0.961" twrl="0.969" twrr="0.965" fcompound="1,Wet" rcompound="1,Wet">129.6055</Lap>
+<Lap num="6" p="1" et="893.4327" s1="28.1361" s2="54.9926" s3="38.8268" fuel="0.196" twfl="0.906" twfr="0.871" twrl="0.953" twrr="0.953" fcompound="1,Wet" rcompound="1,Wet">121.9556</Lap>
+<Lap num="7" p="1" et="1015.3882" s1="26.3508" s2="53.6130" s3="38.8369" fuel="0.176" twfl="0.878" twfr="0.831" twrl="0.933" twrr="0.937" fcompound="1,Wet" rcompound="1,Wet">118.8007</Lap>
+<Lap num="8" p="1" et="1134.1890" s1="27.0090" s2="55.2704" s3="40.2339" fuel="0.153" twfl="0.820" twfr="0.788" twrl="0.914" twrr="0.922" fcompound="1,Wet" rcompound="1,Wet">122.5133</Lap>
+<Lap num="9" p="1" et="1256.7023" s1="26.9930" s2="53.8743" s3="39.2306" fuel="0.133" twfl="0.663" twfr="0.745" twrl="0.898" twrr="0.906" fcompound="1,Wet" rcompound="1,Wet">120.0979</Lap>
+<Lap num="10" p="1" et="1376.8002" s1="27.0173" s2="55.1908" s3="41.4786" fuel="0.110" twfl="0.612" twfr="0.690" twrl="0.878" twrr="0.894" fcompound="1,Wet" rcompound="1,Wet">123.6868</Lap>
+<Lap num="11" p="2" et="1500.4869" s1="27.5480" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="12" p="2" et="1552.0605" fuel="0.243" twfl="0.984" twfr="0.976" twrl="0.984" twrr="0.984" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="13" p="2" et="1786.9568" s1="26.7383" s2="53.6594" s3="39.0150" fuel="0.220" twfl="0.894" twfr="0.949" twrl="0.965" twrr="0.973" fcompound="1,Wet" rcompound="1,Wet">119.4127</Lap>
+<Lap num="14" p="2" et="1906.3695" s1="26.8440" s2="53.1969" s3="38.0504" fuel="0.200" twfl="0.875" twfr="0.925" twrl="0.941" twrr="0.957" fcompound="1,Wet" rcompound="1,Wet">118.0913</Lap>
+<Lap num="15" p="2" et="2024.4608" s1="26.3800" s2="53.4150" s3="37.9475" fuel="0.176" twfl="0.843" twfr="0.886" twrl="0.914" twrr="0.937" fcompound="1,Wet" rcompound="1,Wet">117.7426</Lap>
+<Lap num="16" p="2" et="2142.2034" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="17" p="2" et="2155.7476" fuel="0.243" twfl="0.973" twfr="0.976" twrl="0.984" twrr="0.988" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="18" p="2" et="2322.1714" s1="27.2791" s2="54.6194" s3="40.3027" fuel="0.220" twfl="0.933" twfr="0.941" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">122.2012</Lap>
+<Lap num="19" p="2" et="2444.3726" s1="26.9026" s2="54.5039" s3="40.2222" fuel="0.200" twfl="0.910" twfr="0.906" twrl="0.957" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">121.6287</Lap>
+<Lap num="20" p="2" et="2566.0012" s1="26.7197" s2="54.1729" s3="40.0112" fuel="0.176" twfl="0.886" twfr="0.847" twrl="0.937" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">120.9038</Lap>
+<Lap num="21" p="2" et="2686.9050" s1="26.6484" s2="53.5945" s3="51.0752" fuel="0.157" twfl="0.859" twfr="0.820" twrl="0.906" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">131.3181</Lap>
+<Lap num="22" p="2" et="2818.2231" s1="27.4851" s2="53.9353" s3="39.3958" fuel="0.133" twfl="0.820" twfr="0.788" twrl="0.890" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">120.8162</Lap>
+<Lap num="23" p="2" et="2939.0393" s1="26.7200" s2="53.2627" s3="39.7869" fuel="0.114" twfl="0.765" twfr="0.749" twrl="0.875" twrr="0.914" fcompound="0,Dry" rcompound="0,Dry">119.7695</Lap>
+<Lap num="24" p="2" et="3058.8088" s1="26.3027" s2="53.6975" s3="39.4429" fuel="0.090" twfl="0.745" twfr="0.729" twrl="0.863" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry">119.4431</Lap>
+<Lap num="25" p="2" et="3178.2520" s1="26.1348" s2="53.1013" s3="39.0325" fuel="0.071" twfl="0.722" twfr="0.698" twrl="0.847" twrr="0.894" fcompound="0,Dry" rcompound="0,Dry">118.2686</Lap>
+<Lap num="26" p="2" et="3296.5205" s1="25.9585" s2="52.4470" s3="38.7439" fuel="0.047" twfl="0.639" twfr="0.675" twrl="0.831" twrr="0.882" fcompound="0,Dry" rcompound="0,Dry">117.1494</Lap>
+<Lap num="27" p="2" et="3413.6699" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="28" p="2" et="3425.0007" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="29" p="2" et="3652.1492" fuel="0.243" twfl="0.984" twfr="0.980" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="30" p="2" et="3813.6223" s1="25.5359" s2="51.2717" s3="36.9690" fuel="0.220" twfl="0.973" twfr="0.969" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">113.7766</Lap>
+<Lap num="31" p="2" et="3927.3989" s1="25.1863" s2="50.9204" s3="36.8540" fuel="0.200" twfl="0.957" twfr="0.961" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">112.9607</Lap>
+<Lap num="32" p="2" et="4040.3596" s1="24.8650" s2="50.4131" s3="51.0718" fuel="0.176" twfl="0.918" twfr="0.933" twrl="0.922" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">126.3499</Lap>
+<Lap num="33" p="2" et="4166.7095" s1="24.6938" s2="50.2407" s3="36.9263" fuel="0.157" twfl="0.906" twfr="0.925" twrl="0.906" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">111.8608</Lap>
+<Lap num="34" p="2" et="4278.5703" s1="24.8843" s2="50.2051" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>111.8608</BestLapTime>
+<Laps>34</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="34">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="34"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

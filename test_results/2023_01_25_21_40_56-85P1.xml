@@ -1,0 +1,1693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674669172</DateTime>
+<TimeString>2023/01/25 18:52:52</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674669172</DateTime>
+<TimeString>2023/01/25 18:52:52</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="4493.5">Daniel Weiss has entered the race.</Chat>
+<System et="4493.5">Daniel Weiss(79) 91.40.243.211 has joined as a participant</System>
+<Command et="4502.2">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="4502.2">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="4502.4">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="4502.4">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Score et="4630.5">Daniel Weiss(79) lap=0 point=1 t=-1.000 et=4630.464</Score>
+<Score et="4677.0">Daniel Weiss(79) lap=0 point=2 t=-1.000 et=4676.999</Score>
+<Score et="4709.8">Daniel Weiss(79) lap=1 point=0 t=-1.000 et=4709.752</Score>
+<Incident et="4716.0">Daniel Weiss(79) reported contact (52.24) with Sign</Incident>
+<Incident et="4716.0">Daniel Weiss(79) reported contact (34.57) with Sign</Incident>
+<Sector et="4732.1">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="4732.1">Daniel Weiss(79) lap=1 point=1 t=22.362 et=4732.114</Score>
+<Sector et="4732.1">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="4778.4">Daniel Weiss(79) set new best for sector 3</Sector>
+<Score et="4778.4">Daniel Weiss(79) lap=1 point=2 t=68.663 et=4778.415</Score>
+<Sector et="4778.4">Daniel Weiss(79) set new best for sector 3</Sector>
+<Sector et="4811.1">Daniel Weiss(79) set new best for sector 1</Sector>
+<Score et="4811.1">Daniel Weiss(79) lap=2 point=0 t=101.323 et=4811.075</Score>
+<Sector et="4811.1">Daniel Weiss(79) set new best for sector 1</Sector>
+<Sector et="4833.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="4833.4">Daniel Weiss(79) lap=2 point=1 t=22.292 et=4833.367</Score>
+<Sector et="4833.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="4879.7">Daniel Weiss(79) set new best for sector 3</Sector>
+<Score et="4879.7">Daniel Weiss(79) lap=2 point=2 t=68.620 et=4879.694</Score>
+<Sector et="4879.7">Daniel Weiss(79) set new best for sector 3</Sector>
+<Score et="4907.0">Daniel Weiss(79) lap=3 point=0 t=-1.000 et=4906.968</Score>
+<Score et="4907.0">Daniel Weiss(79) lap=3 point=1 t=-1.000 et=4906.968</Score>
+<Score et="4907.0">Daniel Weiss(79) lap=3 point=2 t=-1.000 et=4906.968</Score>
+<Score et="4907.0">Daniel Weiss(79) lap=4 point=0 t=-1.000 et=4906.968</Score>
+<Score et="4964.9">Daniel Weiss(79) lap=4 point=1 t=-1.000 et=4964.911</Score>
+<Score et="5011.8">Daniel Weiss(79) lap=4 point=2 t=-1.000 et=5011.770</Score>
+<Score et="5044.5">Daniel Weiss(79) lap=5 point=0 t=-1.000 et=5044.458</Score>
+<Sector et="5066.8">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="5066.8">Daniel Weiss(79) lap=5 point=1 t=22.265 et=5066.723</Score>
+<Sector et="5066.8">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="5113.0">Daniel Weiss(79) set new best for sector 3</Sector>
+<Score et="5113.0">Daniel Weiss(79) lap=5 point=2 t=68.542 et=5113.000</Score>
+<Sector et="5113.0">Daniel Weiss(79) set new best for sector 3</Sector>
+<Score et="5146.4">Daniel Weiss(79) lap=6 point=0 t=-1.000 et=5146.360</Score>
+<Score et="5146.4">Daniel Weiss(79) lap=6 point=1 t=-1.000 et=5146.360</Score>
+<Score et="5146.4">Daniel Weiss(79) lap=6 point=2 t=-1.000 et=5146.360</Score>
+<Score et="5146.4">Daniel Weiss(79) lap=7 point=0 t=-1.000 et=5146.360</Score>
+<Score et="5186.1">Daniel Weiss(79) lap=7 point=1 t=-1.000 et=5186.128</Score>
+<Score et="5233.0">Daniel Weiss(79) lap=7 point=2 t=-1.000 et=5233.033</Score>
+<Score et="5266.2">Daniel Weiss(79) lap=8 point=0 t=-1.000 et=5266.141</Score>
+<Score et="5278.7">Daniel Weiss(79) lap=8 point=1 t=-1.000 et=5278.647</Score>
+<Score et="5278.7">Daniel Weiss(79) lap=8 point=2 t=-1.000 et=5278.647</Score>
+<Score et="5278.7">Daniel Weiss(79) lap=9 point=0 t=-1.000 et=5278.647</Score>
+<Score et="5325.8">Daniel Weiss(79) lap=9 point=1 t=-1.000 et=5325.739</Score>
+<Score et="5373.2">Daniel Weiss(79) lap=9 point=2 t=-1.000 et=5373.183</Score>
+<Score et="5406.0">Daniel Weiss(79) lap=10 point=0 t=-1.000 et=5405.985</Score>
+<Sector et="5428.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="5428.4">Daniel Weiss(79) lap=10 point=1 t=22.369 et=5428.354</Score>
+<Sector et="5428.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="5436.6">Daniel Weiss(79) lap=10 point=2 t=-1.000 et=5436.544</Score>
+<Score et="5436.6">Daniel Weiss(79) lap=11 point=0 t=-1.000 et=5436.544</Score>
+<Score et="5492.1">Daniel Weiss(79) lap=11 point=1 t=-1.000 et=5492.052</Score>
+<Score et="5539.4">Daniel Weiss(79) lap=11 point=2 t=-1.000 et=5539.390</Score>
+<Score et="5572.3">Daniel Weiss(79) lap=12 point=0 t=-1.000 et=5572.306</Score>
+<Score et="5594.5">Daniel Weiss(79) lap=12 point=1 t=-1.000 et=5594.503</Score>
+<Score et="5641.0">Daniel Weiss(79) lap=12 point=2 t=-1.000 et=5640.980</Score>
+<Score et="5673.8">Daniel Weiss(79) lap=13 point=0 t=-1.000 et=5673.725</Score>
+<Sector et="5696.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="5696.4">Daniel Weiss(79) lap=13 point=1 t=22.651 et=5696.375</Score>
+<Sector et="5696.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="5700.6">Daniel Weiss(79) lap=13 point=2 t=-1.000 et=5700.584</Score>
+<Score et="5700.6">Daniel Weiss(79) lap=14 point=0 t=-1.000 et=5700.584</Score>
+<Score et="5741.0">Daniel Weiss(79) lap=14 point=1 t=-1.000 et=5741.013</Score>
+<Score et="5789.0">Daniel Weiss(79) lap=14 point=2 t=-1.000 et=5788.935</Score>
+<Score et="5821.9">Daniel Weiss(79) lap=15 point=0 t=-1.000 et=5821.895</Score>
+<Sector et="5844.5">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="5844.5">Daniel Weiss(79) lap=15 point=1 t=22.569 et=5844.464</Score>
+<Sector et="5844.5">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="5849.5">Daniel Weiss(79) lap=15 point=2 t=-1.000 et=5849.442</Score>
+<Score et="5849.5">Daniel Weiss(79) lap=16 point=0 t=-1.000 et=5849.442</Score>
+<Chat et="5868.4">Marcel Wolf has entered the race.</Chat>
+<System et="5868.4">Marcel Wolf(80) 78.31.197.20 has joined as a participant</System>
+<Command et="5872.0">/w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="5872.0">&gt; /w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="5872.2">&gt; /w Marcel Wolf germansimracing.de | discord.gg/GSR</Chat>
+<Command et="5872.2">/w Marcel Wolf germansimracing.de | discord.gg/GSR</Command>
+<Score et="5892.5">Daniel Weiss(79) lap=16 point=1 t=-1.000 et=5892.527</Score>
+<Score et="5940.6">Daniel Weiss(79) lap=16 point=2 t=-1.000 et=5940.568</Score>
+<Score et="5973.9">Daniel Weiss(79) lap=17 point=0 t=-1.000 et=5973.900</Score>
+<Score et="5987.1">Marcel Wolf(80) lap=0 point=1 t=-1.000 et=5987.081</Score>
+<Sector et="5996.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="5996.4">Daniel Weiss(79) lap=17 point=1 t=22.445 et=5996.346</Score>
+<Sector et="5996.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="5996.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="6038.3">Marcel Wolf(80) lap=0 point=2 t=-1.000 et=6038.297</Score>
+<Sector et="6042.9">Daniel Weiss(79) set new best for sector 3</Sector>
+<Score et="6042.9">Daniel Weiss(79) lap=17 point=2 t=68.961 et=6042.862</Score>
+<Sector et="6042.9">Daniel Weiss(79) set new best for sector 3</Sector>
+<Sector et="6042.9">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="6072.5">Marcel Wolf(80) lap=1 point=0 t=-1.000 et=6072.478</Score>
+<Score et="6077.1">Daniel Weiss(79) lap=18 point=0 t=-1.000 et=6075.523</Score>
+<Score et="6077.1">Daniel Weiss(79) lap=18 point=1 t=-1.000 et=6075.523</Score>
+<Score et="6077.1">Daniel Weiss(79) lap=18 point=2 t=-1.000 et=6075.523</Score>
+<Score et="6077.1">Daniel Weiss(79) lap=19 point=0 t=-1.000 et=6075.523</Score>
+<Score et="6095.1">Marcel Wolf(80) lap=1 point=1 t=-1.000 et=6095.111</Score>
+<Incident et="6100.4">Marcel Wolf(80) reported contact (1300.96) with Immovable</Incident>
+<Incident et="6100.4">Marcel Wolf(80) reported contact (1278.52) with Immovable</Incident>
+<Incident et="6100.4">Marcel Wolf(80) reported contact (1289.59) with Immovable</Incident>
+<Incident et="6100.4">Marcel Wolf(80) reported contact (1284.16) with Immovable</Incident>
+<Incident et="6100.4">Marcel Wolf(80) reported contact (1282.36) with Immovable</Incident>
+<Score et="6107.4">Marcel Wolf(80) lap=1 point=2 t=-1.000 et=6107.346</Score>
+<Score et="6107.4">Marcel Wolf(80) lap=2 point=0 t=-1.000 et=6107.346</Score>
+<Score et="6154.6">Marcel Wolf(80) lap=2 point=1 t=-1.000 et=6154.604</Score>
+<Score et="6178.7">Marcel Wolf(80) lap=2 point=2 t=-1.000 et=6178.635</Score>
+<Score et="6178.7">Marcel Wolf(80) lap=3 point=0 t=-1.000 et=6178.635</Score>
+<Score et="6220.8">Daniel Weiss(79) lap=19 point=1 t=-1.000 et=6220.812</Score>
+<Score et="6268.0">Daniel Weiss(79) lap=19 point=2 t=-1.000 et=6267.956</Score>
+<Score et="6300.8">Daniel Weiss(79) lap=20 point=0 t=-1.000 et=6300.813</Score>
+<Sector et="6323.1">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="6323.1">Daniel Weiss(79) lap=20 point=1 t=22.282 et=6323.094</Score>
+<Sector et="6323.1">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="6323.1">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="6369.3">Daniel Weiss(79) set new best for sector 3</Sector>
+<Score et="6369.3">Daniel Weiss(79) lap=20 point=2 t=68.504 et=6369.316</Score>
+<Sector et="6369.3">Daniel Weiss(79) set new best for sector 3</Sector>
+<Sector et="6369.4">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="6402.0">Daniel Weiss(79) set new best for sector 1</Sector>
+<Score et="6402.0">Daniel Weiss(79) lap=21 point=0 t=101.117 et=6401.929</Score>
+<Sector et="6402.0">Daniel Weiss(79) set new best for sector 1</Sector>
+<Sector et="6402.0">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="6422.5">Daniel Weiss(79) lap=21 point=1 t=-1.000 et=6422.494</Score>
+<Score et="6422.5">Daniel Weiss(79) lap=21 point=2 t=-1.000 et=6422.494</Score>
+<Score et="6422.5">Daniel Weiss(79) lap=22 point=0 t=-1.000 et=6422.494</Score>
+<Score et="6467.4">Daniel Weiss(79) lap=22 point=1 t=-1.000 et=6467.389</Score>
+<Score et="6514.9">Daniel Weiss(79) lap=22 point=2 t=-1.000 et=6514.899</Score>
+<Score et="6524.7">Marcel Wolf(80) lap=3 point=1 t=-1.000 et=6524.629</Score>
+<Score et="6547.9">Daniel Weiss(79) lap=23 point=0 t=-1.000 et=6547.862</Score>
+<Sector et="6570.3">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="6570.3">Daniel Weiss(79) lap=23 point=1 t=22.380 et=6570.242</Score>
+<Sector et="6570.3">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="6570.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="6573.2">Marcel Wolf(80) lap=3 point=2 t=-1.000 et=6573.168</Score>
+<Score et="6606.5">Marcel Wolf(80) lap=4 point=0 t=-1.000 et=6606.503</Score>
+<Score et="6616.6">Daniel Weiss(79) lap=23 point=2 t=-1.000 et=6616.617</Score>
+<Score et="6621.4">Daniel Weiss(79) lap=24 point=0 t=-1.000 et=6621.428</Score>
+<Score et="6629.9">Marcel Wolf(80) lap=4 point=1 t=-1.000 et=6629.828</Score>
+<Score et="6661.9">Daniel Weiss(79) lap=24 point=1 t=-1.000 et=6661.896</Score>
+<Score et="6677.5">Marcel Wolf(80) lap=4 point=2 t=-1.000 et=6677.478</Score>
+<Score et="6708.9">Daniel Weiss(79) lap=24 point=2 t=-1.000 et=6708.889</Score>
+<Score et="6712.1">Marcel Wolf(80) lap=5 point=0 t=-1.000 et=6712.045</Score>
+<Score et="6735.0">Marcel Wolf(80) lap=5 point=1 t=-1.000 et=6734.952</Score>
+<Score et="6741.7">Daniel Weiss(79) lap=25 point=0 t=-1.000 et=6741.642</Score>
+<Chat et="6750.2">Christian Tropeano  has entered the race.</Chat>
+<System et="6750.2">Christian Tropeano (81) 82.136.69.142 has joined as a participant</System>
+<Chat et="6751.8">&gt; /w Christian Tropeano  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6751.8">/w Christian Tropeano  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6752.0">&gt; /w Christian Tropeano  germansimracing.de | discord.gg/GSR</Chat>
+<Command et="6752.0">/w Christian Tropeano  germansimracing.de | discord.gg/GSR</Command>
+<Sector et="6763.8">Daniel Weiss(79) set new best for sector 2</Sector>
+<Score et="6763.8">Daniel Weiss(79) lap=25 point=1 t=22.160 et=6763.802</Score>
+<Sector et="6763.8">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="6763.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="6763.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="6782.2">Marcel Wolf(80) lap=5 point=2 t=-1.000 et=6782.130</Score>
+<Score et="6810.4">Daniel Weiss(79) lap=25 point=2 t=-1.000 et=6810.328</Score>
+<Score et="6818.8">Marcel Wolf(80) lap=6 point=0 t=-1.000 et=6818.809</Score>
+<Sector et="6842.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="6842.3">Marcel Wolf(80) lap=6 point=1 t=23.435 et=6842.244</Score>
+<Sector et="6842.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="6842.3">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="6842.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="6843.1">Daniel Weiss(79) lap=26 point=0 t=-1.000 et=6843.117</Score>
+<Incident et="6845.7">Marcel Wolf(80) reported contact (6384.46) with Immovable</Incident>
+<Incident et="6845.7">Marcel Wolf(80) reported contact (4856.36) with Immovable</Incident>
+<Incident et="6845.7">Marcel Wolf(80) reported contact (3716.84) with Immovable</Incident>
+<Incident et="6845.7">Marcel Wolf(80) reported contact (2805.41) with Immovable</Incident>
+<Incident et="6845.7">Marcel Wolf(80) reported contact (2079.73) with Immovable</Incident>
+<Incident et="6845.7">Marcel Wolf(80) reported contact (1378.12) with Immovable</Incident>
+<Incident et="6845.8">Marcel Wolf(80) reported contact (1457.14) with Immovable</Incident>
+<Incident et="6845.8">Marcel Wolf(80) reported contact (1297.69) with Immovable</Incident>
+<Score et="6854.5">Marcel Wolf(80) lap=6 point=2 t=-1.000 et=6853.305</Score>
+<Score et="6854.5">Marcel Wolf(80) lap=7 point=0 t=-1.000 et=6853.305</Score>
+<Score et="6861.7">Daniel Weiss(79) lap=26 point=1 t=-1.000 et=6860.296</Score>
+<Score et="6861.7">Daniel Weiss(79) lap=26 point=2 t=-1.000 et=6860.296</Score>
+<Score et="6861.7">Daniel Weiss(79) lap=27 point=0 t=-1.000 et=6860.296</Score>
+<Score et="6973.8">Marcel Wolf(80) lap=7 point=1 t=-1.000 et=6973.765</Score>
+<Score et="7021.0">Marcel Wolf(80) lap=7 point=2 t=-1.000 et=7020.993</Score>
+<Score et="7054.4">Marcel Wolf(80) lap=8 point=0 t=-1.000 et=7054.364</Score>
+<Score et="7063.9">Christian Tropeano (81) lap=0 point=1 t=-1.000 et=7063.853</Score>
+<Sector et="7077.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="7077.4">Marcel Wolf(80) lap=8 point=1 t=22.983 et=7077.347</Score>
+<Sector et="7077.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7077.4">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="7077.4">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="7123.7">Christian Tropeano (81) lap=0 point=2 t=-1.000 et=7123.625</Score>
+<Sector et="7125.1">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="7125.1">Marcel Wolf(80) lap=8 point=2 t=70.672 et=7125.036</Score>
+<Sector et="7125.1">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7125.1">Daniel Weiss(79) set new best for sector 3</Sector>
+<Sector et="7125.1">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="7159.4">Christian Tropeano (81) lap=1 point=0 t=-1.000 et=7159.386</Score>
+<Sector et="7163.4">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="7163.4">Marcel Wolf(80) lap=9 point=0 t=109.004 et=7163.368</Score>
+<Sector et="7163.4">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="7163.4">Daniel Weiss(79) set new best for sector 1</Sector>
+<Sector et="7163.4">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="7182.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="7182.8">Christian Tropeano (81) lap=1 point=1 t=23.368 et=7182.754</Score>
+<Sector et="7182.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7182.8">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="7182.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7186.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="7186.3">Marcel Wolf(80) lap=9 point=1 t=22.860 et=7186.228</Score>
+<Sector et="7186.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7186.3">Daniel Weiss(79) set new best for sector 2</Sector>
+<Sector et="7186.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="7231.4">Christian Tropeano (81) lap=1 point=2 t=71.959 et=7231.345</Score>
+<Sector et="7231.4">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7231.4">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7231.4">Daniel Weiss(79) set new best for sector 3</Sector>
+<Sector et="7231.4">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7234.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="7234.6">Marcel Wolf(80) lap=9 point=2 t=71.240 et=7234.607</Score>
+<Sector et="7234.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7234.7">Daniel Weiss(79) set new best for sector 3</Sector>
+<Sector et="7234.7">Christian Tropeano (81) set new best for sector 3</Sector>
+<Chat et="7265.0">Daniel Weiss left the race.</Chat>
+<Sector et="7266.7">Christian Tropeano (81) set new best for sector 1</Sector>
+<Score et="7266.7">Christian Tropeano (81) lap=2 point=0 t=107.323 et=7266.708</Score>
+<Sector et="7266.7">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="7266.8">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="7268.5">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="7268.5">Marcel Wolf(80) lap=10 point=0 t=105.125 et=7268.493</Score>
+<Sector et="7268.5">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="7268.6">Christian Tropeano (81) set new best for sector 1</Sector>
+<Score et="7290.3">Christian Tropeano (81) lap=2 point=1 t=23.577 et=7290.286</Score>
+<Sector et="7290.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7290.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7290.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7291.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="7291.5">Marcel Wolf(80) lap=10 point=1 t=22.986 et=7291.479</Score>
+<Sector et="7291.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7291.5">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="7338.4">Christian Tropeano (81) lap=2 point=2 t=71.691 et=7338.399</Score>
+<Sector et="7338.4">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7338.4">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7338.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7339.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="7339.0">Marcel Wolf(80) lap=10 point=2 t=70.471 et=7338.964</Score>
+<Sector et="7339.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7339.0">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="7370.5">Marcel Wolf(80) lap=11 point=0 t=-1.000 et=7370.510</Score>
+<Score et="7370.5">Marcel Wolf(80) lap=11 point=1 t=-1.000 et=7370.510</Score>
+<Score et="7370.5">Marcel Wolf(80) lap=11 point=2 t=-1.000 et=7370.510</Score>
+<Score et="7370.5">Marcel Wolf(80) lap=12 point=0 t=-1.000 et=7370.510</Score>
+<Score et="7384.6">Christian Tropeano (81) lap=3 point=0 t=117.849 et=7384.557</Score>
+<Score et="7387.7">Christian Tropeano (81) lap=3 point=1 t=-1.000 et=7387.694</Score>
+<Score et="7387.7">Christian Tropeano (81) lap=3 point=2 t=-1.000 et=7387.694</Score>
+<Score et="7387.7">Christian Tropeano (81) lap=4 point=0 t=-1.000 et=7387.694</Score>
+<Chat et="7397.9">Connor Roth has entered the race.</Chat>
+<System et="7397.9">Connor Roth(82) 93.213.179.75 has joined as a participant</System>
+<Command et="7401.6">/w Connor Roth If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="7401.6">&gt; /w Connor Roth If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7401.8">/w Connor Roth germansimracing.de | discord.gg/GSR</Command>
+<Chat et="7401.8">&gt; /w Connor Roth germansimracing.de | discord.gg/GSR</Chat>
+<Score et="7445.8">Christian Tropeano (81) lap=4 point=1 t=-1.000 et=7445.793</Score>
+<Score et="7446.2">Marcel Wolf(80) lap=12 point=1 t=-1.000 et=7446.159</Score>
+<Chat et="7465.4">Connor Roth: Slowing to pit</Chat>
+<Score et="7493.8">Christian Tropeano (81) lap=4 point=2 t=-1.000 et=7493.808</Score>
+<Score et="7494.6">Marcel Wolf(80) lap=12 point=2 t=-1.000 et=7494.522</Score>
+<Score et="7527.6">Christian Tropeano (81) lap=5 point=0 t=-1.000 et=7527.620</Score>
+<Score et="7528.7">Marcel Wolf(80) lap=13 point=0 t=-1.000 et=7528.707</Score>
+<Sector et="7550.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="7550.8">Christian Tropeano (81) lap=5 point=1 t=23.193 et=7550.813</Score>
+<Sector et="7550.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7550.9">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7550.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="7551.4">Marcel Wolf(80) lap=13 point=1 t=-1.000 et=7551.393</Score>
+<Score et="7566.5">Connor Roth(82) lap=0 point=1 t=-1.000 et=7566.467</Score>
+<Score et="7598.9">Marcel Wolf(80) lap=13 point=2 t=-1.000 et=7598.866</Score>
+<Score et="7599.3">Christian Tropeano (81) lap=5 point=2 t=71.651 et=7599.271</Score>
+<Sector et="7599.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7599.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7599.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7599.3">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="7614.0">Connor Roth(82) lap=0 point=2 t=-1.000 et=7613.942</Score>
+<Score et="7631.9">Marcel Wolf(80) lap=14 point=0 t=-1.000 et=7631.872</Score>
+<Sector et="7633.1">Christian Tropeano (81) set new best for sector 1</Sector>
+<Score et="7633.1">Christian Tropeano (81) lap=6 point=0 t=105.462 et=7633.082</Score>
+<Sector et="7633.1">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="7633.2">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="7633.2">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="7647.0">Connor Roth(82) lap=1 point=0 t=-1.000 et=7646.949</Score>
+<Sector et="7654.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="7654.5">Marcel Wolf(80) lap=14 point=1 t=22.557 et=7654.429</Score>
+<Sector et="7654.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7654.5">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7654.5">Connor Roth(82) set new best for sector 2</Sector>
+<Chat et="7654.5">CILLER has entered the race.</Chat>
+<System et="7654.5">CILLER(83) 79.109.227.105 has joined as a participant</System>
+<Sector et="7656.2">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="7656.2">Christian Tropeano (81) lap=6 point=1 t=23.134 et=7656.216</Score>
+<Sector et="7656.2">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7656.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7656.3">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7657.1">CILLER(83) set new best for sector 2</Sector>
+<Sector et="7657.1">CILLER(83) set new best for sector 2</Sector>
+<Chat et="7661.4">&gt; /w CILLER If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7661.4">/w CILLER If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="7661.6">&gt; /w CILLER germansimracing.de | discord.gg/GSR</Chat>
+<Command et="7661.6">/w CILLER germansimracing.de | discord.gg/GSR</Command>
+<Sector et="7670.6">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="7670.6">Connor Roth(82) lap=1 point=1 t=23.653 et=7670.602</Score>
+<Sector et="7670.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7670.7">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7670.7">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7670.7">CILLER(83) set new best for sector 2</Sector>
+<Chat et="7688.5">CILLER: buenas noches</Chat>
+<Sector et="7701.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="7701.5">Marcel Wolf(80) lap=14 point=2 t=69.562 et=7701.434</Score>
+<Sector et="7701.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7701.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7701.5">CILLER(83) set new best for sector 3</Sector>
+<Sector et="7701.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7703.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="7703.3">Christian Tropeano (81) lap=6 point=2 t=70.191 et=7703.273</Score>
+<Sector et="7703.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7703.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7703.3">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7703.4">CILLER(83) set new best for sector 3</Sector>
+<Score et="7717.4">Connor Roth(82) lap=1 point=2 t=70.454 et=7717.403</Score>
+<Sector et="7717.4">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7717.4">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7717.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7717.5">CILLER(83) set new best for sector 3</Sector>
+<Sector et="7717.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7735.2">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="7735.2">Marcel Wolf(80) lap=15 point=0 t=103.301 et=7735.173</Score>
+<Sector et="7735.2">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="7735.2">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="7735.2">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="7735.3">CILLER(83) set new best for sector 1</Sector>
+<Sector et="7737.9">Christian Tropeano (81) set new best for sector 1</Sector>
+<Score et="7737.9">Christian Tropeano (81) lap=7 point=0 t=104.800 et=7737.882</Score>
+<Sector et="7737.9">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="7738.0">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="7738.0">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="7738.0">CILLER(83) set new best for sector 1</Sector>
+<Score et="7739.4">CILLER(83) lap=0 point=1 t=-1.000 et=7739.334</Score>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (4360.03) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (4360.03) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (4913.42) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (4913.42) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (2946.63) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (2946.63) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (3051.81) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (3051.81) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (2889.59) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (2889.59) with another vehicle Christian Tropeano (81)</Incident>
+<Sector et="7746.3">Marcel Wolf(80) reports new suspension damage</Sector>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (4550.01) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (4550.01) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (4947.56) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (4947.56) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (2968.76) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (2968.76) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (3112.33) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (3112.33) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (2548.78) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (2548.78) with another vehicle Christian Tropeano (81)</Incident>
+<Sector et="7746.3">Christian Tropeano (81) reports new suspension damage</Sector>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (2877.19) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (2877.19) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (1282.61) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (1282.61) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (1334.46) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (1334.46) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (2367.09) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (2367.09) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (2398.69) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Christian Tropeano (81) reported contact (2398.69) with another vehicle Christian Tropeano (81)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (1125.70) with another vehicle Marcel Wolf(80)</Incident>
+<Incident et="7746.3">Marcel Wolf(80) reported contact (1125.70) with another vehicle Christian Tropeano (81)</Incident>
+<Sector et="7750.2">Connor Roth(82) set new best for sector 1</Sector>
+<Score et="7750.2">Connor Roth(82) lap=2 point=0 t=103.257 et=7750.206</Score>
+<Sector et="7750.2">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="7750.3">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="7750.3">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="7750.3">CILLER(83) set new best for sector 1</Sector>
+<Score et="7763.2">Christian Tropeano (81) lap=7 point=1 t=-1.000 et=7761.534</Score>
+<Score et="7763.2">Christian Tropeano (81) lap=7 point=2 t=-1.000 et=7761.534</Score>
+<Score et="7763.2">Christian Tropeano (81) lap=8 point=0 t=-1.000 et=7761.534</Score>
+<Score et="7766.9">Marcel Wolf(80) lap=15 point=1 t=-1.000 et=7764.394</Score>
+<Score et="7766.9">Marcel Wolf(80) lap=15 point=2 t=-1.000 et=7764.394</Score>
+<Score et="7766.9">Marcel Wolf(80) lap=16 point=0 t=-1.000 et=7764.394</Score>
+<Score et="7773.0">Connor Roth(82) lap=2 point=1 t=22.807 et=7773.013</Score>
+<Sector et="7773.0">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7773.0">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7773.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7773.1">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7773.1">CILLER(83) set new best for sector 2</Sector>
+<Score et="7802.6">CILLER(83) lap=0 point=2 t=-1.000 et=7802.554</Score>
+<Score et="7819.8">Connor Roth(82) lap=2 point=2 t=69.537 et=7819.743</Score>
+<Sector et="7819.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7819.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7819.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7819.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7819.8">CILLER(83) set new best for sector 3</Sector>
+<Score et="7834.3">Marcel Wolf(80) lap=16 point=1 t=-1.000 et=7834.302</Score>
+<Score et="7836.5">CILLER(83) lap=1 point=0 t=-1.000 et=7836.456</Score>
+<Sector et="7852.6">Connor Roth(82) set new best for sector 1</Sector>
+<Score et="7852.6">Connor Roth(82) lap=3 point=0 t=102.364 et=7852.570</Score>
+<Sector et="7852.6">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="7852.6">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="7852.6">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="7852.7">CILLER(83) set new best for sector 1</Sector>
+<Score et="7855.4">Christian Tropeano (81) lap=8 point=1 t=-1.000 et=7855.389</Score>
+<Sector et="7861.5">CILLER(83) set new best for sector 2</Sector>
+<Score et="7861.5">CILLER(83) lap=1 point=1 t=25.060 et=7861.516</Score>
+<Sector et="7861.5">CILLER(83) set new best for sector 2</Sector>
+<Sector et="7861.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7861.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7861.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7875.5">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="7875.5">Connor Roth(82) lap=3 point=1 t=22.875 et=7875.445</Score>
+<Sector et="7875.5">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7875.5">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7875.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7875.5">CILLER(83) set new best for sector 2</Sector>
+<Score et="7881.9">Marcel Wolf(80) lap=16 point=2 t=-1.000 et=7881.857</Score>
+<Score et="7903.9">Christian Tropeano (81) lap=8 point=2 t=-1.000 et=7903.876</Score>
+<Sector et="7910.3">CILLER(83) set new best for sector 3</Sector>
+<Score et="7910.3">CILLER(83) lap=1 point=2 t=73.760 et=7910.216</Score>
+<Sector et="7910.3">CILLER(83) set new best for sector 3</Sector>
+<Sector et="7910.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7910.3">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7910.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="7915.2">Marcel Wolf(80) lap=17 point=0 t=-1.000 et=7915.220</Score>
+<Score et="7922.1">Connor Roth(82) lap=3 point=2 t=69.515 et=7922.084</Score>
+<Sector et="7922.1">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7922.1">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="7922.1">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="7922.2">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="7922.2">CILLER(83) set new best for sector 3</Sector>
+<Score et="7937.8">Marcel Wolf(80) lap=17 point=1 t=-1.000 et=7937.809</Score>
+<Score et="7938.0">Christian Tropeano (81) lap=9 point=0 t=-1.000 et=7937.998</Score>
+<Sector et="7944.5">CILLER(83) set new best for sector 1</Sector>
+<Score et="7944.5">CILLER(83) lap=2 point=0 t=108.005 et=7944.461</Score>
+<Sector et="7944.5">CILLER(83) set new best for sector 1</Sector>
+<Sector et="7944.5">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="7944.5">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="7944.6">Christian Tropeano (81) set new best for sector 1</Sector>
+<Score et="7955.0">Connor Roth(82) lap=4 point=0 t=102.396 et=7954.966</Score>
+<Sector et="7961.2">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="7961.2">Christian Tropeano (81) lap=9 point=1 t=23.211 et=7961.209</Score>
+<Sector et="7961.2">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7961.3">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7961.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7961.3">CILLER(83) set new best for sector 2</Sector>
+<Score et="7967.8">CILLER(83) lap=2 point=1 t=23.338 et=7967.799</Score>
+<Sector et="7967.8">CILLER(83) set new best for sector 2</Sector>
+<Sector et="7967.8">CILLER(83) set new best for sector 2</Sector>
+<Sector et="7967.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7967.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7967.9">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7974.7">(84) set new best for sector 2</Sector>
+<Chat et="7974.7">Sven Heide has entered the race.</Chat>
+<System et="7974.7">Sven Heide(84) 79.223.247.223 has joined as a participant</System>
+<Score et="7977.7">Connor Roth(82) lap=4 point=1 t=22.727 et=7977.693</Score>
+<Sector et="7977.7">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7977.7">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="7977.7">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="7977.7">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="7977.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="7977.8">CILLER(83) set new best for sector 2</Sector>
+<Command et="7981.2">/w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="7981.2">&gt; /w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="7981.4">&gt; /w Sven Heide germansimracing.de | discord.gg/GSR</Chat>
+<Command et="7981.4">/w Sven Heide germansimracing.de | discord.gg/GSR</Command>
+<Score et="7985.0">Marcel Wolf(80) lap=17 point=2 t=-1.000 et=7984.951</Score>
+<Sector et="8008.4">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="8008.4">Christian Tropeano (81) lap=9 point=2 t=70.385 et=8008.383</Score>
+<Sector et="8008.4">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8008.4">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8008.4">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8008.4">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8008.5">CILLER(83) set new best for sector 3</Sector>
+<Score et="8017.0">CILLER(83) lap=2 point=2 t=72.485 et=8016.946</Score>
+<Sector et="8017.0">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8017.0">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8017.0">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8017.0">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8017.0">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8017.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="8018.0">Marcel Wolf(80) lap=18 point=0 t=-1.000 et=8017.971</Score>
+<Sector et="8024.7">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="8024.7">Connor Roth(82) lap=4 point=2 t=69.724 et=8024.690</Score>
+<Sector et="8024.7">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8024.7">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8024.8">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8024.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8024.8">CILLER(83) set new best for sector 3</Sector>
+<Score et="8040.6">Marcel Wolf(80) lap=18 point=1 t=22.594 et=8040.565</Score>
+<Sector et="8040.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8040.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8040.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8040.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8040.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8040.7">CILLER(83) set new best for sector 2</Sector>
+<Score et="8042.6">Christian Tropeano (81) lap=10 point=0 t=104.583 et=8042.582</Score>
+<Sector et="8042.6">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8042.6">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8042.6">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8042.6">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8042.6">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="8042.7">CILLER(83) set new best for sector 1</Sector>
+<Sector et="8051.4">CILLER(83) set new best for sector 1</Sector>
+<Score et="8051.4">CILLER(83) lap=3 point=0 t=106.872 et=8051.333</Score>
+<Sector et="8051.4">CILLER(83) set new best for sector 1</Sector>
+<Sector et="8051.4">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8051.4">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8051.4">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8051.4">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="8057.8">Connor Roth(82) lap=5 point=0 t=102.824 et=8057.791</Score>
+<Sector et="8066.4">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="8066.4">Christian Tropeano (81) lap=10 point=1 t=23.750 et=8066.332</Score>
+<Sector et="8066.4">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8066.4">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8066.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8066.4">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8066.4">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8076.1">CILLER(83) set new best for sector 2</Sector>
+<Score et="8076.1">CILLER(83) lap=3 point=1 t=24.710 et=8076.043</Score>
+<Sector et="8076.1">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8076.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8076.1">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8076.1">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8076.1">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8087.7">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="8087.7">Marcel Wolf(80) lap=18 point=2 t=69.725 et=8087.696</Score>
+<Sector et="8087.7">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8087.7">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8087.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8087.8">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8088.1">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8089.3">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="8089.3">Connor Roth(82) lap=5 point=1 t=31.450 et=8089.241</Score>
+<Sector et="8089.3">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8089.3">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8089.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8089.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8089.3">CILLER(83) set new best for sector 2</Sector>
+<Score et="8108.7">CILLER(83) lap=3 point=2 t=-1.000 et=8106.330</Score>
+<Score et="8108.7">CILLER(83) lap=4 point=0 t=-1.000 et=8106.330</Score>
+<Sector et="8113.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="8113.8">Christian Tropeano (81) lap=10 point=2 t=71.215 et=8113.796</Score>
+<Sector et="8113.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8113.8">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8113.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8113.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8113.9">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8121.2">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="8121.2">Marcel Wolf(80) lap=19 point=0 t=103.180 et=8121.150</Score>
+<Sector et="8121.2">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="8121.2">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8121.2">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8121.2">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8121.2">CILLER(83) set new best for sector 1</Sector>
+<Score et="8137.9">Connor Roth(82) lap=5 point=2 t=80.049 et=8137.840</Score>
+<Sector et="8137.9">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8137.9">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8137.9">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8137.9">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8137.9">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8137.9">CILLER(83) set new best for sector 3</Sector>
+<Score et="8147.5">Christian Tropeano (81) lap=11 point=0 t=104.901 et=8147.482</Score>
+<Sector et="8153.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="8153.8">Marcel Wolf(80) lap=19 point=1 t=32.601 et=8153.751</Score>
+<Sector et="8153.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8153.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8153.8">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8153.8">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8153.8">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8171.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="8171.1">Christian Tropeano (81) lap=11 point=1 t=23.593 et=8171.076</Score>
+<Sector et="8171.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8171.1">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8171.1">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8171.1">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8171.2">CILLER(83) set new best for sector 2</Sector>
+<Score et="8171.5">Connor Roth(82) lap=6 point=0 t=113.649 et=8171.440</Score>
+<Score et="8194.4">Connor Roth(82) lap=6 point=1 t=22.881 et=8194.321</Score>
+<Sector et="8194.4">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8194.4">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8194.4">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8194.4">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8194.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8194.4">CILLER(83) set new best for sector 2</Sector>
+<Score et="8209.3">Marcel Wolf(80) lap=19 point=2 t=-1.000 et=8209.229</Score>
+<Sector et="8219.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="8219.3">Christian Tropeano (81) lap=11 point=2 t=71.791 et=8219.273</Score>
+<Sector et="8219.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8219.3">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8219.3">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8219.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8219.4">CILLER(83) set new best for sector 3</Sector>
+<Score et="8235.8">Connor Roth(82) lap=6 point=2 t=-1.000 et=8232.618</Score>
+<Score et="8235.8">Connor Roth(82) lap=7 point=0 t=-1.000 et=8232.618</Score>
+<Score et="8254.5">Christian Tropeano (81) lap=12 point=0 t=107.005 et=8254.487</Score>
+<Score et="8257.0">Marcel Wolf(80) lap=20 point=0 t=135.770 et=8256.920</Score>
+<Score et="8261.6">CILLER(83) lap=4 point=1 t=-1.000 et=8261.522</Score>
+<Score et="8278.1">Christian Tropeano (81) lap=12 point=1 t=23.606 et=8278.094</Score>
+<Sector et="8278.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8278.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8278.1">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8278.2">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8278.2">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8278.2">CILLER(83) set new best for sector 2</Sector>
+<Score et="8280.5">Marcel Wolf(80) lap=20 point=1 t=-1.000 et=8280.450</Score>
+<Score et="8311.5">CILLER(83) lap=4 point=2 t=-1.000 et=8311.457</Score>
+<Sector et="8325.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="8325.3">Christian Tropeano (81) lap=12 point=2 t=70.800 et=8325.287</Score>
+<Sector et="8325.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8325.3">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8325.4">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8325.4">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8325.4">CILLER(83) set new best for sector 3</Sector>
+<Score et="8331.8">Marcel Wolf(80) lap=20 point=2 t=-1.000 et=8331.744</Score>
+<Score et="8340.6">Connor Roth(82) lap=7 point=1 t=-1.000 et=8340.547</Score>
+<Score et="8345.1">CILLER(83) lap=5 point=0 t=-1.000 et=8345.026</Score>
+<Score et="8359.2">Christian Tropeano (81) lap=13 point=0 t=104.643 et=8359.130</Score>
+<Score et="8365.5">Marcel Wolf(80) lap=21 point=0 t=-1.000 et=8365.424</Score>
+<Score et="8369.3">CILLER(83) lap=5 point=1 t=-1.000 et=8369.255</Score>
+<Score et="8383.3">Christian Tropeano (81) lap=13 point=1 t=24.149 et=8383.279</Score>
+<Sector et="8383.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8383.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8383.3">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8383.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8383.3">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8383.3">CILLER(83) set new best for sector 2</Sector>
+<Score et="8388.4">Connor Roth(82) lap=7 point=2 t=-1.000 et=8388.344</Score>
+<Sector et="8388.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="8388.5">Marcel Wolf(80) lap=21 point=1 t=23.096 et=8388.520</Score>
+<Sector et="8388.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8388.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8388.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8388.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8388.6">CILLER(83) set new best for sector 2</Sector>
+<Score et="8418.6">CILLER(83) lap=5 point=2 t=-1.000 et=8418.573</Score>
+<Score et="8421.2">Connor Roth(82) lap=8 point=0 t=-1.000 et=8421.180</Score>
+<Sector et="8436.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="8436.6">Marcel Wolf(80) lap=21 point=2 t=71.171 et=8436.595</Score>
+<Sector et="8436.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8436.6">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8436.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8436.7">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8436.7">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8442.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="8442.5">Christian Tropeano (81) lap=13 point=2 t=83.321 et=8442.451</Score>
+<Sector et="8442.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8442.5">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8442.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8442.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8442.5">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8444.0">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="8444.0">Connor Roth(82) lap=8 point=1 t=22.778 et=8443.958</Score>
+<Sector et="8444.0">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8444.0">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8444.0">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8444.0">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8444.0">CILLER(83) set new best for sector 2</Sector>
+<Score et="8453.8">Sven Heide(84) lap=0 point=1 t=-1.000 et=8453.737</Score>
+<Score et="8454.4">CILLER(83) lap=6 point=0 t=-1.000 et=8454.322</Score>
+<Score et="8473.8">Marcel Wolf(80) lap=22 point=0 t=108.362 et=8473.786</Score>
+<Score et="8478.2">CILLER(83) lap=6 point=1 t=-1.000 et=8478.171</Score>
+<Score et="8478.2">CILLER(83) lap=6 point=2 t=-1.000 et=8478.171</Score>
+<Score et="8478.2">CILLER(83) lap=7 point=0 t=-1.000 et=8478.171</Score>
+<Score et="8482.0">Christian Tropeano (81) lap=14 point=0 t=-1.000 et=8481.960</Score>
+<Score et="8491.0">Connor Roth(82) lap=8 point=2 t=69.760 et=8490.939</Score>
+<Sector et="8491.0">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8491.0">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8491.0">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8491.0">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8491.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8491.0">CILLER(83) set new best for sector 3</Sector>
+<Score et="8503.0">Sven Heide(84) lap=0 point=2 t=-1.000 et=8502.961</Score>
+<Score et="8513.8">Marcel Wolf(80) lap=22 point=1 t=-1.000 et=8512.375</Score>
+<Score et="8513.8">Marcel Wolf(80) lap=22 point=2 t=-1.000 et=8512.375</Score>
+<Score et="8513.8">Marcel Wolf(80) lap=23 point=0 t=-1.000 et=8512.375</Score>
+<Score et="8523.6">Connor Roth(82) lap=9 point=0 t=102.398 et=8523.578</Score>
+<Score et="8537.5">Sven Heide(84) lap=1 point=0 t=-1.000 et=8537.428</Score>
+<Score et="8545.5">Connor Roth(82) lap=9 point=1 t=-1.000 et=8545.496</Score>
+<Score et="8545.5">Connor Roth(82) lap=9 point=2 t=-1.000 et=8545.496</Score>
+<Score et="8545.5">Connor Roth(82) lap=10 point=0 t=-1.000 et=8545.496</Score>
+<Sector et="8560.7">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="8560.7">Sven Heide(84) lap=1 point=1 t=23.208 et=8560.636</Score>
+<Sector et="8560.7">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8560.7">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8560.7">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8560.7">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8560.7">CILLER(83) set new best for sector 2</Sector>
+<Score et="8598.3">Marcel Wolf(80) lap=23 point=1 t=-1.000 et=8598.245</Score>
+<Sector et="8608.2">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="8608.2">Sven Heide(84) lap=1 point=2 t=70.769 et=8608.196</Score>
+<Sector et="8608.2">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8608.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8608.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8608.3">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8608.3">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8641.7">Sven Heide(84) set new best for sector 1</Sector>
+<Score et="8641.7">Sven Heide(84) lap=2 point=0 t=104.271 et=8641.698</Score>
+<Sector et="8641.7">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8641.8">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8641.8">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="8641.8">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8641.8">CILLER(83) set new best for sector 1</Sector>
+<Score et="8646.0">Connor Roth(82) lap=10 point=1 t=-1.000 et=8645.931</Score>
+<Score et="8649.3">Marcel Wolf(80) lap=23 point=2 t=-1.000 et=8649.245</Score>
+<Score et="8651.7">CILLER(83) lap=7 point=1 t=-1.000 et=8651.646</Score>
+<Sector et="8664.8">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="8664.8">Sven Heide(84) lap=2 point=1 t=23.071 et=8664.770</Score>
+<Sector et="8664.8">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8664.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8664.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8664.8">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8664.9">CILLER(83) set new best for sector 2</Sector>
+<Score et="8682.6">Marcel Wolf(80) lap=24 point=0 t=-1.000 et=8682.585</Score>
+<Score et="8693.0">Connor Roth(82) lap=10 point=2 t=-1.000 et=8693.017</Score>
+<Score et="8699.9">CILLER(83) lap=7 point=2 t=-1.000 et=8699.818</Score>
+<Sector et="8705.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="8705.4">Marcel Wolf(80) lap=24 point=1 t=22.820 et=8705.405</Score>
+<Sector et="8705.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8705.5">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8705.5">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8705.5">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8705.5">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8711.9">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="8711.9">Sven Heide(84) lap=2 point=2 t=70.201 et=8711.899</Score>
+<Sector et="8711.9">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8712.0">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8712.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8712.0">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8712.0">CILLER(83) set new best for sector 3</Sector>
+<Score et="8725.9">Connor Roth(82) lap=11 point=0 t=-1.000 et=8725.889</Score>
+<Score et="8733.3">CILLER(83) lap=8 point=0 t=-1.000 et=8733.258</Score>
+<Sector et="8745.3">Sven Heide(84) set new best for sector 1</Sector>
+<Score et="8745.3">Sven Heide(84) lap=3 point=0 t=103.534 et=8745.232</Score>
+<Sector et="8745.3">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8745.3">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8745.3">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="8745.3">CILLER(83) set new best for sector 1</Sector>
+<Sector et="8745.3">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8748.6">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="8748.6">Connor Roth(82) lap=11 point=1 t=22.665 et=8748.554</Score>
+<Sector et="8748.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8748.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8748.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8748.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8748.6">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8752.2">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="8752.2">Marcel Wolf(80) lap=24 point=2 t=69.554 et=8752.139</Score>
+<Sector et="8752.2">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8752.2">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8752.2">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8752.2">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8752.2">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8756.2">CILLER(83) set new best for sector 2</Sector>
+<Score et="8756.2">CILLER(83) lap=8 point=1 t=22.922 et=8756.180</Score>
+<Sector et="8756.2">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8756.2">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8756.2">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8756.2">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8756.2">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8768.2">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="8768.2">Sven Heide(84) lap=3 point=1 t=22.979 et=8768.212</Score>
+<Sector et="8768.2">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8768.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8768.3">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8768.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8768.3">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8785.2">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="8785.2">Marcel Wolf(80) lap=25 point=0 t=102.569 et=8785.154</Score>
+<Sector et="8785.2">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="8785.2">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8785.2">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8785.2">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8785.2">CILLER(83) set new best for sector 1</Sector>
+<Sector et="8795.5">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="8795.5">Connor Roth(82) lap=11 point=2 t=69.541 et=8795.430</Score>
+<Sector et="8795.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8795.5">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8795.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8795.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8795.5">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8804.3">CILLER(83) set new best for sector 3</Sector>
+<Score et="8804.3">CILLER(83) lap=8 point=2 t=71.038 et=8804.296</Score>
+<Sector et="8804.3">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8804.4">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8804.4">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8804.4">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8805.2">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8807.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="8807.8">Marcel Wolf(80) lap=25 point=1 t=22.596 et=8807.750</Score>
+<Sector et="8807.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8807.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8807.8">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8807.8">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8807.8">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8826.5">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="8826.5">Sven Heide(84) lap=3 point=2 t=81.218 et=8826.450</Score>
+<Sector et="8826.5">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8826.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8826.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8826.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8826.5">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8828.3">Connor Roth(82) set new best for sector 1</Sector>
+<Score et="8828.3">Connor Roth(82) lap=12 point=0 t=102.336 et=8828.225</Score>
+<Sector et="8828.3">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8828.3">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8828.3">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8828.3">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="8828.3">CILLER(83) set new best for sector 1</Sector>
+<Sector et="8838.0">CILLER(83) set new best for sector 1</Sector>
+<Score et="8838.0">CILLER(83) lap=9 point=0 t=104.682 et=8837.939</Score>
+<Sector et="8838.0">CILLER(83) set new best for sector 1</Sector>
+<Sector et="8838.0">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8838.0">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8838.0">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8838.0">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="8850.9">Connor Roth(82) lap=12 point=1 t=22.602 et=8850.826</Score>
+<Sector et="8850.9">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8850.9">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8850.9">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8850.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8850.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8850.9">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8854.7">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="8854.7">Marcel Wolf(80) lap=25 point=2 t=69.519 et=8854.673</Score>
+<Sector et="8854.7">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8854.7">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8854.7">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8854.7">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8854.8">CILLER(83) set new best for sector 3</Sector>
+<Score et="8860.5">Sven Heide(84) lap=4 point=0 t=115.262 et=8860.494</Score>
+<Sector et="8861.0">CILLER(83) set new best for sector 2</Sector>
+<Score et="8861.0">CILLER(83) lap=9 point=1 t=23.024 et=8860.964</Score>
+<Sector et="8861.0">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8861.0">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8861.0">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8861.0">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8861.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8884.1">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="8884.2">Sven Heide(84) lap=4 point=1 t=23.632 et=8884.126</Score>
+<Sector et="8884.2">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8884.2">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8884.2">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8884.2">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8884.2">CILLER(83) set new best for sector 2</Sector>
+<Score et="8888.1">Marcel Wolf(80) lap=26 point=0 t=102.869 et=8888.023</Score>
+<Sector et="8897.5">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="8897.5">Connor Roth(82) lap=12 point=2 t=69.276 et=8897.501</Score>
+<Sector et="8897.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8897.6">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8897.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8897.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8897.6">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8908.6">CILLER(83) set new best for sector 3</Sector>
+<Score et="8908.6">CILLER(83) lap=9 point=2 t=70.633 et=8908.572</Score>
+<Sector et="8908.6">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8908.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8908.6">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8908.6">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8908.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8910.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="8910.9">Marcel Wolf(80) lap=26 point=1 t=22.813 et=8910.836</Score>
+<Sector et="8910.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8910.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8910.9">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8910.9">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8910.9">CILLER(83) set new best for sector 2</Sector>
+<Score et="8930.4">Connor Roth(82) lap=13 point=0 t=102.099 et=8930.323</Score>
+<Sector et="8930.4">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8930.4">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="8930.4">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="8930.4">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="8930.4">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="8930.4">CILLER(83) set new best for sector 1</Sector>
+<Sector et="8932.3">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="8932.3">Sven Heide(84) lap=4 point=2 t=71.731 et=8932.226</Score>
+<Sector et="8932.3">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8932.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8932.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8932.3">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8932.3">CILLER(83) set new best for sector 3</Sector>
+<Score et="8942.9">CILLER(83) lap=10 point=0 t=104.888 et=8942.827</Score>
+<Sector et="8952.9">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="8952.9">Connor Roth(82) lap=13 point=1 t=22.549 et=8952.872</Score>
+<Sector et="8952.9">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8952.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8952.9">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8952.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8952.9">CILLER(83) set new best for sector 2</Sector>
+<Sector et="8957.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="8957.8">Marcel Wolf(80) lap=26 point=2 t=69.726 et=8957.749</Score>
+<Sector et="8957.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="8957.8">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8957.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8957.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="8957.8">CILLER(83) set new best for sector 3</Sector>
+<Sector et="8965.9">CILLER(83) set new best for sector 2</Sector>
+<Score et="8965.9">CILLER(83) lap=10 point=1 t=23.085 et=8965.912</Score>
+<Sector et="8965.9">CILLER(83) set new best for sector 2</Sector>
+<Score et="8966.0">Sven Heide(84) lap=5 point=0 t=105.442 et=8965.937</Score>
+<Sector et="8966.0">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8966.0">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8966.0">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8966.0">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8989.3">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="8989.3">Sven Heide(84) lap=5 point=1 t=23.314 et=8989.251</Score>
+<Sector et="8989.3">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="8989.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="8989.3">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="8989.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="8989.3">CILLER(83) set new best for sector 2</Sector>
+<Score et="8991.1">Marcel Wolf(80) lap=27 point=0 t=103.065 et=8991.089</Score>
+<Sector et="8999.9">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="8999.9">Connor Roth(82) lap=13 point=2 t=69.560 et=8999.883</Score>
+<Sector et="8999.9">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="8999.9">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="8999.9">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9000.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9000.0">CILLER(83) set new best for sector 3</Sector>
+<Sector et="9014.0">CILLER(83) set new best for sector 3</Sector>
+<Score et="9014.0">CILLER(83) lap=10 point=2 t=71.173 et=9014.000</Score>
+<Sector et="9014.0">CILLER(83) set new best for sector 3</Sector>
+<Sector et="9014.1">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9014.1">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9014.1">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9014.1">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="9017.7">Marcel Wolf(80) lap=27 point=1 t=-1.000 et=9017.640</Score>
+<Score et="9017.7">Marcel Wolf(80) lap=27 point=2 t=-1.000 et=9017.640</Score>
+<Score et="9017.7">Marcel Wolf(80) lap=28 point=0 t=-1.000 et=9017.640</Score>
+<Score et="9032.8">Connor Roth(82) lap=14 point=0 t=102.410 et=9032.733</Score>
+<Sector et="9038.0">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="9038.0">Sven Heide(84) lap=5 point=2 t=71.988 et=9037.925</Score>
+<Sector et="9038.0">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9038.0">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9038.0">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9038.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9038.0">CILLER(83) set new best for sector 3</Sector>
+<Score et="9048.7">CILLER(83) lap=11 point=0 t=105.844 et=9048.671</Score>
+<Sector et="9055.6">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9055.6">Connor Roth(82) lap=14 point=1 t=22.804 et=9055.537</Score>
+<Sector et="9055.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9055.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9055.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9055.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9055.6">CILLER(83) set new best for sector 2</Sector>
+<Sector et="9072.0">CILLER(83) set new best for sector 2</Sector>
+<Score et="9072.0">CILLER(83) lap=11 point=1 t=23.285 et=9071.956</Score>
+<Sector et="9072.0">CILLER(83) set new best for sector 2</Sector>
+<Sector et="9072.0">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9072.0">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9072.0">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9072.0">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9072.7">Sven Heide(84) lap=6 point=0 t=106.702 et=9072.639</Score>
+<Sector et="9096.0">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="9096.0">Sven Heide(84) lap=6 point=1 t=23.371 et=9096.010</Score>
+<Sector et="9096.0">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9096.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9096.1">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9096.1">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9096.1">CILLER(83) set new best for sector 2</Sector>
+<Score et="9102.3">Connor Roth(82) lap=14 point=2 t=69.576 et=9102.310</Score>
+<Sector et="9102.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9102.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9102.4">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9102.4">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9102.4">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9102.4">CILLER(83) set new best for sector 3</Sector>
+<Score et="9120.6">CILLER(83) lap=11 point=2 t=71.870 et=9120.541</Score>
+<Sector et="9120.6">CILLER(83) set new best for sector 3</Sector>
+<Sector et="9120.6">CILLER(83) set new best for sector 3</Sector>
+<Sector et="9120.6">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9120.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9120.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9120.6">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="9129.3">Christian Tropeano (81) lap=14 point=1 t=-1.000 et=9129.297</Score>
+<Score et="9135.1">Connor Roth(82) lap=15 point=0 t=102.345 et=9135.078</Score>
+<Sector et="9143.6">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="9143.6">Sven Heide(84) lap=6 point=2 t=70.951 et=9143.590</Score>
+<Sector et="9143.6">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9143.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9143.6">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9143.7">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9143.7">CILLER(83) set new best for sector 3</Sector>
+<Score et="9155.1">Marcel Wolf(80) lap=28 point=1 t=-1.000 et=9155.079</Score>
+<Score et="9157.5">CILLER(83) lap=12 point=0 t=108.813 et=9157.484</Score>
+<Sector et="9157.6">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9157.6">Connor Roth(82) lap=15 point=1 t=22.511 et=9157.589</Score>
+<Sector et="9157.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9157.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9157.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9157.7">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9157.7">CILLER(83) set new best for sector 2</Sector>
+<Score et="9177.4">Christian Tropeano (81) lap=14 point=2 t=-1.000 et=9177.321</Score>
+<Sector et="9180.8">CILLER(83) set new best for sector 2</Sector>
+<Score et="9180.8">CILLER(83) lap=12 point=1 t=23.282 et=9180.767</Score>
+<Sector et="9180.8">CILLER(83) set new best for sector 2</Sector>
+<Sector et="9180.8">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9180.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9180.8">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9181.2">Sven Heide(84) lap=7 point=0 t=-1.000 et=9181.199</Score>
+<Sector et="9181.5">Christian Tropeano (81) set new best for sector 2</Sector>
+<Incident et="9182.8">CILLER(83) reported contact (295.88) with Sign</Incident>
+<Incident et="9182.9">CILLER(83) reported contact (86.86) with Sign</Incident>
+<Incident et="9182.9">CILLER(83) reported contact (155.71) with Sign</Incident>
+<Incident et="9185.5">CILLER(83) reported contact (1666.82) with Immovable</Incident>
+<Incident et="9185.5">CILLER(83) reported contact (1609.44) with Immovable</Incident>
+<Incident et="9186.9">CILLER(83) reported contact (2138.77) with Immovable</Incident>
+<Incident et="9186.9">CILLER(83) reported contact (1200.17) with Immovable</Incident>
+<Incident et="9187.0">CILLER(83) reported contact (35.50) with Sign</Incident>
+<Incident et="9187.0">CILLER(83) reported contact (28.25) with Sign</Incident>
+<Incident et="9187.5">CILLER(83) reported contact (2001.61) with Immovable</Incident>
+<Incident et="9187.7">CILLER(83) reported contact (1079.69) with Immovable</Incident>
+<Incident et="9187.7">CILLER(83) reported contact (1783.06) with Immovable</Incident>
+<Incident et="9188.1">CILLER(83) reported contact (1205.00) with Immovable</Incident>
+<Incident et="9188.1">CILLER(83) reported contact (1193.07) with Immovable</Incident>
+<Score et="9192.2">CILLER(83) lap=12 point=2 t=-1.000 et=9192.166</Score>
+<Score et="9192.2">CILLER(83) lap=13 point=0 t=-1.000 et=9192.166</Score>
+<Command from="CILLER" nodeid="4" et="9200.7">/callvote addai</Command>
+<Vote et="9200.7">CILLER: /callvote addai</Vote>
+<Sent et="9200.7">Cannot call vote: no more AIs can be added</Sent>
+<Score et="9202.9">Marcel Wolf(80) lap=28 point=2 t=-1.000 et=9202.872</Score>
+<Score et="9204.6">Connor Roth(82) lap=15 point=2 t=69.499 et=9204.577</Score>
+<Sector et="9204.6">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9204.6">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9204.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9204.6">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9204.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9204.7">CILLER(83) set new best for sector 3</Sector>
+<Score et="9212.4">Christian Tropeano (81) lap=15 point=0 t=-1.000 et=9212.339</Score>
+<Sector et="9235.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="9235.6">Christian Tropeano (81) lap=15 point=1 t=23.261 et=9235.600</Score>
+<Sector et="9235.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9235.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9235.7">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9235.7">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9235.7">CILLER(83) set new best for sector 2</Sector>
+<Score et="9236.0">Marcel Wolf(80) lap=29 point=0 t=-1.000 et=9235.937</Score>
+<Score et="9238.6">Connor Roth(82) lap=16 point=0 t=103.486 et=9238.564</Score>
+<Command from="CILLER" nodeid="4" et="9240.7">/callvote str</Command>
+<Vote et="9240.7">CILLER: /callvote str</Vote>
+<Sent et="9240.7">&quot;straight to race&quot; proposed by CILLER: 2 votes needed to pass</Sent>
+<Command from="CILLER" nodeid="4" et="9242.5">/callvote str</Command>
+<Vote et="9242.5">CILLER: /callvote str</Vote>
+<Sent et="9242.5">Cannot call vote: there is a vote in progress</Sent>
+<Sector et="9258.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9258.5">Marcel Wolf(80) lap=29 point=1 t=22.491 et=9258.428</Score>
+<Sector et="9258.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9258.5">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9258.5">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9258.5">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9258.5">CILLER(83) set new best for sector 2</Sector>
+<Sector et="9261.6">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9261.6">Connor Roth(82) lap=16 point=1 t=22.967 et=9261.531</Score>
+<Sector et="9261.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9261.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9261.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9261.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9261.6">CILLER(83) set new best for sector 2</Sector>
+<Score et="9262.8">Sven Heide(84) lap=7 point=1 t=-1.000 et=9262.751</Score>
+<Sector et="9283.0">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="9283.0">Christian Tropeano (81) lap=15 point=2 t=70.589 et=9282.928</Score>
+<Sector et="9283.0">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9283.0">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9283.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9283.0">CILLER(83) set new best for sector 3</Sector>
+<Sector et="9283.1">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9305.1">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="9305.1">Marcel Wolf(80) lap=29 point=2 t=69.142 et=9305.078</Score>
+<Sector et="9305.1">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9305.1">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9305.1">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9305.1">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9305.2">CILLER(83) set new best for sector 3</Sector>
+<Score et="9308.5">Connor Roth(82) lap=16 point=2 t=69.892 et=9308.456</Score>
+<Sector et="9308.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9308.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9308.5">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9308.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9308.5">CILLER(83) set new best for sector 3</Sector>
+<Sector et="9308.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="9311.2">Sven Heide(84) lap=7 point=2 t=-1.000 et=9311.123</Score>
+<Sector et="9316.5">Christian Tropeano (81) set new best for sector 1</Sector>
+<Score et="9316.5">Christian Tropeano (81) lap=16 point=0 t=104.146 et=9316.484</Score>
+<Sector et="9316.5">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9316.5">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="9316.5">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="9316.5">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="9316.6">CILLER(83) set new best for sector 1</Sector>
+<Chat et="9321.5">CILLER left the race.</Chat>
+<Sector et="9337.9">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="9337.9">Marcel Wolf(80) lap=30 point=0 t=101.972 et=9337.908</Score>
+<Sector et="9337.9">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="9338.0">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9338.0">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="9338.0">Connor Roth(82) set new best for sector 1</Sector>
+<Score et="9339.7">Christian Tropeano (81) lap=16 point=1 t=23.187 et=9339.671</Score>
+<Sector et="9339.7">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9339.7">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9339.7">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9339.7">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9339.7">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9341.6">Connor Roth(82) lap=17 point=0 t=102.985 et=9341.550</Score>
+<Score et="9345.3">Sven Heide(84) lap=8 point=0 t=-1.000 et=9345.227</Score>
+<Sector et="9360.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9360.6">Marcel Wolf(80) lap=30 point=1 t=22.645 et=9360.553</Score>
+<Sector et="9360.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9360.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9360.6">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9360.7">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="9364.5">Connor Roth(82) lap=17 point=1 t=22.887 et=9364.437</Score>
+<Sector et="9364.5">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9364.5">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9364.5">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9364.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9364.5">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9368.3">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="9368.3">Sven Heide(84) lap=8 point=1 t=23.021 et=9368.248</Score>
+<Sector et="9368.3">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9368.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9368.3">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9368.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9386.6">Christian Tropeano (81) lap=16 point=2 t=70.119 et=9386.604</Score>
+<Sector et="9386.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9386.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9386.7">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9386.7">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9386.7">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9407.2">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="9407.2">Marcel Wolf(80) lap=30 point=2 t=69.226 et=9407.134</Score>
+<Sector et="9407.2">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9407.2">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9407.2">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9407.2">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="9411.7">Connor Roth(82) lap=17 point=2 t=-1.000 et=9411.680</Score>
+<Sector et="9415.2">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="9415.2">Sven Heide(84) lap=8 point=2 t=69.970 et=9415.196</Score>
+<Sector et="9415.2">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9415.3">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9415.3">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9415.3">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="9420.0">Christian Tropeano (81) lap=17 point=0 t=103.480 et=9419.965</Score>
+<Sector et="9420.0">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9420.0">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9420.0">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="9420.0">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="9420.0">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="9439.9">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="9439.9">Marcel Wolf(80) lap=31 point=0 t=101.933 et=9439.841</Score>
+<Sector et="9439.9">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="9439.9">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="9439.9">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="9440.0">Christian Tropeano (81) set new best for sector 1</Sector>
+<Score et="9443.4">Christian Tropeano (81) lap=17 point=1 t=23.381 et=9443.346</Score>
+<Sector et="9443.4">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9443.4">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9443.4">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9443.4">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9443.4">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9445.0">Connor Roth(82) lap=18 point=0 t=-1.000 et=9445.004</Score>
+<Sector et="9448.5">Sven Heide(84) set new best for sector 1</Sector>
+<Score et="9448.5">Sven Heide(84) lap=9 point=0 t=103.199 et=9448.426</Score>
+<Sector et="9448.5">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="9448.5">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9448.5">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="9448.5">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="9462.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9462.5">Marcel Wolf(80) lap=31 point=1 t=22.657 et=9462.498</Score>
+<Sector et="9462.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9462.5">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9462.5">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9462.5">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9467.8">Connor Roth(82) lap=18 point=1 t=22.761 et=9467.765</Score>
+<Sector et="9467.8">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9467.8">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9467.8">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9467.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9467.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9471.1">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="9471.1">Sven Heide(84) lap=9 point=1 t=22.646 et=9471.072</Score>
+<Sector et="9471.1">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9471.1">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9471.1">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9471.1">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9490.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="9490.5">Christian Tropeano (81) lap=17 point=2 t=70.509 et=9490.474</Score>
+<Sector et="9490.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9490.5">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9490.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9490.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9510.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="9510.5">Marcel Wolf(80) lap=31 point=2 t=70.604 et=9510.445</Score>
+<Sector et="9510.5">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9510.5">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9510.5">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9510.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="9514.8">Connor Roth(82) lap=18 point=2 t=69.738 et=9514.742</Score>
+<Sector et="9514.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9514.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9514.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9514.8">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9514.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9518.0">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="9518.0">Sven Heide(84) lap=9 point=2 t=69.542 et=9517.968</Score>
+<Sector et="9518.0">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9518.0">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9518.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9518.0">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="9520.6">Marcel Wolf(80) lap=32 point=0 t=-1.000 et=9520.541</Score>
+<Score et="9531.7">Christian Tropeano (81) lap=18 point=0 t=-1.000 et=9531.680</Score>
+<Score et="9547.8">Connor Roth(82) lap=19 point=0 t=102.729 et=9547.732</Score>
+<Sector et="9551.3">Sven Heide(84) set new best for sector 1</Sector>
+<Score et="9551.3">Sven Heide(84) lap=10 point=0 t=102.808 et=9551.233</Score>
+<Sector et="9551.3">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="9551.3">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="9551.3">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="9551.3">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9570.5">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9570.5">Connor Roth(82) lap=19 point=1 t=22.773 et=9570.506</Score>
+<Sector et="9570.5">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9570.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9570.6">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9570.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9574.2">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="9574.2">Sven Heide(84) lap=10 point=1 t=22.975 et=9574.208</Score>
+<Sector et="9574.2">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9574.3">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9574.3">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9574.3">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9601.2">Marcel Wolf(80) lap=32 point=1 t=-1.000 et=9601.168</Score>
+<Score et="9618.1">Connor Roth(82) lap=19 point=2 t=70.293 et=9618.025</Score>
+<Sector et="9618.1">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9618.1">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9618.1">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9618.1">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9618.1">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9621.8">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="9621.8">Sven Heide(84) lap=10 point=2 t=70.503 et=9621.736</Score>
+<Sector et="9621.8">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9621.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9621.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9621.8">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="9627.6">Christian Tropeano (81) lap=18 point=1 t=-1.000 et=9627.613</Score>
+<Score et="9648.0">Marcel Wolf(80) lap=32 point=2 t=-1.000 et=9648.011</Score>
+<Score et="9650.9">Connor Roth(82) lap=20 point=0 t=103.147 et=9650.880</Score>
+<Score et="9657.4">Sven Heide(84) lap=11 point=0 t=-1.000 et=9657.404</Score>
+<Score et="9672.9">Connor Roth(82) lap=20 point=1 t=-1.000 et=9672.918</Score>
+<Score et="9672.9">Connor Roth(82) lap=20 point=2 t=-1.000 et=9672.918</Score>
+<Score et="9672.9">Connor Roth(82) lap=21 point=0 t=-1.000 et=9672.918</Score>
+<Score et="9677.0">Christian Tropeano (81) lap=18 point=2 t=-1.000 et=9677.016</Score>
+<Score et="9681.2">Marcel Wolf(80) lap=33 point=0 t=-1.000 et=9681.194</Score>
+<Sector et="9703.7">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9703.7">Marcel Wolf(80) lap=33 point=1 t=22.461 et=9703.655</Score>
+<Sector et="9703.7">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9703.7">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9703.7">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9703.7">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9712.6">Christian Tropeano (81) lap=19 point=0 t=-1.000 et=9712.573</Score>
+<Score et="9721.2">Sven Heide(84) lap=11 point=1 t=-1.000 et=9721.199</Score>
+<Score et="9730.8">Sven Heide(84) lap=11 point=2 t=-1.000 et=9730.817</Score>
+<Score et="9730.8">Sven Heide(84) lap=12 point=0 t=-1.000 et=9730.817</Score>
+<Score et="9735.6">Christian Tropeano (81) lap=19 point=1 t=23.047 et=9735.620</Score>
+<Sector et="9735.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9735.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9735.7">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9735.7">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9735.7">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9750.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="9750.0">Marcel Wolf(80) lap=33 point=2 t=68.822 et=9750.017</Score>
+<Sector et="9750.0">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9750.1">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9750.1">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9750.1">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9782.7">Marcel Wolf(80) set new best for sector 1</Sector>
+<Score et="9782.7">Marcel Wolf(80) lap=34 point=0 t=101.483 et=9782.678</Score>
+<Sector et="9782.7">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="9782.7">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9782.7">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="9782.7">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="9783.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="9783.5">Christian Tropeano (81) lap=19 point=2 t=70.932 et=9783.505</Score>
+<Sector et="9783.5">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9783.6">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9783.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9783.6">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="9793.2">Sven Heide(84) lap=12 point=1 t=-1.000 et=9793.140</Score>
+<Sector et="9805.2">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9805.2">Marcel Wolf(80) lap=34 point=1 t=22.501 et=9805.179</Score>
+<Sector et="9805.2">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9805.2">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9805.2">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9805.2">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9817.7">Christian Tropeano (81) lap=20 point=0 t=105.102 et=9817.675</Score>
+<Score et="9840.4">Sven Heide(84) lap=12 point=2 t=-1.000 et=9840.392</Score>
+<Sector et="9840.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="9840.9">Christian Tropeano (81) lap=20 point=1 t=23.205 et=9840.880</Score>
+<Sector et="9840.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9840.9">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9840.9">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9840.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9851.9">Marcel Wolf(80) lap=34 point=2 t=-1.000 et=9851.860</Score>
+<Score et="9875.6">Sven Heide(84) lap=13 point=0 t=-1.000 et=9875.611</Score>
+<Score et="9885.1">Marcel Wolf(80) lap=35 point=0 t=-1.000 et=9885.083</Score>
+<Sector et="9887.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="9887.6">Christian Tropeano (81) lap=20 point=2 t=69.912 et=9887.587</Score>
+<Sector et="9887.6">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9887.6">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9887.6">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9887.6">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9898.8">Sven Heide(84) set new best for sector 2</Sector>
+<Score et="9898.8">Sven Heide(84) lap=13 point=1 t=23.110 et=9898.722</Score>
+<Sector et="9898.8">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9898.8">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9898.8">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9898.8">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9907.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Score et="9907.5">Marcel Wolf(80) lap=35 point=1 t=22.434 et=9907.517</Score>
+<Sector et="9907.5">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9907.6">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9907.6">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9907.6">Connor Roth(82) set new best for sector 2</Sector>
+<Score et="9920.8">Christian Tropeano (81) lap=21 point=0 t=103.093 et=9920.768</Score>
+<Sector et="9920.8">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9920.8">Christian Tropeano (81) set new best for sector 1</Sector>
+<Sector et="9920.8">Sven Heide(84) set new best for sector 1</Sector>
+<Sector et="9920.8">Connor Roth(82) set new best for sector 1</Sector>
+<Sector et="9920.8">Marcel Wolf(80) set new best for sector 1</Sector>
+<Sector et="9943.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Score et="9943.9">Christian Tropeano (81) lap=21 point=1 t=23.056 et=9943.823</Score>
+<Sector et="9943.9">Christian Tropeano (81) set new best for sector 2</Sector>
+<Sector et="9943.9">Sven Heide(84) set new best for sector 2</Sector>
+<Sector et="9943.9">Connor Roth(82) set new best for sector 2</Sector>
+<Sector et="9943.9">Marcel Wolf(80) set new best for sector 2</Sector>
+<Sector et="9946.7">Sven Heide(84) set new best for sector 3</Sector>
+<Score et="9946.7">Sven Heide(84) lap=13 point=2 t=71.091 et=9946.702</Score>
+<Sector et="9946.7">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9946.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9946.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9946.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9954.2">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="9954.2">Marcel Wolf(80) lap=35 point=2 t=69.046 et=9954.129</Score>
+<Sector et="9954.2">Marcel Wolf(80) set new best for sector 3</Sector>
+<Sector et="9954.2">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9954.2">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9954.2">Connor Roth(82) set new best for sector 3</Sector>
+<Score et="9987.4">Marcel Wolf(80) lap=36 point=0 t=-1.000 et=9987.338</Score>
+<Score et="9987.9">Sven Heide(84) lap=14 point=0 t=-1.000 et=9987.850</Score>
+<Sector et="9990.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Score et="9990.8">Christian Tropeano (81) lap=21 point=2 t=69.995 et=9990.763</Score>
+<Sector et="9990.8">Christian Tropeano (81) set new best for sector 3</Sector>
+<Sector et="9990.8">Sven Heide(84) set new best for sector 3</Sector>
+<Sector et="9990.8">Connor Roth(82) set new best for sector 3</Sector>
+<Sector et="9990.8">Marcel Wolf(80) set new best for sector 3</Sector>
+<Score et="10034.4">Christian Tropeano (81) lap=22 point=0 t=-1.000 et=10034.344</Score>
+</Stream>
+<MostLapsCompleted>36</MostLapsCompleted>
+<Driver>
+<Name>Daniel Weiss</Name>
+<SteamID>76561198060516602</SteamID>
+<Connected>0</Connected>
+<VehFile>96DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="4709.7520" s1="22.3618" s2="46.3008" s3="32.6602" fuel="0.408" twfl="0.965" twfr="0.980" twrl="0.945" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">101.3228</Lap>
+<Lap num="3" p="1" et="4811.0747" s1="22.2925" s2="46.3271" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="4906.9683" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="4906.9683" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="5044.4575" s1="22.2651" s2="46.2773" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="5146.3604" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="5146.3604" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="5266.1411" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="5278.6470" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="5405.9854" s1="22.3687" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="5436.5439" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="5572.3057" fuel="0.408" twfl="0.969" twfr="0.980" twrl="0.941" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="5673.7246" s1="22.6509" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="5700.5845" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="1" et="5821.8945" s1="22.5693" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="1" et="5849.4424" fuel="0.431" twfl="0.992" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="1" et="5973.9004" s1="22.4453" s2="46.5161" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="1" et="6075.5229" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="1" et="6075.5229" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="21" p="1" et="6300.8125" s1="22.2817" s2="46.2222" s3="32.6128" fuel="0.408" twfl="0.961" twfr="0.984" twrl="0.937" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.1167</Lap>
+<Lap num="22" p="1" et="6401.9292" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="1" et="6422.4941" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="24" p="1" et="6547.8623" s1="22.3799" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="1" et="6621.4282" fuel="0.431" twfl="0.984" twfr="0.996" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="1" et="6741.6421" s1="22.1597" fuel="0.408" twfl="0.965" twfr="0.984" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="27" p="1" et="6843.1167" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>101.1167</BestLapTime>
+<Laps>27</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="4" endLap="4">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="6">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="7" endLap="7">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="8" endLap="18">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="19" endLap="19">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="20" endLap="27">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="27"></Swap></Driver>
+<Driver>
+<Name>Marcel Wolf</Name>
+<SteamID>76561197979977963</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="6072.4780" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="6107.3457" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="2" et="6178.6353" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="6606.5029" fuel="0.412" twfl="0.973" twfr="0.984" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="6712.0449" fuel="0.388" twfl="0.957" twfr="0.976" twrl="0.922" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="6818.8091" s1="23.4351" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="2" et="6853.3047" fuel="0.431" twfl="0.980" twfr="0.992" twrl="0.969" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="7054.3638" s1="22.9829" s2="47.6890" s3="38.3320" fuel="0.408" twfl="0.961" twfr="0.980" twrl="0.922" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">109.0039</Lap>
+<Lap num="10" p="1" et="7163.3677" s1="22.8599" s2="48.3799" s3="33.8857" fuel="0.388" twfl="0.945" twfr="0.969" twrl="0.871" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">105.1255</Lap>
+<Lap num="11" p="1" et="7268.4932" s1="22.9858" s2="47.4849" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="7370.5103" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="7370.5103" fuel="0.435" twfl="0.992" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="7528.7070" fuel="0.412" twfl="0.973" twfr="0.984" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="7631.8721" s1="22.5571" s2="47.0044" s3="33.7397" fuel="0.388" twfl="0.957" twfr="0.976" twrl="0.910" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">103.3013</Lap>
+<Lap num="16" p="2" et="7735.1733" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="2" et="7764.3936" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="2" et="7915.2197" fuel="0.412" twfl="0.969" twfr="0.984" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="8017.9707" s1="22.5942" s2="47.1309" s3="33.4546" fuel="0.388" twfl="0.957" twfr="0.976" twrl="0.918" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.1797</Lap>
+<Lap num="20" p="2" et="8121.1504" s1="32.6006" fuel="0.361" twfl="0.914" twfr="0.969" twrl="0.808" twrr="0.918" fcompound="0,Dry" rcompound="0,Dry">135.7695</Lap>
+<Lap num="21" p="2" et="8256.9199" fuel="0.341" twfl="0.902" twfr="0.961" twrl="0.780" twrr="0.898" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="2" et="8365.4238" s1="23.0957" s2="48.0752" s3="37.1914" fuel="0.318" twfl="0.871" twfr="0.949" twrl="0.714" twrr="0.871" fcompound="0,Dry" rcompound="0,Dry">108.3623</Lap>
+<Lap num="23" p="2" et="8473.7861" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="24" p="2" et="8512.3750" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="2" et="8682.5850" s1="22.8203" s2="46.7334" s3="33.0156" fuel="0.408" twfl="0.973" twfr="0.984" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">102.5693</Lap>
+<Lap num="26" p="2" et="8785.1543" s1="22.5957" s2="46.9229" s3="33.3506" fuel="0.384" twfl="0.957" twfr="0.976" twrl="0.929" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">102.8691</Lap>
+<Lap num="27" p="2" et="8888.0234" s1="22.8125" s2="46.9131" s3="33.3398" fuel="0.365" twfl="0.937" twfr="0.969" twrl="0.894" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">103.0654</Lap>
+<Lap num="28" p="2" et="8991.0889" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="29" p="2" et="9017.6396" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="30" p="1" et="9235.9365" s1="22.4912" s2="46.6504" s3="32.8301" fuel="0.408" twfl="0.969" twfr="0.980" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.9717</Lap>
+<Lap num="31" p="1" et="9337.9082" s1="22.6445" s2="46.5811" s3="32.7070" fuel="0.384" twfl="0.949" twfr="0.973" twrl="0.922" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">101.9326</Lap>
+<Lap num="32" p="1" et="9439.8408" s1="22.6572" s2="47.9473" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="33" p="1" et="9520.5410" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="34" p="1" et="9681.1943" s1="22.4609" s2="46.3613" s3="32.6611" fuel="0.408" twfl="0.969" twfr="0.984" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">101.4834</Lap>
+<Lap num="35" p="1" et="9782.6777" s1="22.5010" fuel="0.384" twfl="0.953" twfr="0.976" twrl="0.922" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="36" p="1" et="9885.0830" s1="22.4336" s2="46.6123" fuel="0.361" twfl="0.933" twfr="0.965" twrl="0.890" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>101.4834</BestLapTime>
+<Laps>36</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="12" endLap="12">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="13" endLap="36">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Connor Roth</Name>
+<SteamID>76561197984386799</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.322" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="7646.9487" s1="23.6528" s2="46.8013" s3="32.8032" fuel="0.302" twfl="0.969" twfr="0.984" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.2573</Lap>
+<Lap num="3" p="1" et="7750.2061" s1="22.8066" s2="46.7305" s3="32.8267" fuel="0.278" twfl="0.945" twfr="0.973" twrl="0.929" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">102.3638</Lap>
+<Lap num="4" p="1" et="7852.5698" s1="22.8755" s2="46.6392" s3="32.8818" fuel="0.255" twfl="0.925" twfr="0.965" twrl="0.898" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">102.3965</Lap>
+<Lap num="5" p="1" et="7954.9663" s1="22.7271" s2="46.9966" s3="33.1006" fuel="0.231" twfl="0.902" twfr="0.953" twrl="0.863" twrr="0.918" fcompound="0,Dry" rcompound="0,Dry">102.8242</Lap>
+<Lap num="6" p="1" et="8057.7905" s1="31.4502" s2="48.5991" s3="33.6001" fuel="0.208" twfl="0.878" twfr="0.933" twrl="0.796" twrr="0.890" fcompound="0,Dry" rcompound="0,Dry">113.6494</Lap>
+<Lap num="7" p="1" et="8171.4399" s1="22.8813" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="8232.6182" fuel="0.322" twfl="0.984" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="8421.1797" s1="22.7783" s2="46.9814" s3="32.6387" fuel="0.298" twfl="0.961" twfr="0.980" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">102.3984</Lap>
+<Lap num="10" p="1" et="8523.5781" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="8545.4961" fuel="0.322" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="8725.8887" s1="22.6650" s2="46.8760" s3="32.7949" fuel="0.298" twfl="0.965" twfr="0.984" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">102.3359</Lap>
+<Lap num="13" p="1" et="8828.2246" s1="22.6016" s2="46.6748" s3="32.8223" fuel="0.275" twfl="0.941" twfr="0.976" twrl="0.925" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">102.0986</Lap>
+<Lap num="14" p="1" et="8930.3232" s1="22.5488" s2="47.0107" s3="32.8506" fuel="0.251" twfl="0.918" twfr="0.969" twrl="0.898" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">102.4102</Lap>
+<Lap num="15" p="1" et="9032.7334" s1="22.8037" s2="46.7725" s3="32.7686" fuel="0.231" twfl="0.894" twfr="0.957" twrl="0.867" twrr="0.918" fcompound="0,Dry" rcompound="0,Dry">102.3447</Lap>
+<Lap num="16" p="1" et="9135.0781" s1="22.5107" s2="46.9883" s3="33.9873" fuel="0.208" twfl="0.867" twfr="0.949" twrl="0.824" twrr="0.902" fcompound="0,Dry" rcompound="0,Dry">103.4863</Lap>
+<Lap num="17" p="2" et="9238.5645" s1="22.9668" s2="46.9248" s3="33.0938" fuel="0.184" twfl="0.843" twfr="0.941" twrl="0.788" twrr="0.878" fcompound="0,Dry" rcompound="0,Dry">102.9854</Lap>
+<Lap num="18" p="2" et="9341.5498" s1="22.8867" fuel="0.161" twfl="0.820" twfr="0.933" twrl="0.757" twrr="0.859" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="9445.0039" s1="22.7607" s2="46.9775" s3="32.9902" fuel="0.137" twfl="0.800" twfr="0.922" twrl="0.729" twrr="0.835" fcompound="0,Dry" rcompound="0,Dry">102.7285</Lap>
+<Lap num="20" p="2" et="9547.7324" s1="22.7734" s2="47.5195" s3="32.8545" fuel="0.114" twfl="0.776" twfr="0.914" twrl="0.690" twrr="0.816" fcompound="0,Dry" rcompound="0,Dry">103.1475</Lap>
+<Lap num="21" p="2" et="9650.8799" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.0986</BestLapTime>
+<Laps>21</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="21">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sven Heide</Name>
+<SteamID>76561198012671202</SteamID>
+<Connected>1</Connected>
+<VehFile>69DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.443" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="3" et="8537.4277" s1="23.2080" s2="47.5605" s3="33.5020" fuel="0.420" twfl="0.969" twfr="0.980" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">104.2705</Lap>
+<Lap num="3" p="3" et="8641.6982" s1="23.0713" s2="47.1299" s3="33.3330" fuel="0.400" twfl="0.941" twfr="0.965" twrl="0.941" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">103.5342</Lap>
+<Lap num="4" p="3" et="8745.2324" s1="22.9795" s2="58.2383" s3="34.0439" fuel="0.376" twfl="0.914" twfr="0.953" twrl="0.894" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">115.2617</Lap>
+<Lap num="5" p="3" et="8860.4941" s1="23.6318" s2="48.0996" s3="33.7109" fuel="0.353" twfl="0.882" twfr="0.937" twrl="0.871" twrr="0.914" fcompound="0,Dry" rcompound="0,Dry">105.4424</Lap>
+<Lap num="6" p="3" et="8965.9365" s1="23.3145" s2="48.6738" s3="34.7139" fuel="0.333" twfl="0.847" twfr="0.918" twrl="0.843" twrr="0.890" fcompound="0,Dry" rcompound="0,Dry">106.7021</Lap>
+<Lap num="7" p="3" et="9072.6387" s1="23.3711" s2="47.5801" fuel="0.310" twfl="0.808" twfr="0.906" twrl="0.816" twrr="0.871" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="8" p="3" et="9181.1992" fuel="0.443" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="3" et="9345.2266" s1="23.0215" s2="46.9482" s3="33.2295" fuel="0.420" twfl="0.949" twfr="0.976" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.1992</Lap>
+<Lap num="10" p="3" et="9448.4258" s1="22.6465" s2="46.8955" s3="33.2656" fuel="0.396" twfl="0.922" twfr="0.965" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">102.8076</Lap>
+<Lap num="11" p="3" et="9551.2334" s1="22.9746" s2="47.5283" fuel="0.376" twfl="0.894" twfr="0.910" twrl="0.914" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="12" p="3" et="9657.4043" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="3" et="9730.8174" fuel="0.431" twfl="0.984" twfr="0.988" twrl="0.965" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="3" et="9875.6113" s1="23.1104" s2="47.9805" fuel="0.412" twfl="0.965" twfr="0.980" twrl="0.922" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>102.8076</BestLapTime>
+<Laps>14</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="14">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Christian Tropeano </Name>
+<SteamID>76561198195847189</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.431" twfl="0.988" twfr="0.949" twrl="0.953" twrr="0.918" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="7159.3857" s1="23.3682" s2="48.5913" s3="35.3633" fuel="0.408" twfl="0.976" twfr="0.937" twrl="0.929" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry">107.3228</Lap>
+<Lap num="3" p="2" et="7266.7085" s1="23.5771" s2="48.1138" s3="46.1577" fuel="0.388" twfl="0.957" twfr="0.925" twrl="0.882" twrr="0.882" fcompound="0,Dry" rcompound="0,Dry">117.8486</Lap>
+<Lap num="4" p="2" et="7384.5571" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="7387.6938" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="7527.6196" s1="23.1929" s2="48.4580" s3="33.8115" fuel="0.408" twfl="0.973" twfr="0.965" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">105.4624</Lap>
+<Lap num="7" p="2" et="7633.0820" s1="23.1338" s2="47.0571" s3="34.6094" fuel="0.388" twfl="0.957" twfr="0.953" twrl="0.929" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">104.8003</Lap>
+<Lap num="8" p="3" et="7737.8823" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="3" et="7761.5337" fuel="0.431" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="3" et="7937.9980" s1="23.2114" s2="47.1738" s3="34.1982" fuel="0.408" twfl="0.976" twfr="0.949" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">104.5835</Lap>
+<Lap num="11" p="3" et="8042.5815" s1="23.7500" s2="47.4648" s3="33.6860" fuel="0.384" twfl="0.961" twfr="0.929" twrl="0.922" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">104.9009</Lap>
+<Lap num="12" p="3" et="8147.4824" s1="23.5933" s2="48.1978" s3="35.2139" fuel="0.361" twfl="0.945" twfr="0.918" twrl="0.886" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">107.0049</Lap>
+<Lap num="13" p="3" et="8254.4873" s1="23.6064" s2="47.1934" s3="33.8428" fuel="0.337" twfl="0.929" twfr="0.902" twrl="0.843" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry">104.6426</Lap>
+<Lap num="14" p="3" et="8359.1299" s1="24.1494" s2="59.1719" fuel="0.318" twfl="0.894" twfr="0.867" twrl="0.776" twrr="0.855" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="15" p="4" et="8481.9600" fuel="0.431" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="4" et="9212.3389" s1="23.2607" s2="47.3281" s3="33.5566" fuel="0.408" twfl="0.980" twfr="0.988" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">104.1455</Lap>
+<Lap num="17" p="3" et="9316.4844" s1="23.1865" s2="46.9326" s3="33.3613" fuel="0.384" twfl="0.969" twfr="0.976" twrl="0.949" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">103.4805</Lap>
+<Lap num="18" p="4" et="9419.9648" s1="23.3809" s2="47.1279" fuel="0.365" twfl="0.953" twfr="0.957" twrl="0.910" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="19" p="4" et="9531.6797" fuel="0.431" twfl="0.996" twfr="0.996" twrl="0.992" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="4" et="9712.5732" s1="23.0469" s2="47.8848" s3="34.1699" fuel="0.408" twfl="0.980" twfr="0.988" twrl="0.961" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">105.1016</Lap>
+<Lap num="21" p="4" et="9817.6748" s1="23.2051" s2="46.7070" s3="33.1807" fuel="0.384" twfl="0.965" twfr="0.973" twrl="0.922" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">103.0928</Lap>
+<Lap num="22" p="4" et="9920.7676" s1="23.0557" s2="46.9395" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.0928</BestLapTime>
+<Laps>22</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="22">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>CILLER</Name>
+<SteamID>76561198882590346</SteamID>
+<Connected>0</Connected>
+<VehFile>96DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.431" twfl="0.925" twfr="0.969" twrl="0.973" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="4" et="7836.4561" s1="25.0596" s2="48.7007" s3="34.2446" fuel="0.408" twfl="0.827" twfr="0.906" twrl="0.957" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">108.0049</Lap>
+<Lap num="3" p="4" et="7944.4609" s1="23.3384" s2="49.1465" s3="34.3872" fuel="0.388" twfl="0.788" twfr="0.808" twrl="0.937" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">106.8721</Lap>
+<Lap num="4" p="4" et="8051.3330" s1="24.7104" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="4" et="8106.3296" fuel="0.431" twfl="0.969" twfr="0.961" twrl="0.969" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="4" et="8345.0264" fuel="0.408" twfl="0.933" twfr="0.808" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="4" et="8454.3223" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="5" et="8478.1709" fuel="0.431" twfl="0.976" twfr="0.980" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="5" et="8733.2578" s1="22.9219" s2="48.1162" s3="33.6436" fuel="0.408" twfl="0.933" twfr="0.957" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">104.6816</Lap>
+<Lap num="10" p="5" et="8837.9395" s1="23.0244" s2="47.6084" s3="34.2549" fuel="0.388" twfl="0.894" twfr="0.918" twrl="0.925" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">104.8877</Lap>
+<Lap num="11" p="5" et="8942.8271" s1="23.0850" s2="48.0879" s3="34.6709" fuel="0.365" twfl="0.843" twfr="0.871" twrl="0.906" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">105.8438</Lap>
+<Lap num="12" p="5" et="9048.6709" s1="23.2852" s2="48.5850" s3="36.9434" fuel="0.341" twfl="0.792" twfr="0.839" twrl="0.886" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">108.8135</Lap>
+<Lap num="13" p="5" et="9157.4844" s1="23.2822" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>104.6816</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="13">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="13"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

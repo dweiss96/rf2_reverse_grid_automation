@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675587395</DateTime>
+<TimeString>2023/02/05 09:56:35</TimeString>
+<Mod>GSR_CUP_231_R1_v4</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\Monza_2021\1.33\layoutMonza.mas</TrackData>
+<TrackLength>5780.6</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1675593134</DateTime>
+<TimeString>2023/02/05 11:32:14</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>20</Minutes>
+<Stream>
+<Command et="10.8">/w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="10.8">&gt; /w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.0">/w Sven Heide germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.0">&gt; /w Sven Heide germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="19.3">Sven Heide left the race.</Chat>
+<Chat et="244.0">Daniel Weiss has entered the race.</Chat>
+<System et="244.0">Daniel Weiss(29) 93.195.164.4 has joined as a participant</System>
+<Chat et="251.8">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="251.8">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="252.0">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="252.0">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Score et="406.3">Daniel Weiss(29) lap=0 point=1 t=-1.000 et=406.291</Score>
+<Score et="424.7">Daniel Weiss(29) lap=0 point=2 t=-1.000 et=424.633</Score>
+<Score et="424.7">Daniel Weiss(29) lap=1 point=0 t=-1.000 et=424.633</Score>
+<Score et="492.5">Daniel Weiss(29) lap=1 point=1 t=-1.000 et=492.465</Score>
+<Score et="530.0">Daniel Weiss(29) lap=1 point=2 t=-1.000 et=529.987</Score>
+<Score et="566.7">Daniel Weiss(29) lap=2 point=0 t=-1.000 et=566.702</Score>
+<Score et="603.5">Daniel Weiss(29) lap=2 point=1 t=36.750 et=603.452</Score>
+<Sector et="603.5">Daniel Weiss(29) set new best for sector 2</Sector>
+<Sector et="603.5">Daniel Weiss(29) set new best for sector 2</Sector>
+<Score et="640.7">Daniel Weiss(29) lap=2 point=2 t=73.957 et=640.659</Score>
+<Sector et="640.7">Daniel Weiss(29) set new best for sector 3</Sector>
+<Sector et="640.7">Daniel Weiss(29) set new best for sector 3</Sector>
+<Score et="677.6">Daniel Weiss(29) lap=3 point=0 t=110.894 et=677.596</Score>
+<Sector et="677.6">Daniel Weiss(29) set new best for sector 1</Sector>
+<Sector et="677.6">Daniel Weiss(29) set new best for sector 1</Sector>
+<Sector et="714.0">Daniel Weiss(29) set new best for sector 2</Sector>
+<Score et="714.0">Daniel Weiss(29) lap=3 point=1 t=36.340 et=713.936</Score>
+<Sector et="714.0">Daniel Weiss(29) set new best for sector 2</Sector>
+<Sector et="751.6">Daniel Weiss(29) set new best for sector 3</Sector>
+<Score et="751.6">Daniel Weiss(29) lap=3 point=2 t=73.965 et=751.561</Score>
+<Sector et="751.6">Daniel Weiss(29) set new best for sector 3</Sector>
+<Score et="788.9">Daniel Weiss(29) lap=4 point=0 t=111.318 et=788.913</Score>
+<Score et="825.5">Daniel Weiss(29) lap=4 point=1 t=36.516 et=825.430</Score>
+<Sector et="825.5">Daniel Weiss(29) set new best for sector 2</Sector>
+<Sector et="825.5">Daniel Weiss(29) set new best for sector 2</Sector>
+<Score et="862.8">Daniel Weiss(29) lap=4 point=2 t=73.874 et=862.788</Score>
+<Sector et="862.8">Daniel Weiss(29) set new best for sector 3</Sector>
+<Sector et="862.8">Daniel Weiss(29) set new best for sector 3</Sector>
+<Score et="899.8">Daniel Weiss(29) lap=5 point=0 t=110.877 et=899.791</Score>
+<Sector et="899.8">Daniel Weiss(29) set new best for sector 1</Sector>
+<Sector et="899.8">Daniel Weiss(29) set new best for sector 1</Sector>
+<Score et="935.8">Daniel Weiss(29) lap=5 point=1 t=35.954 et=935.745</Score>
+<Sector et="935.8">Daniel Weiss(29) set new best for sector 2</Sector>
+<Sector et="935.8">Daniel Weiss(29) set new best for sector 2</Sector>
+<Score et="943.4">Daniel Weiss(29) lap=5 point=2 t=-1.000 et=943.346</Score>
+<Score et="943.4">Daniel Weiss(29) lap=6 point=0 t=-1.000 et=943.346</Score>
+<Score et="1032.8">Daniel Weiss(29) lap=6 point=1 t=-1.000 et=1032.808</Score>
+<Score et="1070.3">Daniel Weiss(29) lap=6 point=2 t=-1.000 et=1070.335</Score>
+<Score et="1107.7">Daniel Weiss(29) lap=7 point=0 t=-1.000 et=1107.621</Score>
+<Score et="1143.8">Daniel Weiss(29) lap=7 point=1 t=36.182 et=1143.803</Score>
+<Sector et="1143.8">Daniel Weiss(29) set new best for sector 2</Sector>
+<Sector et="1143.8">Daniel Weiss(29) set new best for sector 2</Sector>
+<Sector et="1145.0">(30) set new best for sector 2</Sector>
+<Chat et="1145.1">Speedibus Rex  has entered the race.</Chat>
+<System et="1145.1">Speedibus Rex (30) 78.20.224.182 has joined as a participant</System>
+<Command et="1151.6">/w Speedibus Rex  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="1151.6">&gt; /w Speedibus Rex  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="1151.8">/w Speedibus Rex  germansimracing.de | discord.gg/GSR</Command>
+<Chat et="1151.8">&gt; /w Speedibus Rex  germansimracing.de | discord.gg/GSR</Chat>
+<Score et="1181.2">Daniel Weiss(29) lap=7 point=2 t=73.537 et=1181.158</Score>
+<Sector et="1181.2">Daniel Weiss(29) set new best for sector 3</Sector>
+<Sector et="1181.2">Daniel Weiss(29) set new best for sector 3</Sector>
+<Sector et="1181.2">Speedibus Rex (30) set new best for sector 3</Sector>
+<Sector et="1217.9">Daniel Weiss(29) set new best for sector 1</Sector>
+<Score et="1217.9">Daniel Weiss(29) lap=8 point=0 t=110.299 et=1217.921</Score>
+<Sector et="1217.9">Daniel Weiss(29) set new best for sector 1</Sector>
+<Sector et="1218.0">Speedibus Rex (30) set new best for sector 1</Sector>
+<Score et="1224.7">Speedibus Rex (30) lap=0 point=1 t=-1.000 et=1224.708</Score>
+<Score et="1253.8">Daniel Weiss(29) lap=8 point=1 t=35.894 et=1253.815</Score>
+<Sector et="1253.8">Daniel Weiss(29) set new best for sector 2</Sector>
+<Sector et="1253.8">Daniel Weiss(29) set new best for sector 2</Sector>
+<Sector et="1253.9">Speedibus Rex (30) set new best for sector 2</Sector>
+<Score et="1265.2">Speedibus Rex (30) lap=0 point=2 t=-1.000 et=1265.218</Score>
+<Sector et="1290.7">Daniel Weiss(29) set new best for sector 3</Sector>
+<Score et="1290.7">Daniel Weiss(29) lap=8 point=2 t=72.735 et=1290.656</Score>
+<Sector et="1290.7">Daniel Weiss(29) set new best for sector 3</Sector>
+<Sector et="1290.7">Speedibus Rex (30) set new best for sector 3</Sector>
+<Score et="1305.5">Speedibus Rex (30) lap=1 point=0 t=-1.000 et=1305.451</Score>
+<Score et="1321.4">Speedibus Rex (30) lap=1 point=1 t=-1.000 et=1321.426</Score>
+<Score et="1321.4">Speedibus Rex (30) lap=1 point=2 t=-1.000 et=1321.426</Score>
+<Score et="1321.4">Speedibus Rex (30) lap=2 point=0 t=-1.000 et=1321.426</Score>
+<Score et="1327.6">Daniel Weiss(29) lap=9 point=0 t=109.691 et=1327.612</Score>
+<Sector et="1327.6">Daniel Weiss(29) set new best for sector 1</Sector>
+<Sector et="1327.6">Daniel Weiss(29) set new best for sector 1</Sector>
+<Sector et="1327.7">Speedibus Rex (30) set new best for sector 1</Sector>
+<Score et="1357.1">Daniel Weiss(29) lap=9 point=1 t=-1.000 et=1355.512</Score>
+<Score et="1357.1">Daniel Weiss(29) lap=9 point=2 t=-1.000 et=1355.512</Score>
+<Score et="1357.1">Daniel Weiss(29) lap=10 point=0 t=-1.000 et=1355.512</Score>
+<Command from="Speedibus Rex " nodeid="2" et="1371.2">/vote yes</Command>
+<Vote et="1371.2">Speedibus Rex : /vote yes</Vote>
+<Sent et="1371.2">Vote ignored: There is no vote in progress</Sent>
+<Command from="Daniel Weiss" nodeid="1" et="1374.0">/callvote nextrace</Command>
+<Vote et="1374.0">Daniel Weiss: /callvote nextrace</Vote>
+<Sent et="1374.0">&quot;load next circuit&quot; proposed by Daniel Weiss: 1 vote needed to pass</Sent>
+</Stream>
+<MostLapsCompleted>10</MostLapsCompleted>
+<Driver>
+<Name>Daniel Weiss</Name>
+<SteamID>76561198060516602</SteamID>
+<Connected>1</Connected>
+<VehFile>96_DAR_96.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.408" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="424.6331" fuel="0.380" twfl="0.992" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="566.7017" s1="36.7499" s2="37.2072" s3="36.9372" fuel="0.349" twfl="0.976" twfr="0.976" twrl="0.961" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">110.8942</Lap>
+<Lap num="4" p="1" et="677.5959" s1="36.3401" s2="37.6252" s3="37.3523" fuel="0.322" twfl="0.965" twfr="0.969" twrl="0.941" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">111.3176</Lap>
+<Lap num="5" p="1" et="788.9135" s1="36.5161" s2="37.3580" s3="37.0030" fuel="0.294" twfl="0.953" twfr="0.961" twrl="0.918" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">110.8771</Lap>
+<Lap num="6" p="1" et="899.7905" s1="35.9545" fuel="0.408" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="943.3457" fuel="0.427" twfl="0.988" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="1107.6213" s1="36.1821" s2="37.3545" s3="36.7627" fuel="0.396" twfl="0.973" twfr="0.984" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">110.2993</Lap>
+<Lap num="9" p="1" et="1217.9207" s1="35.8939" s2="36.8414" s3="36.9556" fuel="0.369" twfl="0.957" twfr="0.973" twrl="0.949" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">109.6909</Lap>
+<Lap num="10" p="1" et="1327.6116" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>109.6909</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sven Heide</Name>
+<SteamID>76561198012671202</SteamID>
+<Connected>0</Connected>
+<VehFile>69_DAR_69.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Speedibus Rex </Name>
+<SteamID>76561198032872825</SteamID>
+<Connected>1</Connected>
+<VehFile>70_DAR_70.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#70 Torsten Spindler</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>70</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.427" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="1305.4509" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

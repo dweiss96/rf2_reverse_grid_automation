@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675333361</DateTime>
+<TimeString>2023/02/02 11:22:41</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v4</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675333362</DateTime>
+<TimeString>2023/02/02 11:22:42</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="2926.2">Hendrik has entered the race.</Chat>
+<System et="2926.2">Hendrik(28) 178.201.132.217 has joined as a participant</System>
+<Chat et="2932.4">&gt; /w Hendrik If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="2932.4">/w Hendrik If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="2932.6">/w Hendrik germansimracing.de | discord.gg/GSR</Command>
+<Chat et="2932.6">&gt; /w Hendrik germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="3000.1">Hendrik left the race.</Chat>
+<Chat et="3034.7">Hendrik has entered the race.</Chat>
+<System et="3034.7">Hendrik(29) 178.201.132.217 has joined as a participant</System>
+<System et="3034.7">Hendrik returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Chat et="3043.4">&gt; /w Hendrik If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="3043.4">/w Hendrik If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="3043.6">/w Hendrik germansimracing.de | discord.gg/GSR</Command>
+<Chat et="3043.6">&gt; /w Hendrik germansimracing.de | discord.gg/GSR</Chat>
+<Score et="3221.6">Hendrik(29) lap=0 point=1 t=-1.000 et=3221.544</Score>
+<Incident et="3259.5">Hendrik(29) reported contact (1487.19) with Immovable</Incident>
+<Incident et="3259.5">Hendrik(29) reported contact (1112.19) with Immovable</Incident>
+<Incident et="3259.5">Hendrik(29) reported contact (1471.38) with Immovable</Incident>
+<Sector et="3259.5">Hendrik(29) reports new suspension damage</Sector>
+<Score et="3288.1">Hendrik(29) lap=0 point=2 t=-1.000 et=3288.083</Score>
+<Score et="3325.7">Hendrik(29) lap=1 point=0 t=-1.000 et=3325.710</Score>
+<Score et="3350.5">Hendrik(29) lap=1 point=1 t=24.803 et=3350.513</Score>
+<Sector et="3350.5">Hendrik(29) set new best for sector 2</Sector>
+<Sector et="3350.5">Hendrik(29) set new best for sector 2</Sector>
+<Sector et="3401.7">Hendrik(29) set new best for sector 3</Sector>
+<Score et="3401.7">Hendrik(29) lap=1 point=2 t=75.935 et=3401.645</Score>
+<Sector et="3401.7">Hendrik(29) set new best for sector 3</Sector>
+<Score et="3438.1">Hendrik(29) lap=2 point=0 t=112.345 et=3438.055</Score>
+<Sector et="3438.1">Hendrik(29) set new best for sector 1</Sector>
+<Sector et="3438.1">Hendrik(29) set new best for sector 1</Sector>
+<Sector et="3464.0">Hendrik(29) set new best for sector 2</Sector>
+<Score et="3464.0">Hendrik(29) lap=2 point=1 t=25.965 et=3464.019</Score>
+<Sector et="3464.0">Hendrik(29) set new best for sector 2</Sector>
+<Score et="3498.3">Hendrik(29) lap=2 point=2 t=-1.000 et=3498.325</Score>
+<Score et="3498.3">Hendrik(29) lap=3 point=0 t=-1.000 et=3498.325</Score>
+<Score et="3540.8">Hendrik(29) lap=3 point=1 t=-1.000 et=3540.750</Score>
+<Score et="3592.1">Hendrik(29) lap=3 point=2 t=-1.000 et=3592.075</Score>
+<Score et="3628.7">Hendrik(29) lap=4 point=0 t=-1.000 et=3628.695</Score>
+<Score et="3653.1">Hendrik(29) lap=4 point=1 t=24.396 et=3653.090</Score>
+<Sector et="3653.1">Hendrik(29) set new best for sector 2</Sector>
+<Sector et="3653.1">Hendrik(29) set new best for sector 2</Sector>
+<Score et="3702.4">Hendrik(29) lap=4 point=2 t=73.695 et=3702.390</Score>
+<Sector et="3702.4">Hendrik(29) set new best for sector 3</Sector>
+<Sector et="3702.4">Hendrik(29) set new best for sector 3</Sector>
+<Sector et="3737.9">Hendrik(29) set new best for sector 1</Sector>
+<Score et="3737.9">Hendrik(29) lap=5 point=0 t=109.181 et=3737.875</Score>
+<Sector et="3737.9">Hendrik(29) set new best for sector 1</Sector>
+<Sector et="3762.2">Hendrik(29) set new best for sector 2</Sector>
+<Score et="3762.2">Hendrik(29) lap=5 point=1 t=24.281 et=3762.156</Score>
+<Sector et="3762.2">Hendrik(29) set new best for sector 2</Sector>
+<Score et="3799.0">Hendrik(29) lap=5 point=2 t=-1.000 et=3798.943</Score>
+<Score et="3799.0">Hendrik(29) lap=6 point=0 t=-1.000 et=3798.943</Score>
+<Score et="4147.8">Hendrik(29) lap=6 point=1 t=-1.000 et=4147.749</Score>
+<Score et="4197.7">Hendrik(29) lap=6 point=2 t=-1.000 et=4197.651</Score>
+<Score et="4246.0">Hendrik(29) lap=7 point=0 t=-1.000 et=4245.978</Score>
+<Score et="4269.8">Hendrik(29) lap=7 point=1 t=23.851 et=4269.829</Score>
+<Sector et="4269.8">Hendrik(29) set new best for sector 2</Sector>
+<Sector et="4269.9">Hendrik(29) set new best for sector 2</Sector>
+<Score et="4292.5">Hendrik(29) lap=7 point=2 t=-1.000 et=4292.513</Score>
+<Score et="4292.5">Hendrik(29) lap=8 point=0 t=-1.000 et=4292.513</Score>
+<Chat et="4301.7">Hendrik left the race.</Chat>
+<Chat et="4485.1">Pereira has entered the race.</Chat>
+<System et="4485.1">Pereira(30) 109.131.28.215 has joined as a participant</System>
+<Chat et="4494.8">&gt; /w Pereira If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="4494.8">/w Pereira If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="4495.0">&gt; /w Pereira germansimracing.de | discord.gg/GSR</Chat>
+<Command et="4495.0">/w Pereira germansimracing.de | discord.gg/GSR</Command>
+<Score et="4568.2">Pereira(30) lap=0 point=1 t=-1.000 et=4568.184</Score>
+<Score et="4607.1">Pereira(30) lap=0 point=2 t=-1.000 et=4607.073</Score>
+<Score et="4607.1">Pereira(30) lap=1 point=0 t=-1.000 et=4607.073</Score>
+<Score et="4662.1">Pereira(30) lap=1 point=1 t=-1.000 et=4662.076</Score>
+<Score et="4710.4">Pereira(30) lap=1 point=2 t=-1.000 et=4710.363</Score>
+<Score et="4744.8">Pereira(30) lap=2 point=0 t=-1.000 et=4744.736</Score>
+<Sector et="4768.3">Pereira(30) set new best for sector 2</Sector>
+<Score et="4768.3">Pereira(30) lap=2 point=1 t=23.566 et=4768.302</Score>
+<Sector et="4768.3">Pereira(30) set new best for sector 2</Sector>
+<Sector et="4816.5">Pereira(30) set new best for sector 3</Sector>
+<Score et="4816.5">Pereira(30) lap=2 point=2 t=71.735 et=4816.471</Score>
+<Sector et="4816.5">Pereira(30) set new best for sector 3</Sector>
+<Sector et="4851.7">Pereira(30) set new best for sector 1</Sector>
+<Score et="4851.7">Pereira(30) lap=3 point=0 t=106.968 et=4851.704</Score>
+<Sector et="4851.7">Pereira(30) set new best for sector 1</Sector>
+<Sector et="4875.3">Pereira(30) set new best for sector 2</Sector>
+<Score et="4875.3">Pereira(30) lap=3 point=1 t=23.560 et=4875.264</Score>
+<Sector et="4875.3">Pereira(30) set new best for sector 2</Sector>
+<Sector et="4923.7">Pereira(30) set new best for sector 3</Sector>
+<Score et="4923.7">Pereira(30) lap=3 point=2 t=71.948 et=4923.652</Score>
+<Sector et="4923.7">Pereira(30) set new best for sector 3</Sector>
+<Score et="4958.8">Pereira(30) lap=4 point=0 t=107.058 et=4958.762</Score>
+<Sector et="4982.1">Pereira(30) set new best for sector 2</Sector>
+<Score et="4982.1">Pereira(30) lap=4 point=1 t=23.263 et=4982.025</Score>
+<Sector et="4982.1">Pereira(30) set new best for sector 2</Sector>
+<Sector et="5029.7">Pereira(30) set new best for sector 3</Sector>
+<Score et="5029.7">Pereira(30) lap=4 point=2 t=70.897 et=5029.660</Score>
+<Sector et="5029.7">Pereira(30) set new best for sector 3</Sector>
+<Sector et="5064.3">Pereira(30) set new best for sector 1</Sector>
+<Score et="5064.3">Pereira(30) lap=5 point=0 t=105.469 et=5064.231</Score>
+<Sector et="5064.3">Pereira(30) set new best for sector 1</Sector>
+<Score et="5078.8">Pereira(30) lap=5 point=1 t=-1.000 et=5078.794</Score>
+<Score et="5078.8">Pereira(30) lap=5 point=2 t=-1.000 et=5078.794</Score>
+<Score et="5078.8">Pereira(30) lap=6 point=0 t=-1.000 et=5078.794</Score>
+<Score et="5206.1">Pereira(30) lap=6 point=1 t=-1.000 et=5206.021</Score>
+<Score et="5254.1">Pereira(30) lap=6 point=2 t=-1.000 et=5254.028</Score>
+<Score et="5288.6">Pereira(30) lap=7 point=0 t=-1.000 et=5288.535</Score>
+<Sector et="5311.5">Pereira(30) set new best for sector 2</Sector>
+<Score et="5311.5">Pereira(30) lap=7 point=1 t=22.972 et=5311.506</Score>
+<Sector et="5311.5">Pereira(30) set new best for sector 2</Sector>
+<Sector et="5359.6">Pereira(30) set new best for sector 3</Sector>
+<Score et="5359.6">Pereira(30) lap=7 point=2 t=71.010 et=5359.545</Score>
+<Sector et="5359.6">Pereira(30) set new best for sector 3</Sector>
+<Incident et="5370.3">Pereira(30) reported contact (448.43) with Sign</Incident>
+<Incident et="5370.3">Pereira(30) reported contact (792.68) with Sign</Incident>
+<Score et="5405.9">Pereira(30) lap=8 point=0 t=117.307 et=5405.842</Score>
+<Sector et="5428.9">Pereira(30) set new best for sector 2</Sector>
+<Score et="5428.9">Pereira(30) lap=8 point=1 t=23.064 et=5428.906</Score>
+<Sector et="5428.9">Pereira(30) set new best for sector 2</Sector>
+<Sector et="5476.7">Pereira(30) set new best for sector 3</Sector>
+<Score et="5476.7">Pereira(30) lap=8 point=2 t=70.869 et=5476.710</Score>
+<Sector et="5476.7">Pereira(30) set new best for sector 3</Sector>
+<Sector et="5510.8">Pereira(30) set new best for sector 1</Sector>
+<Score et="5510.8">Pereira(30) lap=9 point=0 t=104.894 et=5510.735</Score>
+<Sector et="5510.8">Pereira(30) set new best for sector 1</Sector>
+<Sector et="5533.8">Pereira(30) set new best for sector 2</Sector>
+<Score et="5533.8">Pereira(30) lap=9 point=1 t=23.046 et=5533.781</Score>
+<Sector et="5533.8">Pereira(30) set new best for sector 2</Sector>
+<Sector et="5581.1">Pereira(30) set new best for sector 3</Sector>
+<Score et="5581.1">Pereira(30) lap=9 point=2 t=70.358 et=5581.093</Score>
+<Sector et="5581.1">Pereira(30) set new best for sector 3</Sector>
+<Score et="5615.7">Pereira(30) lap=10 point=0 t=104.978 et=5615.713</Score>
+<Incident et="5622.3">Pereira(30) reported contact (13.96) with Sign</Incident>
+<Incident et="5622.3">Pereira(30) reported contact (15.84) with Sign</Incident>
+<Sector et="5638.7">Pereira(30) set new best for sector 2</Sector>
+<Score et="5638.7">Pereira(30) lap=10 point=1 t=22.994 et=5638.707</Score>
+<Sector et="5638.7">Pereira(30) set new best for sector 2</Sector>
+<Sector et="5686.3">Pereira(30) set new best for sector 3</Sector>
+<Score et="5686.3">Pereira(30) lap=10 point=2 t=70.547 et=5686.260</Score>
+<Sector et="5686.3">Pereira(30) set new best for sector 3</Sector>
+<Sector et="5720.4">Pereira(30) set new best for sector 1</Sector>
+<Score et="5720.4">Pereira(30) lap=11 point=0 t=104.608 et=5720.321</Score>
+<Sector et="5720.4">Pereira(30) set new best for sector 1</Sector>
+<Score et="5725.5">Pereira(30) lap=11 point=1 t=-1.000 et=5725.452</Score>
+<Score et="5725.5">Pereira(30) lap=11 point=2 t=-1.000 et=5725.452</Score>
+<Score et="5725.5">Pereira(30) lap=12 point=0 t=-1.000 et=5725.452</Score>
+<Score et="5938.3">Pereira(30) lap=12 point=1 t=-1.000 et=5938.234</Score>
+<Score et="5988.8">Pereira(30) lap=12 point=2 t=-1.000 et=5988.762</Score>
+<Score et="6023.1">Pereira(30) lap=13 point=0 t=-1.000 et=6023.083</Score>
+<Sector et="6045.9">Pereira(30) set new best for sector 2</Sector>
+<Score et="6045.9">Pereira(30) lap=13 point=1 t=22.793 et=6045.876</Score>
+<Sector et="6045.9">Pereira(30) set new best for sector 2</Sector>
+<Sector et="6092.8">Pereira(30) set new best for sector 3</Sector>
+<Score et="6092.8">Pereira(30) lap=13 point=2 t=69.734 et=6092.818</Score>
+<Sector et="6092.8">Pereira(30) set new best for sector 3</Sector>
+<Sector et="6126.3">Pereira(30) set new best for sector 1</Sector>
+<Score et="6126.3">Pereira(30) lap=14 point=0 t=103.169 et=6126.252</Score>
+<Sector et="6126.3">Pereira(30) set new best for sector 1</Sector>
+<Sector et="6149.0">Pereira(30) set new best for sector 2</Sector>
+<Score et="6149.0">Pereira(30) lap=14 point=1 t=22.701 et=6148.953</Score>
+<Sector et="6149.0">Pereira(30) set new best for sector 2</Sector>
+<Sector et="6195.8">Pereira(30) set new best for sector 3</Sector>
+<Score et="6195.8">Pereira(30) lap=14 point=2 t=69.536 et=6195.788</Score>
+<Sector et="6195.8">Pereira(30) set new best for sector 3</Sector>
+<Score et="6229.7">Pereira(30) lap=15 point=0 t=103.417 et=6229.669</Score>
+<Score et="6251.7">Pereira(30) lap=15 point=1 t=-1.000 et=6251.647</Score>
+<Score et="6251.7">Pereira(30) lap=15 point=2 t=-1.000 et=6251.647</Score>
+<Score et="6251.7">Pereira(30) lap=16 point=0 t=-1.000 et=6251.647</Score>
+<Score et="6389.8">Pereira(30) lap=16 point=1 t=-1.000 et=6389.810</Score>
+<Score et="6438.8">Pereira(30) lap=16 point=2 t=-1.000 et=6438.813</Score>
+<Score et="6472.8">Pereira(30) lap=17 point=0 t=-1.000 et=6472.774</Score>
+<Sector et="6495.5">Pereira(30) set new best for sector 2</Sector>
+<Score et="6495.5">Pereira(30) lap=17 point=1 t=22.745 et=6495.520</Score>
+<Sector et="6495.5">Pereira(30) set new best for sector 2</Sector>
+<Sector et="6542.8">Pereira(30) set new best for sector 3</Sector>
+<Score et="6542.8">Pereira(30) lap=17 point=2 t=70.026 et=6542.801</Score>
+<Sector et="6542.8">Pereira(30) set new best for sector 3</Sector>
+<Score et="6576.1">Pereira(30) lap=18 point=0 t=103.272 et=6576.047</Score>
+<Score et="6580.7">Pereira(30) lap=18 point=1 t=-1.000 et=6580.686</Score>
+<Score et="6580.7">Pereira(30) lap=18 point=2 t=-1.000 et=6580.686</Score>
+<Score et="6580.7">Pereira(30) lap=19 point=0 t=-1.000 et=6580.686</Score>
+<Chat et="7032.0">Pereira left the race.</Chat>
+<Chat et="7290.3">Pereira has entered the race.</Chat>
+<System et="7290.3">Pereira(31) 109.131.28.215 has joined as a participant</System>
+<System et="7290.3">Pereira returned with matching vehicle/upgrades: restoring score (19 laps)</System>
+<Command et="7296.2">/w Pereira If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="7296.2">&gt; /w Pereira If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7296.4">/w Pereira germansimracing.de | discord.gg/GSR</Command>
+<Chat et="7296.4">&gt; /w Pereira germansimracing.de | discord.gg/GSR</Chat>
+<Score et="7361.2">Pereira(31) lap=19 point=1 t=-1.000 et=7361.213</Score>
+<Score et="7409.9">Pereira(31) lap=19 point=2 t=-1.000 et=7409.869</Score>
+<Score et="7444.1">Pereira(31) lap=20 point=0 t=-1.000 et=7444.115</Score>
+<Sector et="7467.4">Pereira(31) set new best for sector 2</Sector>
+<Score et="7467.4">Pereira(31) lap=20 point=1 t=23.237 et=7467.352</Score>
+<Sector et="7467.4">Pereira(31) set new best for sector 2</Sector>
+<Sector et="7514.7">Pereira(31) set new best for sector 3</Sector>
+<Score et="7514.7">Pereira(31) lap=20 point=2 t=70.563 et=7514.677</Score>
+<Sector et="7514.7">Pereira(31) set new best for sector 3</Sector>
+<Score et="7548.9">Pereira(31) lap=21 point=0 t=104.753 et=7548.868</Score>
+<Sector et="7572.0">Pereira(31) set new best for sector 2</Sector>
+<Score et="7572.0">Pereira(31) lap=21 point=1 t=23.129 et=7571.998</Score>
+<Sector et="7572.0">Pereira(31) set new best for sector 2</Sector>
+<Sector et="7619.5">Pereira(31) set new best for sector 3</Sector>
+<Score et="7619.5">Pereira(31) lap=21 point=2 t=70.614 et=7619.482</Score>
+<Sector et="7619.5">Pereira(31) set new best for sector 3</Sector>
+<Score et="7653.9">Pereira(31) lap=22 point=0 t=104.973 et=7653.841</Score>
+<Score et="7676.8">Pereira(31) lap=22 point=1 t=-1.000 et=7676.784</Score>
+<Score et="7701.9">Pereira(31) lap=22 point=2 t=-1.000 et=7701.872</Score>
+<Score et="7701.9">Pereira(31) lap=23 point=0 t=-1.000 et=7701.872</Score>
+<Penalty et="7782.5">Pereira received Stop/Go penalty, 10s, 0laps for &quot;Speeding In Pitlane&quot;. Result: penalties=1, 1st=Stop/Go,10s</Penalty>
+<Score et="7791.2">Pereira(31) lap=23 point=1 t=-1.000 et=7791.169</Score>
+<Score et="7791.2">Pereira(31) lap=23 point=2 t=-1.000 et=7791.169</Score>
+<Score et="7791.2">Pereira(31) lap=24 point=0 t=-1.000 et=7791.169</Score>
+<Command from="Pereira" nodeid="1" et="7795.7">/callvote restartweekend</Command>
+<Vote et="7795.7">Pereira: /callvote restartweekend</Vote>
+<Sent et="7795.7">&quot;restart weekend&quot; proposed by Pereira: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>24</MostLapsCompleted>
+<Driver>
+<Name>Pereira</Name>
+<SteamID>76561199225113769</SteamID>
+<Connected>1</Connected>
+<VehFile>8_DAR_8.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#8 Marcel Wolf</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>8</CarNumber>
+<TeamName>B4B</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.227" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="4607.0728" fuel="0.204" twfl="0.969" twfr="0.980" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="4744.7358" s1="23.5659" s2="48.1689" s3="35.2334" fuel="0.180" twfl="0.937" twfr="0.969" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">106.9683</Lap>
+<Lap num="4" p="1" et="4851.7041" s1="23.5596" s2="48.3882" s3="35.1104" fuel="0.157" twfl="0.910" twfr="0.945" twrl="0.914" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">107.0581</Lap>
+<Lap num="5" p="1" et="4958.7622" s1="23.2632" s2="47.6343" s3="34.5713" fuel="0.133" twfl="0.878" twfr="0.914" twrl="0.890" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">105.4688</Lap>
+<Lap num="6" p="1" et="5064.2310" fuel="0.227" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="5078.7939" fuel="0.204" twfl="0.976" twfr="0.980" twrl="0.965" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="5288.5347" s1="22.9717" s2="48.0386" s3="46.2969" fuel="0.180" twfl="0.941" twfr="0.953" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">117.3071</Lap>
+<Lap num="9" p="1" et="5405.8418" s1="23.0640" s2="47.8047" s3="34.0249" fuel="0.157" twfl="0.882" twfr="0.925" twrl="0.902" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">104.8936</Lap>
+<Lap num="10" p="1" et="5510.7354" s1="23.0459" s2="47.3120" s3="34.6196" fuel="0.133" twfl="0.843" twfr="0.851" twrl="0.875" twrr="0.914" fcompound="0,Dry" rcompound="0,Dry">104.9775</Lap>
+<Lap num="11" p="1" et="5615.7129" s1="22.9937" s2="47.5537" s3="34.0605" fuel="0.110" twfl="0.800" twfr="0.820" twrl="0.835" twrr="0.890" fcompound="0,Dry" rcompound="0,Dry">104.6079</Lap>
+<Lap num="12" p="1" et="5720.3208" fuel="0.227" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="5725.4517" fuel="0.204" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="6023.0835" s1="22.7930" s2="46.9414" s3="33.4346" fuel="0.184" twfl="0.957" twfr="0.969" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.1689</Lap>
+<Lap num="15" p="1" et="6126.2524" s1="22.7007" s2="46.8350" s3="33.8809" fuel="0.161" twfl="0.925" twfr="0.953" twrl="0.925" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.4165</Lap>
+<Lap num="16" p="1" et="6229.6689" fuel="0.227" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="1" et="6251.6475" fuel="0.204" twfl="0.976" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="1" et="6472.7744" s1="22.7451" s2="47.2813" s3="33.2461" fuel="0.180" twfl="0.949" twfr="0.973" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">103.2725</Lap>
+<Lap num="19" p="1" et="6576.0469" fuel="0.227" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="1" et="--.---" fuel="0.239" twfl="0.976" twfr="0.984" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="21" p="1" et="7444.1147" s1="23.2373" s2="47.3252" s3="34.1909" fuel="0.220" twfl="0.953" twfr="0.969" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.7534</Lap>
+<Lap num="22" p="1" et="7548.8682" s1="23.1294" s2="47.4844" s3="34.3589" fuel="0.196" twfl="0.925" twfr="0.949" twrl="0.945" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">104.9727</Lap>
+<Lap num="23" p="1" et="7653.8408" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="24" p="1" et="7701.8716" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.1689</BestLapTime>
+<Laps>24</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="24">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

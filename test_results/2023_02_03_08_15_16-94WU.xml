@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675396521</DateTime>
+<TimeString>2023/02/03 04:55:21</TimeString>
+<Mod>GSR_CUP_231_R1_v4</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\Monza_2021\1.33\layoutMonza.mas</TrackData>
+<TrackLength>5780.6</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Warmup>
+<DateTime>1675407820</DateTime>
+<TimeString>2023/02/03 08:03:40</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Chat et="8.5">Fred Bart has entered the race.</Chat>
+<System et="8.5">Fred Bart(0) 176.168.165.76 has joined as a participant</System>
+<Chat et="12.0">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="12.0">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="12.2">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="12.2">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Score et="151.3">Fred Bart(0) lap=0 point=1 t=-1.000 et=151.242</Score>
+<Score et="189.7">Fred Bart(0) lap=0 point=2 t=-1.000 et=189.666</Score>
+<Score et="227.7">Fred Bart(0) lap=1 point=0 t=-1.000 et=227.693</Score>
+<Sector et="263.5">Fred Bart(0) set new best for sector 2</Sector>
+<Score et="263.5">Fred Bart(0) lap=1 point=1 t=35.737 et=263.431</Score>
+<Sector et="263.5">Fred Bart(0) set new best for sector 2</Sector>
+<Sector et="301.0">Fred Bart(0) set new best for sector 3</Sector>
+<Score et="301.0">Fred Bart(0) lap=1 point=2 t=73.309 et=301.002</Score>
+<Sector et="301.0">Fred Bart(0) set new best for sector 3</Sector>
+<Sector et="338.2">Fred Bart(0) set new best for sector 1</Sector>
+<Score et="338.2">Fred Bart(0) lap=2 point=0 t=110.435 et=338.128</Score>
+<Sector et="338.2">Fred Bart(0) set new best for sector 1</Sector>
+<Score et="357.8">Fred Bart(0) lap=2 point=1 t=-1.000 et=357.748</Score>
+<Score et="357.8">Fred Bart(0) lap=2 point=2 t=-1.000 et=357.748</Score>
+<Score et="357.8">Fred Bart(0) lap=3 point=0 t=-1.000 et=357.748</Score>
+<Score et="456.7">Fred Bart(0) lap=3 point=1 t=-1.000 et=456.642</Score>
+<Score et="495.1">Fred Bart(0) lap=3 point=2 t=-1.000 et=495.099</Score>
+<Score et="532.6">Fred Bart(0) lap=4 point=0 t=-1.000 et=532.613</Score>
+<Score et="551.4">Fred Bart(0) lap=4 point=1 t=-1.000 et=551.380</Score>
+<Score et="551.4">Fred Bart(0) lap=4 point=2 t=-1.000 et=551.380</Score>
+<Score et="551.4">Fred Bart(0) lap=5 point=0 t=-1.000 et=551.380</Score>
+<Score et="632.2">Fred Bart(0) lap=5 point=1 t=-1.000 et=632.131</Score>
+<Score et="671.1">Fred Bart(0) lap=5 point=2 t=-1.000 et=671.067</Score>
+</Stream>
+<MostLapsCompleted>5</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.055" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="227.6933" s1="35.7372" s2="37.5717" s3="37.1261" fuel="0.024" twfl="0.980" twfr="0.988" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">110.4350</Lap>
+<Lap num="3" p="1" et="338.1283" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="357.7481" fuel="0.051" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="532.6135" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>110.4350</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</Warmup>
+</RaceResults>
+</rFactorXML>

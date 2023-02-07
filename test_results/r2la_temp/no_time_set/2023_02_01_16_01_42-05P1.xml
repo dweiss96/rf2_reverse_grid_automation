@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675246521</DateTime>
+<TimeString>2023/02/01 11:15:21</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675256377</DateTime>
+<TimeString>2023/02/01 13:59:37</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="9.9">Fred Bart left the race.</Chat>
+<Chat et="2806.3">Cyrille Canavate has entered the race.</Chat>
+<System et="2806.3">Cyrille Canavate(52) 90.51.91.27 has joined as a participant</System>
+<Command et="2812.2">/w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="2812.2">&gt; /w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="2812.4">/w Cyrille Canavate germansimracing.de | discord.gg/GSR</Command>
+<Chat et="2812.4">&gt; /w Cyrille Canavate germansimracing.de | discord.gg/GSR</Chat>
+<Score et="2932.1">Cyrille Canavate(52) lap=0 point=1 t=-1.000 et=2932.112</Score>
+<Score et="2979.6">Cyrille Canavate(52) lap=0 point=2 t=-1.000 et=2979.595</Score>
+<Score et="3013.4">Cyrille Canavate(52) lap=1 point=0 t=-1.000 et=3013.345</Score>
+<Sector et="3036.8">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3036.8">Cyrille Canavate(52) lap=1 point=1 t=23.379 et=3036.725</Score>
+<Sector et="3036.8">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="3084.5">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3084.5">Cyrille Canavate(52) lap=1 point=2 t=71.122 et=3084.467</Score>
+<Sector et="3084.5">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Sector et="3118.1">Cyrille Canavate(52) set new best for sector 1</Sector>
+<Score et="3118.1">Cyrille Canavate(52) lap=2 point=0 t=104.750 et=3118.095</Score>
+<Sector et="3118.1">Cyrille Canavate(52) set new best for sector 1</Sector>
+<Sector et="3141.3">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3141.3">Cyrille Canavate(52) lap=2 point=1 t=23.215 et=3141.310</Score>
+<Sector et="3141.3">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="3188.7">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3188.7">Cyrille Canavate(52) lap=2 point=2 t=70.542 et=3188.637</Score>
+<Sector et="3188.7">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Sector et="3222.3">Cyrille Canavate(52) set new best for sector 1</Sector>
+<Score et="3222.3">Cyrille Canavate(52) lap=3 point=0 t=104.208 et=3222.302</Score>
+<Sector et="3222.3">Cyrille Canavate(52) set new best for sector 1</Sector>
+<Sector et="3245.7">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3245.7">Cyrille Canavate(52) lap=3 point=1 t=23.336 et=3245.639</Score>
+<Sector et="3245.7">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="3293.4">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3293.4">Cyrille Canavate(52) lap=3 point=2 t=71.100 et=3293.403</Score>
+<Sector et="3293.4">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3327.1">Cyrille Canavate(52) lap=4 point=0 t=104.790 et=3327.092</Score>
+<Incident et="3333.5">Cyrille Canavate(52) reported contact (25.64) with Sign</Incident>
+<Incident et="3333.5">Cyrille Canavate(52) reported contact (136.24) with Sign</Incident>
+<Incident et="3333.5">Cyrille Canavate(52) reported contact (58.07) with Sign</Incident>
+<Incident et="3333.5">Cyrille Canavate(52) reported contact (41.76) with Sign</Incident>
+<Incident et="3333.5">Cyrille Canavate(52) reported contact (12.97) with Sign</Incident>
+<Score et="3350.1">Cyrille Canavate(52) lap=4 point=1 t=-1.000 et=3350.058</Score>
+<Score et="3397.3">Cyrille Canavate(52) lap=4 point=2 t=-1.000 et=3397.271</Score>
+<Score et="3430.7">Cyrille Canavate(52) lap=5 point=0 t=-1.000 et=3430.642</Score>
+<Sector et="3453.9">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3453.9">Cyrille Canavate(52) lap=5 point=1 t=23.219 et=3453.861</Score>
+<Sector et="3453.9">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="3501.6">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3501.6">Cyrille Canavate(52) lap=5 point=2 t=70.920 et=3501.562</Score>
+<Sector et="3501.6">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3535.3">Cyrille Canavate(52) lap=6 point=0 t=104.677 et=3535.319</Score>
+<Sector et="3558.4">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3558.4">Cyrille Canavate(52) lap=6 point=1 t=23.048 et=3558.367</Score>
+<Sector et="3558.4">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="3606.4">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3606.4">Cyrille Canavate(52) lap=6 point=2 t=71.003 et=3606.322</Score>
+<Sector et="3606.4">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3640.0">Cyrille Canavate(52) lap=7 point=0 t=104.696 et=3640.014</Score>
+<Sector et="3663.3">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3663.3">Cyrille Canavate(52) lap=7 point=1 t=23.213 et=3663.227</Score>
+<Sector et="3663.3">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="3710.5">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3710.5">Cyrille Canavate(52) lap=7 point=2 t=70.487 et=3710.502</Score>
+<Sector et="3710.5">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3744.4">Cyrille Canavate(52) lap=8 point=0 t=104.401 et=3744.415</Score>
+<Sector et="3767.9">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3767.9">Cyrille Canavate(52) lap=8 point=1 t=23.497 et=3767.912</Score>
+<Sector et="3767.9">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="3815.7">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3815.7">Cyrille Canavate(52) lap=8 point=2 t=71.237 et=3815.652</Score>
+<Sector et="3815.7">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3849.6">Cyrille Canavate(52) lap=9 point=0 t=105.109 et=3849.524</Score>
+<Sector et="3873.0">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3873.0">Cyrille Canavate(52) lap=9 point=1 t=23.413 et=3872.937</Score>
+<Sector et="3873.0">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="3921.2">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3921.2">Cyrille Canavate(52) lap=9 point=2 t=71.605 et=3921.129</Score>
+<Sector et="3921.2">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="3956.1">Cyrille Canavate(52) lap=10 point=0 t=106.510 et=3956.034</Score>
+<Sector et="3979.4">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="3979.4">Cyrille Canavate(52) lap=10 point=1 t=23.326 et=3979.360</Score>
+<Sector et="3979.4">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="4027.7">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="4027.7">Cyrille Canavate(52) lap=10 point=2 t=71.617 et=4027.651</Score>
+<Sector et="4027.7">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="4062.1">Cyrille Canavate(52) lap=11 point=0 t=106.041 et=4062.075</Score>
+<Score et="4085.6">Cyrille Canavate(52) lap=11 point=1 t=-1.000 et=4085.531</Score>
+<Score et="4133.5">Cyrille Canavate(52) lap=11 point=2 t=-1.000 et=4133.452</Score>
+<Score et="4167.8">Cyrille Canavate(52) lap=12 point=0 t=-1.000 et=4167.745</Score>
+<Sector et="4191.1">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="4191.1">Cyrille Canavate(52) lap=12 point=1 t=23.334 et=4191.080</Score>
+<Sector et="4191.1">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="4238.9">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="4238.9">Cyrille Canavate(52) lap=12 point=2 t=71.087 et=4238.832</Score>
+<Sector et="4238.9">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="4273.0">Cyrille Canavate(52) lap=13 point=0 t=105.183 et=4272.928</Score>
+<Sector et="4296.4">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="4296.4">Cyrille Canavate(52) lap=13 point=1 t=23.466 et=4296.395</Score>
+<Sector et="4296.4">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="4344.2">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="4344.2">Cyrille Canavate(52) lap=13 point=2 t=71.202 et=4344.130</Score>
+<Sector et="4344.2">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="4378.5">Cyrille Canavate(52) lap=14 point=0 t=105.562 et=4378.490</Score>
+<Sector et="4401.8">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="4401.8">Cyrille Canavate(52) lap=14 point=1 t=23.322 et=4401.812</Score>
+<Sector et="4401.8">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Sector et="4449.5">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="4449.5">Cyrille Canavate(52) lap=14 point=2 t=70.955 et=4449.444</Score>
+<Sector et="4449.5">Cyrille Canavate(52) set new best for sector 3</Sector>
+<Score et="4483.6">Cyrille Canavate(52) lap=15 point=0 t=105.128 et=4483.618</Score>
+<Sector et="4507.2">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="4507.2">Cyrille Canavate(52) lap=15 point=1 t=23.542 et=4507.159</Score>
+<Sector et="4507.2">Cyrille Canavate(52) set new best for sector 2</Sector>
+<Score et="4525.9">Cyrille Canavate(52) lap=15 point=2 t=-1.000 et=4525.898</Score>
+<Score et="4525.9">Cyrille Canavate(52) lap=16 point=0 t=-1.000 et=4525.898</Score>
+<Incident et="4797.2">Cyrille Canavate(52) reported contact (1066.79) with Immovable</Incident>
+<Chat et="4847.2">Cyrille Canavate left the race.</Chat>
+<Chat et="4877.4">Cyrille Canavate has entered the race.</Chat>
+<System et="4877.4">Cyrille Canavate(53) 90.51.91.27 has joined as a participant</System>
+<System et="4877.4">Cyrille Canavate returned with matching vehicle/upgrades: restoring score (16 laps)</System>
+<Chat et="4883.6">&gt; /w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="4883.6">/w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="4883.8">/w Cyrille Canavate germansimracing.de | discord.gg/GSR</Command>
+<Chat et="4883.8">&gt; /w Cyrille Canavate germansimracing.de | discord.gg/GSR</Chat>
+<Score et="4977.6">Cyrille Canavate(53) lap=16 point=1 t=-1.000 et=4977.558</Score>
+<Score et="5028.4">Cyrille Canavate(53) lap=16 point=2 t=-1.000 et=5028.390</Score>
+<Score et="5062.9">Cyrille Canavate(53) lap=17 point=0 t=-1.000 et=5062.868</Score>
+<Sector et="5085.8">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="5085.8">Cyrille Canavate(53) lap=17 point=1 t=22.938 et=5085.805</Score>
+<Sector et="5085.8">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Sector et="5133.1">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="5133.1">Cyrille Canavate(53) lap=17 point=2 t=70.153 et=5133.021</Score>
+<Sector et="5133.1">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Sector et="5166.5">Cyrille Canavate(53) set new best for sector 1</Sector>
+<Score et="5166.5">Cyrille Canavate(53) lap=18 point=0 t=103.593 et=5166.460</Score>
+<Sector et="5166.5">Cyrille Canavate(53) set new best for sector 1</Sector>
+<Sector et="5193.9">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="5193.9">Cyrille Canavate(53) lap=18 point=1 t=27.421 et=5193.881</Score>
+<Sector et="5193.9">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Sector et="5246.1">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="5246.1">Cyrille Canavate(53) lap=18 point=2 t=79.570 et=5246.031</Score>
+<Sector et="5246.1">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="5280.5">Cyrille Canavate(53) lap=19 point=0 t=114.021 et=5280.481</Score>
+<Sector et="5303.5">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="5303.5">Cyrille Canavate(53) lap=19 point=1 t=22.991 et=5303.472</Score>
+<Sector et="5303.5">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Sector et="5351.6">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="5351.6">Cyrille Canavate(53) lap=19 point=2 t=71.110 et=5351.592</Score>
+<Sector et="5351.6">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="5374.0">Cyrille Canavate(53) lap=20 point=0 t=-1.000 et=5373.940</Score>
+<Score et="5444.4">Cyrille Canavate(53) lap=20 point=1 t=-1.000 et=5444.349</Score>
+<Score et="5494.2">Cyrille Canavate(53) lap=20 point=2 t=-1.000 et=5494.213</Score>
+<Score et="5528.4">Cyrille Canavate(53) lap=21 point=0 t=-1.000 et=5528.366</Score>
+<Sector et="5551.0">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="5551.0">Cyrille Canavate(53) lap=21 point=1 t=22.653 et=5551.019</Score>
+<Sector et="5551.0">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="5598.2">Cyrille Canavate(53) lap=21 point=2 t=-1.000 et=5598.137</Score>
+<Sector et="5631.4">Cyrille Canavate(53) set new best for sector 1</Sector>
+<Score et="5631.4">Cyrille Canavate(53) lap=22 point=0 t=102.991 et=5631.356</Score>
+<Sector et="5631.4">Cyrille Canavate(53) set new best for sector 1</Sector>
+<Sector et="5654.4">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="5654.4">Cyrille Canavate(53) lap=22 point=1 t=23.028 et=5654.384</Score>
+<Sector et="5654.4">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Sector et="5701.6">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="5701.6">Cyrille Canavate(53) lap=22 point=2 t=70.177 et=5701.533</Score>
+<Sector et="5701.6">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="5734.9">Cyrille Canavate(53) lap=23 point=0 t=103.477 et=5734.833</Score>
+<Incident et="5758.4">Cyrille Canavate(53) reported contact (2119.88) with Immovable</Incident>
+<Incident et="5758.4">Cyrille Canavate(53) reported contact (1244.04) with Immovable</Incident>
+<Score et="5760.4">Cyrille Canavate(53) lap=23 point=1 t=-1.000 et=5760.412</Score>
+<Score et="5760.4">Cyrille Canavate(53) lap=23 point=2 t=-1.000 et=5760.412</Score>
+<Score et="5760.4">Cyrille Canavate(53) lap=24 point=0 t=-1.000 et=5760.412</Score>
+<Score et="5954.9">Cyrille Canavate(53) lap=24 point=1 t=-1.000 et=5954.827</Score>
+<Score et="6007.6">Cyrille Canavate(53) lap=24 point=2 t=-1.000 et=6007.594</Score>
+<Score et="6042.4">Cyrille Canavate(53) lap=25 point=0 t=-1.000 et=6042.337</Score>
+<Sector et="6065.1">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="6065.1">Cyrille Canavate(53) lap=25 point=1 t=22.748 et=6065.084</Score>
+<Sector et="6065.1">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Sector et="6112.3">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="6112.3">Cyrille Canavate(53) lap=25 point=2 t=69.912 et=6112.249</Score>
+<Sector et="6112.3">Cyrille Canavate(53) set new best for sector 3</Sector>
+<Score et="6145.5">Cyrille Canavate(53) lap=26 point=0 t=103.151 et=6145.488</Score>
+<Sector et="6168.5">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="6168.5">Cyrille Canavate(53) lap=26 point=1 t=22.968 et=6168.456</Score>
+<Sector et="6168.5">Cyrille Canavate(53) set new best for sector 2</Sector>
+<Score et="6215.7">Cyrille Canavate(53) lap=26 point=2 t=-1.000 et=6215.643</Score>
+<Score et="6249.4">Cyrille Canavate(53) lap=27 point=0 t=103.900 et=6249.388</Score>
+<Score et="6256.2">Cyrille Canavate(53) lap=27 point=1 t=-1.000 et=6256.203</Score>
+<Score et="6256.2">Cyrille Canavate(53) lap=27 point=2 t=-1.000 et=6256.203</Score>
+<Score et="6256.2">Cyrille Canavate(53) lap=28 point=0 t=-1.000 et=6256.203</Score>
+<Chat et="6288.4">Cyrille Canavate left the race.</Chat>
+<Chat et="7305.8">Fred Bart has entered the race.</Chat>
+<System et="7305.8">Fred Bart(54) 176.168.165.76 has joined as a participant</System>
+<System et="7305.8">Fred Bart returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Chat et="7315.0">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7315.0">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="7315.2">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="7315.2">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command from="Fred Bart" nodeid="1" et="7315.3">/callvote restartweekend</Command>
+<Vote et="7315.3">Fred Bart: /callvote restartweekend</Vote>
+<Sent et="7315.3">&quot;restart weekend&quot; proposed by Fred Bart: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674741615</DateTime>
+<TimeString>2023/01/26 15:00:15</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1674763584</DateTime>
+<TimeString>2023/01/26 21:06:24</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>20</Minutes>
+<Stream>
+<Command et="10.8">/w Christian Tropeano  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="10.8">&gt; /w Christian Tropeano  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="11.0">&gt; /w Christian Tropeano  germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.0">/w Christian Tropeano  germansimracing.de | discord.gg/GSR</Command>
+<Command et="11.2">/w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.2">&gt; /w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="11.4">&gt; /w Marcel Wolf germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.4">/w Marcel Wolf germansimracing.de | discord.gg/GSR</Command>
+<Score et="118.4">Marcel Wolf(96) lap=0 point=1 t=-1.000 et=118.410</Score>
+<Score et="165.4">Marcel Wolf(96) lap=0 point=2 t=-1.000 et=165.350</Score>
+<Score et="198.1">Marcel Wolf(96) lap=1 point=0 t=-1.000 et=198.104</Score>
+<Incident et="204.3">Marcel Wolf(96) reported contact (27.01) with Sign</Incident>
+<Incident et="204.3">Marcel Wolf(96) reported contact (32.58) with Sign</Incident>
+<Sector et="220.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="220.7">Marcel Wolf(96) lap=1 point=1 t=22.616 et=220.720</Score>
+<Sector et="220.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="220.8">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="268.4">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="268.4">Marcel Wolf(96) lap=1 point=2 t=70.282 et=268.387</Score>
+<Sector et="268.4">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="268.4">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="301.9">Marcel Wolf(96) set new best for sector 1</Sector>
+<Score et="301.9">Marcel Wolf(96) lap=2 point=0 t=103.797 et=301.901</Score>
+<Sector et="301.9">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="302.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Score et="324.5">Marcel Wolf(96) lap=2 point=1 t=-1.000 et=324.498</Score>
+<Score et="372.4">Marcel Wolf(96) lap=2 point=2 t=-1.000 et=372.339</Score>
+<Score et="405.2">Marcel Wolf(96) lap=3 point=0 t=-1.000 et=405.191</Score>
+<Chat et="426.5">Fred Bart has entered the race.</Chat>
+<System et="426.5">Fred Bart(97) 176.168.165.76 has joined as a participant</System>
+<System et="426.5">Fred Bart returned with matching vehicle/upgrades: restoring score (40 laps)</System>
+<Sector et="428.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="428.7">Marcel Wolf(96) lap=3 point=1 t=23.460 et=428.652</Score>
+<Sector et="428.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="428.7">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="428.7">Fred Bart(97) set new best for sector 2</Sector>
+<Chat et="430.6">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="430.6">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="430.8">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="430.8">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Sector et="476.8">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="476.8">Marcel Wolf(96) lap=3 point=2 t=71.577 et=476.769</Score>
+<Sector et="476.8">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="476.8">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="476.8">Fred Bart(97) set new best for sector 3</Sector>
+<Score et="486.4">Fred Bart(97) lap=0 point=1 t=-1.000 et=486.370</Score>
+<Score et="510.5">Marcel Wolf(96) lap=4 point=0 t=105.250 et=510.442</Score>
+<Incident et="520.8">Marcel Wolf(96) reported contact (1178.86) with Immovable</Incident>
+<Score et="530.7">Marcel Wolf(96) lap=4 point=1 t=-1.000 et=529.479</Score>
+<Score et="530.7">Marcel Wolf(96) lap=4 point=2 t=-1.000 et=529.479</Score>
+<Score et="530.7">Marcel Wolf(96) lap=5 point=0 t=-1.000 et=529.479</Score>
+<Score et="534.2">Fred Bart(97) lap=0 point=2 t=-1.000 et=534.174</Score>
+<Score et="567.6">Fred Bart(97) lap=1 point=0 t=-1.000 et=567.571</Score>
+<Sector et="590.4">Fred Bart(97) set new best for sector 2</Sector>
+<Score et="590.4">Fred Bart(97) lap=1 point=1 t=22.752 et=590.324</Score>
+<Sector et="590.4">Fred Bart(97) set new best for sector 2</Sector>
+<Sector et="590.4">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="590.4">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="592.0">Marcel Wolf(96) lap=5 point=1 t=-1.000 et=591.953</Score>
+<Score et="637.1">Fred Bart(97) lap=1 point=2 t=69.487 et=637.059</Score>
+<Sector et="637.1">Fred Bart(97) set new best for sector 3</Sector>
+<Sector et="637.1">Fred Bart(97) set new best for sector 3</Sector>
+<Sector et="637.1">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="637.2">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="639.6">Marcel Wolf(96) lap=5 point=2 t=-1.000 et=639.541</Score>
+<Sector et="670.0">Fred Bart(97) set new best for sector 1</Sector>
+<Score et="670.0">Fred Bart(97) lap=2 point=0 t=102.378 et=669.949</Score>
+<Sector et="670.0">Fred Bart(97) set new best for sector 1</Sector>
+<Sector et="670.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="670.0">Marcel Wolf(96) set new best for sector 1</Sector>
+<Score et="672.6">Marcel Wolf(96) lap=6 point=0 t=-1.000 et=672.603</Score>
+<Sector et="692.8">Fred Bart(97) set new best for sector 2</Sector>
+<Score et="692.8">Fred Bart(97) lap=2 point=1 t=22.791 et=692.740</Score>
+<Sector et="692.8">Fred Bart(97) set new best for sector 2</Sector>
+<Sector et="692.8">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="692.8">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="695.3">Marcel Wolf(96) lap=6 point=1 t=-1.000 et=695.319</Score>
+<Score et="706.7">Christian Tropeano (95) lap=0 point=1 t=-1.000 et=706.647</Score>
+<Sector et="739.5">Fred Bart(97) set new best for sector 3</Sector>
+<Score et="739.5">Fred Bart(97) lap=2 point=2 t=69.499 et=739.448</Score>
+<Sector et="739.5">Fred Bart(97) set new best for sector 3</Sector>
+<Sector et="739.5">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="740.0">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="741.8">Marcel Wolf(96) lap=6 point=2 t=-1.000 et=741.783</Score>
+<Score et="755.9">Christian Tropeano (95) lap=0 point=2 t=-1.000 et=755.831</Score>
+<Score et="772.4">Fred Bart(97) lap=3 point=0 t=102.467 et=772.416</Score>
+<Score et="779.1">Marcel Wolf(96) lap=7 point=0 t=-1.000 et=779.082</Score>
+<Score et="779.1">Marcel Wolf(96) lap=7 point=1 t=-1.000 et=779.082</Score>
+<Score et="779.1">Marcel Wolf(96) lap=7 point=2 t=-1.000 et=779.082</Score>
+<Score et="779.1">Marcel Wolf(96) lap=8 point=0 t=-1.000 et=779.082</Score>
+<Score et="780.8">Fred Bart(97) lap=3 point=1 t=-1.000 et=780.785</Score>
+<Score et="780.8">Fred Bart(97) lap=3 point=2 t=-1.000 et=780.785</Score>
+<Score et="780.8">Fred Bart(97) lap=4 point=0 t=-1.000 et=780.785</Score>
+<Score et="789.6">Christian Tropeano (95) lap=1 point=0 t=-1.000 et=789.576</Score>
+<Penalty et="812.2">Fred Bart received Stop/Go penalty, 10s, 0laps for &quot;Speeding In Pitlane&quot;. Result: penalties=1, 1st=Stop/Go,10s</Penalty>
+<Sector et="812.7">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="812.7">Christian Tropeano (95) lap=1 point=1 t=23.086 et=812.662</Score>
+<Sector et="812.7">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="812.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="812.7">Fred Bart(97) set new best for sector 2</Sector>
+<Score et="833.5">Fred Bart(97) lap=4 point=1 t=-1.000 et=833.512</Score>
+<Score et="836.6">Marcel Wolf(96) lap=8 point=1 t=-1.000 et=836.584</Score>
+<Sector et="862.5">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="862.5">Christian Tropeano (95) lap=1 point=2 t=72.881 et=862.458</Score>
+<Sector et="862.5">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="862.5">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="862.5">Fred Bart(97) set new best for sector 3</Sector>
+<Score et="880.8">Fred Bart(97) lap=4 point=2 t=-1.000 et=880.812</Score>
+<Score et="883.3">Marcel Wolf(96) lap=8 point=2 t=-1.000 et=883.258</Score>
+<Sector et="896.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Score et="896.0">Christian Tropeano (95) lap=2 point=0 t=106.376 et=895.952</Score>
+<Sector et="896.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="896.0">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="896.0">Fred Bart(97) set new best for sector 1</Sector>
+<Score et="914.0">Fred Bart(97) lap=5 point=0 t=-1.000 et=913.987</Score>
+<Score et="916.3">Marcel Wolf(96) lap=9 point=0 t=-1.000 et=916.259</Score>
+<Sector et="919.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="919.0">Christian Tropeano (95) lap=2 point=1 t=22.975 et=918.928</Score>
+<Sector et="919.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="919.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="919.0">Fred Bart(97) set new best for sector 2</Sector>
+<Sector et="936.8">Fred Bart(97) set new best for sector 2</Sector>
+<Score et="936.8">Fred Bart(97) lap=5 point=1 t=22.777 et=936.764</Score>
+<Sector et="936.8">Fred Bart(97) set new best for sector 2</Sector>
+<Sector et="936.8">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="936.9">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="938.9">Marcel Wolf(96) lap=9 point=1 t=-1.000 et=938.874</Score>
+<Sector et="965.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="965.3">Christian Tropeano (95) lap=2 point=2 t=69.335 et=965.287</Score>
+<Sector et="965.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="965.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="965.3">Fred Bart(97) set new best for sector 3</Sector>
+<Sector et="983.5">Fred Bart(97) set new best for sector 3</Sector>
+<Score et="983.5">Fred Bart(97) lap=5 point=2 t=69.483 et=983.470</Score>
+<Sector et="983.5">Fred Bart(97) set new best for sector 3</Sector>
+<Sector et="983.5">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="983.5">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="986.0">Marcel Wolf(96) lap=9 point=2 t=-1.000 et=985.973</Score>
+<Sector et="998.1">Christian Tropeano (95) set new best for sector 1</Sector>
+<Score et="998.1">Christian Tropeano (95) lap=3 point=0 t=102.151 et=998.103</Score>
+<Sector et="998.1">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="998.2">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="998.2">Fred Bart(97) set new best for sector 1</Sector>
+<Score et="1016.4">Fred Bart(97) lap=6 point=0 t=102.405 et=1016.392</Score>
+<Score et="1019.0">Marcel Wolf(96) lap=10 point=0 t=-1.000 et=1018.988</Score>
+<Score et="1021.1">Christian Tropeano (95) lap=3 point=1 t=-1.000 et=1021.090</Score>
+<Sector et="1039.1">Fred Bart(97) set new best for sector 2</Sector>
+<Score et="1039.1">Fred Bart(97) lap=6 point=1 t=22.704 et=1039.096</Score>
+<Sector et="1039.1">Fred Bart(97) set new best for sector 2</Sector>
+<Sector et="1039.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="1039.2">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="1041.4">Marcel Wolf(96) lap=10 point=1 t=-1.000 et=1041.393</Score>
+<Score et="1070.5">Christian Tropeano (95) lap=3 point=2 t=-1.000 et=1070.486</Score>
+<Sector et="1085.7">Fred Bart(97) set new best for sector 3</Sector>
+<Score et="1085.7">Fred Bart(97) lap=6 point=2 t=69.237 et=1085.629</Score>
+<Sector et="1085.7">Fred Bart(97) set new best for sector 3</Sector>
+<Sector et="1085.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="1085.7">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="1087.7">Marcel Wolf(96) lap=10 point=2 t=-1.000 et=1087.696</Score>
+<Score et="1103.9">Christian Tropeano (95) lap=4 point=0 t=-1.000 et=1103.912</Score>
+<Sector et="1118.7">Fred Bart(97) set new best for sector 1</Sector>
+<Score et="1118.7">Fred Bart(97) lap=7 point=0 t=102.238 et=1118.630</Score>
+<Sector et="1118.7">Fred Bart(97) set new best for sector 1</Sector>
+<Sector et="1118.7">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="1118.7">Marcel Wolf(96) set new best for sector 1</Sector>
+<Score et="1126.0">Fred Bart(97) lap=7 point=1 t=-1.000 et=1126.017</Score>
+<Score et="1126.0">Fred Bart(97) lap=7 point=2 t=-1.000 et=1126.017</Score>
+<Score et="1126.0">Fred Bart(97) lap=8 point=0 t=-1.000 et=1126.017</Score>
+<Score et="1126.1">Marcel Wolf(96) lap=11 point=0 t=-1.000 et=1126.081</Score>
+<Score et="1126.1">Marcel Wolf(96) lap=11 point=1 t=-1.000 et=1126.081</Score>
+<Score et="1126.1">Marcel Wolf(96) lap=11 point=2 t=-1.000 et=1126.081</Score>
+<Score et="1126.1">Marcel Wolf(96) lap=12 point=0 t=-1.000 et=1126.081</Score>
+<Sector et="1127.3">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="1127.3">Christian Tropeano (95) lap=4 point=1 t=23.382 et=1127.294</Score>
+<Sector et="1127.3">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="1127.3">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="1127.3">Fred Bart(97) set new best for sector 2</Sector>
+<Sector et="1173.8">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="1173.8">Christian Tropeano (95) lap=4 point=2 t=69.881 et=1173.793</Score>
+<Sector et="1173.8">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="1173.8">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="1173.9">Fred Bart(97) set new best for sector 3</Sector>
+<Score et="1183.7">Marcel Wolf(96) lap=12 point=1 t=-1.000 et=1183.663</Score>
+<Score et="1213.3">Christian Tropeano (95) lap=5 point=0 t=-1.000 et=1213.231</Score>
+<Score et="1215.5">Fred Bart(97) lap=8 point=1 t=-1.000 et=1215.460</Score>
+<Score et="1230.6">Marcel Wolf(96) lap=12 point=2 t=-1.000 et=1230.557</Score>
+<Score et="1263.2">Fred Bart(97) lap=8 point=2 t=-1.000 et=1263.201</Score>
+<Score et="1263.5">Marcel Wolf(96) lap=13 point=0 t=-1.000 et=1263.450</Score>
+<Sector et="1287.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="1287.0">Marcel Wolf(96) lap=13 point=1 t=23.505 et=1286.954</Score>
+<Sector et="1287.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="1287.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="1287.0">Fred Bart(97) set new best for sector 2</Sector>
+</Stream>
+<MostLapsCompleted>13</MostLapsCompleted>
+<Driver>
+<Name>Christian Tropeano </Name>
+<SteamID>76561198195847189</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.106" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="3" et="789.5764" s1="23.0859" s2="49.7955" s3="33.4946" fuel="0.082" twfl="0.969" twfr="0.976" twrl="0.953" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">106.3760</Lap>
+<Lap num="3" p="1" et="895.9525" s1="22.9752" s2="46.3596" s3="32.8162" fuel="0.059" twfl="0.953" twfr="0.965" twrl="0.925" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">102.1509</Lap>
+<Lap num="4" p="1" et="998.1034" fuel="0.035" twfl="0.941" twfr="0.957" twrl="0.902" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="1103.9121" s1="23.3822" s2="46.4990" fuel="0.016" twfl="0.925" twfr="0.945" twrl="0.878" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>102.1509</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.059" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="567.5715" s1="22.7523" s2="46.7348" s3="32.8907" fuel="0.039" twfl="0.969" twfr="0.988" twrl="0.961" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.3777</Lap>
+<Lap num="3" p="1" et="669.9492" s1="22.7907" s2="46.7078" s3="32.9683" fuel="0.016" twfl="0.949" twfr="0.980" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">102.4668</Lap>
+<Lap num="4" p="1" et="772.4160" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="780.7853" fuel="0.059" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="913.9867" s1="22.7773" s2="46.7061" s3="32.9214" fuel="0.039" twfl="0.965" twfr="0.984" twrl="0.961" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.4049</Lap>
+<Lap num="7" p="2" et="1016.3916" s1="22.7042" s2="46.5332" s3="33.0010" fuel="0.016" twfl="0.941" twfr="0.976" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">102.2384</Lap>
+<Lap num="8" p="2" et="1118.6300" s1="22.7106" s2="46.6312" s3="33.2211" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">102.5629</Lap>
+<BestLapTime>102.2384</BestLapTime>
+<Laps>8</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="8">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="8"></Swap></Driver>
+<Driver>
+<Name>Marcel Wolf</Name>
+<SteamID>76561197979977963</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="198.1042" s1="22.6158" s2="47.6666" s3="33.5144" fuel="0.408" twfl="0.969" twfr="0.984" twrl="0.937" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.7968</Lap>
+<Lap num="3" p="1" et="301.9010" fuel="0.384" twfl="0.957" twfr="0.976" twrl="0.906" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="405.1913" s1="23.4602" s2="48.1170" s3="33.6732" fuel="0.365" twfl="0.941" twfr="0.969" twrl="0.871" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">105.2505</Lap>
+<Lap num="5" p="1" et="510.4418" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="529.4787" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="672.6026" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="2" et="779.0817" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="779.0817" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="3" et="916.2587" fuel="0.408" twfl="0.969" twfr="0.980" twrl="0.937" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="3" et="1018.9878" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="3" et="1126.0806" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="3" et="1126.0806" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.7968</BestLapTime>
+<Laps>13</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="8" endLap="8">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="9" endLap="11">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="12" endLap="12">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="13" endLap="13">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

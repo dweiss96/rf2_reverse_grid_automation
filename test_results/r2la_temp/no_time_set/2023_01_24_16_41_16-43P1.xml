@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674564881</DateTime>
+<TimeString>2023/01/24 13:54:41</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674564882</DateTime>
+<TimeString>2023/01/24 13:54:42</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="6470.7">Ralf Becker  has entered the race.</Chat>
+<System et="6470.7">Ralf Becker (54) 178.5.153.190 has joined as a participant</System>
+<Chat et="6472.6">&gt; /w Ralf Becker  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6472.6">/w Ralf Becker  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6472.8">&gt; /w Ralf Becker  germansimracing.de | discord.gg/GSR</Chat>
+<Command et="6472.8">/w Ralf Becker  germansimracing.de | discord.gg/GSR</Command>
+<Score et="6603.8">Ralf Becker (54) lap=0 point=1 t=-1.000 et=6603.777</Score>
+<Score et="6653.5">Ralf Becker (54) lap=0 point=2 t=-1.000 et=6653.466</Score>
+<Incident et="6681.4">Ralf Becker (54) reported contact (1462.72) with Immovable</Incident>
+<Incident et="6681.4">Ralf Becker (54) reported contact (1418.54) with Immovable</Incident>
+<Incident et="6681.4">Ralf Becker (54) reported contact (1457.73) with Immovable</Incident>
+<Incident et="6681.4">Ralf Becker (54) reported contact (1455.36) with Immovable</Incident>
+<Incident et="6681.4">Ralf Becker (54) reported contact (1465.19) with Immovable</Incident>
+<Incident et="6681.4">Ralf Becker (54) reported contact (1389.39) with Immovable</Incident>
+<Incident et="6681.4">Ralf Becker (54) reported contact (71.28) with Wing</Incident>
+<Incident et="6681.4">Ralf Becker (54) reported contact (33.10) with Wing</Incident>
+<Incident et="6681.5">Ralf Becker (54) reported contact (14.02) with Wing</Incident>
+<Score et="6700.2">Ralf Becker (54) lap=1 point=0 t=-1.000 et=6700.151</Score>
+<Chat et="6714.4">Ralf Becker  left the race.</Chat>
+<Chat et="7551.5">Udo Remme  has entered the race.</Chat>
+<System et="7551.5">Udo Remme (55) 88.78.94.73 has joined as a participant</System>
+<Chat et="7556.8">&gt; /w Udo Remme  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7556.8">/w Udo Remme  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="7557.0">&gt; /w Udo Remme  germansimracing.de | discord.gg/GSR</Chat>
+<Command et="7557.0">/w Udo Remme  germansimracing.de | discord.gg/GSR</Command>
+<Chat et="7580.4">Udo Remme  left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Ralf Becker </Name>
+<SteamID>76561198128977103</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.431" twfl="0.961" twfr="0.973" twrl="0.922" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Laps>1</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="1"></Swap></Driver>
+<Driver>
+<Name>Udo Remme </Name>
+<SteamID>76561198197336510</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

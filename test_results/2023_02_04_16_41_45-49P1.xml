@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675515290</DateTime>
+<TimeString>2023/02/04 13:54:50</TimeString>
+<Mod>GSR_CUP_231_R1_v4</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\Monza_2021\1.33\layoutMonza.mas</TrackData>
+<TrackLength>5780.6</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675515291</DateTime>
+<TimeString>2023/02/04 13:54:51</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="2508.9">Hendrik has entered the race.</Chat>
+<System et="2508.9">Hendrik(12) 178.201.132.217 has joined as a participant</System>
+<Command et="2512.2">/w Hendrik If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="2512.2">&gt; /w Hendrik If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="2512.4">/w Hendrik germansimracing.de | discord.gg/GSR</Command>
+<Chat et="2512.4">&gt; /w Hendrik germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="2896.9">Hendrik left the race.</Chat>
+<Chat et="3332.2">Hendrik has entered the race.</Chat>
+<System et="3332.2">Hendrik(13) 178.201.132.217 has joined as a participant</System>
+<System et="3332.2">Hendrik returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Chat et="3343.4">&gt; /w Hendrik If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="3343.4">/w Hendrik If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="3343.6">/w Hendrik germansimracing.de | discord.gg/GSR</Command>
+<Chat et="3343.6">&gt; /w Hendrik germansimracing.de | discord.gg/GSR</Chat>
+<Incident et="3422.3">Hendrik(13) reported contact (65.74) with Sign</Incident>
+<Incident et="3422.3">Hendrik(13) reported contact (29.24) with Sign</Incident>
+<Incident et="3422.7">Hendrik(13) reported contact (32.90) with Sign</Incident>
+<Incident et="3423.1">Hendrik(13) reported contact (27.69) with Sign</Incident>
+<Incident et="3423.2">Hendrik(13) reported contact (25.61) with Sign</Incident>
+<Incident et="3426.0">Hendrik(13) reported contact (43.53) with Sign</Incident>
+<Incident et="3426.0">Hendrik(13) reported contact (64.73) with Sign</Incident>
+<Incident et="3426.0">Hendrik(13) reported contact (56.12) with Sign</Incident>
+<Incident et="3426.0">Hendrik(13) reported contact (96.37) with Sign</Incident>
+<Incident et="3426.3">Hendrik(13) reported contact (28.74) with Sign</Incident>
+<Incident et="3426.4">Hendrik(13) reported contact (76.46) with Sign</Incident>
+<Score et="3445.6">Hendrik(13) lap=0 point=1 t=-1.000 et=3445.594</Score>
+<Score et="3482.3">Hendrik(13) lap=0 point=2 t=-1.000 et=3482.283</Score>
+<Score et="3528.4">Hendrik(13) lap=1 point=0 t=-1.000 et=3528.425</Score>
+<Score et="3548.2">Hendrik(13) lap=1 point=1 t=-1.000 et=3548.206</Score>
+<Score et="3548.2">Hendrik(13) lap=1 point=2 t=-1.000 et=3548.206</Score>
+<Score et="3548.2">Hendrik(13) lap=2 point=0 t=-1.000 et=3548.206</Score>
+<Score et="3609.5">Hendrik(13) lap=2 point=1 t=-1.000 et=3609.508</Score>
+<Score et="3647.5">Hendrik(13) lap=2 point=2 t=-1.000 et=3647.424</Score>
+<Score et="3685.6">Hendrik(13) lap=3 point=0 t=-1.000 et=3685.636</Score>
+<Sector et="3733.2">Hendrik(13) set new best for sector 2</Sector>
+<Score et="3733.2">Hendrik(13) lap=3 point=1 t=47.527 et=3733.164</Score>
+<Sector et="3733.2">Hendrik(13) set new best for sector 2</Sector>
+<Score et="3755.8">Hendrik(13) lap=3 point=2 t=-1.000 et=3755.732</Score>
+<Score et="3755.8">Hendrik(13) lap=4 point=0 t=-1.000 et=3755.732</Score>
+<Score et="3816.6">Hendrik(13) lap=4 point=1 t=-1.000 et=3816.584</Score>
+<Score et="3854.9">Hendrik(13) lap=4 point=2 t=-1.000 et=3854.910</Score>
+<Score et="3892.7">Hendrik(13) lap=5 point=0 t=-1.000 et=3892.684</Score>
+<Score et="3929.0">Hendrik(13) lap=5 point=1 t=36.267 et=3928.951</Score>
+<Sector et="3929.0">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="3929.0">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="3966.5">Hendrik(13) set new best for sector 3</Sector>
+<Score et="3966.5">Hendrik(13) lap=5 point=2 t=73.765 et=3966.449</Score>
+<Sector et="3966.5">Hendrik(13) set new best for sector 3</Sector>
+<Sector et="4003.8">Hendrik(13) set new best for sector 1</Sector>
+<Score et="4003.8">Hendrik(13) lap=6 point=0 t=111.059 et=4003.743</Score>
+<Sector et="4003.8">Hendrik(13) set new best for sector 1</Sector>
+<Score et="4027.0">Hendrik(13) lap=6 point=1 t=-1.000 et=4027.013</Score>
+<Score et="4027.0">Hendrik(13) lap=6 point=2 t=-1.000 et=4027.013</Score>
+<Score et="4027.0">Hendrik(13) lap=7 point=0 t=-1.000 et=4027.013</Score>
+<Score et="4193.3">Hendrik(13) lap=7 point=1 t=-1.000 et=4193.222</Score>
+<Score et="4240.2">Hendrik(13) lap=7 point=2 t=-1.000 et=4240.208</Score>
+<Score et="4277.8">Hendrik(13) lap=8 point=0 t=-1.000 et=4277.823</Score>
+<Score et="4314.7">Hendrik(13) lap=8 point=1 t=36.802 et=4314.625</Score>
+<Sector et="4314.7">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="4314.7">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="4352.9">Hendrik(13) set new best for sector 3</Sector>
+<Score et="4352.9">Hendrik(13) lap=8 point=2 t=75.020 et=4352.843</Score>
+<Sector et="4352.9">Hendrik(13) set new best for sector 3</Sector>
+<Score et="4390.2">Hendrik(13) lap=9 point=0 t=112.335 et=4390.158</Score>
+<Sector et="4426.5">Hendrik(13) set new best for sector 2</Sector>
+<Score et="4426.5">Hendrik(13) lap=9 point=1 t=36.309 et=4426.467</Score>
+<Sector et="4426.5">Hendrik(13) set new best for sector 2</Sector>
+<Score et="4437.2">Hendrik(13) lap=9 point=2 t=-1.000 et=4437.170</Score>
+<Score et="4437.2">Hendrik(13) lap=10 point=0 t=-1.000 et=4437.170</Score>
+<Score et="4550.8">Hendrik(13) lap=10 point=1 t=-1.000 et=4550.730</Score>
+<Score et="4588.7">Hendrik(13) lap=10 point=2 t=-1.000 et=4588.713</Score>
+<Score et="4627.0">Hendrik(13) lap=11 point=0 t=-1.000 et=4626.967</Score>
+<Score et="4663.4">Hendrik(13) lap=11 point=1 t=36.436 et=4663.403</Score>
+<Sector et="4663.4">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="4663.4">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="4700.9">Hendrik(13) set new best for sector 3</Sector>
+<Score et="4700.9">Hendrik(13) lap=11 point=2 t=73.944 et=4700.911</Score>
+<Sector et="4700.9">Hendrik(13) set new best for sector 3</Sector>
+<Score et="4738.0">Hendrik(13) lap=12 point=0 t=111.010 et=4737.977</Score>
+<Sector et="4738.0">Hendrik(13) set new best for sector 1</Sector>
+<Sector et="4738.0">Hendrik(13) set new best for sector 1</Sector>
+<Incident et="4754.6">Hendrik(13) reported contact (181.24) with Sign</Incident>
+<Incident et="4754.6">Hendrik(13) reported contact (127.36) with Sign</Incident>
+<Incident et="4754.6">Hendrik(13) reported contact (272.95) with Sign</Incident>
+<Incident et="4754.6">Hendrik(13) reported contact (56.46) with Sign</Incident>
+<Incident et="4754.6">Hendrik(13) reported contact (205.90) with Sign</Incident>
+<Incident et="4754.6">Hendrik(13) reported contact (26.93) with Sign</Incident>
+<Incident et="4754.8">Hendrik(13) reported contact (41.50) with Sign</Incident>
+<Incident et="4755.1">Hendrik(13) reported contact (116.93) with Sign</Incident>
+<Incident et="4755.1">Hendrik(13) reported contact (227.79) with Sign</Incident>
+<Incident et="4755.1">Hendrik(13) reported contact (126.44) with Sign</Incident>
+<Incident et="4755.2">Hendrik(13) reported contact (34.12) with Sign</Incident>
+<Incident et="4755.2">Hendrik(13) reported contact (30.42) with Sign</Incident>
+<Incident et="4755.3">Hendrik(13) reported contact (23.66) with Sign</Incident>
+<Incident et="4755.4">Hendrik(13) reported contact (377.25) with Sign</Incident>
+<Incident et="4755.5">Hendrik(13) reported contact (289.65) with Sign</Incident>
+<Incident et="4755.5">Hendrik(13) reported contact (248.51) with Sign</Incident>
+<Incident et="4755.5">Hendrik(13) reported contact (158.05) with Sign</Incident>
+<Incident et="4755.5">Hendrik(13) reported contact (147.51) with Sign</Incident>
+<Incident et="4755.5">Hendrik(13) reported contact (156.74) with Sign</Incident>
+<Incident et="4755.5">Hendrik(13) reported contact (52.79) with Sign</Incident>
+<Incident et="4755.5">Hendrik(13) reported contact (107.37) with Sign</Incident>
+<Incident et="4755.5">Hendrik(13) reported contact (54.09) with Sign</Incident>
+<Incident et="4755.6">Hendrik(13) reported contact (298.29) with Sign</Incident>
+<Incident et="4756.1">Hendrik(13) reported contact (65.90) with Sign</Incident>
+<Incident et="4756.1">Hendrik(13) reported contact (71.08) with Sign</Incident>
+<Incident et="4756.9">Hendrik(13) reported contact (164.20) with Sign</Incident>
+<Incident et="4757.1">Hendrik(13) reported contact (45.06) with Sign</Incident>
+<Incident et="4757.1">Hendrik(13) reported contact (57.02) with Sign</Incident>
+<Score et="4770.9">Hendrik(13) lap=12 point=1 t=-1.000 et=4770.870</Score>
+<Score et="4788.6">Hendrik(13) lap=12 point=2 t=-1.000 et=4788.615</Score>
+<Score et="4788.6">Hendrik(13) lap=13 point=0 t=-1.000 et=4788.615</Score>
+<Score et="4881.9">Hendrik(13) lap=13 point=1 t=-1.000 et=4881.877</Score>
+<Score et="4919.5">Hendrik(13) lap=13 point=2 t=-1.000 et=4919.518</Score>
+<Score et="4956.7">Hendrik(13) lap=14 point=0 t=-1.000 et=4956.717</Score>
+<Score et="4992.8">Hendrik(13) lap=14 point=1 t=36.036 et=4992.753</Score>
+<Sector et="4992.8">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="4992.8">Hendrik(13) set new best for sector 2</Sector>
+<Score et="5014.5">Hendrik(13) lap=14 point=2 t=-1.000 et=5014.463</Score>
+<Score et="5014.5">Hendrik(13) lap=15 point=0 t=-1.000 et=5014.463</Score>
+<Score et="5075.5">Hendrik(13) lap=15 point=1 t=-1.000 et=5075.530</Score>
+<Incident et="5100.9">Hendrik(13) reported contact (1903.55) with Immovable</Incident>
+<Incident et="5100.9">Hendrik(13) reported contact (1626.56) with Immovable</Incident>
+<Sector et="5100.9">Hendrik(13) reports new suspension damage</Sector>
+<Incident et="5100.9">Hendrik(13) reported contact (1253.80) with Immovable</Incident>
+<Incident et="5100.9">Hendrik(13) reported contact (1117.60) with Immovable</Incident>
+<Score et="5126.2">Hendrik(13) lap=15 point=2 t=-1.000 et=5126.142</Score>
+<Score et="5163.8">Hendrik(13) lap=16 point=0 t=-1.000 et=5163.813</Score>
+<Score et="5182.9">Hendrik(13) lap=16 point=1 t=-1.000 et=5182.835</Score>
+<Score et="5182.9">Hendrik(13) lap=16 point=2 t=-1.000 et=5182.835</Score>
+<Score et="5182.9">Hendrik(13) lap=17 point=0 t=-1.000 et=5182.835</Score>
+<Score et="5339.0">Hendrik(13) lap=17 point=1 t=-1.000 et=5338.957</Score>
+<Score et="5377.1">Hendrik(13) lap=17 point=2 t=-1.000 et=5377.094</Score>
+<Score et="5415.7">Hendrik(13) lap=18 point=0 t=-1.000 et=5415.663</Score>
+<Score et="5453.0">Hendrik(13) lap=18 point=1 t=-1.000 et=5452.973</Score>
+<Score et="5490.9">Hendrik(13) lap=18 point=2 t=-1.000 et=5490.857</Score>
+<Score et="5528.6">Hendrik(13) lap=19 point=0 t=-1.000 et=5528.555</Score>
+<Score et="5565.1">Hendrik(13) lap=19 point=1 t=36.493 et=5565.047</Score>
+<Sector et="5565.1">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="5565.1">Hendrik(13) set new best for sector 2</Sector>
+<Incident et="5626.5">Hendrik(13) reported contact (2157.53) with Immovable</Incident>
+<Incident et="5626.5">Hendrik(13) reported contact (2915.85) with Immovable</Incident>
+<Incident et="5626.5">Hendrik(13) reported contact (2423.70) with Immovable</Incident>
+<Incident et="5626.6">Hendrik(13) reported contact (1735.29) with Immovable</Incident>
+<Incident et="5626.6">Hendrik(13) reported contact (1112.87) with Immovable</Incident>
+<Score et="5630.2">Hendrik(13) lap=19 point=2 t=-1.000 et=5630.150</Score>
+<Score et="5630.2">Hendrik(13) lap=20 point=0 t=-1.000 et=5630.150</Score>
+<Score et="5761.3">Hendrik(13) lap=20 point=1 t=-1.000 et=5761.266</Score>
+<Score et="5799.8">Hendrik(13) lap=20 point=2 t=-1.000 et=5799.742</Score>
+<Score et="5837.1">Hendrik(13) lap=21 point=0 t=-1.000 et=5837.110</Score>
+<Score et="5873.5">Hendrik(13) lap=21 point=1 t=36.372 et=5873.482</Score>
+<Sector et="5873.5">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="5873.5">Hendrik(13) set new best for sector 2</Sector>
+<Score et="5911.0">Hendrik(13) lap=21 point=2 t=73.840 et=5910.951</Score>
+<Sector et="5911.0">Hendrik(13) set new best for sector 3</Sector>
+<Sector et="5911.0">Hendrik(13) set new best for sector 3</Sector>
+<Score et="5949.1">Hendrik(13) lap=22 point=0 t=112.012 et=5949.122</Score>
+<Score et="5987.3">Hendrik(13) lap=22 point=1 t=-1.000 et=5987.303</Score>
+<Score et="6024.9">Hendrik(13) lap=22 point=2 t=-1.000 et=6024.928</Score>
+<Score et="6062.5">Hendrik(13) lap=23 point=0 t=-1.000 et=6062.439</Score>
+<Score et="6099.2">Hendrik(13) lap=23 point=1 t=36.702 et=6099.141</Score>
+<Sector et="6099.2">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="6099.2">Hendrik(13) set new best for sector 2</Sector>
+<Score et="6143.2">Hendrik(13) lap=23 point=2 t=80.764 et=6143.203</Score>
+<Sector et="6143.2">Hendrik(13) set new best for sector 3</Sector>
+<Sector et="6143.2">Hendrik(13) set new best for sector 3</Sector>
+<Score et="6180.7">Hendrik(13) lap=24 point=0 t=118.233 et=6180.672</Score>
+<Score et="6216.9">Hendrik(13) lap=24 point=1 t=36.149 et=6216.821</Score>
+<Sector et="6216.9">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="6216.9">Hendrik(13) set new best for sector 2</Sector>
+<Score et="6254.3">Hendrik(13) lap=24 point=2 t=73.632 et=6254.304</Score>
+<Sector et="6254.3">Hendrik(13) set new best for sector 3</Sector>
+<Sector et="6254.3">Hendrik(13) set new best for sector 3</Sector>
+<Score et="6292.5">Hendrik(13) lap=25 point=0 t=111.784 et=6292.456</Score>
+<Score et="6328.5">Hendrik(13) lap=25 point=1 t=36.035 et=6328.491</Score>
+<Sector et="6328.5">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="6328.5">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="6365.9">Hendrik(13) set new best for sector 3</Sector>
+<Score et="6365.9">Hendrik(13) lap=25 point=2 t=73.408 et=6365.864</Score>
+<Sector et="6365.9">Hendrik(13) set new best for sector 3</Sector>
+<Score et="6404.0">Hendrik(13) lap=26 point=0 t=111.474 et=6403.930</Score>
+<Score et="6413.2">Hendrik(13) lap=26 point=1 t=-1.000 et=6413.180</Score>
+<Score et="6413.2">Hendrik(13) lap=26 point=2 t=-1.000 et=6413.180</Score>
+<Score et="6413.2">Hendrik(13) lap=27 point=0 t=-1.000 et=6413.180</Score>
+<Chat et="8069.7">Fred Bart has entered the race.</Chat>
+<System et="8069.7">Fred Bart(14) 176.168.165.76 has joined as a participant</System>
+<Command et="8073.2">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="8073.2">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="8073.4">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="8073.4">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Score et="8174.2">Fred Bart(14) lap=0 point=1 t=-1.000 et=8174.183</Score>
+<Score et="8213.7">Fred Bart(14) lap=0 point=2 t=-1.000 et=8213.711</Score>
+<Score et="8251.2">Fred Bart(14) lap=1 point=0 t=-1.000 et=8251.125</Score>
+<Score et="8269.4">Fred Bart(14) lap=1 point=1 t=-1.000 et=8269.406</Score>
+<Score et="8269.4">Fred Bart(14) lap=1 point=2 t=-1.000 et=8269.406</Score>
+<Score et="8269.4">Fred Bart(14) lap=2 point=0 t=-1.000 et=8269.406</Score>
+<Score et="8408.6">Fred Bart(14) lap=2 point=1 t=-1.000 et=8408.560</Score>
+<Score et="8448.1">Fred Bart(14) lap=2 point=2 t=-1.000 et=8448.085</Score>
+<Score et="8486.0">Fred Bart(14) lap=3 point=0 t=-1.000 et=8486.005</Score>
+<Sector et="8522.2">Fred Bart(14) set new best for sector 2</Sector>
+<Score et="8522.2">Fred Bart(14) lap=3 point=1 t=36.186 et=8522.190</Score>
+<Sector et="8522.2">Fred Bart(14) set new best for sector 2</Sector>
+<Sector et="8522.2">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="8559.8">Fred Bart(14) set new best for sector 3</Sector>
+<Score et="8559.8">Fred Bart(14) lap=3 point=2 t=73.782 et=8559.787</Score>
+<Sector et="8559.8">Fred Bart(14) set new best for sector 3</Sector>
+<Sector et="8559.9">Hendrik(13) set new best for sector 3</Sector>
+<Sector et="8597.3">Fred Bart(14) set new best for sector 1</Sector>
+<Score et="8597.3">Fred Bart(14) lap=4 point=0 t=111.224 et=8597.229</Score>
+<Sector et="8597.3">Fred Bart(14) set new best for sector 1</Sector>
+<Sector et="8597.3">Hendrik(13) set new best for sector 1</Sector>
+<Sector et="8633.1">Fred Bart(14) set new best for sector 2</Sector>
+<Score et="8633.1">Fred Bart(14) lap=4 point=1 t=35.862 et=8633.091</Score>
+<Sector et="8633.1">Fred Bart(14) set new best for sector 2</Sector>
+<Sector et="8633.1">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="8671.8">Fred Bart(14) set new best for sector 3</Sector>
+<Score et="8671.8">Fred Bart(14) lap=4 point=2 t=74.564 et=8671.793</Score>
+<Sector et="8671.8">Fred Bart(14) set new best for sector 3</Sector>
+<Sector et="8671.8">Hendrik(13) set new best for sector 3</Sector>
+<Score et="8709.0">Fred Bart(14) lap=5 point=0 t=111.767 et=8708.995</Score>
+<Sector et="8744.9">Fred Bart(14) set new best for sector 2</Sector>
+<Score et="8744.9">Fred Bart(14) lap=5 point=1 t=35.833 et=8744.828</Score>
+<Sector et="8744.9">Fred Bart(14) set new best for sector 2</Sector>
+<Sector et="8744.9">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="8782.6">Fred Bart(14) set new best for sector 3</Sector>
+<Score et="8782.6">Fred Bart(14) lap=5 point=2 t=73.527 et=8782.522</Score>
+<Sector et="8782.6">Fred Bart(14) set new best for sector 3</Sector>
+<Sector et="8782.6">Hendrik(13) set new best for sector 3</Sector>
+<Sector et="8820.2">Fred Bart(14) set new best for sector 1</Sector>
+<Score et="8820.2">Fred Bart(14) lap=6 point=0 t=111.219 et=8820.214</Score>
+<Sector et="8820.2">Fred Bart(14) set new best for sector 1</Sector>
+<Sector et="8820.3">Hendrik(13) set new best for sector 1</Sector>
+<Sector et="8856.1">Fred Bart(14) set new best for sector 2</Sector>
+<Score et="8856.1">Fred Bart(14) lap=6 point=1 t=35.853 et=8856.066</Score>
+<Sector et="8856.1">Fred Bart(14) set new best for sector 2</Sector>
+<Sector et="8856.1">Hendrik(13) set new best for sector 2</Sector>
+<Incident et="8862.6">Fred Bart(14) reported contact (2505.71) with Immovable</Incident>
+<Incident et="8862.6">Fred Bart(14) reported contact (2517.18) with Immovable</Incident>
+<Incident et="8862.6">Fred Bart(14) reported contact (2482.97) with Immovable</Incident>
+<Sector et="8862.6">Fred Bart(14) reports new suspension damage</Sector>
+<Incident et="8862.6">Fred Bart(14) reported contact (1212.61) with Immovable</Incident>
+<Incident et="8862.6">Fred Bart(14) reported contact (1383.05) with Immovable</Incident>
+<Incident et="8862.6">Fred Bart(14) reported contact (1400.19) with Immovable</Incident>
+<Score et="8863.6">Fred Bart(14) lap=6 point=2 t=-1.000 et=8863.595</Score>
+<Score et="8863.6">Fred Bart(14) lap=7 point=0 t=-1.000 et=8863.595</Score>
+<Penalty et="8928.9">Fred Bart received Stop/Go penalty, 10s, 0laps for &quot;Speeding In Pitlane&quot;. Result: penalties=1, 1st=Stop/Go,10s</Penalty>
+<Score et="8967.3">Fred Bart(14) lap=7 point=1 t=-1.000 et=8967.299</Score>
+<Score et="8975.7">Fred Bart(14) lap=7 point=2 t=-1.000 et=8975.651</Score>
+<Score et="8975.7">Fred Bart(14) lap=8 point=0 t=-1.000 et=8975.651</Score>
+<Score et="9085.7">Fred Bart(14) lap=8 point=1 t=-1.000 et=9085.709</Score>
+<Score et="9124.1">Fred Bart(14) lap=8 point=2 t=-1.000 et=9124.069</Score>
+<Score et="9161.7">Fred Bart(14) lap=9 point=0 t=-1.000 et=9161.708</Score>
+<Sector et="9197.9">Fred Bart(14) set new best for sector 2</Sector>
+<Score et="9197.9">Fred Bart(14) lap=9 point=1 t=36.163 et=9197.871</Score>
+<Sector et="9197.9">Fred Bart(14) set new best for sector 2</Sector>
+<Sector et="9197.9">Hendrik(13) set new best for sector 2</Sector>
+<Sector et="9235.4">Fred Bart(14) set new best for sector 3</Sector>
+<Score et="9235.4">Fred Bart(14) lap=9 point=2 t=73.624 et=9235.332</Score>
+<Sector et="9235.4">Fred Bart(14) set new best for sector 3</Sector>
+<Sector et="9235.4">Hendrik(13) set new best for sector 3</Sector>
+<Score et="9279.9">Fred Bart(14) lap=10 point=0 t=-1.000 et=9279.887</Score>
+<Score et="9301.9">Fred Bart(14) lap=10 point=1 t=-1.000 et=9301.906</Score>
+<Score et="9301.9">Fred Bart(14) lap=10 point=2 t=-1.000 et=9301.906</Score>
+<Score et="9301.9">Fred Bart(14) lap=11 point=0 t=-1.000 et=9301.906</Score>
+<Chat et="9325.1">Fred Bart left the race.</Chat>
+<Chat et="9362.0">Fred Bart has entered the race.</Chat>
+<System et="9362.0">Fred Bart(15) 176.168.165.76 has joined as a participant</System>
+<System et="9362.0">Fred Bart returned with matching vehicle/upgrades: restoring score (11 laps)</System>
+<Command et="9363.0">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="9363.0">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="9363.2">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="9363.2">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="9363.9">Hendrik left the race.</Chat>
+<Score et="9481.4">Fred Bart(15) lap=11 point=1 t=-1.000 et=9481.392</Score>
+<Score et="9519.5">Fred Bart(15) lap=11 point=2 t=-1.000 et=9519.422</Score>
+<Score et="9556.9">Fred Bart(15) lap=12 point=0 t=-1.000 et=9556.917</Score>
+<Sector et="9593.4">Fred Bart(15) set new best for sector 2</Sector>
+<Score et="9593.4">Fred Bart(15) lap=12 point=1 t=36.405 et=9593.322</Score>
+<Sector et="9593.4">Fred Bart(15) set new best for sector 2</Sector>
+<Sector et="9631.1">Fred Bart(15) set new best for sector 3</Sector>
+<Score et="9631.1">Fred Bart(15) lap=12 point=2 t=74.167 et=9631.084</Score>
+<Sector et="9631.1">Fred Bart(15) set new best for sector 3</Sector>
+<Score et="9668.2">Fred Bart(15) lap=13 point=0 t=111.259 et=9668.176</Score>
+<Sector et="9704.1">Fred Bart(15) set new best for sector 2</Sector>
+<Score et="9704.1">Fred Bart(15) lap=13 point=1 t=35.860 et=9704.036</Score>
+<Sector et="9704.1">Fred Bart(15) set new best for sector 2</Sector>
+<Sector et="9741.3">Fred Bart(15) set new best for sector 3</Sector>
+<Score et="9741.3">Fred Bart(15) lap=13 point=2 t=73.141 et=9741.316</Score>
+<Sector et="9741.3">Fred Bart(15) set new best for sector 3</Sector>
+<Sector et="9778.3">Fred Bart(15) set new best for sector 1</Sector>
+<Score et="9778.3">Fred Bart(15) lap=14 point=0 t=110.109 et=9778.285</Score>
+<Sector et="9778.3">Fred Bart(15) set new best for sector 1</Sector>
+<Sector et="9814.3">Fred Bart(15) set new best for sector 2</Sector>
+<Score et="9814.3">Fred Bart(15) lap=14 point=1 t=35.965 et=9814.250</Score>
+<Sector et="9814.3">Fred Bart(15) set new best for sector 2</Sector>
+<Sector et="9852.4">Fred Bart(15) set new best for sector 3</Sector>
+<Score et="9852.4">Fred Bart(15) lap=14 point=2 t=74.081 et=9852.366</Score>
+<Sector et="9852.4">Fred Bart(15) set new best for sector 3</Sector>
+<Score et="9889.5">Fred Bart(15) lap=15 point=0 t=111.208 et=9889.493</Score>
+<Score et="9925.3">Fred Bart(15) lap=15 point=1 t=35.775 et=9925.269</Score>
+<Sector et="9925.3">Fred Bart(15) set new best for sector 2</Sector>
+<Sector et="9925.3">Fred Bart(15) set new best for sector 2</Sector>
+<Score et="9947.6">Fred Bart(15) lap=15 point=2 t=-1.000 et=9947.569</Score>
+<Score et="9947.6">Fred Bart(15) lap=16 point=0 t=-1.000 et=9947.569</Score>
+<Chat et="9963.2">Fred Bart left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.153" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="8251.1250" fuel="0.180" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="8269.4063" fuel="0.137" twfl="0.992" twfr="0.996" twrl="0.992" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="2" et="8486.0049" s1="36.1855" s2="37.5967" s3="37.4414" fuel="0.110" twfl="0.980" twfr="0.988" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">111.2236</Lap>
+<Lap num="5" p="2" et="8597.2285" s1="35.8623" s2="38.7021" s3="37.2021" fuel="0.082" twfl="0.973" twfr="0.984" twrl="0.961" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">111.7666</Lap>
+<Lap num="6" p="2" et="8708.9951" s1="35.8330" s2="37.6943" s3="37.6914" fuel="0.051" twfl="0.961" twfr="0.976" twrl="0.945" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">111.2188</Lap>
+<Lap num="7" p="2" et="8820.2139" s1="35.8525" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="2" et="8863.5947" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="8975.6514" fuel="0.133" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="2" et="9161.7080" s1="36.1631" s2="37.4609" fuel="0.110" twfl="0.980" twfr="0.992" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="11" p="2" et="9279.8867" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="--.---" fuel="0.133" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="9556.9170" s1="36.4053" s2="37.7617" s3="37.0918" fuel="0.106" twfl="0.976" twfr="0.988" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">111.2588</Lap>
+<Lap num="14" p="1" et="9668.1758" s1="35.8604" s2="37.2803" s3="36.9688" fuel="0.078" twfl="0.965" twfr="0.984" twrl="0.957" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">110.1094</Lap>
+<Lap num="15" p="1" et="9778.2852" s1="35.9648" s2="38.1162" s3="37.1270" fuel="0.051" twfl="0.949" twfr="0.976" twrl="0.933" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">111.2080</Lap>
+<Lap num="16" p="1" et="9889.4932" s1="35.7754" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>110.1094</BestLapTime>
+<Laps>16</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="16">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="16"></Swap></Driver>
+<Driver>
+<Name>Hendrik</Name>
+<SteamID>76561198929155105</SteamID>
+<Connected>0</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.427" twfl="0.984" twfr="0.965" twrl="0.984" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="3528.4253" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="3548.2058" fuel="0.427" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="3685.6362" s1="47.5273" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="3755.7317" fuel="0.427" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="3892.6841" s1="36.2673" s2="37.4976" s3="37.2937" fuel="0.400" twfl="0.961" twfr="0.980" twrl="0.945" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">111.0586</Lap>
+<Lap num="7" p="1" et="4003.7427" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="4027.0129" fuel="0.153" twfl="0.988" twfr="0.988" twrl="0.976" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="4277.8232" s1="36.8022" s2="38.2173" s3="37.3154" fuel="0.125" twfl="0.973" twfr="0.949" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">112.3350</Lap>
+<Lap num="10" p="1" et="4390.1582" s1="36.3091" fuel="0.180" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="4437.1704" fuel="0.153" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="4626.9668" s1="36.4360" s2="37.5083" s3="37.0659" fuel="0.125" twfl="0.976" twfr="0.984" twrl="0.957" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">111.0103</Lap>
+<Lap num="13" p="1" et="4737.9771" fuel="0.180" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="4788.6152" fuel="0.153" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="4956.7168" s1="36.0361" fuel="0.180" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="1" et="5014.4634" fuel="0.153" twfl="0.980" twfr="0.992" twrl="0.953" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="1" et="5163.8130" fuel="0.180" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="1" et="5182.8350" fuel="0.153" twfl="0.988" twfr="0.988" twrl="0.976" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="1" et="5415.6631" fuel="0.125" twfl="0.976" twfr="0.980" twrl="0.957" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="1" et="5528.5547" s1="36.4927" fuel="0.180" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="21" p="1" et="5630.1504" fuel="0.153" twfl="0.988" twfr="0.984" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="1" et="5837.1104" s1="36.3721" s2="37.4683" s3="38.1714" fuel="0.125" twfl="0.973" twfr="0.976" twrl="0.965" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">112.0117</Lap>
+<Lap num="23" p="1" et="5949.1221" fuel="0.098" twfl="0.961" twfr="0.965" twrl="0.945" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="24" p="1" et="6062.4390" s1="36.7017" s2="44.0625" s3="37.4692" fuel="0.071" twfl="0.941" twfr="0.949" twrl="0.918" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">118.2334</Lap>
+<Lap num="25" p="1" et="6180.6724" s1="36.1489" s2="37.4829" s3="38.1519" fuel="0.039" twfl="0.925" twfr="0.937" twrl="0.890" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">111.7837</Lap>
+<Lap num="26" p="1" et="6292.4561" s1="36.0347" s2="37.3730" s3="38.0659" fuel="0.012" twfl="0.910" twfr="0.918" twrl="0.851" twrr="0.918" fcompound="0,Dry" rcompound="0,Dry">111.4736</Lap>
+<Lap num="27" p="1" et="6403.9297" fuel="0.180" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>111.0103</BestLapTime>
+<Laps>27</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="17">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="18" endLap="20">PlayerControl</ControlAndAids>
+<ControlAndAids startLap="21" endLap="27">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="27"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

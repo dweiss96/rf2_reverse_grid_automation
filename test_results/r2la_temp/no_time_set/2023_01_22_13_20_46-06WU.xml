@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674380744</DateTime>
+<TimeString>2023/01/22 10:45:44</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Warmup>
+<DateTime>1674389944</DateTime>
+<TimeString>2023/01/22 13:19:04</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Command from="Fred Bart" nodeid="1" et="0.0">/vote yes</Command>
+<Vote et="0.0">Fred Bart: /vote yes</Vote>
+<Sent et="0.0">Vote ignored: There is no vote in progress</Sent>
+<Chat et="10.8">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.0">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.0">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.2">&gt; /w Your Name If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.2">/w Your Name If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="11.4">/w Your Name germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.4">&gt; /w Your Name germansimracing.de | discord.gg/GSR</Chat>
+<Command from="Fred Bart" nodeid="1" et="29.9">/callvote nextrace</Command>
+<Vote et="29.9">Fred Bart: /callvote nextrace</Vote>
+<Sent et="29.9">&quot;load next circuit&quot; proposed by Fred Bart: 1 vote needed to pass</Sent>
+<Chat et="33.7">Your Name left the race.</Chat>
+<Command from="Fred Bart" nodeid="1" et="36.9">/vote yes</Command>
+<Vote et="36.9">Fred Bart: /vote yes</Vote>
+<Sent et="36.9">Vote ignored: You can only vote once per issue</Sent>
+<Command from="Fred Bart" nodeid="1" et="47.7">/callvote restartweekend</Command>
+<Vote et="47.7">Fred Bart: /callvote restartweekend</Vote>
+<Sent et="47.7">Cannot call vote: there is a vote in progress</Sent>
+<Command from="Fred Bart" nodeid="1" et="52.7">/vote yes</Command>
+<Vote et="52.7">Fred Bart: /vote yes</Vote>
+<Sent et="52.7">Vote ignored: You can only vote once per issue</Sent>
+<Chat et="82.6">Your Name has entered the race.</Chat>
+<System et="82.6">Your Name(35) 86.201.141.15 has joined as a participant</System>
+<System et="82.6">Your Name returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Command et="90.6">/w Your Name If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="90.6">&gt; /w Your Name If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="90.8">&gt; /w Your Name germansimracing.de | discord.gg/GSR</Chat>
+<Command et="90.8">/w Your Name germansimracing.de | discord.gg/GSR</Command>
+<Command from="Fred Bart" nodeid="1" et="93.3">/callvote nextrace</Command>
+<Vote et="93.3">Fred Bart: /callvote nextrace</Vote>
+<Sent et="93.3">&quot;load next circuit&quot; proposed by Fred Bart: 1 vote needed to pass</Sent>
+<Command from="Your Name" nodeid="2" et="96.6">/vote yes</Command>
+<Vote et="96.6">Your Name: /vote yes</Vote>
+<Sent et="96.6">Your Name voted YES to load next circuit: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Your Name</Name>
+<SteamID>76561198884284323</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Warmup>
+</RaceResults>
+</rFactorXML>

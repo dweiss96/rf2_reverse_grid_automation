@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674380744</DateTime>
+<TimeString>2023/01/22 10:45:44</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674380745</DateTime>
+<TimeString>2023/01/22 10:45:45</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Command from="Torsten Spindler" nodeid="3" et="0.0">/vote yes</Command>
+<Vote et="0.0">Torsten Spindler: /vote yes</Vote>
+<Sent et="0.0">Vote ignored: There is no vote in progress</Sent>
+<Command from="Daniel Weiss" nodeid="1" et="0.0">/vote yes</Command>
+<Vote et="0.0">Daniel Weiss: /vote yes</Vote>
+<Sent et="0.0">Vote ignored: There is no vote in progress</Sent>
+<Chat et="0.0">Volker Schmidt has entered the race.</Chat>
+<System et="0.0">Volker Schmidt(26) 84.118.169.209 has joined as a participant</System>
+<Chat et="0.0">Daniel Weiss has entered the race.</Chat>
+<System et="0.0">Daniel Weiss(27) 91.40.240.224 has joined as a participant</System>
+<Chat et="0.0">Torsten Spindler has entered the race.</Chat>
+<System et="0.0">Torsten Spindler(28) 24.134.216.129 has joined as a participant</System>
+<Chat et="11.8">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.8">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="12.0">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="12.0">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Command et="12.2">/w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="12.2">&gt; /w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="12.4">/w Torsten Spindler germansimracing.de | discord.gg/GSR</Command>
+<Chat et="12.4">&gt; /w Torsten Spindler germansimracing.de | discord.gg/GSR</Chat>
+<Command et="12.6">/w Volker Schmidt If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="12.6">&gt; /w Volker Schmidt If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="12.8">&gt; /w Volker Schmidt germansimracing.de | discord.gg/GSR</Chat>
+<Command et="12.8">/w Volker Schmidt germansimracing.de | discord.gg/GSR</Command>
+<Score et="126.2">Torsten Spindler(28) lap=0 point=1 t=-1.000 et=126.142</Score>
+<Score et="146.7">Daniel Weiss(27) lap=0 point=1 t=-1.000 et=146.657</Score>
+<Score et="149.7">Volker Schmidt(26) lap=0 point=1 t=-1.000 et=149.687</Score>
+<Score et="175.7">Torsten Spindler(28) lap=0 point=2 t=-1.000 et=175.685</Score>
+<Score et="194.7">Daniel Weiss(27) lap=0 point=2 t=-1.000 et=194.644</Score>
+<Score et="201.1">Volker Schmidt(26) lap=0 point=2 t=-1.000 et=201.125</Score>
+<Score et="210.5">Torsten Spindler(28) lap=1 point=0 t=-1.000 et=210.493</Score>
+<Score et="228.6">Daniel Weiss(27) lap=1 point=0 t=-1.000 et=228.567</Score>
+<Score et="234.0">Torsten Spindler(28) lap=1 point=1 t=23.521 et=234.015</Score>
+<Sector et="234.0">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="234.0">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="234.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="234.1">Volker Schmidt(26) set new best for sector 2</Sector>
+<Incident et="234.9">Daniel Weiss(27) reported contact (78.85) with Sign</Incident>
+<Incident et="234.9">Daniel Weiss(27) reported contact (66.83) with Sign</Incident>
+<Incident et="234.9">Daniel Weiss(27) reported contact (38.00) with Sign</Incident>
+<Incident et="234.9">Daniel Weiss(27) reported contact (33.36) with Sign</Incident>
+<Incident et="234.9">Daniel Weiss(27) reported contact (41.56) with Sign</Incident>
+<Incident et="235.0">Daniel Weiss(27) reported contact (11.23) with Sign</Incident>
+<Incident et="235.3">Daniel Weiss(27) reported contact (16.16) with Sign</Incident>
+<Score et="237.9">Volker Schmidt(26) lap=1 point=0 t=-1.000 et=237.858</Score>
+<Score et="252.1">Daniel Weiss(27) lap=1 point=1 t=-1.000 et=252.089</Score>
+<Score et="262.6">Volker Schmidt(26) lap=1 point=1 t=24.712 et=262.570</Score>
+<Sector et="262.6">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="262.6">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="262.6">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="262.6">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="275.9">Daniel Weiss(27) lap=1 point=2 t=-1.000 et=275.880</Score>
+<Score et="275.9">Daniel Weiss(27) lap=2 point=0 t=-1.000 et=275.880</Score>
+<Sector et="282.0">Torsten Spindler(28) set new best for sector 3</Sector>
+<Score et="282.0">Torsten Spindler(28) lap=1 point=2 t=71.513 et=282.006</Score>
+<Sector et="282.0">Torsten Spindler(28) set new best for sector 3</Sector>
+<Sector et="282.1">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="282.5">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="314.0">Volker Schmidt(26) lap=1 point=2 t=76.139 et=313.997</Score>
+<Sector et="314.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="314.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="314.0">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="314.0">Torsten Spindler(28) set new best for sector 3</Sector>
+<Score et="316.1">Torsten Spindler(28) lap=2 point=0 t=105.559 et=316.052</Score>
+<Sector et="316.1">Torsten Spindler(28) set new best for sector 1</Sector>
+<Sector et="316.1">Torsten Spindler(28) set new best for sector 1</Sector>
+<Sector et="316.1">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="316.1">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="339.3">Torsten Spindler(28) lap=2 point=1 t=23.211 et=339.263</Score>
+<Sector et="339.3">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="339.3">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="339.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="339.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="350.5">Volker Schmidt(26) lap=2 point=0 t=112.582 et=350.440</Score>
+<Sector et="350.5">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="350.5">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="350.5">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="350.5">Torsten Spindler(28) set new best for sector 1</Sector>
+<Score et="361.1">Daniel Weiss(27) lap=2 point=1 t=-1.000 et=361.094</Score>
+<Sector et="375.1">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="375.1">Volker Schmidt(26) lap=2 point=1 t=24.610 et=375.050</Score>
+<Sector et="375.1">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="375.1">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="375.1">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="387.1">Torsten Spindler(28) set new best for sector 3</Sector>
+<Score et="387.1">Torsten Spindler(28) lap=2 point=2 t=71.063 et=387.115</Score>
+<Sector et="387.1">Torsten Spindler(28) set new best for sector 3</Sector>
+<Sector et="387.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="387.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="408.3">Daniel Weiss(27) lap=2 point=2 t=-1.000 et=408.284</Score>
+<Score et="421.0">Torsten Spindler(28) lap=3 point=0 t=104.903 et=420.955</Score>
+<Sector et="421.0">Torsten Spindler(28) set new best for sector 1</Sector>
+<Sector et="421.0">Torsten Spindler(28) set new best for sector 1</Sector>
+<Sector et="421.0">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="421.0">Volker Schmidt(26) set new best for sector 1</Sector>
+<Score et="426.5">Volker Schmidt(26) lap=2 point=2 t=76.055 et=426.495</Score>
+<Sector et="426.5">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="426.5">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="426.5">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="426.5">Torsten Spindler(28) set new best for sector 3</Sector>
+<Score et="441.7">Daniel Weiss(27) lap=3 point=0 t=-1.000 et=441.716</Score>
+<Score et="443.8">Torsten Spindler(28) lap=3 point=1 t=22.841 et=443.797</Score>
+<Sector et="443.8">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="443.8">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="443.8">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="443.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="464.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="464.3">Daniel Weiss(27) lap=3 point=1 t=22.597 et=464.313</Score>
+<Sector et="464.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="464.4">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="464.4">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="477.6">Volker Schmidt(26) lap=3 point=0 t=127.092 et=477.532</Score>
+<Score et="492.2">Torsten Spindler(28) lap=3 point=2 t=71.190 et=492.145</Score>
+<Sector et="492.2">Torsten Spindler(28) set new best for sector 3</Sector>
+<Sector et="492.2">Torsten Spindler(28) set new best for sector 3</Sector>
+<Sector et="492.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="492.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="502.7">Volker Schmidt(26) lap=3 point=1 t=25.155 et=502.687</Score>
+<Sector et="502.7">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="502.7">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="502.7">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="502.7">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="511.7">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="511.7">Daniel Weiss(27) lap=3 point=2 t=69.970 et=511.686</Score>
+<Sector et="511.7">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="511.7">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="511.7">Torsten Spindler(28) set new best for sector 3</Sector>
+<Score et="529.3">Torsten Spindler(28) lap=4 point=0 t=108.322 et=529.277</Score>
+<Sector et="545.2">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="545.2">Daniel Weiss(27) lap=4 point=0 t=103.496 et=545.212</Score>
+<Sector et="545.2">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="545.3">Torsten Spindler(28) set new best for sector 1</Sector>
+<Sector et="545.3">Volker Schmidt(26) set new best for sector 1</Sector>
+<Score et="552.6">Torsten Spindler(28) lap=4 point=1 t=23.333 et=552.611</Score>
+<Sector et="552.6">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="552.6">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="552.6">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="552.7">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="553.1">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="553.1">Volker Schmidt(26) lap=3 point=2 t=75.577 et=553.109</Score>
+<Sector et="553.1">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="553.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="553.2">Torsten Spindler(28) set new best for sector 3</Sector>
+<Sector et="568.1">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="568.1">Daniel Weiss(27) lap=4 point=1 t=22.844 et=568.056</Score>
+<Sector et="568.1">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="568.1">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="568.1">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="589.5">Volker Schmidt(26) set new best for sector 1</Sector>
+<Score et="589.5">Volker Schmidt(26) lap=4 point=0 t=111.944 et=589.476</Score>
+<Sector et="589.5">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="589.5">Torsten Spindler(28) set new best for sector 1</Sector>
+<Sector et="589.5">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="601.5">Torsten Spindler(28) set new best for sector 3</Sector>
+<Score et="601.5">Torsten Spindler(28) lap=4 point=2 t=72.171 et=601.448</Score>
+<Sector et="601.5">Torsten Spindler(28) set new best for sector 3</Sector>
+<Sector et="601.5">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="601.5">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="614.7">Volker Schmidt(26) lap=4 point=1 t=25.202 et=614.678</Score>
+<Sector et="614.7">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="614.7">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="614.7">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="614.7">Torsten Spindler(28) set new best for sector 2</Sector>
+<Sector et="615.9">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="615.9">Daniel Weiss(27) lap=4 point=2 t=70.610 et=615.822</Score>
+<Sector et="615.9">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="615.9">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="615.9">Torsten Spindler(28) set new best for sector 3</Sector>
+<Score et="649.0">Daniel Weiss(27) lap=5 point=0 t=103.750 et=648.962</Score>
+<Chat et="654.4">Torsten Spindler left the race.</Chat>
+<Score et="664.8">Volker Schmidt(26) lap=4 point=2 t=75.342 et=664.818</Score>
+<Sector et="664.8">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="664.8">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="664.8">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="671.7">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="671.7">Daniel Weiss(27) lap=5 point=1 t=22.758 et=671.720</Score>
+<Sector et="671.7">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="671.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="700.8">Volker Schmidt(26) lap=5 point=0 t=111.304 et=700.780</Score>
+<Sector et="700.8">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="700.8">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="700.8">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="718.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="718.6">Daniel Weiss(27) lap=5 point=2 t=69.567 et=718.529</Score>
+<Sector et="718.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="718.6">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="725.8">Volker Schmidt(26) lap=5 point=1 t=25.025 et=725.805</Score>
+<Sector et="725.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="725.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="725.8">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="751.8">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="751.8">Daniel Weiss(27) lap=6 point=0 t=102.796 et=751.758</Score>
+<Sector et="751.8">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="751.8">Volker Schmidt(26) set new best for sector 1</Sector>
+<Score et="766.3">Daniel Weiss(27) lap=6 point=1 t=-1.000 et=766.308</Score>
+<Score et="766.3">Daniel Weiss(27) lap=6 point=2 t=-1.000 et=766.308</Score>
+<Score et="766.3">Daniel Weiss(27) lap=7 point=0 t=-1.000 et=766.308</Score>
+<Sector et="776.9">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="776.9">Volker Schmidt(26) lap=5 point=2 t=76.074 et=776.854</Score>
+<Sector et="776.9">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="776.9">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="814.0">Volker Schmidt(26) lap=6 point=0 t=113.189 et=813.969</Score>
+<Score et="839.2">Volker Schmidt(26) lap=6 point=1 t=25.198 et=839.166</Score>
+<Sector et="839.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="839.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="839.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="864.7">Volker Schmidt(26) lap=6 point=2 t=-1.000 et=864.715</Score>
+<Score et="864.7">Volker Schmidt(26) lap=7 point=0 t=-1.000 et=864.715</Score>
+<Score et="904.0">Daniel Weiss(27) lap=7 point=1 t=-1.000 et=903.983</Score>
+<Score et="951.5">Daniel Weiss(27) lap=7 point=2 t=-1.000 et=951.505</Score>
+<Score et="980.2">Volker Schmidt(26) lap=7 point=1 t=-1.000 et=980.142</Score>
+<Score et="984.8">Daniel Weiss(27) lap=8 point=0 t=-1.000 et=984.807</Score>
+<Sector et="1007.8">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="1007.8">Daniel Weiss(27) lap=8 point=1 t=22.969 et=1007.776</Score>
+<Sector et="1007.8">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1007.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="1030.8">Volker Schmidt(26) lap=7 point=2 t=-1.000 et=1030.807</Score>
+<Sector et="1054.3">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="1054.3">Daniel Weiss(27) lap=8 point=2 t=69.469 et=1054.276</Score>
+<Sector et="1054.3">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="1054.3">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="1066.6">Volker Schmidt(26) lap=8 point=0 t=-1.000 et=1066.611</Score>
+<Sector et="1087.5">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="1087.5">Daniel Weiss(27) lap=9 point=0 t=102.657 et=1087.463</Score>
+<Sector et="1087.5">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="1087.5">Volker Schmidt(26) set new best for sector 1</Sector>
+<Score et="1090.5">Volker Schmidt(26) lap=8 point=1 t=23.872 et=1090.483</Score>
+<Sector et="1090.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1090.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1090.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="1110.3">Daniel Weiss(27) lap=9 point=1 t=-1.000 et=1110.295</Score>
+<Score et="1139.5">Volker Schmidt(26) lap=8 point=2 t=72.910 et=1139.521</Score>
+<Sector et="1139.5">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1139.6">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1139.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="1158.0">Daniel Weiss(27) lap=9 point=2 t=-1.000 et=1157.941</Score>
+<Score et="1189.4">Volker Schmidt(26) lap=9 point=0 t=122.772 et=1189.383</Score>
+<Score et="1191.7">Daniel Weiss(27) lap=10 point=0 t=-1.000 et=1191.699</Score>
+<Sector et="1214.4">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="1214.4">Daniel Weiss(27) lap=10 point=1 t=22.670 et=1214.369</Score>
+<Sector et="1214.4">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1214.4">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="1216.3">Volker Schmidt(26) lap=9 point=1 t=26.844 et=1216.227</Score>
+<Sector et="1216.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1216.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1216.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1261.1">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="1261.1">Daniel Weiss(27) lap=10 point=2 t=69.386 et=1261.085</Score>
+<Sector et="1261.1">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="1261.1">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="1290.6">Volker Schmidt(26) lap=9 point=2 t=101.175 et=1290.557</Score>
+<Sector et="1290.6">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1290.6">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1290.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="1294.2">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="1294.2">Daniel Weiss(27) lap=11 point=0 t=102.452 et=1294.150</Score>
+<Sector et="1294.2">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="1294.2">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="1317.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="1317.0">Daniel Weiss(27) lap=11 point=1 t=22.888 et=1317.038</Score>
+<Sector et="1317.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1317.1">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="1327.6">Volker Schmidt(26) lap=10 point=0 t=138.205 et=1327.587</Score>
+<Score et="1352.3">Volker Schmidt(26) lap=10 point=1 t=24.671 et=1352.259</Score>
+<Sector et="1352.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1352.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1352.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1363.7">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="1363.7">Daniel Weiss(27) lap=11 point=2 t=69.559 et=1363.709</Score>
+<Sector et="1363.7">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="1363.8">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="1397.1">Daniel Weiss(27) lap=12 point=0 t=102.930 et=1397.080</Score>
+<Score et="1401.5">Volker Schmidt(26) lap=10 point=2 t=73.871 et=1401.459</Score>
+<Sector et="1401.5">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1401.5">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1401.5">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="1420.0">Daniel Weiss(27) lap=12 point=1 t=-1.000 et=1419.997</Score>
+<Score et="1436.9">Volker Schmidt(26) lap=11 point=0 t=109.292 et=1436.879</Score>
+<Sector et="1436.9">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="1436.9">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="1436.9">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="1461.6">Volker Schmidt(26) lap=11 point=1 t=-1.000 et=1461.572</Score>
+<Score et="1461.6">Volker Schmidt(26) lap=11 point=2 t=-1.000 et=1461.572</Score>
+<Score et="1461.6">Volker Schmidt(26) lap=12 point=0 t=-1.000 et=1461.572</Score>
+<Score et="1467.3">Daniel Weiss(27) lap=12 point=2 t=-1.000 et=1467.259</Score>
+<Score et="1500.7">Daniel Weiss(27) lap=13 point=0 t=-1.000 et=1500.689</Score>
+<Chat et="1504.8">Torsten Spindler has entered the race.</Chat>
+<System et="1504.8">Torsten Spindler(29) 24.134.216.129 has joined as a participant</System>
+<System et="1504.8">Torsten Spindler returned with matching vehicle/upgrades: restoring score (4 laps)</System>
+<Command et="1511.6">/w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="1511.6">&gt; /w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="1511.8">&gt; /w Torsten Spindler germansimracing.de | discord.gg/GSR</Chat>
+<Command et="1511.8">/w Torsten Spindler germansimracing.de | discord.gg/GSR</Command>
+<Sector et="1523.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="1523.5">Daniel Weiss(27) lap=13 point=1 t=22.802 et=1523.491</Score>
+<Sector et="1523.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1523.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1523.5">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="1556.3">Volker Schmidt(26) lap=12 point=1 t=-1.000 et=1556.336</Score>
+<Sector et="1570.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="1570.6">Daniel Weiss(27) lap=13 point=2 t=69.912 et=1570.601</Score>
+<Sector et="1570.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="1570.7">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1570.7">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="1603.9">Daniel Weiss(27) lap=14 point=0 t=103.171 et=1603.860</Score>
+<Score et="1607.3">Volker Schmidt(26) lap=12 point=2 t=-1.000 et=1607.312</Score>
+<Sector et="1626.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="1626.9">Daniel Weiss(27) lap=14 point=1 t=23.028 et=1626.888</Score>
+<Sector et="1626.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1626.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1626.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="1644.1">Volker Schmidt(26) lap=13 point=0 t=-1.000 et=1644.056</Score>
+<Sector et="1668.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="1668.3">Volker Schmidt(26) lap=13 point=1 t=24.214 et=1668.270</Score>
+<Sector et="1668.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1668.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1668.3">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="1674.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="1674.2">Daniel Weiss(27) lap=14 point=2 t=70.300 et=1674.160</Score>
+<Sector et="1674.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="1674.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1674.2">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="1707.7">Daniel Weiss(27) lap=15 point=0 t=103.826 et=1707.686</Score>
+<Score et="1717.0">Volker Schmidt(26) lap=13 point=2 t=72.896 et=1716.952</Score>
+<Sector et="1717.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1717.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="1717.0">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="1717.0">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="1731.0">Daniel Weiss(27) lap=15 point=1 t=23.321 et=1731.007</Score>
+<Sector et="1731.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1731.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="1731.1">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="1731.1">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="1752.4">Volker Schmidt(26) lap=14 point=0 t=108.314 et=1752.369</Score>
+<Sector et="1752.4">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="1752.4">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="1752.4">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="1752.4">Torsten Spindler(29) set new best for sector 1</Sector>
+<Score et="1776.9">Volker Schmidt(26) lap=14 point=1 t=-1.000 et=1776.930</Score>
+<Sector et="1778.7">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="1778.7">Daniel Weiss(27) lap=15 point=2 t=70.973 et=1778.659</Score>
+<Sector et="1778.7">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="1778.7">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="1778.7">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="1817.0">Daniel Weiss(27) lap=16 point=0 t=-1.000 et=1817.028</Score>
+<Score et="1827.0">Volker Schmidt(26) lap=14 point=2 t=-1.000 et=1826.984</Score>
+<Score et="1873.0">Volker Schmidt(26) lap=15 point=0 t=-1.000 et=1872.927</Score>
+<Score et="1937.1">Torsten Spindler(29) lap=4 point=1 t=-1.000 et=1937.042</Score>
+<Score et="1970.7">Volker Schmidt(26) lap=15 point=1 t=-1.000 et=1970.699</Score>
+<Score et="1984.9">Daniel Weiss(27) lap=16 point=1 t=-1.000 et=1984.935</Score>
+<Score et="1986.1">Torsten Spindler(29) lap=4 point=2 t=-1.000 et=1986.106</Score>
+<Score et="2020.3">Torsten Spindler(29) lap=5 point=0 t=-1.000 et=2020.272</Score>
+<Score et="2020.9">Volker Schmidt(26) lap=15 point=2 t=-1.000 et=2020.931</Score>
+<Incident et="2028.0">Torsten Spindler(29) reported contact (5374.62) with Immovable</Incident>
+<Incident et="2028.0">Torsten Spindler(29) reported contact (4626.86) with Immovable</Incident>
+<Sector et="2028.0">Torsten Spindler(29) reports new suspension damage</Sector>
+<Incident et="2028.0">Torsten Spindler(29) reported contact (2578.87) with Immovable</Incident>
+<Incident et="2028.0">Torsten Spindler(29) reported contact (3106.58) with Immovable</Incident>
+<Incident et="2028.0">Torsten Spindler(29) reported contact (1417.09) with Immovable</Incident>
+<Incident et="2028.0">Torsten Spindler(29) reported contact (2052.25) with Immovable</Incident>
+<Incident et="2028.1">Torsten Spindler(29) reported contact (1508.55) with Immovable</Incident>
+<Incident et="2028.1">Torsten Spindler(29) reported contact (1298.91) with Immovable</Incident>
+<Incident et="2028.1">Torsten Spindler(29) reported contact (1130.93) with Immovable</Incident>
+<Score et="2030.5">Torsten Spindler(29) lap=5 point=1 t=-1.000 et=2030.488</Score>
+<Score et="2030.5">Torsten Spindler(29) lap=5 point=2 t=-1.000 et=2030.488</Score>
+<Score et="2030.5">Torsten Spindler(29) lap=6 point=0 t=-1.000 et=2030.488</Score>
+<Score et="2033.3">Daniel Weiss(27) lap=16 point=2 t=-1.000 et=2033.319</Score>
+<Score et="2066.4">Daniel Weiss(27) lap=17 point=0 t=-1.000 et=2066.403</Score>
+<Score et="2076.4">Volker Schmidt(26) lap=16 point=0 t=-1.000 et=2076.342</Score>
+<Sector et="2089.6">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2089.6">Daniel Weiss(27) lap=17 point=1 t=23.137 et=2089.540</Score>
+<Sector et="2089.6">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2089.6">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2089.6">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="2101.2">Volker Schmidt(26) lap=16 point=1 t=24.841 et=2101.183</Score>
+<Sector et="2101.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2101.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2101.2">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2101.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2116.3">Torsten Spindler(29) lap=6 point=1 t=-1.000 et=2116.302</Score>
+<Sector et="2136.8">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="2136.8">Daniel Weiss(27) lap=17 point=2 t=70.430 et=2136.833</Score>
+<Sector et="2136.8">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2136.9">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2136.9">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="2150.3">Volker Schmidt(26) lap=16 point=2 t=73.941 et=2150.283</Score>
+<Sector et="2150.3">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2150.3">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2150.3">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2150.3">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="2164.6">Torsten Spindler(29) lap=6 point=2 t=-1.000 et=2164.521</Score>
+<Score et="2169.6">Daniel Weiss(27) lap=18 point=0 t=103.179 et=2169.582</Score>
+<Score et="2185.8">Volker Schmidt(26) lap=17 point=0 t=109.489 et=2185.831</Score>
+<Sector et="2192.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2192.0">Daniel Weiss(27) lap=18 point=1 t=22.401 et=2191.983</Score>
+<Sector et="2192.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2192.0">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2192.0">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="2202.1">Torsten Spindler(29) lap=7 point=0 t=-1.000 et=2202.120</Score>
+<Score et="2209.3">Volker Schmidt(26) lap=17 point=1 t=23.415 et=2209.246</Score>
+<Sector et="2209.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2209.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2209.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2209.3">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="2224.9">Torsten Spindler(29) lap=7 point=1 t=22.816 et=2224.937</Score>
+<Sector et="2224.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2225.0">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2225.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2225.0">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2239.0">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="2239.0">Daniel Weiss(27) lap=18 point=2 t=69.375 et=2238.957</Score>
+<Sector et="2239.0">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2239.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2239.0">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2258.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="2258.0">Volker Schmidt(26) lap=17 point=2 t=72.112 et=2257.942</Score>
+<Sector et="2258.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2258.0">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2258.1">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2271.9">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="2271.9">Daniel Weiss(27) lap=19 point=0 t=102.342 et=2271.923</Score>
+<Sector et="2271.9">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="2272.0">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="2272.0">Torsten Spindler(29) set new best for sector 1</Sector>
+<Score et="2272.8">Torsten Spindler(29) lap=7 point=2 t=-1.000 et=2272.746</Score>
+<Score et="2293.8">Volker Schmidt(26) lap=18 point=0 t=107.970 et=2293.801</Score>
+<Sector et="2293.8">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="2293.8">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="2293.8">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="2293.9">Torsten Spindler(29) set new best for sector 1</Sector>
+<Sector et="2294.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2294.5">Daniel Weiss(27) lap=19 point=1 t=22.539 et=2294.462</Score>
+<Sector et="2294.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2294.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2294.5">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2306.5">Torsten Spindler(29) set new best for sector 1</Sector>
+<Score et="2306.5">Torsten Spindler(29) lap=8 point=0 t=104.398 et=2306.518</Score>
+<Sector et="2306.5">Torsten Spindler(29) set new best for sector 1</Sector>
+<Sector et="2306.6">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="2306.6">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="2317.9">Volker Schmidt(26) lap=18 point=1 t=24.045 et=2317.846</Score>
+<Sector et="2317.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2317.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2317.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2317.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2329.7">Torsten Spindler(29) lap=8 point=1 t=23.109 et=2329.627</Score>
+<Sector et="2329.7">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2329.7">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2329.7">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2329.7">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="2341.2">Daniel Weiss(27) lap=19 point=2 t=-1.000 et=2341.222</Score>
+<Score et="2366.7">Volker Schmidt(26) lap=18 point=2 t=72.905 et=2366.706</Score>
+<Sector et="2366.7">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2366.7">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2366.8">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2366.8">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="2368.4">Daniel Weiss(27) lap=20 point=0 t=-1.000 et=2368.394</Score>
+<Score et="2368.4">Daniel Weiss(27) lap=20 point=1 t=-1.000 et=2368.394</Score>
+<Score et="2368.4">Daniel Weiss(27) lap=20 point=2 t=-1.000 et=2368.394</Score>
+<Score et="2368.4">Daniel Weiss(27) lap=21 point=0 t=-1.000 et=2368.394</Score>
+<Score et="2377.3">Torsten Spindler(29) lap=8 point=2 t=70.764 et=2377.282</Score>
+<Sector et="2377.3">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2377.3">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2377.3">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2377.3">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="2407.8">Volker Schmidt(26) lap=19 point=0 t=-1.000 et=2407.812</Score>
+<Score et="2412.8">Torsten Spindler(29) lap=9 point=0 t=106.261 et=2412.779</Score>
+<Score et="2418.1">Daniel Weiss(27) lap=21 point=1 t=-1.000 et=2418.135</Score>
+<Score et="2418.1">Daniel Weiss(27) lap=21 point=2 t=-1.000 et=2418.135</Score>
+<Score et="2418.1">Daniel Weiss(27) lap=22 point=0 t=-1.000 et=2418.135</Score>
+<Sector et="2435.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="2435.9">Torsten Spindler(29) lap=9 point=1 t=23.156 et=2435.935</Score>
+<Sector et="2435.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2436.0">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2436.1">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2484.5">Torsten Spindler(29) lap=9 point=2 t=71.647 et=2484.426</Score>
+<Sector et="2484.5">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2484.5">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2484.5">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2484.5">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="2518.6">Torsten Spindler(29) lap=10 point=0 t=105.795 et=2518.574</Score>
+<Score et="2542.2">Torsten Spindler(29) lap=10 point=1 t=-1.000 et=2542.210</Score>
+<Score et="2550.2">Daniel Weiss(27) lap=22 point=1 t=-1.000 et=2550.239</Score>
+<Score et="2560.8">Volker Schmidt(26) lap=19 point=1 t=-1.000 et=2560.771</Score>
+<Score et="2591.8">Torsten Spindler(29) lap=10 point=2 t=-1.000 et=2591.811</Score>
+<Score et="2597.2">Daniel Weiss(27) lap=22 point=2 t=-1.000 et=2597.222</Score>
+<Score et="2611.0">Volker Schmidt(26) lap=19 point=2 t=-1.000 et=2611.007</Score>
+<Score et="2625.7">Torsten Spindler(29) lap=11 point=0 t=-1.000 et=2625.679</Score>
+<Score et="2630.1">Daniel Weiss(27) lap=23 point=0 t=-1.000 et=2630.058</Score>
+<Score et="2646.9">Volker Schmidt(26) lap=20 point=0 t=-1.000 et=2646.937</Score>
+<Score et="2650.3">Torsten Spindler(29) lap=11 point=1 t=24.606 et=2650.285</Score>
+<Sector et="2650.3">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2650.3">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2650.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2650.4">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2652.8">Daniel Weiss(27) lap=23 point=1 t=-1.000 et=2652.822</Score>
+<Score et="2672.5">Volker Schmidt(26) lap=20 point=1 t=25.509 et=2672.446</Score>
+<Sector et="2672.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2672.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2672.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2672.5">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="2699.9">Torsten Spindler(29) lap=11 point=2 t=74.200 et=2699.879</Score>
+<Sector et="2699.9">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2699.9">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2699.9">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2699.9">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="2700.5">Daniel Weiss(27) lap=23 point=2 t=-1.000 et=2700.489</Score>
+<Sector et="2722.8">Volker Schmidt(26) set new best for sector 3</Sector>
+<Score et="2722.8">Volker Schmidt(26) lap=20 point=2 t=75.786 et=2722.723</Score>
+<Sector et="2722.8">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2722.8">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2722.8">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="2733.9">Daniel Weiss(27) lap=24 point=0 t=-1.000 et=2733.860</Score>
+<Score et="2735.5">Torsten Spindler(29) lap=12 point=0 t=109.766 et=2735.445</Score>
+<Sector et="2756.7">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2756.7">Daniel Weiss(27) lap=24 point=1 t=22.797 et=2756.656</Score>
+<Sector et="2756.7">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2756.7">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2756.7">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2759.0">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="2759.0">Torsten Spindler(29) lap=12 point=1 t=23.567 et=2759.013</Score>
+<Sector et="2759.0">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2759.1">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2759.1">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="2759.6">Volker Schmidt(26) lap=21 point=0 t=112.690 et=2759.627</Score>
+<Score et="2783.8">Volker Schmidt(26) lap=21 point=1 t=24.175 et=2783.802</Score>
+<Sector et="2783.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2783.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2783.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2783.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2804.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="2804.2">Daniel Weiss(27) lap=24 point=2 t=70.331 et=2804.191</Score>
+<Sector et="2804.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2804.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2804.2">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="2807.3">Torsten Spindler(29) lap=12 point=2 t=-1.000 et=2807.283</Score>
+<Score et="2833.7">Volker Schmidt(26) lap=21 point=2 t=-1.000 et=2833.709</Score>
+<Score et="2837.4">Daniel Weiss(27) lap=25 point=0 t=103.540 et=2837.400</Score>
+<Score et="2842.1">Torsten Spindler(29) lap=13 point=0 t=-1.000 et=2842.045</Score>
+<Sector et="2860.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="2860.5">Daniel Weiss(27) lap=25 point=1 t=23.104 et=2860.504</Score>
+<Sector et="2860.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2860.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2860.6">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="2865.8">Torsten Spindler(29) lap=13 point=1 t=23.743 et=2865.788</Score>
+<Sector et="2865.8">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2865.8">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2865.8">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2865.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="2869.5">Volker Schmidt(26) lap=22 point=0 t=109.842 et=2869.469</Score>
+<Score et="2892.8">Volker Schmidt(26) lap=22 point=1 t=23.302 et=2892.772</Score>
+<Sector et="2892.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2892.8">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="2892.8">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="2892.8">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="2906.8">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="2906.8">Daniel Weiss(27) lap=25 point=2 t=69.428 et=2906.828</Score>
+<Sector et="2906.8">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="2906.9">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2906.9">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="2907.6">Torsten Spindler(29) lap=13 point=2 t=-1.000 et=2907.617</Score>
+<Score et="2907.6">Torsten Spindler(29) lap=14 point=0 t=-1.000 et=2907.617</Score>
+<Score et="2941.8">Volker Schmidt(26) lap=22 point=2 t=72.302 et=2941.771</Score>
+<Sector et="2941.8">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2941.8">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="2941.8">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="2941.9">Daniel Weiss(27) set new best for sector 3</Sector>
+<Incident et="2953.4">Volker Schmidt(26) reported contact (1951.53) with Immovable</Incident>
+<Incident et="2953.5">Volker Schmidt(26) reported contact (1453.45) with Immovable</Incident>
+<Incident et="2953.5">Volker Schmidt(26) reported contact (1109.34) with Immovable</Incident>
+<Score et="2955.6">Daniel Weiss(27) lap=26 point=0 t=-1.000 et=2955.616</Score>
+<Score et="3091.1">Volker Schmidt(26) lap=23 point=0 t=-1.000 et=3091.043</Score>
+<Score et="3102.3">Daniel Weiss(27) lap=26 point=1 t=-1.000 et=3102.260</Score>
+<Score et="3149.6">Daniel Weiss(27) lap=26 point=2 t=-1.000 et=3149.559</Score>
+<Score et="3182.5">Daniel Weiss(27) lap=27 point=0 t=-1.000 et=3182.536</Score>
+<Sector et="3205.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="3205.3">Daniel Weiss(27) lap=27 point=1 t=22.708 et=3205.244</Score>
+<Sector et="3205.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="3205.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="3205.3">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="3251.4">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="3251.4">Daniel Weiss(27) lap=27 point=2 t=68.865 et=3251.401</Score>
+<Sector et="3251.4">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="3251.4">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="3251.4">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="3283.9">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="3283.9">Daniel Weiss(27) lap=28 point=0 t=101.307 et=3283.843</Score>
+<Sector et="3283.9">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="3283.9">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="3283.9">Torsten Spindler(29) set new best for sector 1</Sector>
+<Sector et="3306.4">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="3306.4">Daniel Weiss(27) lap=28 point=1 t=22.540 et=3306.383</Score>
+<Sector et="3306.4">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="3306.4">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="3306.4">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="3334.3">Daniel Weiss(27) lap=28 point=2 t=-1.000 et=3334.329</Score>
+<Score et="3334.3">Daniel Weiss(27) lap=29 point=0 t=-1.000 et=3334.329</Score>
+<Score et="3411.8">Daniel Weiss(27) lap=29 point=1 t=-1.000 et=3411.840</Score>
+<Score et="3411.8">Daniel Weiss(27) lap=29 point=2 t=-1.000 et=3411.840</Score>
+<Score et="3411.8">Daniel Weiss(27) lap=30 point=0 t=-1.000 et=3411.840</Score>
+<Score et="3492.1">Daniel Weiss(27) lap=30 point=1 t=-1.000 et=3492.129</Score>
+<Score et="3539.6">Daniel Weiss(27) lap=30 point=2 t=-1.000 et=3539.591</Score>
+<Score et="3572.4">Daniel Weiss(27) lap=31 point=0 t=-1.000 et=3572.376</Score>
+<Sector et="3594.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="3594.9">Daniel Weiss(27) lap=31 point=1 t=22.492 et=3594.868</Score>
+<Sector et="3594.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="3594.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="3594.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="3624.1">Volker Schmidt(26) lap=23 point=1 t=-1.000 et=3624.128</Score>
+<Score et="3624.1">Volker Schmidt(26) lap=23 point=2 t=-1.000 et=3624.128</Score>
+<Score et="3624.1">Volker Schmidt(26) lap=24 point=0 t=-1.000 et=3624.128</Score>
+<Sector et="3641.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="3641.6">Daniel Weiss(27) lap=31 point=2 t=69.247 et=3641.623</Score>
+<Sector et="3641.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="3641.7">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="3641.7">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="3674.4">Daniel Weiss(27) lap=32 point=0 t=101.992 et=3674.368</Score>
+<Score et="3676.4">Volker Schmidt(26) lap=24 point=1 t=-1.000 et=3676.342</Score>
+<Sector et="3697.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="3697.2">Daniel Weiss(27) lap=32 point=1 t=22.844 et=3697.212</Score>
+<Sector et="3697.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="3697.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="3697.2">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="3725.5">Volker Schmidt(26) lap=24 point=2 t=-1.000 et=3725.490</Score>
+<Sector et="3744.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="3744.2">Daniel Weiss(27) lap=32 point=2 t=69.847 et=3744.214</Score>
+<Sector et="3744.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="3744.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="3744.2">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="3768.5">Volker Schmidt(26) lap=25 point=0 t=-1.000 et=3768.492</Score>
+<Score et="3777.3">Daniel Weiss(27) lap=33 point=0 t=102.963 et=3777.331</Score>
+<Score et="3792.4">Volker Schmidt(26) lap=25 point=1 t=23.879 et=3792.371</Score>
+<Sector et="3792.4">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="3792.4">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="3792.4">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="3792.8">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="3800.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="3800.5">Daniel Weiss(27) lap=33 point=1 t=23.172 et=3800.503</Score>
+<Sector et="3800.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="3800.5">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="3800.6">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="3838.7">Volker Schmidt(26) lap=25 point=2 t=-1.000 et=3838.667</Score>
+<Score et="3838.7">Volker Schmidt(26) lap=26 point=0 t=-1.000 et=3838.667</Score>
+<Sector et="3847.9">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="3847.9">Daniel Weiss(27) lap=33 point=2 t=70.539 et=3847.870</Score>
+<Sector et="3847.9">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="3847.9">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="3847.9">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="3881.2">Daniel Weiss(27) lap=34 point=0 t=103.843 et=3881.174</Score>
+<Sector et="3903.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="3903.9">Daniel Weiss(27) lap=34 point=1 t=22.726 et=3903.900</Score>
+<Sector et="3903.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="3903.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="3903.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="3917.7">Volker Schmidt(26) lap=26 point=1 t=-1.000 et=3917.663</Score>
+<Sector et="3951.0">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="3951.0">Daniel Weiss(27) lap=34 point=2 t=69.816 et=3950.989</Score>
+<Sector et="3951.0">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="3951.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="3951.0">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="3967.6">Volker Schmidt(26) lap=26 point=2 t=-1.000 et=3967.586</Score>
+<Score et="3984.3">Daniel Weiss(27) lap=35 point=0 t=103.153 et=3984.326</Score>
+<Score et="4002.4">Volker Schmidt(26) lap=27 point=0 t=-1.000 et=4002.428</Score>
+<Sector et="4007.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="4007.2">Daniel Weiss(27) lap=35 point=1 t=22.870 et=4007.197</Score>
+<Sector et="4007.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4007.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4007.2">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="4026.2">Volker Schmidt(26) lap=27 point=1 t=23.744 et=4026.172</Score>
+<Sector et="4026.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4026.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4026.2">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4026.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="4054.2">Daniel Weiss(27) lap=35 point=2 t=69.894 et=4054.220</Score>
+<Sector et="4054.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4054.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4054.3">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4054.3">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4059.8">(30) set new best for sector 3</Sector>
+<Chat et="4059.9">Pawel Glanowski has entered the race.</Chat>
+<System et="4059.9">Pawel Glanowski(30) 93.157.76.211 has joined as a participant</System>
+<Command et="4061.4">/w Pawel Glanowski If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="4061.4">&gt; /w Pawel Glanowski If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="4061.6">&gt; /w Pawel Glanowski germansimracing.de | discord.gg/GSR</Chat>
+<Command et="4061.6">/w Pawel Glanowski germansimracing.de | discord.gg/GSR</Command>
+<Score et="4069.2">Torsten Spindler(29) lap=14 point=1 t=-1.000 et=4069.171</Score>
+<Score et="4087.4">Daniel Weiss(27) lap=36 point=0 t=103.099 et=4087.426</Score>
+<Score et="4094.4">Volker Schmidt(26) lap=27 point=2 t=-1.000 et=4092.463</Score>
+<Score et="4094.4">Volker Schmidt(26) lap=28 point=0 t=-1.000 et=4092.463</Score>
+<Sector et="4110.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="4110.2">Daniel Weiss(27) lap=36 point=1 t=22.760 et=4110.186</Score>
+<Sector et="4110.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4110.2">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4110.2">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="4110.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="4121.5">Torsten Spindler(29) lap=14 point=2 t=-1.000 et=4121.478</Score>
+<Score et="4137.1">Pawel Glanowski(30) lap=0 point=1 t=-1.000 et=4137.095</Score>
+<Score et="4155.0">Torsten Spindler(29) lap=15 point=0 t=-1.000 et=4155.021</Score>
+<Sector et="4157.3">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="4157.3">Daniel Weiss(27) lap=36 point=2 t=69.820 et=4157.245</Score>
+<Sector et="4157.3">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4157.3">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4157.3">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4157.3">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Command from="Pawel Glanowski" nodeid="4" et="4159.8">/vote yes</Command>
+<Vote et="4159.8">Pawel Glanowski: /vote yes</Vote>
+<Sent et="4159.8">Vote ignored: There is no vote in progress</Sent>
+<Score et="4160.9">Volker Schmidt(26) lap=28 point=1 t=-1.000 et=4160.857</Score>
+<Command from="Pawel Glanowski" nodeid="4" et="4162.7">/vote yes</Command>
+<Vote et="4162.7">Pawel Glanowski: /vote yes</Vote>
+<Sent et="4162.7">Vote ignored: There is no vote in progress</Sent>
+<Score et="4173.5">Pawel Glanowski(30) lap=0 point=2 t=-1.000 et=4173.439</Score>
+<Score et="4173.5">Pawel Glanowski(30) lap=1 point=0 t=-1.000 et=4173.439</Score>
+<Sector et="4190.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="4190.9">Torsten Spindler(29) lap=15 point=1 t=35.815 et=4190.836</Score>
+<Sector et="4190.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4190.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4190.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4190.9">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="4199.0">Daniel Weiss(27) lap=37 point=0 t=-1.000 et=4199.014</Score>
+<Command from="Pawel Glanowski" nodeid="4" et="4199.7">/vote yes</Command>
+<Vote et="4199.7">Pawel Glanowski: /vote yes</Vote>
+<Sent et="4199.7">Vote ignored: There is no vote in progress</Sent>
+<Command from="Pawel Glanowski" nodeid="4" et="4200.9">/vote yes</Command>
+<Vote et="4200.9">Pawel Glanowski: /vote yes</Vote>
+<Sent et="4200.9">Vote ignored: There is no vote in progress</Sent>
+<Score et="4210.4">Volker Schmidt(26) lap=28 point=2 t=-1.000 et=4210.349</Score>
+<Score et="4248.2">Torsten Spindler(29) lap=15 point=2 t=93.146 et=4248.167</Score>
+<Sector et="4248.2">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4248.2">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4248.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4248.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4248.2">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Score et="4255.9">Volker Schmidt(26) lap=29 point=0 t=-1.000 et=4255.848</Score>
+<Score et="4279.9">Volker Schmidt(26) lap=29 point=1 t=24.083 et=4279.932</Score>
+<Sector et="4279.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4280.0">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4280.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4280.0">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4280.0">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="4283.4">Pawel Glanowski(30) lap=1 point=1 t=-1.000 et=4283.339</Score>
+<Command from="Pawel Glanowski" nodeid="4" et="4290.2">/vote yes</Command>
+<Vote et="4290.2">Pawel Glanowski: /vote yes</Vote>
+<Sent et="4290.2">Vote ignored: There is no vote in progress</Sent>
+<Score et="4300.0">Torsten Spindler(29) lap=16 point=0 t=144.967 et=4299.988</Score>
+<Sector et="4323.5">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="4323.5">Torsten Spindler(29) lap=16 point=1 t=23.478 et=4323.466</Score>
+<Sector et="4323.5">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4323.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4323.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4323.5">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="4328.6">Volker Schmidt(26) lap=29 point=2 t=72.791 et=4328.639</Score>
+<Sector et="4328.6">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4328.7">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4328.7">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4328.7">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4328.7">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Score et="4348.0">Pawel Glanowski(30) lap=1 point=2 t=-1.000 et=4347.980</Score>
+<Score et="4364.4">Volker Schmidt(26) lap=30 point=0 t=108.579 et=4364.427</Score>
+<Sector et="4371.7">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="4371.7">Torsten Spindler(29) lap=16 point=2 t=71.658 et=4371.646</Score>
+<Sector et="4371.7">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4371.7">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4371.7">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4371.7">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Score et="4382.8">Pawel Glanowski(30) lap=2 point=0 t=-1.000 et=4382.799</Score>
+<Score et="4388.2">Volker Schmidt(26) lap=30 point=1 t=23.813 et=4388.240</Score>
+<Sector et="4388.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4388.3">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4388.3">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4388.3">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4388.3">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="4405.7">Torsten Spindler(29) lap=17 point=0 t=105.664 et=4405.652</Score>
+<Score et="4418.7">Torsten Spindler(29) lap=17 point=1 t=-1.000 et=4416.932</Score>
+<Score et="4418.7">Torsten Spindler(29) lap=17 point=2 t=-1.000 et=4416.932</Score>
+<Score et="4418.7">Torsten Spindler(29) lap=18 point=0 t=-1.000 et=4416.932</Score>
+<Score et="4439.3">Volker Schmidt(26) lap=30 point=2 t=-1.000 et=4439.268</Score>
+<Score et="4439.3">Volker Schmidt(26) lap=31 point=0 t=-1.000 et=4439.268</Score>
+<Sector et="4457.4">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="4457.4">Pawel Glanowski(30) lap=2 point=1 t=74.553 et=4457.353</Score>
+<Sector et="4457.4">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="4457.4">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4457.4">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4457.4">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="4463.5">Pawel Glanowski(30) lap=2 point=2 t=-1.000 et=4463.432</Score>
+<Score et="4463.5">Pawel Glanowski(30) lap=3 point=0 t=-1.000 et=4463.432</Score>
+<Chat et="4470.8">Fred Bart has entered the race.</Chat>
+<System et="4470.8">Fred Bart(31) 176.168.165.76 has joined as a participant</System>
+<Chat et="4471.2">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="4471.2">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="4471.4">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="4471.4">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Score et="4522.1">Fred Bart(31) lap=0 point=1 t=-1.000 et=4522.116</Score>
+<Score et="4554.2">Volker Schmidt(26) lap=31 point=1 t=-1.000 et=4554.165</Score>
+<Incident et="4569.2">Pawel Glanowski(30) reported contact (12.89) with Cone</Incident>
+<Incident et="4569.3">Pawel Glanowski(30) reported contact (9.58) with Cone</Incident>
+<Incident et="4569.3">Pawel Glanowski(30) reported contact (50.34) with Cone</Incident>
+<Incident et="4569.3">Pawel Glanowski(30) reported contact (70.79) with Cone</Incident>
+<Score et="4570.0">Fred Bart(31) lap=0 point=2 t=-1.000 et=4569.942</Score>
+<Score et="4591.5">Pawel Glanowski(30) lap=3 point=1 t=-1.000 et=4591.490</Score>
+<Score et="4603.5">Fred Bart(31) lap=1 point=0 t=-1.000 et=4603.518</Score>
+<Score et="4603.6">Volker Schmidt(26) lap=31 point=2 t=-1.000 et=4603.623</Score>
+<Sector et="4626.5">Fred Bart(31) set new best for sector 2</Sector>
+<Score et="4626.5">Fred Bart(31) lap=1 point=1 t=22.945 et=4626.463</Score>
+<Sector et="4626.5">Fred Bart(31) set new best for sector 2</Sector>
+<Sector et="4626.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4626.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4626.5">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4626.5">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="4639.8">Volker Schmidt(26) lap=32 point=0 t=-1.000 et=4639.763</Score>
+<Score et="4644.7">Pawel Glanowski(30) lap=3 point=2 t=-1.000 et=4644.645</Score>
+<Sector et="4664.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Score et="4664.2">Volker Schmidt(26) lap=32 point=1 t=24.366 et=4664.129</Score>
+<Sector et="4664.2">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4664.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4664.2">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4664.2">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="4664.2">Fred Bart(31) set new best for sector 2</Sector>
+<Sector et="4673.2">Fred Bart(31) set new best for sector 3</Sector>
+<Score et="4673.2">Fred Bart(31) lap=1 point=2 t=69.631 et=4673.149</Score>
+<Sector et="4673.2">Fred Bart(31) set new best for sector 3</Sector>
+<Sector et="4673.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4673.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4673.2">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4673.2">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Sector et="4707.0">Fred Bart(31) set new best for sector 1</Sector>
+<Score et="4707.0">Fred Bart(31) lap=2 point=0 t=103.482 et=4707.000</Score>
+<Sector et="4707.0">Fred Bart(31) set new best for sector 1</Sector>
+<Sector et="4707.0">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="4707.0">Volker Schmidt(26) set new best for sector 1</Sector>
+<Sector et="4707.0">Torsten Spindler(29) set new best for sector 1</Sector>
+<Sector et="4707.0">Pawel Glanowski(30) set new best for sector 1</Sector>
+<Score et="4708.4">Pawel Glanowski(30) lap=4 point=0 t=-1.000 et=4708.377</Score>
+<Score et="4714.2">Volker Schmidt(26) lap=32 point=2 t=74.431 et=4714.194</Score>
+<Sector et="4714.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4714.2">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4714.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4714.2">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4714.2">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Sector et="4714.2">Fred Bart(31) set new best for sector 3</Sector>
+<Sector et="4730.4">Fred Bart(31) set new best for sector 2</Sector>
+<Score et="4730.4">Fred Bart(31) lap=2 point=1 t=23.367 et=4730.367</Score>
+<Sector et="4730.4">Fred Bart(31) set new best for sector 2</Sector>
+<Sector et="4730.4">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4730.4">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4730.4">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="4730.4">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4731.5">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="4731.5">Pawel Glanowski(30) lap=4 point=1 t=23.095 et=4731.472</Score>
+<Sector et="4731.5">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="4731.5">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4731.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4731.5">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4731.5">Fred Bart(31) set new best for sector 2</Sector>
+<Score et="4749.5">Volker Schmidt(26) lap=33 point=0 t=109.685 et=4749.448</Score>
+<Score et="4773.5">Volker Schmidt(26) lap=33 point=1 t=24.087 et=4773.536</Score>
+<Sector et="4773.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4773.5">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4773.6">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4773.6">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="4773.6">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4773.6">Fred Bart(31) set new best for sector 2</Sector>
+<Sector et="4777.4">Fred Bart(31) set new best for sector 3</Sector>
+<Score et="4777.4">Fred Bart(31) lap=2 point=2 t=70.394 et=4777.394</Score>
+<Sector et="4777.4">Fred Bart(31) set new best for sector 3</Sector>
+<Sector et="4777.4">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4777.5">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4777.5">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4777.5">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Score et="4779.2">Pawel Glanowski(30) lap=4 point=2 t=-1.000 et=4779.123</Score>
+<Score et="4810.7">Fred Bart(31) lap=3 point=0 t=103.660 et=4810.660</Score>
+<Score et="4813.1">Pawel Glanowski(30) lap=5 point=0 t=-1.000 et=4813.050</Score>
+<Score et="4815.1">Torsten Spindler(29) lap=18 point=1 t=-1.000 et=4815.093</Score>
+<Score et="4816.8">Fred Bart(31) lap=3 point=1 t=-1.000 et=4816.815</Score>
+<Score et="4816.8">Fred Bart(31) lap=3 point=2 t=-1.000 et=4816.815</Score>
+<Score et="4816.8">Fred Bart(31) lap=4 point=0 t=-1.000 et=4816.815</Score>
+<Score et="4823.0">Volker Schmidt(26) lap=33 point=2 t=73.495 et=4822.943</Score>
+<Sector et="4823.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4823.0">Volker Schmidt(26) set new best for sector 3</Sector>
+<Sector et="4823.0">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4823.0">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4823.0">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Sector et="4823.0">Fred Bart(31) set new best for sector 3</Sector>
+<Score et="4836.2">Pawel Glanowski(30) lap=5 point=1 t=-1.000 et=4836.145</Score>
+<Score et="4842.6">Pawel Glanowski(30) lap=5 point=2 t=-1.000 et=4842.597</Score>
+<Score et="4842.6">Pawel Glanowski(30) lap=6 point=0 t=-1.000 et=4842.597</Score>
+<Score et="4858.3">Volker Schmidt(26) lap=34 point=0 t=108.866 et=4858.314</Score>
+<Score et="4863.6">Torsten Spindler(29) lap=18 point=2 t=-1.000 et=4863.525</Score>
+<Score et="4881.9">Volker Schmidt(26) lap=34 point=1 t=23.560 et=4881.875</Score>
+<Sector et="4881.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4881.9">Volker Schmidt(26) set new best for sector 2</Sector>
+<Sector et="4881.9">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4881.9">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4881.9">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="4881.9">Fred Bart(31) set new best for sector 2</Sector>
+<Incident et="4886.8">Volker Schmidt(26) reported contact (1306.03) with Immovable</Incident>
+<Incident et="4886.8">Volker Schmidt(26) reported contact (1059.81) with Immovable</Incident>
+<Incident et="4888.0">Volker Schmidt(26) reported contact (15.45) with Sign</Incident>
+<Incident et="4888.0">Volker Schmidt(26) reported contact (11.81) with Sign</Incident>
+<Score et="4890.6">Volker Schmidt(26) lap=34 point=2 t=-1.000 et=4890.556</Score>
+<Score et="4890.6">Volker Schmidt(26) lap=35 point=0 t=-1.000 et=4890.556</Score>
+<Chat et="4897.4">Volker Schmidt left the race.</Chat>
+<Score et="4904.9">Fred Bart(31) lap=4 point=1 t=-1.000 et=4904.847</Score>
+<Score et="4906.8">Torsten Spindler(29) lap=19 point=0 t=-1.000 et=4906.809</Score>
+<Sector et="4929.7">Torsten Spindler(29) set new best for sector 2</Sector>
+<Score et="4929.7">Torsten Spindler(29) lap=19 point=1 t=22.901 et=4929.710</Score>
+<Sector et="4929.7">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="4929.8">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="4929.8">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="4929.8">Fred Bart(31) set new best for sector 2</Sector>
+<Score et="4952.5">Fred Bart(31) lap=4 point=2 t=-1.000 et=4952.488</Score>
+<Sector et="4976.4">Torsten Spindler(29) set new best for sector 3</Sector>
+<Score et="4976.4">Torsten Spindler(29) lap=19 point=2 t=69.541 et=4976.350</Score>
+<Sector et="4976.4">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="4976.4">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="4976.4">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Sector et="4976.4">Fred Bart(31) set new best for sector 3</Sector>
+<Score et="4986.1">Fred Bart(31) lap=5 point=0 t=-1.000 et=4986.090</Score>
+<Score et="5009.1">Fred Bart(31) lap=5 point=1 t=23.014 et=5009.104</Score>
+<Sector et="5009.1">Fred Bart(31) set new best for sector 2</Sector>
+<Sector et="5009.1">Fred Bart(31) set new best for sector 2</Sector>
+<Sector et="5009.2">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="5009.2">Daniel Weiss(27) set new best for sector 2</Sector>
+<Sector et="5009.2">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="5010.1">Torsten Spindler(29) lap=20 point=0 t=103.219 et=5010.028</Score>
+<Sector et="5010.1">Torsten Spindler(29) set new best for sector 1</Sector>
+<Sector et="5010.1">Torsten Spindler(29) set new best for sector 1</Sector>
+<Sector et="5010.1">Pawel Glanowski(30) set new best for sector 1</Sector>
+<Sector et="5010.1">Fred Bart(31) set new best for sector 1</Sector>
+<Sector et="5010.1">Daniel Weiss(27) set new best for sector 1</Sector>
+<Score et="5023.0">Torsten Spindler(29) lap=20 point=1 t=-1.000 et=5022.957</Score>
+<Score et="5023.0">Torsten Spindler(29) lap=20 point=2 t=-1.000 et=5022.957</Score>
+<Score et="5023.0">Torsten Spindler(29) lap=21 point=0 t=-1.000 et=5022.957</Score>
+<Sector et="5056.2">Fred Bart(31) set new best for sector 3</Sector>
+<Score et="5056.2">Fred Bart(31) lap=5 point=2 t=70.035 et=5056.125</Score>
+<Sector et="5056.2">Fred Bart(31) set new best for sector 3</Sector>
+<Sector et="5056.2">Daniel Weiss(27) set new best for sector 3</Sector>
+<Sector et="5056.2">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="5056.2">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Sector et="5089.3">Fred Bart(31) set new best for sector 1</Sector>
+<Score et="5089.3">Fred Bart(31) lap=6 point=0 t=103.221 et=5089.311</Score>
+<Sector et="5089.3">Fred Bart(31) set new best for sector 1</Sector>
+<Sector et="5089.4">Pawel Glanowski(30) set new best for sector 1</Sector>
+<Sector et="5089.4">Torsten Spindler(29) set new best for sector 1</Sector>
+<Sector et="5089.4">Daniel Weiss(27) set new best for sector 1</Sector>
+<Command from="Pawel Glanowski" nodeid="4" et="5097.5">/vote yes</Command>
+<Vote et="5097.5">Pawel Glanowski: /vote yes</Vote>
+<Sent et="5097.5">Vote ignored: There is no vote in progress</Sent>
+<Sector et="5112.0">Fred Bart(31) set new best for sector 2</Sector>
+<Score et="5112.0">Fred Bart(31) lap=6 point=1 t=22.633 et=5111.943</Score>
+<Sector et="5112.0">Fred Bart(31) set new best for sector 2</Sector>
+<Sector et="5112.0">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="5112.0">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="5112.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="5121.8">Pawel Glanowski(30) lap=6 point=1 t=-1.000 et=5121.800</Score>
+<Sector et="5158.6">Fred Bart(31) set new best for sector 3</Sector>
+<Score et="5158.6">Fred Bart(31) lap=6 point=2 t=69.221 et=5158.532</Score>
+<Sector et="5158.6">Fred Bart(31) set new best for sector 3</Sector>
+<Sector et="5158.6">Torsten Spindler(29) set new best for sector 3</Sector>
+<Sector et="5158.6">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Sector et="5158.6">Daniel Weiss(27) set new best for sector 3</Sector>
+<Score et="5170.4">Pawel Glanowski(30) lap=6 point=2 t=-1.000 et=5170.359</Score>
+<Sector et="5191.7">Fred Bart(31) set new best for sector 1</Sector>
+<Score et="5191.7">Fred Bart(31) lap=7 point=0 t=102.386 et=5191.696</Score>
+<Sector et="5191.7">Fred Bart(31) set new best for sector 1</Sector>
+<Sector et="5191.7">Daniel Weiss(27) set new best for sector 1</Sector>
+<Sector et="5191.7">Torsten Spindler(29) set new best for sector 1</Sector>
+<Sector et="5191.8">Pawel Glanowski(30) set new best for sector 1</Sector>
+<Score et="5201.3">Fred Bart(31) lap=7 point=1 t=-1.000 et=5201.269</Score>
+<Score et="5201.3">Fred Bart(31) lap=7 point=2 t=-1.000 et=5201.269</Score>
+<Score et="5201.3">Fred Bart(31) lap=8 point=0 t=-1.000 et=5201.269</Score>
+<Score et="5204.8">Pawel Glanowski(30) lap=7 point=0 t=-1.000 et=5204.802</Score>
+<Chat et="5213.2">Fred Bart left the race.</Chat>
+<Sector et="5227.9">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="5227.9">Pawel Glanowski(30) lap=7 point=1 t=23.113 et=5227.915</Score>
+<Sector et="5227.9">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="5228.0">Torsten Spindler(29) set new best for sector 2</Sector>
+<Sector et="5228.0">Daniel Weiss(27) set new best for sector 2</Sector>
+<Score et="5287.9">Pawel Glanowski(30) lap=7 point=2 t=-1.000 et=5287.871</Score>
+<Score et="5287.9">Pawel Glanowski(30) lap=8 point=0 t=-1.000 et=5287.871</Score>
+<Chat et="5294.7">Torsten Spindler left the race.</Chat>
+<Score et="5357.2">Pawel Glanowski(30) lap=8 point=1 t=-1.000 et=5357.166</Score>
+<Score et="5405.2">Pawel Glanowski(30) lap=8 point=2 t=-1.000 et=5405.142</Score>
+<Score et="5440.3">Pawel Glanowski(30) lap=9 point=0 t=-1.000 et=5440.306</Score>
+<Chat et="5462.1">Daniel Weiss left the race.</Chat>
+<Score et="5463.2">Pawel Glanowski(30) lap=9 point=1 t=-1.000 et=5463.219</Score>
+<Score et="5511.4">Pawel Glanowski(30) lap=9 point=2 t=-1.000 et=5511.328</Score>
+<Score et="5545.9">Pawel Glanowski(30) lap=10 point=0 t=-1.000 et=5545.892</Score>
+<Sector et="5568.9">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Score et="5568.9">Pawel Glanowski(30) lap=10 point=1 t=23.020 et=5568.911</Score>
+<Sector et="5568.9">Pawel Glanowski(30) set new best for sector 2</Sector>
+<Sector et="5617.2">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Score et="5617.2">Pawel Glanowski(30) lap=10 point=2 t=71.252 et=5617.144</Score>
+<Sector et="5617.2">Pawel Glanowski(30) set new best for sector 3</Sector>
+<Sector et="5651.6">Pawel Glanowski(30) set new best for sector 1</Sector>
+<Score et="5651.6">Pawel Glanowski(30) lap=11 point=0 t=105.684 et=5651.576</Score>
+<Sector et="5651.6">Pawel Glanowski(30) set new best for sector 1</Sector>
+<Score et="5666.4">Pawel Glanowski(30) lap=11 point=1 t=-1.000 et=5666.376</Score>
+<Score et="5666.4">Pawel Glanowski(30) lap=11 point=2 t=-1.000 et=5666.376</Score>
+<Score et="5666.4">Pawel Glanowski(30) lap=12 point=0 t=-1.000 et=5666.376</Score>
+<Chat et="5675.5">Pawel Glanowski left the race.</Chat>
+<Chat et="8556.4">Fred Bart has entered the race.</Chat>
+<System et="8556.4">Fred Bart(32) 176.168.165.76 has joined as a participant</System>
+<System et="8556.4">Fred Bart returned with matching vehicle/upgrades: restoring score (8 laps)</System>
+<Command et="8562.4">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="8562.4">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="8562.6">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="8562.6">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="8599.6">Your Name has entered the race.</Chat>
+<System et="8599.6">Your Name(33) 86.201.141.15 has joined as a participant</System>
+<Chat et="8602.2">&gt; /w Your Name If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="8602.2">/w Your Name If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="8602.4">/w Your Name germansimracing.de | discord.gg/GSR</Command>
+<Chat et="8602.4">&gt; /w Your Name germansimracing.de | discord.gg/GSR</Chat>
+<Score et="8860.2">Your Name(33) lap=0 point=1 t=-1.000 et=8860.174</Score>
+<Score et="8860.7">Fred Bart(32) lap=8 point=1 t=-1.000 et=8860.686</Score>
+<Score et="8922.9">Fred Bart(32) lap=8 point=2 t=-1.000 et=8922.831</Score>
+<Score et="8923.5">Your Name(33) lap=0 point=2 t=-1.000 et=8923.454</Score>
+<Score et="8968.8">Fred Bart(32) lap=9 point=0 t=-1.000 et=8968.794</Score>
+<Score et="8968.8">Fred Bart(32) lap=9 point=1 t=-1.000 et=8968.794</Score>
+<Score et="8968.8">Fred Bart(32) lap=9 point=2 t=-1.000 et=8968.794</Score>
+<Score et="8968.8">Fred Bart(32) lap=10 point=0 t=-1.000 et=8968.794</Score>
+<Score et="8969.9">Your Name(33) lap=1 point=0 t=-1.000 et=8969.836</Score>
+<Score et="8969.9">Your Name(33) lap=1 point=1 t=-1.000 et=8969.836</Score>
+<Score et="8969.9">Your Name(33) lap=1 point=2 t=-1.000 et=8969.836</Score>
+<Score et="8969.9">Your Name(33) lap=2 point=0 t=-1.000 et=8969.836</Score>
+<Command from="Fred Bart" nodeid="1" et="8974.9">/callvote restartweekend</Command>
+<Vote et="8974.9">Fred Bart: /callvote restartweekend</Vote>
+<Sent et="8974.9">&quot;restart weekend&quot; proposed by Fred Bart: 1 vote needed to pass</Sent>
+<Command from="Your Name" nodeid="2" et="8977.6">/vote yes</Command>
+<Vote et="8977.6">Your Name: /vote yes</Vote>
+<Sent et="8977.6">Your Name voted YES to restart weekend: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>10</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="5" et="--.---" fuel="0.059" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="4603.5181" s1="22.9453" s2="46.6855" s3="33.8511" fuel="0.039" twfl="0.965" twfr="0.976" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.4819</Lap>
+<Lap num="3" p="2" et="4707.0000" s1="23.3672" s2="47.0269" s3="33.2656" fuel="0.016" twfl="0.941" twfr="0.969" twrl="0.929" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">103.6597</Lap>
+<Lap num="4" p="2" et="4810.6597" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="4816.8149" fuel="0.059" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="3" et="4986.0898" s1="23.0142" s2="47.0205" s3="33.1860" fuel="0.039" twfl="0.969" twfr="0.984" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">103.2207</Lap>
+<Lap num="7" p="2" et="5089.3105" s1="22.6328" s2="46.5884" s3="33.1646" fuel="0.016" twfl="0.949" twfr="0.976" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">102.3857</Lap>
+<Lap num="8" p="2" et="5191.6963" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="--.---" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="10" p="1" et="8968.7939" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<BestLapTime>102.3857</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="10" endLap="10">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Your Name</Name>
+<SteamID>76561198884284323</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Lap num="2" p="2" et="8969.8359" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,Wet" rcompound="1,Wet">--.----</Lap>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="2" endLap="2">UnknownControl</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

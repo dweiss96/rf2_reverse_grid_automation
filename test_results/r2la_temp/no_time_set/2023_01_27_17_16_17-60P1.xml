@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674826351</DateTime>
+<TimeString>2023/01/27 14:32:31</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v2</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674826352</DateTime>
+<TimeString>2023/01/27 14:32:32</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="9468.4">Daniel Weiss has entered the race.</Chat>
+<System et="9468.4">Daniel Weiss(2) 91.40.244.91 has joined as a participant</System>
+<Command et="9472.2">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="9472.2">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="9472.4">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Command et="9472.4">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="9510.0">Daniel Weiss left the race.</Chat>
+<Chat et="9612.4">Daniel Weiss has entered the race.</Chat>
+<System et="9612.4">Daniel Weiss(3) 91.40.244.91 has joined as a participant</System>
+<System et="9612.4">Daniel Weiss returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Chat et="9623.4">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="9623.4">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="9623.6">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="9623.6">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Score et="9722.8">Daniel Weiss(3) lap=0 point=1 t=-1.000 et=9722.731</Score>
+<Score et="9770.5">Daniel Weiss(3) lap=0 point=2 t=-1.000 et=9770.535</Score>
+<Score et="9770.5">Daniel Weiss(3) lap=1 point=0 t=-1.000 et=9770.535</Score>
+<Incident et="9803.3">Daniel Weiss(3) reported contact (1251.80) with Immovable</Incident>
+<Incident et="9803.3">Daniel Weiss(3) reported contact (1619.90) with Immovable</Incident>
+<Command from="Daniel Weiss" nodeid="1" et="9820.2">/callvote nextrace</Command>
+<Vote et="9820.2">Daniel Weiss: /callvote nextrace</Vote>
+<Sent et="9820.2">&quot;load next circuit&quot; proposed by Daniel Weiss: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>1</MostLapsCompleted>
+<Driver>
+<Name>Daniel Weiss</Name>
+<SteamID>76561198060516602</SteamID>
+<Connected>1</Connected>
+<VehFile>96DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Laps>1</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

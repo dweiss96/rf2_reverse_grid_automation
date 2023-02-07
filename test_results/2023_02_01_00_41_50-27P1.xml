@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675177825</DateTime>
+<TimeString>2023/01/31 16:10:25</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675198514</DateTime>
+<TimeString>2023/01/31 21:55:14</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="0.3">Peter Hummel  has entered the race.</Chat>
+<System et="0.3">Peter Hummel (46) 46.251.29.166 has joined as a participant</System>
+<Chat et="11.6">&gt; /w Peter Hummel  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.6">/w Peter Hummel  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.8">&gt; /w Peter Hummel  germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.8">/w Peter Hummel  germansimracing.de | discord.gg/GSR</Command>
+<Score et="81.0">Peter Hummel (46) lap=0 point=1 t=-1.000 et=80.932</Score>
+<Score et="140.4">Peter Hummel (46) lap=0 point=2 t=-1.000 et=140.339</Score>
+<Score et="175.2">Peter Hummel (46) lap=1 point=0 t=-1.000 et=175.185</Score>
+<Sector et="198.9">Peter Hummel (46) set new best for sector 2</Sector>
+<Score et="198.9">Peter Hummel (46) lap=1 point=1 t=23.645 et=198.830</Score>
+<Sector et="198.9">Peter Hummel (46) set new best for sector 2</Sector>
+<Sector et="247.1">Peter Hummel (46) set new best for sector 3</Sector>
+<Score et="247.1">Peter Hummel (46) lap=1 point=2 t=71.876 et=247.061</Score>
+<Sector et="247.1">Peter Hummel (46) set new best for sector 3</Sector>
+<Incident et="268.0">Peter Hummel (46) reported contact (1342.82) with Immovable</Incident>
+<Incident et="268.0">Peter Hummel (46) reported contact (1379.68) with Immovable</Incident>
+<Incident et="268.0">Peter Hummel (46) reported contact (1381.32) with Immovable</Incident>
+<Score et="276.8">Peter Hummel (46) lap=2 point=0 t=-1.000 et=276.745</Score>
+<Score et="327.2">Peter Hummel (46) lap=2 point=1 t=-1.000 et=327.190</Score>
+<Score et="377.0">Peter Hummel (46) lap=2 point=2 t=-1.000 et=376.949</Score>
+<Score et="411.7">Peter Hummel (46) lap=3 point=0 t=-1.000 et=411.657</Score>
+<Sector et="435.3">Peter Hummel (46) set new best for sector 2</Sector>
+<Score et="435.3">Peter Hummel (46) lap=3 point=1 t=23.590 et=435.247</Score>
+<Sector et="435.3">Peter Hummel (46) set new best for sector 2</Sector>
+<Sector et="483.2">Peter Hummel (46) set new best for sector 3</Sector>
+<Score et="483.2">Peter Hummel (46) lap=3 point=2 t=71.560 et=483.217</Score>
+<Sector et="483.2">Peter Hummel (46) set new best for sector 3</Sector>
+<Sector et="518.3">Peter Hummel (46) set new best for sector 1</Sector>
+<Score et="518.3">Peter Hummel (46) lap=4 point=0 t=106.640 et=518.297</Score>
+<Sector et="518.3">Peter Hummel (46) set new best for sector 1</Sector>
+<Sector et="541.8">Peter Hummel (46) set new best for sector 2</Sector>
+<Score et="541.8">Peter Hummel (46) lap=4 point=1 t=23.509 et=541.806</Score>
+<Sector et="541.8">Peter Hummel (46) set new best for sector 2</Sector>
+<Sector et="589.4">Peter Hummel (46) set new best for sector 3</Sector>
+<Score et="589.4">Peter Hummel (46) lap=4 point=2 t=71.048 et=589.346</Score>
+<Sector et="589.4">Peter Hummel (46) set new best for sector 3</Sector>
+<Sector et="623.9">Peter Hummel (46) set new best for sector 1</Sector>
+<Score et="623.9">Peter Hummel (46) lap=5 point=0 t=105.599 et=623.896</Score>
+<Sector et="623.9">Peter Hummel (46) set new best for sector 1</Sector>
+<Sector et="647.7">Peter Hummel (46) set new best for sector 2</Sector>
+<Score et="647.7">Peter Hummel (46) lap=5 point=1 t=23.780 et=647.675</Score>
+<Sector et="647.7">Peter Hummel (46) set new best for sector 2</Sector>
+<Sector et="695.4">Peter Hummel (46) set new best for sector 3</Sector>
+<Score et="695.4">Peter Hummel (46) lap=5 point=2 t=71.483 et=695.379</Score>
+<Sector et="695.4">Peter Hummel (46) set new best for sector 3</Sector>
+<Score et="730.0">Peter Hummel (46) lap=6 point=0 t=106.084 et=729.979</Score>
+<Sector et="753.5">Peter Hummel (46) set new best for sector 2</Sector>
+<Score et="753.5">Peter Hummel (46) lap=6 point=1 t=23.473 et=753.453</Score>
+<Sector et="753.5">Peter Hummel (46) set new best for sector 2</Sector>
+<Sector et="801.2">Peter Hummel (46) set new best for sector 3</Sector>
+<Score et="801.2">Peter Hummel (46) lap=6 point=2 t=71.142 et=801.122</Score>
+<Sector et="801.2">Peter Hummel (46) set new best for sector 3</Sector>
+<Score et="836.2">Peter Hummel (46) lap=7 point=0 t=106.152 et=836.132</Score>
+<Score et="846.9">Peter Hummel (46) lap=7 point=1 t=-1.000 et=846.858</Score>
+<Score et="846.9">Peter Hummel (46) lap=7 point=2 t=-1.000 et=846.858</Score>
+<Score et="846.9">Peter Hummel (46) lap=8 point=0 t=-1.000 et=846.858</Score>
+<Chat et="868.2">Peter Hummel  left the race.</Chat>
+<Chat et="1391.1">Peter Hummel  has entered the race.</Chat>
+<System et="1391.1">Peter Hummel (47) 46.251.29.166 has joined as a participant</System>
+<System et="1391.1">Peter Hummel  returned with matching vehicle/upgrades: restoring score (8 laps)</System>
+<Command et="1392.6">/w Peter Hummel  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="1392.6">&gt; /w Peter Hummel  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="1392.8">/w Peter Hummel  germansimracing.de | discord.gg/GSR</Command>
+<Chat et="1392.8">&gt; /w Peter Hummel  germansimracing.de | discord.gg/GSR</Chat>
+<Score et="1542.9">Peter Hummel (47) lap=8 point=1 t=-1.000 et=1542.839</Score>
+<Score et="1590.3">Peter Hummel (47) lap=8 point=2 t=-1.000 et=1590.232</Score>
+<Score et="1631.4">Peter Hummel (47) lap=9 point=0 t=-1.000 et=1631.377</Score>
+<Sector et="1655.2">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="1655.2">Peter Hummel (47) lap=9 point=1 t=23.824 et=1655.202</Score>
+<Sector et="1655.2">Peter Hummel (47) set new best for sector 2</Sector>
+<Sector et="1702.7">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="1702.7">Peter Hummel (47) lap=9 point=2 t=71.292 et=1702.669</Score>
+<Sector et="1702.7">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="1738.6">Peter Hummel (47) lap=10 point=0 t=-1.000 et=1738.543</Score>
+<Score et="1860.5">Peter Hummel (47) lap=10 point=1 t=-1.000 et=1860.460</Score>
+<Score et="1909.7">Peter Hummel (47) lap=10 point=2 t=-1.000 et=1909.666</Score>
+<Score et="1952.8">Peter Hummel (47) lap=11 point=0 t=-1.000 et=1952.765</Score>
+<Incident et="1959.1">Peter Hummel (47) reported contact (44.94) with Sign</Incident>
+<Incident et="1959.2">Peter Hummel (47) reported contact (31.80) with Sign</Incident>
+<Incident et="1959.2">Peter Hummel (47) reported contact (21.44) with Sign</Incident>
+<Sector et="1975.9">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="1975.9">Peter Hummel (47) lap=11 point=1 t=23.115 et=1975.880</Score>
+<Sector et="1975.9">Peter Hummel (47) set new best for sector 2</Sector>
+<Sector et="2032.7">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="2032.7">Peter Hummel (47) lap=11 point=2 t=79.913 et=2032.678</Score>
+<Sector et="2032.7">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="2068.1">Peter Hummel (47) lap=12 point=0 t=115.292 et=2068.057</Score>
+<Incident et="2076.0">Peter Hummel (47) reported contact (4301.56) with Immovable</Incident>
+<Incident et="2076.0">Peter Hummel (47) reported contact (4055.34) with Immovable</Incident>
+<Incident et="2076.0">Peter Hummel (47) reported contact (2021.07) with Immovable</Incident>
+<Incident et="2076.1">Peter Hummel (47) reported contact (1650.90) with Immovable</Incident>
+<Incident et="2076.1">Peter Hummel (47) reported contact (2048.09) with Immovable</Incident>
+<Incident et="2076.1">Peter Hummel (47) reported contact (1913.75) with Immovable</Incident>
+<Incident et="2076.1">Peter Hummel (47) reported contact (2108.60) with Immovable</Incident>
+<Incident et="2076.1">Peter Hummel (47) reported contact (2060.81) with Immovable</Incident>
+<Incident et="2076.1">Peter Hummel (47) reported contact (1982.97) with Immovable</Incident>
+<Incident et="2076.2">Peter Hummel (47) reported contact (1658.53) with Immovable</Incident>
+<Incident et="2076.2">Peter Hummel (47) reported contact (31.26) with Wing</Incident>
+<Incident et="2076.2">Peter Hummel (47) reported contact (20.60) with Wing</Incident>
+<Incident et="2076.2">Peter Hummel (47) reported contact (1153.69) with Immovable</Incident>
+<Incident et="2076.2">Peter Hummel (47) reported contact (1850.38) with Immovable</Incident>
+<Incident et="2076.2">Peter Hummel (47) reported contact (24.41) with Wing</Incident>
+<Score et="2082.0">Peter Hummel (47) lap=12 point=1 t=-1.000 et=2081.999</Score>
+<Score et="2082.0">Peter Hummel (47) lap=12 point=2 t=-1.000 et=2081.999</Score>
+<Score et="2082.0">Peter Hummel (47) lap=13 point=0 t=-1.000 et=2081.999</Score>
+<Score et="2355.8">Peter Hummel (47) lap=13 point=1 t=-1.000 et=2355.761</Score>
+<Score et="2403.8">Peter Hummel (47) lap=13 point=2 t=-1.000 et=2403.762</Score>
+<Incident et="2431.2">Peter Hummel (47) reported contact (1185.45) with Immovable</Incident>
+<Incident et="2431.2">Peter Hummel (47) reported contact (1147.83) with Immovable</Incident>
+<Incident et="2431.2">Peter Hummel (47) reported contact (1553.33) with Immovable</Incident>
+<Incident et="2431.2">Peter Hummel (47) reported contact (1129.48) with Immovable</Incident>
+<Incident et="2431.2">Peter Hummel (47) reported contact (1209.33) with Immovable</Incident>
+<Score et="2434.1">Peter Hummel (47) lap=14 point=0 t=-1.000 et=2434.107</Score>
+<Score et="2434.1">Peter Hummel (47) lap=14 point=1 t=-1.000 et=2434.107</Score>
+<Score et="2434.1">Peter Hummel (47) lap=14 point=2 t=-1.000 et=2434.107</Score>
+<Score et="2434.1">Peter Hummel (47) lap=15 point=0 t=-1.000 et=2434.107</Score>
+<Score et="2478.7">Peter Hummel (47) lap=15 point=1 t=-1.000 et=2478.684</Score>
+<Score et="2526.6">Peter Hummel (47) lap=15 point=2 t=-1.000 et=2526.606</Score>
+<Score et="2560.8">Peter Hummel (47) lap=16 point=0 t=-1.000 et=2560.798</Score>
+<Sector et="2594.6">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="2594.6">Peter Hummel (47) lap=16 point=1 t=33.771 et=2594.569</Score>
+<Sector et="2594.6">Peter Hummel (47) set new best for sector 2</Sector>
+<Sector et="2642.8">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="2642.8">Peter Hummel (47) lap=16 point=2 t=81.953 et=2642.751</Score>
+<Sector et="2642.8">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="2678.2">Peter Hummel (47) lap=17 point=0 t=117.402 et=2678.200</Score>
+<Sector et="2702.8">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="2702.8">Peter Hummel (47) lap=17 point=1 t=24.537 et=2702.738</Score>
+<Sector et="2702.8">Peter Hummel (47) set new best for sector 2</Sector>
+<Sector et="2750.9">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="2750.9">Peter Hummel (47) lap=17 point=2 t=72.710 et=2750.910</Score>
+<Sector et="2750.9">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="2781.1">Peter Hummel (47) lap=18 point=0 t=-1.000 et=2781.122</Score>
+<Score et="2858.1">Peter Hummel (47) lap=18 point=1 t=-1.000 et=2858.099</Score>
+<Score et="2907.6">Peter Hummel (47) lap=18 point=2 t=-1.000 et=2907.612</Score>
+<Score et="2941.8">Peter Hummel (47) lap=19 point=0 t=-1.000 et=2941.778</Score>
+<Sector et="2965.2">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="2965.2">Peter Hummel (47) lap=19 point=1 t=23.366 et=2965.144</Score>
+<Sector et="2965.2">Peter Hummel (47) set new best for sector 2</Sector>
+<Sector et="3012.8">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="3012.8">Peter Hummel (47) lap=19 point=2 t=70.944 et=3012.722</Score>
+<Sector et="3012.8">Peter Hummel (47) set new best for sector 3</Sector>
+<Sector et="3046.6">Peter Hummel (47) set new best for sector 1</Sector>
+<Score et="3046.6">Peter Hummel (47) lap=20 point=0 t=104.811 et=3046.589</Score>
+<Sector et="3046.6">Peter Hummel (47) set new best for sector 1</Sector>
+<Sector et="3070.6">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="3070.6">Peter Hummel (47) lap=20 point=1 t=23.955 et=3070.544</Score>
+<Sector et="3070.6">Peter Hummel (47) set new best for sector 2</Sector>
+<Sector et="3118.1">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="3118.1">Peter Hummel (47) lap=20 point=2 t=71.495 et=3118.084</Score>
+<Sector et="3118.1">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="3152.4">Peter Hummel (47) lap=21 point=0 t=105.782 et=3152.371</Score>
+<Sector et="3175.9">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="3175.9">Peter Hummel (47) lap=21 point=1 t=23.452 et=3175.823</Score>
+<Sector et="3175.9">Peter Hummel (47) set new best for sector 2</Sector>
+<Sector et="3223.2">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="3223.2">Peter Hummel (47) lap=21 point=2 t=70.842 et=3223.213</Score>
+<Sector et="3223.2">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="3257.7">Peter Hummel (47) lap=22 point=0 t=105.255 et=3257.626</Score>
+<Sector et="3281.0">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="3281.0">Peter Hummel (47) lap=22 point=1 t=23.350 et=3280.976</Score>
+<Sector et="3281.0">Peter Hummel (47) set new best for sector 2</Sector>
+<Sector et="3328.8">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="3328.8">Peter Hummel (47) lap=22 point=2 t=71.185 et=3328.811</Score>
+<Sector et="3328.8">Peter Hummel (47) set new best for sector 3</Sector>
+<Score et="3363.4">Peter Hummel (47) lap=23 point=0 t=105.724 et=3363.350</Score>
+<Sector et="3387.1">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="3387.1">Peter Hummel (47) lap=23 point=1 t=23.709 et=3387.059</Score>
+<Sector et="3387.1">Peter Hummel (47) set new best for sector 2</Sector>
+<Score et="3427.9">Peter Hummel (47) lap=23 point=2 t=-1.000 et=3427.909</Score>
+<Score et="3427.9">Peter Hummel (47) lap=24 point=0 t=-1.000 et=3427.909</Score>
+<Chat et="3585.5">Peter Hummel  left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Peter Hummel </Name>
+<SteamID>76561198039967264</SteamID>
+<Connected>0</Connected>
+<VehFile>94_DAR_94.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#94 Peter Hummel</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>94</CarNumber>
+<TeamName>Peter Hummel</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.239" twfl="0.945" twfr="0.984" twrl="0.941" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="175.1851" s1="23.6449" s2="48.2308" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="276.7447" fuel="0.239" twfl="0.976" twfr="0.984" twrl="0.969" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="411.6573" s1="23.5900" s2="47.9701" s3="35.0797" fuel="0.220" twfl="0.937" twfr="0.969" twrl="0.945" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">106.6398</Lap>
+<Lap num="5" p="1" et="518.2971" s1="23.5094" s2="47.5391" s3="34.5502" fuel="0.196" twfl="0.894" twfr="0.941" twrl="0.925" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">105.5986</Lap>
+<Lap num="6" p="1" et="623.8957" s1="23.7797" s2="47.7034" s3="34.6006" fuel="0.173" twfl="0.843" twfr="0.886" twrl="0.894" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">106.0837</Lap>
+<Lap num="7" p="1" et="729.9794" s1="23.4734" s2="47.6689" s3="35.0100" fuel="0.149" twfl="0.784" twfr="0.859" twrl="0.875" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">106.1523</Lap>
+<Lap num="8" p="1" et="836.1317" fuel="0.263" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="--.---" fuel="0.431" twfl="0.961" twfr="0.980" twrl="0.969" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="1631.3772" s1="23.8245" s2="47.4677" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="1738.5427" fuel="0.431" twfl="0.957" twfr="0.984" twrl="0.937" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="1952.7650" s1="23.1146" s2="56.7980" s3="35.3793" fuel="0.408" twfl="0.914" twfr="0.973" twrl="0.894" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">115.2919</Lap>
+<Lap num="13" p="1" et="2068.0569" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="2081.9985" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="2434.1069" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="1" et="2434.1069" fuel="0.431" twfl="0.973" twfr="0.988" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="1" et="2560.7981" s1="33.7712" s2="48.1819" s3="35.4492" fuel="0.408" twfl="0.937" twfr="0.973" twrl="0.886" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">117.4023</Lap>
+<Lap num="18" p="1" et="2678.2004" s1="24.5371" s2="48.1726" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="1" et="2781.1218" fuel="0.431" twfl="0.984" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="1" et="2941.7781" s1="23.3662" s2="47.5779" s3="33.8669" fuel="0.408" twfl="0.957" twfr="0.973" twrl="0.965" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.8110</Lap>
+<Lap num="21" p="1" et="3046.5891" s1="23.9551" s2="47.5400" s3="34.2866" fuel="0.388" twfl="0.922" twfr="0.957" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">105.7817</Lap>
+<Lap num="22" p="1" et="3152.3708" s1="23.4519" s2="47.3901" s3="34.4128" fuel="0.365" twfl="0.878" twfr="0.941" twrl="0.914" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">105.2549</Lap>
+<Lap num="23" p="1" et="3257.6257" s1="23.3499" s2="47.8352" s3="34.5388" fuel="0.341" twfl="0.827" twfr="0.925" twrl="0.894" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">105.7239</Lap>
+<Lap num="24" p="1" et="3363.3496" s1="23.7092" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>104.8110</BestLapTime>
+<Laps>24</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="14">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="15" endLap="15">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="16" endLap="24">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="24"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674564881</DateTime>
+<TimeString>2023/01/24 13:54:41</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674597178</DateTime>
+<TimeString>2023/01/24 22:52:58</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="0.0">Tomek Zbroja left the race.</Chat>
+<Chat et="0.6">Stefan Erxmeyer: thx</Chat>
+<Chat et="10.8">&gt; /w Bertogucci Alfonso If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Bertogucci Alfonso If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.0">&gt; /w Bertogucci Alfonso germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.0">/w Bertogucci Alfonso germansimracing.de | discord.gg/GSR</Command>
+<Command et="11.2">/w Stefan Erxmeyer If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.2">&gt; /w Stefan Erxmeyer If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="11.4">&gt; /w Stefan Erxmeyer germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.4">/w Stefan Erxmeyer germansimracing.de | discord.gg/GSR</Command>
+<Score et="54.0">Stefan Erxmeyer(74) lap=0 point=1 t=-1.000 et=53.997</Score>
+<Score et="103.2">Stefan Erxmeyer(74) lap=0 point=2 t=-1.000 et=103.191</Score>
+<Score et="136.8">Stefan Erxmeyer(74) lap=1 point=0 t=-1.000 et=136.739</Score>
+<Sector et="159.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="159.7">Stefan Erxmeyer(74) lap=1 point=1 t=22.938 et=159.677</Score>
+<Sector et="159.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="159.7">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Score et="168.2">Bertogucci Alfonso(71) lap=0 point=1 t=-1.000 et=168.134</Score>
+<Score et="168.2">Bertogucci Alfonso(71) lap=0 point=2 t=-1.000 et=168.134</Score>
+<Score et="168.2">Bertogucci Alfonso(71) lap=1 point=0 t=-1.000 et=168.134</Score>
+<Sector et="207.0">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="207.0">Stefan Erxmeyer(74) lap=1 point=2 t=70.203 et=206.942</Score>
+<Sector et="207.0">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="207.0">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Score et="228.0">Bertogucci Alfonso(71) lap=1 point=1 t=-1.000 et=228.004</Score>
+<Sector et="240.4">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Score et="240.4">Stefan Erxmeyer(74) lap=2 point=0 t=103.658 et=240.397</Score>
+<Sector et="240.4">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Sector et="240.4">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Score et="263.7">Stefan Erxmeyer(74) lap=2 point=1 t=23.245 et=263.642</Score>
+<Sector et="263.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="263.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="263.7">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Score et="283.7">Bertogucci Alfonso(71) lap=1 point=2 t=-1.000 et=283.654</Score>
+<Sector et="311.1">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="311.1">Stefan Erxmeyer(74) lap=2 point=2 t=70.650 et=311.047</Score>
+<Sector et="311.1">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="311.1">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Score et="322.3">Bertogucci Alfonso(71) lap=2 point=0 t=-1.000 et=322.250</Score>
+<Score et="344.4">Stefan Erxmeyer(74) lap=3 point=0 t=103.947 et=344.344</Score>
+<Sector et="346.8">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Score et="346.8">Bertogucci Alfonso(71) lap=2 point=1 t=24.476 et=346.727</Score>
+<Sector et="346.8">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="346.8">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Incident et="350.8">Stefan Erxmeyer(74) reported contact (120.59) with Sign</Incident>
+<Incident et="350.8">Stefan Erxmeyer(74) reported contact (56.90) with Sign</Incident>
+<Incident et="350.9">Stefan Erxmeyer(74) reported contact (22.59) with Sign</Incident>
+<Score et="367.6">Stefan Erxmeyer(74) lap=3 point=1 t=23.208 et=367.552</Score>
+<Sector et="367.6">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="367.6">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="367.6">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Score et="392.5">Stefan Erxmeyer(74) lap=3 point=2 t=-1.000 et=392.488</Score>
+<Score et="392.5">Stefan Erxmeyer(74) lap=4 point=0 t=-1.000 et=392.488</Score>
+<Sector et="395.2">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Score et="395.2">Bertogucci Alfonso(71) lap=2 point=2 t=72.938 et=395.188</Score>
+<Sector et="395.2">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="395.2">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="429.5">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Score et="429.5">Bertogucci Alfonso(71) lap=3 point=0 t=107.272 et=429.522</Score>
+<Sector et="429.5">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Sector et="429.6">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Sector et="453.7">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Score et="453.7">Bertogucci Alfonso(71) lap=3 point=1 t=24.120 et=453.642</Score>
+<Sector et="453.7">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="453.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="471.5">Stefan Erxmeyer(74) lap=4 point=1 t=-1.000 et=471.495</Score>
+<Score et="475.5">Bertogucci Alfonso(71) lap=3 point=2 t=-1.000 et=475.483</Score>
+<Score et="475.5">Bertogucci Alfonso(71) lap=4 point=0 t=-1.000 et=475.483</Score>
+<Score et="518.9">Stefan Erxmeyer(74) lap=4 point=2 t=-1.000 et=518.872</Score>
+<Score et="552.3">Stefan Erxmeyer(74) lap=5 point=0 t=-1.000 et=552.292</Score>
+<Sector et="575.3">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="575.3">Stefan Erxmeyer(74) lap=5 point=1 t=22.965 et=575.256</Score>
+<Sector et="575.3">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="575.3">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="622.3">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="622.3">Stefan Erxmeyer(74) lap=5 point=2 t=69.937 et=622.229</Score>
+<Sector et="622.3">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="622.3">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="655.8">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Score et="655.8">Stefan Erxmeyer(74) lap=6 point=0 t=103.513 et=655.805</Score>
+<Sector et="655.8">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Sector et="655.9">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Score et="679.3">Stefan Erxmeyer(74) lap=6 point=1 t=-1.000 et=679.237</Score>
+<Score et="679.3">Stefan Erxmeyer(74) lap=6 point=2 t=-1.000 et=679.237</Score>
+<Score et="679.3">Stefan Erxmeyer(74) lap=7 point=0 t=-1.000 et=679.237</Score>
+<Chat et="702.1">CILLER has entered the race.</Chat>
+<System et="702.1">CILLER(75) 79.109.227.105 has joined as a participant</System>
+<Chat et="710.6">&gt; /w CILLER If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="710.6">/w CILLER If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="710.8">/w CILLER germansimracing.de | discord.gg/GSR</Command>
+<Chat et="710.8">&gt; /w CILLER germansimracing.de | discord.gg/GSR</Chat>
+<Score et="721.8">Stefan Erxmeyer(74) lap=7 point=1 t=-1.000 et=721.761</Score>
+<Score et="759.0">CILLER(75) lap=0 point=1 t=-1.000 et=758.949</Score>
+<Score et="769.1">Stefan Erxmeyer(74) lap=7 point=2 t=-1.000 et=769.092</Score>
+<Score et="802.6">Stefan Erxmeyer(74) lap=8 point=0 t=-1.000 et=802.597</Score>
+<Score et="809.1">CILLER(75) lap=0 point=2 t=-1.000 et=809.085</Score>
+<Sector et="825.6">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="825.6">Stefan Erxmeyer(74) lap=8 point=1 t=23.003 et=825.600</Score>
+<Sector et="825.6">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="825.6">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="825.7">CILLER(75) set new best for sector 2</Sector>
+<Score et="843.7">CILLER(75) lap=1 point=0 t=-1.000 et=843.651</Score>
+<Incident et="858.4">Bertogucci Alfonso(71) reported contact (1107.03) with Immovable</Incident>
+<Score et="861.5">Bertogucci Alfonso(71) lap=4 point=1 t=-1.000 et=861.463</Score>
+<Score et="861.5">Bertogucci Alfonso(71) lap=4 point=2 t=-1.000 et=861.463</Score>
+<Score et="861.5">Bertogucci Alfonso(71) lap=5 point=0 t=-1.000 et=861.463</Score>
+<Sector et="867.3">CILLER(75) set new best for sector 2</Sector>
+<Score et="867.3">CILLER(75) lap=1 point=1 t=23.649 et=867.300</Score>
+<Sector et="867.3">CILLER(75) set new best for sector 2</Sector>
+<Sector et="867.4">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="867.4">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="872.5">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="872.5">Stefan Erxmeyer(74) lap=8 point=2 t=69.870 et=872.467</Score>
+<Sector et="872.5">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="872.5">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="872.5">CILLER(75) set new best for sector 3</Sector>
+<Sector et="905.6">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Score et="905.6">Stefan Erxmeyer(74) lap=9 point=0 t=102.933 et=905.530</Score>
+<Sector et="905.6">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Sector et="905.6">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Sector et="905.6">CILLER(75) set new best for sector 1</Sector>
+<Sector et="917.4">CILLER(75) set new best for sector 3</Sector>
+<Score et="917.4">CILLER(75) lap=1 point=2 t=73.741 et=917.391</Score>
+<Sector et="917.4">CILLER(75) set new best for sector 3</Sector>
+<Sector et="917.5">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="917.5">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="928.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="928.7">Stefan Erxmeyer(74) lap=9 point=1 t=23.178 et=928.708</Score>
+<Sector et="928.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="928.8">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="928.8">CILLER(75) set new best for sector 2</Sector>
+<Sector et="952.0">CILLER(75) set new best for sector 1</Sector>
+<Score et="952.0">CILLER(75) lap=2 point=0 t=108.254 et=951.905</Score>
+<Sector et="952.0">CILLER(75) set new best for sector 1</Sector>
+<Sector et="952.0">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Sector et="952.0">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Score et="975.5">Stefan Erxmeyer(74) lap=9 point=2 t=69.926 et=975.456</Score>
+<Sector et="975.5">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="975.5">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="975.5">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="975.5">CILLER(75) set new best for sector 3</Sector>
+<Sector et="975.9">CILLER(75) set new best for sector 2</Sector>
+<Score et="975.9">CILLER(75) lap=2 point=1 t=23.993 et=975.898</Score>
+<Sector et="975.9">CILLER(75) set new best for sector 2</Sector>
+<Sector et="976.0">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="976.0">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1009.3">Stefan Erxmeyer(74) lap=10 point=0 t=-1.000 et=1009.305</Score>
+<Sector et="1025.1">CILLER(75) set new best for sector 3</Sector>
+<Score et="1025.1">CILLER(75) lap=2 point=2 t=73.138 et=1025.043</Score>
+<Sector et="1025.1">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1025.1">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1025.1">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1032.2">Stefan Erxmeyer(74) lap=10 point=1 t=-1.000 et=1032.199</Score>
+<Score et="1034.8">Bertogucci Alfonso(71) lap=5 point=1 t=-1.000 et=1034.795</Score>
+<Score et="1065.5">CILLER(75) lap=3 point=0 t=113.594 et=1065.499</Score>
+<Score et="1079.1">Stefan Erxmeyer(74) lap=10 point=2 t=-1.000 et=1079.092</Score>
+<Score et="1087.3">Bertogucci Alfonso(71) lap=5 point=2 t=-1.000 et=1087.328</Score>
+<Score et="1087.3">Bertogucci Alfonso(71) lap=6 point=0 t=-1.000 et=1087.328</Score>
+<Sector et="1089.4">CILLER(75) set new best for sector 2</Sector>
+<Score et="1089.4">CILLER(75) lap=3 point=1 t=23.916 et=1089.415</Score>
+<Sector et="1089.4">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1089.5">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1089.5">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1113.2">Stefan Erxmeyer(74) lap=11 point=0 t=-1.000 et=1113.171</Score>
+<Sector et="1136.3">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1136.3">Stefan Erxmeyer(74) lap=11 point=1 t=23.107 et=1136.278</Score>
+<Sector et="1136.3">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1136.3">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1136.4">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1140.5">CILLER(75) set new best for sector 3</Sector>
+<Score et="1140.5">CILLER(75) lap=3 point=2 t=74.922 et=1140.421</Score>
+<Sector et="1140.5">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1140.5">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1140.5">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1175.9">CILLER(75) lap=4 point=0 t=110.384 et=1175.883</Score>
+<Score et="1182.6">Bertogucci Alfonso(71) lap=6 point=1 t=-1.000 et=1182.568</Score>
+<Sector et="1183.6">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1183.6">Stefan Erxmeyer(74) lap=11 point=2 t=70.362 et=1183.533</Score>
+<Sector et="1183.6">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="1183.6">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1183.6">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1199.7">CILLER(75) set new best for sector 2</Sector>
+<Score et="1199.7">CILLER(75) lap=4 point=1 t=23.772 et=1199.655</Score>
+<Sector et="1199.7">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1199.7">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1199.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1216.9">Stefan Erxmeyer(74) lap=12 point=0 t=103.698 et=1216.870</Score>
+<Score et="1231.8">Bertogucci Alfonso(71) lap=6 point=2 t=-1.000 et=1231.813</Score>
+<Sector et="1240.5">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1240.5">Stefan Erxmeyer(74) lap=12 point=1 t=23.613 et=1240.482</Score>
+<Sector et="1240.5">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1240.5">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1240.6">CILLER(75) set new best for sector 2</Sector>
+<Score et="1248.2">CILLER(75) lap=4 point=2 t=72.254 et=1248.137</Score>
+<Sector et="1248.2">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1248.2">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1248.2">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1248.2">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1267.8">Bertogucci Alfonso(71) lap=7 point=0 t=-1.000 et=1267.727</Score>
+<Score et="1273.2">Stefan Erxmeyer(74) lap=12 point=2 t=-1.000 et=1271.571</Score>
+<Score et="1273.2">Stefan Erxmeyer(74) lap=13 point=0 t=-1.000 et=1271.571</Score>
+<Sector et="1282.8">CILLER(75) set new best for sector 1</Sector>
+<Score et="1282.8">CILLER(75) lap=5 point=0 t=106.915 et=1282.797</Score>
+<Sector et="1282.8">CILLER(75) set new best for sector 1</Sector>
+<Sector et="1282.9">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Sector et="1282.9">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Sector et="1292.0">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Score et="1292.0">Bertogucci Alfonso(71) lap=7 point=1 t=24.266 et=1291.993</Score>
+<Sector et="1292.0">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1292.0">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1292.1">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1306.8">CILLER(75) set new best for sector 2</Sector>
+<Score et="1306.8">CILLER(75) lap=5 point=1 t=23.999 et=1306.797</Score>
+<Sector et="1306.8">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1306.8">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1306.9">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1321.6">Stefan Erxmeyer(74) lap=13 point=1 t=-1.000 et=1321.593</Score>
+<Sector et="1341.4">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Score et="1341.4">Bertogucci Alfonso(71) lap=7 point=2 t=73.685 et=1341.412</Score>
+<Sector et="1341.4">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1341.5">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="1341.5">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1355.9">CILLER(75) set new best for sector 3</Sector>
+<Score et="1355.9">CILLER(75) lap=5 point=2 t=73.115 et=1355.912</Score>
+<Sector et="1355.9">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1356.0">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1356.0">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1369.0">Stefan Erxmeyer(74) lap=13 point=2 t=-1.000 et=1368.972</Score>
+<Score et="1376.8">Bertogucci Alfonso(71) lap=8 point=0 t=109.026 et=1376.753</Score>
+<Score et="1390.9">CILLER(75) lap=6 point=0 t=108.035 et=1390.832</Score>
+<Sector et="1401.1">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Score et="1401.1">Bertogucci Alfonso(71) lap=8 point=1 t=24.367 et=1401.120</Score>
+<Sector et="1401.1">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1401.2">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1401.2">CILLER(75) set new best for sector 2</Sector>
+<Score et="1402.3">Stefan Erxmeyer(74) lap=14 point=0 t=-1.000 et=1402.283</Score>
+<Score et="1414.9">CILLER(75) lap=6 point=1 t=24.014 et=1414.846</Score>
+<Sector et="1414.9">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1414.9">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1414.9">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1414.9">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1425.3">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1425.3">Stefan Erxmeyer(74) lap=14 point=1 t=23.036 et=1425.319</Score>
+<Sector et="1425.3">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1425.4">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1425.4">CILLER(75) set new best for sector 2</Sector>
+<Score et="1437.7">Bertogucci Alfonso(71) lap=8 point=2 t=-1.000 et=1437.665</Score>
+<Score et="1437.7">Bertogucci Alfonso(71) lap=9 point=0 t=-1.000 et=1437.665</Score>
+<Score et="1463.7">CILLER(75) lap=6 point=2 t=72.813 et=1463.644</Score>
+<Sector et="1463.7">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1463.7">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1463.7">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1463.7">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="1471.8">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1471.8">Stefan Erxmeyer(74) lap=14 point=2 t=69.520 et=1471.802</Score>
+<Sector et="1471.8">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="1471.9">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1471.9">CILLER(75) set new best for sector 3</Sector>
+<Score et="1498.7">CILLER(75) lap=7 point=0 t=107.801 et=1498.633</Score>
+<Sector et="1504.9">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Score et="1504.9">Stefan Erxmeyer(74) lap=15 point=0 t=102.573 et=1504.856</Score>
+<Sector et="1504.9">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Sector et="1504.9">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Sector et="1504.9">CILLER(75) set new best for sector 1</Sector>
+<Sector et="1522.4">CILLER(75) set new best for sector 2</Sector>
+<Score et="1522.4">CILLER(75) lap=7 point=1 t=23.741 et=1522.374</Score>
+<Sector et="1522.4">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1522.4">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1522.4">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1527.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1527.7">Stefan Erxmeyer(74) lap=15 point=1 t=22.860 et=1527.717</Score>
+<Sector et="1527.7">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1527.8">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1527.8">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1571.3">CILLER(75) set new best for sector 3</Sector>
+<Score et="1571.3">CILLER(75) lap=7 point=2 t=72.620 et=1571.252</Score>
+<Sector et="1571.3">CILLER(75) set new best for sector 3</Sector>
+<Sector et="1571.3">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1571.3">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1574.6">Stefan Erxmeyer(74) lap=15 point=2 t=-1.000 et=1574.619</Score>
+<Score et="1608.9">Bertogucci Alfonso(71) lap=9 point=1 t=-1.000 et=1608.884</Score>
+<Score et="1609.7">CILLER(75) lap=8 point=0 t=111.016 et=1609.649</Score>
+<Score et="1612.5">Stefan Erxmeyer(74) lap=16 point=0 t=-1.000 et=1612.438</Score>
+<Sector et="1635.6">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1635.6">Stefan Erxmeyer(74) lap=16 point=1 t=23.136 et=1635.575</Score>
+<Sector et="1635.6">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1635.6">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1635.7">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1637.1">CILLER(75) set new best for sector 2</Sector>
+<Score et="1637.1">CILLER(75) lap=8 point=1 t=27.417 et=1637.066</Score>
+<Sector et="1637.1">CILLER(75) set new best for sector 2</Sector>
+<Sector et="1637.1">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1637.1">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Score et="1658.2">Bertogucci Alfonso(71) lap=9 point=2 t=-1.000 et=1658.165</Score>
+<Score et="1676.5">CILLER(75) lap=8 point=2 t=-1.000 et=1676.489</Score>
+<Score et="1676.5">CILLER(75) lap=9 point=0 t=-1.000 et=1676.489</Score>
+<Sector et="1682.3">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1682.3">Stefan Erxmeyer(74) lap=16 point=2 t=69.859 et=1682.297</Score>
+<Sector et="1682.3">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="1682.3">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1682.4">CILLER(75) set new best for sector 3</Sector>
+<Score et="1694.2">Bertogucci Alfonso(71) lap=10 point=0 t=-1.000 et=1694.161</Score>
+<Score et="1704.7">Bertogucci Alfonso(71) lap=10 point=1 t=-1.000 et=1704.628</Score>
+<Score et="1704.7">Bertogucci Alfonso(71) lap=10 point=2 t=-1.000 et=1704.628</Score>
+<Score et="1704.7">Bertogucci Alfonso(71) lap=11 point=0 t=-1.000 et=1704.628</Score>
+<Score et="1715.7">Stefan Erxmeyer(74) lap=17 point=0 t=103.224 et=1715.662</Score>
+<Score et="1725.2">Stefan Erxmeyer(74) lap=17 point=1 t=-1.000 et=1725.209</Score>
+<Score et="1725.2">Stefan Erxmeyer(74) lap=17 point=2 t=-1.000 et=1725.209</Score>
+<Score et="1725.2">Stefan Erxmeyer(74) lap=18 point=0 t=-1.000 et=1725.209</Score>
+<Chat et="1733.7">Stefan Erxmeyer left the race.</Chat>
+<Score et="1874.9">CILLER(75) lap=9 point=1 t=-1.000 et=1874.860</Score>
+<Score et="1907.3">CILLER(75) lap=9 point=2 t=-1.000 et=1907.276</Score>
+<Score et="1907.3">CILLER(75) lap=10 point=0 t=-1.000 et=1907.276</Score>
+<Penalty et="1970.9">CILLER received Drive Thru penalty, 10s, 0laps for &quot;Speeding In Pitlane&quot;. Result: penalties=1, 1st=Drive Thru,10s</Penalty>
+<Score et="1992.3">CILLER(75) lap=10 point=1 t=-1.000 et=1992.274</Score>
+<Score et="2040.4">CILLER(75) lap=10 point=2 t=-1.000 et=2040.328</Score>
+<Incident et="2071.0">CILLER(75) reported contact (2312.87) with Immovable</Incident>
+<Incident et="2071.0">CILLER(75) reported contact (1484.52) with Immovable</Incident>
+<Incident et="2071.0">CILLER(75) reported contact (1442.19) with Immovable</Incident>
+<Incident et="2071.0">CILLER(75) reported contact (1131.17) with Immovable</Incident>
+<Score et="2086.0">CILLER(75) lap=11 point=0 t=-1.000 et=2086.009</Score>
+<Score et="2112.5">CILLER(75) lap=11 point=1 t=26.413 et=2112.422</Score>
+<Sector et="2112.5">CILLER(75) set new best for sector 2</Sector>
+<Sector et="2112.5">CILLER(75) set new best for sector 2</Sector>
+<Sector et="2112.5">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="2161.3">CILLER(75) set new best for sector 3</Sector>
+<Score et="2161.3">CILLER(75) lap=11 point=2 t=75.308 et=2161.317</Score>
+<Sector et="2161.3">CILLER(75) set new best for sector 3</Sector>
+<Sector et="2161.4">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Incident et="2175.0">CILLER(75) reported contact (1144.14) with Immovable</Incident>
+<Score et="2175.3">CILLER(75) lap=12 point=0 t=-1.000 et=2175.272</Score>
+<Chat et="2209.0">CILLER: hasta otra</Chat>
+<Chat et="2225.6">CILLER left the race.</Chat>
+<Chat et="2233.6">Bertogucci Alfonso left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Stefan Erxmeyer</Name>
+<SteamID>76561197993128761</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.251" twfl="0.980" twfr="0.988" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="136.7389" s1="22.9381" s2="47.2646" s3="33.4554" fuel="0.224" twfl="0.945" twfr="0.973" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.6581</Lap>
+<Lap num="3" p="1" et="240.3970" s1="23.2451" s2="47.4051" s3="33.2965" fuel="0.200" twfl="0.878" twfr="0.953" twrl="0.910" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">103.9466</Lap>
+<Lap num="4" p="1" et="344.3437" s1="23.2084" fuel="0.275" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="392.4884" fuel="0.431" twfl="0.984" twfr="0.988" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="552.2917" s1="22.9647" s2="46.9726" s3="33.5762" fuel="0.408" twfl="0.961" twfr="0.969" twrl="0.933" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">103.5135</Lap>
+<Lap num="7" p="1" et="655.8052" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="679.2368" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="802.5967" s1="23.0029" s2="46.8674" s3="33.0629" fuel="0.408" twfl="0.965" twfr="0.973" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">102.9332</Lap>
+<Lap num="10" p="1" et="905.5300" s1="23.1776" s2="46.7479" fuel="0.384" twfl="0.945" twfr="0.961" twrl="0.914" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="1009.3045" fuel="0.361" twfl="0.918" twfr="0.945" twrl="0.878" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="1113.1711" s1="23.1067" s2="47.2554" s3="33.3363" fuel="0.337" twfl="0.894" twfr="0.918" twrl="0.839" twrr="0.902" fcompound="0,Dry" rcompound="0,Dry">103.6984</Lap>
+<Lap num="13" p="1" et="1216.8695" s1="23.6127" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="1271.5707" fuel="0.431" twfl="0.984" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="1402.2828" s1="23.0364" s2="46.4832" s3="33.0540" fuel="0.408" twfl="0.965" twfr="0.973" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">102.5735</Lap>
+<Lap num="16" p="1" et="1504.8563" s1="22.8602" fuel="0.384" twfl="0.949" twfr="0.961" twrl="0.925" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="1" et="1612.4384" s1="23.1362" s2="46.7229" s3="33.3646" fuel="0.361" twfl="0.922" twfr="0.949" twrl="0.898" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">103.2238</Lap>
+<Lap num="18" p="1" et="1715.6621" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.5735</BestLapTime>
+<Laps>18</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="18">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="18"></Swap></Driver>
+<Driver>
+<Name>CILLER</Name>
+<SteamID>76561198882590346</SteamID>
+<Connected>0</Connected>
+<VehFile>96DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.431" twfl="0.945" twfr="0.973" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="3" et="843.6509" s1="23.6489" s2="50.0917" s3="34.5137" fuel="0.408" twfl="0.894" twfr="0.929" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">108.2543</Lap>
+<Lap num="3" p="3" et="951.9052" s1="23.9932" s2="49.1443" s3="40.4561" fuel="0.388" twfl="0.847" twfr="0.847" twrl="0.937" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">113.5936</Lap>
+<Lap num="4" p="3" et="1065.4988" s1="23.9164" s2="51.0056" s3="35.4618" fuel="0.365" twfl="0.812" twfr="0.824" twrl="0.922" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">110.3838</Lap>
+<Lap num="5" p="2" et="1175.8826" s1="23.7720" s2="48.4824" s3="34.6603" fuel="0.341" twfl="0.773" twfr="0.804" twrl="0.902" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">106.9147</Lap>
+<Lap num="6" p="2" et="1282.7972" s1="23.9993" s2="49.1157" s3="34.9197" fuel="0.322" twfl="0.725" twfr="0.745" twrl="0.882" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">108.0347</Lap>
+<Lap num="7" p="2" et="1390.8319" s1="24.0138" s2="48.7987" s3="34.9882" fuel="0.298" twfl="0.682" twfr="0.694" twrl="0.863" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry">107.8007</Lap>
+<Lap num="8" p="2" et="1498.6326" s1="23.7413" s2="48.8784" s3="38.3967" fuel="0.278" twfl="0.635" twfr="0.651" twrl="0.839" twrr="0.894" fcompound="0,Dry" rcompound="0,Dry">111.0165</Lap>
+<Lap num="9" p="2" et="1609.6490" s1="27.4166" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="1676.4889" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="1907.2758" fuel="0.431" twfl="0.953" twfr="0.980" twrl="0.867" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="2086.0090" s1="26.4126" s2="48.8950" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>106.9147</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="12"></Swap></Driver>
+<Driver>
+<Name>Bertogucci Alfonso</Name>
+<SteamID>76561198082205712</SteamID>
+<Connected>0</Connected>
+<VehFile>96DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="168.1340" fuel="0.435" twfl="0.969" twfr="0.969" twrl="0.925" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="322.2502" s1="24.4763" s2="48.4617" s3="34.3335" fuel="0.412" twfl="0.941" twfr="0.953" twrl="0.898" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">107.2715</Lap>
+<Lap num="4" p="2" et="429.5218" s1="24.1205" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="475.4828" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="861.4634" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="1087.3280" fuel="0.435" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="3" et="1267.7266" s1="24.2662" s2="49.4188" s3="35.3414" fuel="0.412" twfl="0.933" twfr="0.973" twrl="0.937" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">109.0265</Lap>
+<Lap num="9" p="3" et="1376.7531" s1="24.3666" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="3" et="1437.6649" fuel="0.431" twfl="0.976" twfr="0.980" twrl="0.973" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="3" et="1694.1610" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>107.2715</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="11"></Swap></Driver>
+<Driver>
+<Name>Tomek Zbroja</Name>
+<SteamID>76561199229096702</SteamID>
+<Connected>0</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

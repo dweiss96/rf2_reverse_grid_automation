@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675442103</DateTime>
+<TimeString>2023/02/03 17:35:03</TimeString>
+<Mod>GSR_CUP_231_R1_v4</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\Monza_2021\1.33\layoutMonza.mas</TrackData>
+<TrackLength>5780.6</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675442103</DateTime>
+<TimeString>2023/02/03 17:35:03</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="0.0">Daniel Weiss has entered the race.</Chat>
+<System et="0.0">Daniel Weiss(0) 91.40.241.145 has joined as a participant</System>
+<Command et="11.8">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.8">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="12.0">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Command et="12.0">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="45.8">Daniel Weiss left the race.</Chat>
+<Chat et="288.6">Daniel Weiss has entered the race.</Chat>
+<System et="288.6">Daniel Weiss(1) 91.40.241.145 has joined as a participant</System>
+<System et="288.6">Daniel Weiss returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Command et="293.2">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="293.2">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="293.4">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="293.4">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Command from="Daniel Weiss" nodeid="1" et="553.3">/admin ***</Command>
+<Sent et="553.3">Daniel Weiss has become an administrator</Sent>
+<Command from="Daniel Weiss" nodeid="1" et="582.9">/admin ***</Command>
+<Sent et="582.9">Daniel Weiss is no longer an administrator</Sent>
+<Command from="Daniel Weiss" nodeid="1" et="1079.2">/callvote nextrace</Command>
+<Vote et="1079.2">Daniel Weiss: /callvote nextrace</Vote>
+<Sent et="1079.2">&quot;load next circuit&quot; proposed by Daniel Weiss: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Daniel Weiss</Name>
+<SteamID>76561198060516602</SteamID>
+<Connected>1</Connected>
+<VehFile>96_DAR_96.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DQ</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

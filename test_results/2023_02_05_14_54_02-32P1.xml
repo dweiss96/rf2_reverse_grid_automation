@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675595245</DateTime>
+<TimeString>2023/02/05 12:07:25</TimeString>
+<Mod>GSR_CUP_231_R1_v4</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\Monza_2021\1.33\layoutMonza.mas</TrackData>
+<TrackLength>5780.6</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675595246</DateTime>
+<TimeString>2023/02/05 12:07:26</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="5762.5">Alex Gleizes has entered the race.</Chat>
+<System et="5762.5">Alex Gleizes(31) 90.76.250.200 has joined as a participant</System>
+<Command et="5772.4">/w Alex Gleizes If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="5772.4">&gt; /w Alex Gleizes If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="5772.6">&gt; /w Alex Gleizes germansimracing.de | discord.gg/GSR</Chat>
+<Command et="5772.6">/w Alex Gleizes germansimracing.de | discord.gg/GSR</Command>
+<Score et="6015.0">Alex Gleizes(31) lap=0 point=1 t=-1.000 et=6014.989</Score>
+<Score et="6015.0">Alex Gleizes(31) lap=0 point=2 t=-1.000 et=6014.989</Score>
+<Score et="6015.0">Alex Gleizes(31) lap=1 point=0 t=-1.000 et=6014.989</Score>
+<Chat et="6024.0">Alex Gleizes left the race.</Chat>
+<Chat et="6079.2">Fred Bart has entered the race.</Chat>
+<System et="6079.2">Fred Bart(32) 176.168.165.76 has joined as a participant</System>
+<Chat et="6083.6">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6083.6">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="6083.8">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="6083.8">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="6139.0">Alex Gleizes has entered the race.</Chat>
+<System et="6139.0">Alex Gleizes(33) 90.76.250.200 has joined as a participant</System>
+<System et="6139.0">Alex Gleizes returned with matching vehicle/upgrades: restoring score (1 laps)</System>
+<Command et="6143.4">/w Alex Gleizes If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6143.4">&gt; /w Alex Gleizes If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6143.6">/w Alex Gleizes germansimracing.de | discord.gg/GSR</Command>
+<Chat et="6143.6">&gt; /w Alex Gleizes germansimracing.de | discord.gg/GSR</Chat>
+<Score et="6233.3">Alex Gleizes(33) lap=1 point=1 t=-1.000 et=6233.232</Score>
+<Score et="6271.6">Alex Gleizes(33) lap=1 point=2 t=-1.000 et=6271.570</Score>
+<Score et="6310.3">Alex Gleizes(33) lap=2 point=0 t=-1.000 et=6310.242</Score>
+<Score et="6328.1">Fred Bart(32) lap=0 point=1 t=-1.000 et=6328.114</Score>
+<Score et="6346.6">Alex Gleizes(33) lap=2 point=1 t=-1.000 et=6346.528</Score>
+<Score et="6366.4">Fred Bart(32) lap=0 point=2 t=-1.000 et=6366.377</Score>
+<Score et="6384.0">Alex Gleizes(33) lap=2 point=2 t=-1.000 et=6383.958</Score>
+<Score et="6403.9">Fred Bart(32) lap=1 point=0 t=-1.000 et=6403.879</Score>
+<Score et="6421.2">Alex Gleizes(33) lap=3 point=0 t=-1.000 et=6421.169</Score>
+<Sector et="6439.9">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="6439.9">Fred Bart(32) lap=1 point=1 t=36.018 et=6439.897</Score>
+<Sector et="6439.9">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="6440.0">Alex Gleizes(33) set new best for sector 2</Sector>
+<Sector et="6457.2">Alex Gleizes(33) set new best for sector 2</Sector>
+<Score et="6457.2">Alex Gleizes(33) lap=3 point=1 t=35.991 et=6457.160</Score>
+<Sector et="6457.2">Alex Gleizes(33) set new best for sector 2</Sector>
+<Sector et="6457.2">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="6478.1">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="6478.1">Fred Bart(32) lap=1 point=2 t=74.200 et=6478.080</Score>
+<Sector et="6478.1">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="6478.1">Alex Gleizes(33) set new best for sector 3</Sector>
+<Sector et="6494.8">Alex Gleizes(33) set new best for sector 3</Sector>
+<Score et="6494.8">Alex Gleizes(33) lap=3 point=2 t=73.561 et=6494.730</Score>
+<Sector et="6494.8">Alex Gleizes(33) set new best for sector 3</Sector>
+<Sector et="6494.8">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="6515.0">Fred Bart(32) set new best for sector 1</Sector>
+<Score et="6515.0">Fred Bart(32) lap=2 point=0 t=111.081 et=6514.960</Score>
+<Sector et="6515.0">Fred Bart(32) set new best for sector 1</Sector>
+<Sector et="6515.0">Alex Gleizes(33) set new best for sector 1</Sector>
+<Sector et="6532.1">Alex Gleizes(33) set new best for sector 1</Sector>
+<Score et="6532.1">Alex Gleizes(33) lap=4 point=0 t=110.862 et=6532.031</Score>
+<Sector et="6532.1">Alex Gleizes(33) set new best for sector 1</Sector>
+<Sector et="6532.1">Fred Bart(32) set new best for sector 1</Sector>
+<Score et="6541.0">Alex Gleizes(33) lap=4 point=1 t=-1.000 et=6540.994</Score>
+<Score et="6541.0">Alex Gleizes(33) lap=4 point=2 t=-1.000 et=6540.994</Score>
+<Score et="6541.0">Alex Gleizes(33) lap=5 point=0 t=-1.000 et=6540.994</Score>
+<Sector et="6550.9">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="6550.9">Fred Bart(32) lap=2 point=1 t=35.907 et=6550.868</Score>
+<Sector et="6550.9">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="6550.9">Alex Gleizes(33) set new best for sector 2</Sector>
+<Sector et="6588.5">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="6588.5">Fred Bart(32) lap=2 point=2 t=73.521 et=6588.481</Score>
+<Sector et="6588.5">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="6588.6">Alex Gleizes(33) set new best for sector 3</Sector>
+<Sector et="6625.8">Fred Bart(32) set new best for sector 1</Sector>
+<Score et="6625.8">Fred Bart(32) lap=3 point=0 t=110.786 et=6625.747</Score>
+<Sector et="6625.8">Fred Bart(32) set new best for sector 1</Sector>
+<Sector et="6625.8">Alex Gleizes(33) set new best for sector 1</Sector>
+<Sector et="6661.8">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="6661.8">Fred Bart(32) lap=3 point=1 t=36.061 et=6661.807</Score>
+<Sector et="6661.8">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="6661.9">Alex Gleizes(33) set new best for sector 2</Sector>
+<Score et="6669.2">Alex Gleizes(33) lap=5 point=1 t=-1.000 et=6669.155</Score>
+<Score et="6699.4">Fred Bart(32) lap=3 point=2 t=73.642 et=6699.388</Score>
+<Sector et="6699.4">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="6699.4">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="6699.5">Alex Gleizes(33) set new best for sector 3</Sector>
+<Score et="6706.7">Alex Gleizes(33) lap=5 point=2 t=-1.000 et=6706.693</Score>
+<Sector et="6736.4">Fred Bart(32) set new best for sector 1</Sector>
+<Score et="6736.4">Fred Bart(32) lap=4 point=0 t=110.657 et=6736.404</Score>
+<Sector et="6736.4">Fred Bart(32) set new best for sector 1</Sector>
+<Sector et="6736.5">Alex Gleizes(33) set new best for sector 1</Sector>
+<Score et="6744.2">Alex Gleizes(33) lap=6 point=0 t=-1.000 et=6744.130</Score>
+<Sector et="6772.2">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="6772.2">Fred Bart(32) lap=4 point=1 t=35.771 et=6772.175</Score>
+<Sector et="6772.2">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="6772.2">Alex Gleizes(33) set new best for sector 2</Sector>
+<Sector et="6780.1">Alex Gleizes(33) set new best for sector 2</Sector>
+<Score et="6780.1">Alex Gleizes(33) lap=6 point=1 t=35.933 et=6780.063</Score>
+<Sector et="6780.1">Alex Gleizes(33) set new best for sector 2</Sector>
+<Sector et="6780.1">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="6809.7">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="6809.7">Fred Bart(32) lap=4 point=2 t=73.227 et=6809.631</Score>
+<Sector et="6809.7">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="6809.7">Alex Gleizes(33) set new best for sector 3</Sector>
+<Sector et="6817.1">Alex Gleizes(33) set new best for sector 3</Sector>
+<Score et="6817.1">Alex Gleizes(33) lap=6 point=2 t=72.912 et=6817.042</Score>
+<Sector et="6817.1">Alex Gleizes(33) set new best for sector 3</Sector>
+<Sector et="6817.1">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="6846.8">Fred Bart(32) set new best for sector 1</Sector>
+<Score et="6846.8">Fred Bart(32) lap=5 point=0 t=110.327 et=6846.730</Score>
+<Sector et="6846.8">Fred Bart(32) set new best for sector 1</Sector>
+<Sector et="6846.8">Alex Gleizes(33) set new best for sector 1</Sector>
+<Sector et="6854.4">Alex Gleizes(33) set new best for sector 1</Sector>
+<Score et="6854.4">Alex Gleizes(33) lap=7 point=0 t=110.202 et=6854.332</Score>
+<Sector et="6854.4">Alex Gleizes(33) set new best for sector 1</Sector>
+<Sector et="6854.4">Fred Bart(32) set new best for sector 1</Sector>
+<Sector et="6882.6">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="6882.6">Fred Bart(32) lap=5 point=1 t=35.888 et=6882.619</Score>
+<Sector et="6882.6">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="6882.7">Alex Gleizes(33) set new best for sector 2</Sector>
+<Sector et="6890.3">Alex Gleizes(33) set new best for sector 2</Sector>
+<Score et="6890.3">Alex Gleizes(33) lap=7 point=1 t=35.912 et=6890.244</Score>
+<Sector et="6890.3">Alex Gleizes(33) set new best for sector 2</Sector>
+<Sector et="6890.3">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="6920.1">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="6920.1">Fred Bart(32) lap=5 point=2 t=73.353 et=6920.083</Score>
+<Sector et="6920.1">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="6920.2">Alex Gleizes(33) set new best for sector 3</Sector>
+<Sector et="6927.6">Alex Gleizes(33) set new best for sector 3</Sector>
+<Score et="6927.6">Alex Gleizes(33) lap=7 point=2 t=73.232 et=6927.564</Score>
+<Sector et="6927.6">Alex Gleizes(33) set new best for sector 3</Sector>
+<Sector et="6927.6">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="6957.2">Fred Bart(32) lap=6 point=0 t=110.461 et=6957.192</Score>
+<Score et="6964.8">Alex Gleizes(33) lap=8 point=0 t=-1.000 et=6964.736</Score>
+<Score et="6966.1">Fred Bart(32) lap=6 point=1 t=-1.000 et=6966.061</Score>
+<Score et="6966.1">Fred Bart(32) lap=6 point=2 t=-1.000 et=6966.061</Score>
+<Score et="6966.1">Fred Bart(32) lap=7 point=0 t=-1.000 et=6966.061</Score>
+<Sector et="7000.6">Alex Gleizes(33) set new best for sector 2</Sector>
+<Score et="7000.6">Alex Gleizes(33) lap=8 point=1 t=35.807 et=7000.543</Score>
+<Sector et="7000.6">Alex Gleizes(33) set new best for sector 2</Sector>
+<Sector et="7000.6">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="7024.8">Alex Gleizes(33) lap=8 point=2 t=-1.000 et=7024.783</Score>
+<Score et="7024.8">Alex Gleizes(33) lap=9 point=0 t=-1.000 et=7024.783</Score>
+<Chat et="7059.7">Alex Gleizes left the race.</Chat>
+<Score et="7076.5">Fred Bart(32) lap=7 point=1 t=-1.000 et=7076.503</Score>
+<Score et="7114.5">Fred Bart(32) lap=7 point=2 t=-1.000 et=7114.457</Score>
+<Score et="7151.8">Fred Bart(32) lap=8 point=0 t=-1.000 et=7151.732</Score>
+<Score et="7168.8">Fred Bart(32) lap=8 point=1 t=-1.000 et=7168.728</Score>
+<Score et="7168.8">Fred Bart(32) lap=8 point=2 t=-1.000 et=7168.728</Score>
+<Score et="7168.8">Fred Bart(32) lap=9 point=0 t=-1.000 et=7168.728</Score>
+<Score et="7287.4">Fred Bart(32) lap=9 point=1 t=-1.000 et=7287.390</Score>
+<Score et="7324.9">Fred Bart(32) lap=9 point=2 t=-1.000 et=7324.902</Score>
+<Score et="7362.2">Fred Bart(32) lap=10 point=0 t=-1.000 et=7362.143</Score>
+<Sector et="7398.0">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="7398.0">Fred Bart(32) lap=10 point=1 t=35.838 et=7397.980</Score>
+<Sector et="7398.0">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="7435.9">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="7435.9">Fred Bart(32) lap=10 point=2 t=73.757 et=7435.899</Score>
+<Sector et="7435.9">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="7472.9">Fred Bart(32) lap=11 point=0 t=110.731 et=7472.874</Score>
+<Score et="7491.3">Fred Bart(32) lap=11 point=1 t=-1.000 et=7491.294</Score>
+<Score et="7491.3">Fred Bart(32) lap=11 point=2 t=-1.000 et=7491.294</Score>
+<Score et="7491.3">Fred Bart(32) lap=12 point=0 t=-1.000 et=7491.294</Score>
+<Score et="7572.4">Fred Bart(32) lap=12 point=1 t=-1.000 et=7572.346</Score>
+<Score et="7610.2">Fred Bart(32) lap=12 point=2 t=-1.000 et=7610.160</Score>
+<Score et="7647.9">Fred Bart(32) lap=13 point=0 t=-1.000 et=7647.918</Score>
+<Sector et="7684.2">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="7684.2">Fred Bart(32) lap=13 point=1 t=36.250 et=7684.168</Score>
+<Sector et="7684.2">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="7721.4">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="7721.4">Fred Bart(32) lap=13 point=2 t=73.483 et=7721.401</Score>
+<Sector et="7721.4">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="7758.4">Fred Bart(32) lap=14 point=0 t=110.477 et=7758.396</Score>
+<Sector et="7794.1">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="7794.1">Fred Bart(32) lap=14 point=1 t=35.710 et=7794.105</Score>
+<Sector et="7794.1">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="7831.6">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="7831.6">Fred Bart(32) lap=14 point=2 t=73.152 et=7831.547</Score>
+<Sector et="7831.6">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="7869.0">Fred Bart(32) lap=15 point=0 t=110.585 et=7868.980</Score>
+<Sector et="7904.8">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="7904.8">Fred Bart(32) lap=15 point=1 t=35.770 et=7904.750</Score>
+<Sector et="7904.8">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="7942.5">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="7942.5">Fred Bart(32) lap=15 point=2 t=73.540 et=7942.520</Score>
+<Sector et="7942.5">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="7979.9">Fred Bart(32) lap=16 point=0 t=110.905 et=7979.886</Score>
+<Score et="8005.3">Fred Bart(32) lap=16 point=1 t=-1.000 et=8005.261</Score>
+<Score et="8005.3">Fred Bart(32) lap=16 point=2 t=-1.000 et=8005.261</Score>
+<Score et="8005.3">Fred Bart(32) lap=17 point=0 t=-1.000 et=8005.261</Score>
+<Score et="8260.8">Fred Bart(32) lap=17 point=1 t=-1.000 et=8260.724</Score>
+<Score et="8298.7">Fred Bart(32) lap=17 point=2 t=-1.000 et=8298.629</Score>
+<Score et="8347.3">Fred Bart(32) lap=18 point=0 t=-1.000 et=8347.287</Score>
+<Sector et="8383.0">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="8383.0">Fred Bart(32) lap=18 point=1 t=35.638 et=8382.925</Score>
+<Sector et="8383.0">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="8420.0">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="8420.0">Fred Bart(32) lap=18 point=2 t=72.674 et=8419.961</Score>
+<Sector et="8420.0">Fred Bart(32) set new best for sector 3</Sector>
+<Sector et="8457.0">Fred Bart(32) set new best for sector 1</Sector>
+<Score et="8457.0">Fred Bart(32) lap=19 point=0 t=109.640 et=8456.927</Score>
+<Sector et="8457.0">Fred Bart(32) set new best for sector 1</Sector>
+<Score et="8473.7">Fred Bart(32) lap=19 point=1 t=-1.000 et=8473.643</Score>
+<Score et="8473.7">Fred Bart(32) lap=19 point=2 t=-1.000 et=8473.643</Score>
+<Score et="8473.7">Fred Bart(32) lap=20 point=0 t=-1.000 et=8473.643</Score>
+<Score et="8522.2">Fred Bart(32) lap=20 point=1 t=-1.000 et=8522.217</Score>
+<Score et="8522.2">Fred Bart(32) lap=20 point=2 t=-1.000 et=8522.217</Score>
+<Score et="8522.2">Fred Bart(32) lap=21 point=0 t=-1.000 et=8522.217</Score>
+<Score et="8604.0">Fred Bart(32) lap=21 point=1 t=-1.000 et=8603.992</Score>
+<Score et="8641.6">Fred Bart(32) lap=21 point=2 t=-1.000 et=8641.602</Score>
+<Score et="8679.1">Fred Bart(32) lap=22 point=0 t=-1.000 et=8679.063</Score>
+<Sector et="8714.6">Fred Bart(32) set new best for sector 2</Sector>
+<Score et="8714.6">Fred Bart(32) lap=22 point=1 t=35.513 et=8714.576</Score>
+<Sector et="8714.6">Fred Bart(32) set new best for sector 2</Sector>
+<Sector et="8751.7">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="8751.7">Fred Bart(32) lap=22 point=2 t=72.636 et=8751.699</Score>
+<Sector et="8751.7">Fred Bart(32) set new best for sector 3</Sector>
+<Score et="8788.9">Fred Bart(32) lap=23 point=0 t=109.788 et=8788.852</Score>
+<Score et="8804.9">Fred Bart(32) lap=23 point=1 t=-1.000 et=8804.840</Score>
+<Score et="8804.9">Fred Bart(32) lap=23 point=2 t=-1.000 et=8804.840</Score>
+<Score et="8804.9">Fred Bart(32) lap=24 point=0 t=-1.000 et=8804.840</Score>
+<Chat et="8819.1">Fred Bart left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.161" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="6403.8794" s1="36.0181" s2="38.1821" s3="36.8809" fuel="0.133" twfl="0.980" twfr="0.988" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">111.0811</Lap>
+<Lap num="3" p="1" et="6514.9604" s1="35.9072" s2="37.6138" s3="37.2651" fuel="0.106" twfl="0.969" twfr="0.980" twrl="0.957" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">110.7861</Lap>
+<Lap num="4" p="1" et="6625.7466" s1="36.0605" s2="37.5811" s3="37.0156" fuel="0.075" twfl="0.957" twfr="0.973" twrl="0.941" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">110.6572</Lap>
+<Lap num="5" p="1" et="6736.4038" s1="35.7715" s2="37.4556" s3="37.0996" fuel="0.047" twfl="0.945" twfr="0.965" twrl="0.925" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">110.3267</Lap>
+<Lap num="6" p="2" et="6846.7305" s1="35.8882" s2="37.4644" s3="37.1089" fuel="0.020" twfl="0.933" twfr="0.957" twrl="0.906" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">110.4614</Lap>
+<Lap num="7" p="2" et="6957.1919" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="6966.0610" fuel="0.165" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="7151.7319" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="7168.7275" fuel="0.161" twfl="0.988" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="7362.1426" s1="35.8379" s2="37.9189" s3="36.9741" fuel="0.133" twfl="0.976" twfr="0.984" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">110.7310</Lap>
+<Lap num="12" p="1" et="7472.8735" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="7491.2944" fuel="0.161" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="7647.9185" s1="36.2500" s2="37.2329" s3="36.9941" fuel="0.133" twfl="0.976" twfr="0.988" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">110.4771</Lap>
+<Lap num="15" p="1" et="7758.3955" s1="35.7100" s2="37.4419" s3="37.4331" fuel="0.102" twfl="0.965" twfr="0.980" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">110.5850</Lap>
+<Lap num="16" p="1" et="7868.9805" s1="35.7700" s2="37.7695" s3="37.3657" fuel="0.075" twfl="0.953" twfr="0.973" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">110.9053</Lap>
+<Lap num="17" p="1" et="7979.8857" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="1" et="8005.2612" fuel="0.161" twfl="0.988" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="1" et="8347.2871" s1="35.6377" s2="37.0361" s3="36.9658" fuel="0.133" twfl="0.976" twfr="0.984" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">109.6396</Lap>
+<Lap num="20" p="1" et="8456.9268" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="21" p="1" et="8473.6426" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="1" et="8522.2168" fuel="0.098" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="1" et="8679.0635" s1="35.5127" s2="37.1230" s3="37.1523" fuel="0.071" twfl="0.976" twfr="0.988" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">109.7881</Lap>
+<Lap num="24" p="1" et="8788.8516" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>109.6396</BestLapTime>
+<Laps>24</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="24">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="24"></Swap></Driver>
+<Driver>
+<Name>Alex Gleizes</Name>
+<SteamID>76561198328725494</SteamID>
+<Connected>0</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="--.---" fuel="0.075" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="6310.2417" fuel="0.043" twfl="0.973" twfr="0.988" twrl="0.973" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="6421.1689" s1="35.9907" s2="37.5703" s3="37.3013" fuel="0.016" twfl="0.957" twfr="0.976" twrl="0.957" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">110.8623</Lap>
+<Lap num="5" p="1" et="6532.0313" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="6540.9937" fuel="0.071" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="6744.1304" s1="35.9331" s2="36.9790" s3="37.2896" fuel="0.043" twfl="0.973" twfr="0.984" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">110.2017</Lap>
+<Lap num="8" p="1" et="6854.3320" s1="35.9121" s2="37.3203" fuel="0.012" twfl="0.953" twfr="0.969" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="6964.7363" s1="35.8071" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>110.2017</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="9"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

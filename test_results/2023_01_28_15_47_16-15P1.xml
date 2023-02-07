@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674907561</DateTime>
+<TimeString>2023/01/28 13:06:01</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v2</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674907561</DateTime>
+<TimeString>2023/01/28 13:06:01</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="3315.2">Marcel Wolf has entered the race.</Chat>
+<System et="3315.2">Marcel Wolf(14) 78.31.198.205 has joined as a participant</System>
+<Chat et="3322.0">&gt; /w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="3322.0">/w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="3322.2">/w Marcel Wolf germansimracing.de | discord.gg/GSR</Command>
+<Chat et="3322.2">&gt; /w Marcel Wolf germansimracing.de | discord.gg/GSR</Chat>
+<Score et="3523.1">Marcel Wolf(14) lap=0 point=1 t=-1.000 et=3523.021</Score>
+<Score et="3570.4">Marcel Wolf(14) lap=0 point=2 t=-1.000 et=3570.362</Score>
+<Score et="3603.8">Marcel Wolf(14) lap=1 point=0 t=-1.000 et=3603.812</Score>
+<Incident et="3610.1">Marcel Wolf(14) reported contact (41.51) with Sign</Incident>
+<Incident et="3610.1">Marcel Wolf(14) reported contact (65.35) with Sign</Incident>
+<Incident et="3610.1">Marcel Wolf(14) reported contact (24.32) with Sign</Incident>
+<Incident et="3610.1">Marcel Wolf(14) reported contact (93.85) with Sign</Incident>
+<Incident et="3610.1">Marcel Wolf(14) reported contact (23.84) with Sign</Incident>
+<Incident et="3610.1">Marcel Wolf(14) reported contact (15.45) with Sign</Incident>
+<Incident et="3610.2">Marcel Wolf(14) reported contact (14.08) with Sign</Incident>
+<Score et="3626.5">Marcel Wolf(14) lap=1 point=1 t=-1.000 et=3626.513</Score>
+<Score et="3673.6">Marcel Wolf(14) lap=1 point=2 t=-1.000 et=3673.529</Score>
+<Score et="3707.1">Marcel Wolf(14) lap=2 point=0 t=-1.000 et=3707.020</Score>
+<Sector et="3729.9">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="3729.9">Marcel Wolf(14) lap=2 point=1 t=22.882 et=3729.903</Score>
+<Sector et="3729.9">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="3787.4">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="3787.4">Marcel Wolf(14) lap=2 point=2 t=80.325 et=3787.345</Score>
+<Sector et="3787.4">Marcel Wolf(14) set new best for sector 3</Sector>
+<Sector et="3820.9">Marcel Wolf(14) set new best for sector 1</Sector>
+<Score et="3820.9">Marcel Wolf(14) lap=3 point=0 t=113.888 et=3820.908</Score>
+<Sector et="3820.9">Marcel Wolf(14) set new best for sector 1</Sector>
+<Score et="3843.5">Marcel Wolf(14) lap=3 point=1 t=-1.000 et=3843.460</Score>
+<Score et="3890.1">Marcel Wolf(14) lap=3 point=2 t=-1.000 et=3890.108</Score>
+<Score et="3935.6">Marcel Wolf(14) lap=4 point=0 t=-1.000 et=3935.607</Score>
+<Score et="3949.5">Marcel Wolf(14) lap=4 point=1 t=-1.000 et=3949.487</Score>
+<Score et="3949.5">Marcel Wolf(14) lap=4 point=2 t=-1.000 et=3949.487</Score>
+<Score et="3949.5">Marcel Wolf(14) lap=5 point=0 t=-1.000 et=3949.487</Score>
+<Score et="3991.4">Marcel Wolf(14) lap=5 point=1 t=-1.000 et=3991.369</Score>
+<Score et="4038.7">Marcel Wolf(14) lap=5 point=2 t=-1.000 et=4038.711</Score>
+<Score et="4072.1">Marcel Wolf(14) lap=6 point=0 t=-1.000 et=4072.073</Score>
+<Sector et="4094.6">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="4094.6">Marcel Wolf(14) lap=6 point=1 t=22.518 et=4094.591</Score>
+<Sector et="4094.6">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="4141.7">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4141.7">Marcel Wolf(14) lap=6 point=2 t=69.621 et=4141.693</Score>
+<Sector et="4141.7">Marcel Wolf(14) set new best for sector 3</Sector>
+<Sector et="4175.2">Marcel Wolf(14) set new best for sector 1</Sector>
+<Score et="4175.2">Marcel Wolf(14) lap=7 point=0 t=103.122 et=4175.194</Score>
+<Sector et="4175.2">Marcel Wolf(14) set new best for sector 1</Sector>
+<Score et="4198.4">Marcel Wolf(14) lap=7 point=1 t=-1.000 et=4198.353</Score>
+<Score et="4246.8">Marcel Wolf(14) lap=7 point=2 t=-1.000 et=4246.759</Score>
+<Score et="4280.1">Marcel Wolf(14) lap=8 point=0 t=-1.000 et=4280.020</Score>
+<Sector et="4302.7">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="4302.7">Marcel Wolf(14) lap=8 point=1 t=22.656 et=4302.676</Score>
+<Sector et="4302.7">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="4349.5">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4349.5">Marcel Wolf(14) lap=8 point=2 t=69.441 et=4349.461</Score>
+<Sector et="4349.5">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4388.8">Marcel Wolf(14) lap=9 point=0 t=108.798 et=4388.818</Score>
+<Sector et="4412.2">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="4412.2">Marcel Wolf(14) lap=9 point=1 t=23.334 et=4412.152</Score>
+<Sector et="4412.2">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="4459.7">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4459.7">Marcel Wolf(14) lap=9 point=2 t=70.847 et=4459.665</Score>
+<Sector et="4459.7">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4493.0">Marcel Wolf(14) lap=10 point=0 t=104.164 et=4492.982</Score>
+<Sector et="4515.8">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="4515.8">Marcel Wolf(14) lap=10 point=1 t=22.768 et=4515.750</Score>
+<Sector et="4515.8">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="4563.0">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4563.0">Marcel Wolf(14) lap=10 point=2 t=70.016 et=4562.998</Score>
+<Sector et="4563.0">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4596.9">Marcel Wolf(14) lap=11 point=0 t=103.877 et=4596.859</Score>
+<Sector et="4629.7">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="4629.7">Marcel Wolf(14) lap=11 point=1 t=32.780 et=4629.639</Score>
+<Sector et="4629.7">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="4678.8">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4678.8">Marcel Wolf(14) lap=11 point=2 t=81.918 et=4678.778</Score>
+<Sector et="4678.8">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="4712.8">Marcel Wolf(14) lap=12 point=0 t=115.874 et=4712.733</Score>
+<Score et="4735.7">Marcel Wolf(14) lap=12 point=1 t=-1.000 et=4735.664</Score>
+<Incident et="4770.1">Marcel Wolf(14) reported contact (1880.75) with Immovable</Incident>
+<Incident et="4770.1">Marcel Wolf(14) reported contact (4437.62) with Immovable</Incident>
+<Incident et="4770.1">Marcel Wolf(14) reported contact (5562.82) with Immovable</Incident>
+<Incident et="4770.1">Marcel Wolf(14) reported contact (1283.44) with Immovable</Incident>
+<Incident et="4770.1">Marcel Wolf(14) reported contact (3208.69) with Immovable</Incident>
+<Incident et="4770.1">Marcel Wolf(14) reported contact (1720.57) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (2210.14) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1201.92) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1177.48) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1360.57) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1134.05) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1056.12) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (51.51) with Wing</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (44.25) with Wing</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (89.03) with Wing</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1625.27) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1655.32) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1412.51) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (102.45) with Wing</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (1502.12) with Immovable</Incident>
+<Incident et="4770.3">Marcel Wolf(14) reported contact (26.09) with Wing</Incident>
+<Incident et="4770.4">Marcel Wolf(14) reported contact (37.80) with Wing</Incident>
+<Incident et="4770.4">Marcel Wolf(14) reported contact (18.63) with Wing</Incident>
+<Incident et="4770.7">Marcel Wolf(14) reported contact (17.35) with Wing</Incident>
+<Incident et="4770.9">Marcel Wolf(14) reported contact (15.53) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (17.94) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (27.21) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (49.43) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (47.80) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (31.71) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (46.20) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (62.08) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (43.57) with Wing</Incident>
+<Incident et="4771.0">Marcel Wolf(14) reported contact (18.38) with Wing</Incident>
+<Incident et="4771.1">Marcel Wolf(14) reported contact (1228.26) with Immovable</Incident>
+<Incident et="4771.1">Marcel Wolf(14) reported contact (1216.62) with Immovable</Incident>
+<Incident et="4771.1">Marcel Wolf(14) reported contact (26.61) with Wing</Incident>
+<Incident et="4771.1">Marcel Wolf(14) reported contact (40.25) with Wing</Incident>
+<Incident et="4771.1">Marcel Wolf(14) reported contact (79.83) with Wing</Incident>
+<Incident et="4771.1">Marcel Wolf(14) reported contact (52.53) with Wing</Incident>
+<Incident et="4771.1">Marcel Wolf(14) reported contact (22.12) with Wing</Incident>
+<Incident et="4771.4">Marcel Wolf(14) reported contact (1819.99) with Immovable</Incident>
+<Incident et="4771.4">Marcel Wolf(14) reported contact (19.25) with Wing</Incident>
+<Incident et="4771.6">Marcel Wolf(14) reported contact (1135.16) with Immovable</Incident>
+<Incident et="4771.9">Marcel Wolf(14) reported contact (1088.91) with Immovable</Incident>
+<Incident et="4771.9">Marcel Wolf(14) reported contact (1060.09) with Immovable</Incident>
+<Incident et="4774.5">Marcel Wolf(14) reported contact (1976.70) with Immovable</Incident>
+<Incident et="4774.5">Marcel Wolf(14) reported contact (1941.81) with Immovable</Incident>
+<Incident et="4774.5">Marcel Wolf(14) reported contact (1178.84) with Immovable</Incident>
+<Score et="4785.8">Marcel Wolf(14) lap=12 point=2 t=-1.000 et=4785.802</Score>
+<Score et="4785.8">Marcel Wolf(14) lap=13 point=0 t=-1.000 et=4785.802</Score>
+<Score et="4940.2">Marcel Wolf(14) lap=13 point=1 t=-1.000 et=4940.195</Score>
+<Chat et="4942.6">Alex Rott has entered the race.</Chat>
+<System et="4942.6">Alex Rott(15) 91.51.52.224 has joined as a participant</System>
+<Chat et="4943.6">&gt; /w Alex Rott If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="4943.6">/w Alex Rott If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="4943.8">/w Alex Rott germansimracing.de | discord.gg/GSR</Command>
+<Chat et="4943.8">&gt; /w Alex Rott germansimracing.de | discord.gg/GSR</Chat>
+<Score et="4988.5">Marcel Wolf(14) lap=13 point=2 t=-1.000 et=4988.480</Score>
+<Score et="5024.7">Marcel Wolf(14) lap=14 point=0 t=-1.000 et=5024.708</Score>
+<Sector et="5047.6">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="5047.6">Marcel Wolf(14) lap=14 point=1 t=22.874 et=5047.583</Score>
+<Sector et="5047.6">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="5047.6">Alex Rott(15) set new best for sector 2</Sector>
+<Score et="5048.8">Alex Rott(15) lap=0 point=1 t=-1.000 et=5048.768</Score>
+<Sector et="5095.0">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5095.0">Marcel Wolf(14) lap=14 point=2 t=70.231 et=5094.939</Score>
+<Sector et="5095.0">Marcel Wolf(14) set new best for sector 3</Sector>
+<Sector et="5095.0">Alex Rott(15) set new best for sector 3</Sector>
+<Score et="5102.0">Alex Rott(15) lap=0 point=2 t=-1.000 et=5101.943</Score>
+<Score et="5127.9">Marcel Wolf(14) lap=15 point=0 t=103.161 et=5127.870</Score>
+<Score et="5137.6">Alex Rott(15) lap=1 point=0 t=-1.000 et=5137.586</Score>
+<Sector et="5150.5">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="5150.5">Marcel Wolf(14) lap=15 point=1 t=22.594 et=5150.463</Score>
+<Sector et="5150.5">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="5150.5">Alex Rott(15) set new best for sector 2</Sector>
+<Sector et="5162.3">Alex Rott(15) set new best for sector 2</Sector>
+<Score et="5162.3">Alex Rott(15) lap=1 point=1 t=24.658 et=5162.244</Score>
+<Sector et="5162.3">Alex Rott(15) set new best for sector 2</Sector>
+<Sector et="5162.3">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="5197.4">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5197.4">Marcel Wolf(14) lap=15 point=2 t=69.522 et=5197.392</Score>
+<Sector et="5197.4">Marcel Wolf(14) set new best for sector 3</Sector>
+<Sector et="5197.4">Alex Rott(15) set new best for sector 3</Sector>
+<Sector et="5213.8">Alex Rott(15) set new best for sector 3</Sector>
+<Score et="5213.8">Alex Rott(15) lap=1 point=2 t=76.246 et=5213.832</Score>
+<Sector et="5213.8">Alex Rott(15) set new best for sector 3</Sector>
+<Sector et="5213.9">Marcel Wolf(14) set new best for sector 3</Sector>
+<Sector et="5230.2">Marcel Wolf(14) set new best for sector 1</Sector>
+<Score et="5230.2">Marcel Wolf(14) lap=16 point=0 t=102.269 et=5230.138</Score>
+<Sector et="5230.2">Marcel Wolf(14) set new best for sector 1</Sector>
+<Sector et="5230.2">Alex Rott(15) set new best for sector 1</Sector>
+<Sector et="5250.4">Alex Rott(15) set new best for sector 1</Sector>
+<Score et="5250.4">Alex Rott(15) lap=2 point=0 t=112.766 et=5250.352</Score>
+<Sector et="5250.4">Alex Rott(15) set new best for sector 1</Sector>
+<Sector et="5250.4">Marcel Wolf(14) set new best for sector 1</Sector>
+<Sector et="5252.7">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="5252.7">Marcel Wolf(14) lap=16 point=1 t=22.570 et=5252.708</Score>
+<Sector et="5252.7">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="5252.8">Alex Rott(15) set new best for sector 2</Sector>
+<Sector et="5275.3">Alex Rott(15) set new best for sector 2</Sector>
+<Score et="5275.3">Alex Rott(15) lap=2 point=1 t=24.910 et=5275.262</Score>
+<Sector et="5275.3">Alex Rott(15) set new best for sector 2</Sector>
+<Sector et="5275.3">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="5299.6">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5299.6">Marcel Wolf(14) lap=16 point=2 t=69.419 et=5299.557</Score>
+<Sector et="5299.6">Marcel Wolf(14) set new best for sector 3</Sector>
+<Sector et="5299.6">Alex Rott(15) set new best for sector 3</Sector>
+<Incident et="5313.0">Alex Rott(15) reported contact (3570.55) with Immovable</Incident>
+<Incident et="5313.0">Alex Rott(15) reported contact (3144.13) with Immovable</Incident>
+<Incident et="5313.0">Alex Rott(15) reported contact (3146.25) with Immovable</Incident>
+<Incident et="5313.0">Alex Rott(15) reported contact (1952.62) with Immovable</Incident>
+<Incident et="5313.0">Alex Rott(15) reported contact (1572.68) with Immovable</Incident>
+<Incident et="5313.0">Alex Rott(15) reported contact (1692.00) with Immovable</Incident>
+<Incident et="5313.1">Alex Rott(15) reported contact (1269.26) with Immovable</Incident>
+<Incident et="5313.1">Alex Rott(15) reported contact (1113.44) with Immovable</Incident>
+<Score et="5332.7">Marcel Wolf(14) lap=17 point=0 t=102.538 et=5332.676</Score>
+<Sector et="5343.3">Alex Rott(15) set new best for sector 3</Sector>
+<Score et="5343.3">Alex Rott(15) lap=2 point=2 t=92.914 et=5343.266</Score>
+<Sector et="5343.3">Alex Rott(15) set new best for sector 3</Sector>
+<Sector et="5343.3">Marcel Wolf(14) set new best for sector 3</Sector>
+<Sector et="5355.1">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="5355.1">Marcel Wolf(14) lap=17 point=1 t=22.442 et=5355.118</Score>
+<Sector et="5355.1">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="5355.2">Alex Rott(15) set new best for sector 2</Sector>
+<Score et="5382.0">Alex Rott(15) lap=3 point=0 t=131.654 et=5382.005</Score>
+<Score et="5402.0">Marcel Wolf(14) lap=17 point=2 t=-1.000 et=5402.015</Score>
+<Sector et="5407.1">Alex Rott(15) set new best for sector 2</Sector>
+<Score et="5407.1">Alex Rott(15) lap=3 point=1 t=25.065 et=5407.071</Score>
+<Sector et="5407.1">Alex Rott(15) set new best for sector 2</Sector>
+<Sector et="5407.1">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="5435.6">Marcel Wolf(14) lap=18 point=0 t=-1.000 et=5435.544</Score>
+<Incident et="5456.1">Alex Rott(15) reported contact (5417.14) with Immovable</Incident>
+<Incident et="5456.1">Alex Rott(15) reported contact (4791.01) with Immovable</Incident>
+<Incident et="5456.1">Alex Rott(15) reported contact (4131.52) with Immovable</Incident>
+<Incident et="5456.1">Alex Rott(15) reported contact (2560.01) with Immovable</Incident>
+<Incident et="5456.1">Alex Rott(15) reported contact (2234.39) with Immovable</Incident>
+<Incident et="5456.2">Alex Rott(15) reported contact (1662.30) with Immovable</Incident>
+<Incident et="5456.2">Alex Rott(15) reported contact (1471.94) with Immovable</Incident>
+<Incident et="5456.2">Alex Rott(15) reported contact (1158.31) with Immovable</Incident>
+<Score et="5458.0">Marcel Wolf(14) lap=18 point=1 t=-1.000 et=5457.981</Score>
+<Score et="5460.9">Alex Rott(15) lap=3 point=2 t=-1.000 et=5460.903</Score>
+<Score et="5460.9">Alex Rott(15) lap=4 point=0 t=-1.000 et=5460.903</Score>
+<Chat et="5469.2">Alex Rott left the race.</Chat>
+<Score et="5505.0">Marcel Wolf(14) lap=18 point=2 t=-1.000 et=5505.010</Score>
+<Score et="5538.4">Marcel Wolf(14) lap=19 point=0 t=-1.000 et=5538.342</Score>
+<Score et="5563.2">Marcel Wolf(14) lap=19 point=1 t=-1.000 et=5563.127</Score>
+<Sector et="5612.5">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5612.5">Marcel Wolf(14) lap=19 point=2 t=74.101 et=5612.443</Score>
+<Sector et="5612.5">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5646.8">Marcel Wolf(14) lap=20 point=0 t=108.445 et=5646.787</Score>
+<Sector et="5670.2">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="5670.2">Marcel Wolf(14) lap=20 point=1 t=23.423 et=5670.209</Score>
+<Sector et="5670.2">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="5718.0">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5718.0">Marcel Wolf(14) lap=20 point=2 t=71.155 et=5717.942</Score>
+<Sector et="5718.0">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5752.0">Marcel Wolf(14) lap=21 point=0 t=105.174 et=5751.960</Score>
+<Sector et="5775.1">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="5775.1">Marcel Wolf(14) lap=21 point=1 t=23.159 et=5775.120</Score>
+<Sector et="5775.1">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="5823.2">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5823.2">Marcel Wolf(14) lap=21 point=2 t=71.216 et=5823.177</Score>
+<Sector et="5823.2">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="5857.9">Marcel Wolf(14) lap=22 point=0 t=105.920 et=5857.881</Score>
+<Score et="5882.1">Marcel Wolf(14) lap=22 point=1 t=-1.000 et=5882.079</Score>
+<Score et="5931.2">Marcel Wolf(14) lap=22 point=2 t=-1.000 et=5931.212</Score>
+<Score et="5965.0">Marcel Wolf(14) lap=23 point=0 t=-1.000 et=5964.956</Score>
+<Incident et="5973.2">Marcel Wolf(14) reported contact (7752.77) with Immovable</Incident>
+<Sector et="5973.2">Marcel Wolf(14) reports new suspension damage</Sector>
+<Incident et="5973.2">Marcel Wolf(14) reported contact (6013.51) with Immovable</Incident>
+<Incident et="5973.3">Marcel Wolf(14) reported contact (4659.92) with Immovable</Incident>
+<Incident et="5973.3">Marcel Wolf(14) reported contact (3695.32) with Immovable</Incident>
+<Incident et="5973.3">Marcel Wolf(14) reported contact (2707.66) with Immovable</Incident>
+<Incident et="5973.3">Marcel Wolf(14) reported contact (1513.94) with Immovable</Incident>
+<Incident et="5973.3">Marcel Wolf(14) reported contact (2467.58) with Immovable</Incident>
+<Incident et="5973.3">Marcel Wolf(14) reported contact (1621.74) with Immovable</Incident>
+<Incident et="5973.6">Marcel Wolf(14) reported contact (1184.91) with Immovable</Incident>
+<Incident et="5974.3">Marcel Wolf(14) reported contact (1326.20) with Immovable</Incident>
+<Score et="5984.4">Marcel Wolf(14) lap=23 point=1 t=-1.000 et=5984.424</Score>
+<Score et="5984.4">Marcel Wolf(14) lap=23 point=2 t=-1.000 et=5984.424</Score>
+<Score et="5984.4">Marcel Wolf(14) lap=24 point=0 t=-1.000 et=5984.424</Score>
+<Score et="6128.2">Marcel Wolf(14) lap=24 point=1 t=-1.000 et=6128.218</Score>
+<Score et="6177.0">Marcel Wolf(14) lap=24 point=2 t=-1.000 et=6177.020</Score>
+<Score et="6210.8">Marcel Wolf(14) lap=25 point=0 t=-1.000 et=6210.723</Score>
+<Score et="6233.9">Marcel Wolf(14) lap=25 point=1 t=-1.000 et=6233.899</Score>
+<Incident et="6263.6">Marcel Wolf(14) reported contact (1603.73) with Immovable</Incident>
+<Incident et="6263.6">Marcel Wolf(14) reported contact (1433.96) with Immovable</Incident>
+<Incident et="6263.7">Marcel Wolf(14) reported contact (1043.15) with Immovable</Incident>
+<Score et="6270.6">Marcel Wolf(14) lap=25 point=2 t=-1.000 et=6270.555</Score>
+<Score et="6270.6">Marcel Wolf(14) lap=26 point=0 t=-1.000 et=6270.555</Score>
+<Score et="6657.1">Marcel Wolf(14) lap=26 point=1 t=-1.000 et=6657.043</Score>
+<Score et="6706.7">Marcel Wolf(14) lap=26 point=2 t=-1.000 et=6706.657</Score>
+<Score et="6741.4">Marcel Wolf(14) lap=27 point=0 t=-1.000 et=6741.326</Score>
+<Sector et="6764.1">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="6764.1">Marcel Wolf(14) lap=27 point=1 t=22.699 et=6764.025</Score>
+<Sector et="6764.1">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="6810.8">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="6810.8">Marcel Wolf(14) lap=27 point=2 t=69.444 et=6810.770</Score>
+<Sector et="6810.8">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="6843.9">Marcel Wolf(14) lap=28 point=0 t=102.562 et=6843.887</Score>
+<Score et="6866.4">Marcel Wolf(14) lap=28 point=1 t=-1.000 et=6866.364</Score>
+<Score et="6912.9">Marcel Wolf(14) lap=28 point=2 t=-1.000 et=6912.856</Score>
+<Score et="6945.8">Marcel Wolf(14) lap=29 point=0 t=-1.000 et=6945.784</Score>
+<Sector et="6968.3">Marcel Wolf(14) set new best for sector 2</Sector>
+<Score et="6968.3">Marcel Wolf(14) lap=29 point=1 t=22.520 et=6968.303</Score>
+<Sector et="6968.3">Marcel Wolf(14) set new best for sector 2</Sector>
+<Sector et="7014.8">Marcel Wolf(14) set new best for sector 3</Sector>
+<Score et="7014.8">Marcel Wolf(14) lap=29 point=2 t=68.963 et=7014.747</Score>
+<Sector et="7014.8">Marcel Wolf(14) set new best for sector 3</Sector>
+<Sector et="7048.0">Marcel Wolf(14) set new best for sector 1</Sector>
+<Score et="7048.0">Marcel Wolf(14) lap=30 point=0 t=102.153 et=7047.937</Score>
+<Sector et="7048.0">Marcel Wolf(14) set new best for sector 1</Sector>
+<Score et="7070.3">Marcel Wolf(14) lap=30 point=1 t=-1.000 et=7070.318</Score>
+<Incident et="7092.9">Marcel Wolf(14) reported contact (4018.53) with Immovable</Incident>
+<Sector et="7092.9">Marcel Wolf(14) reports new suspension damage</Sector>
+<Incident et="7092.9">Marcel Wolf(14) reported contact (2362.92) with Immovable</Incident>
+<Incident et="7092.9">Marcel Wolf(14) reported contact (1323.65) with Immovable</Incident>
+<Score et="7099.1">Marcel Wolf(14) lap=30 point=2 t=-1.000 et=7099.106</Score>
+<Score et="7099.1">Marcel Wolf(14) lap=31 point=0 t=-1.000 et=7099.106</Score>
+<Chat et="7105.7">Marcel Wolf left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Marcel Wolf</Name>
+<SteamID>76561197979977963</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="3603.8123" fuel="0.408" twfl="0.973" twfr="0.984" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="3707.0203" s1="22.8823" s2="57.4426" s3="33.5627" fuel="0.384" twfl="0.953" twfr="0.973" twrl="0.914" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">113.8877</Lap>
+<Lap num="4" p="1" et="3820.9080" fuel="0.361" twfl="0.918" twfr="0.965" twrl="0.812" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="3935.6069" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="3949.4873" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="4072.0725" s1="22.5183" s2="47.1025" s3="33.5010" fuel="0.408" twfl="0.973" twfr="0.980" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.1218</Lap>
+<Lap num="8" p="1" et="4175.1943" fuel="0.388" twfl="0.953" twfr="0.976" twrl="0.929" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="4280.0200" s1="22.6558" s2="46.7852" s3="39.3574" fuel="0.365" twfl="0.925" twfr="0.961" twrl="0.871" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">108.7983</Lap>
+<Lap num="10" p="1" et="4388.8184" s1="23.3340" s2="47.5127" s3="33.3174" fuel="0.341" twfl="0.914" twfr="0.953" twrl="0.843" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry">104.1641</Lap>
+<Lap num="11" p="1" et="4492.9824" s1="22.7681" s2="47.2476" s3="33.8613" fuel="0.318" twfl="0.898" twfr="0.949" twrl="0.816" twrr="0.894" fcompound="0,Dry" rcompound="0,Dry">103.8770</Lap>
+<Lap num="12" p="1" et="4596.8594" s1="32.7798" s2="49.1387" s3="33.9556" fuel="0.294" twfl="0.882" twfr="0.937" twrl="0.776" twrr="0.875" fcompound="0,Dry" rcompound="0,Dry">115.8740</Lap>
+<Lap num="13" p="1" et="4712.7334" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="4785.8022" fuel="0.431" twfl="0.992" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="5024.7085" s1="22.8740" s2="47.3569" s3="32.9302" fuel="0.412" twfl="0.976" twfr="0.984" twrl="0.965" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.1611</Lap>
+<Lap num="16" p="1" et="5127.8696" s1="22.5938" s2="46.9287" s3="32.7461" fuel="0.388" twfl="0.961" twfr="0.976" twrl="0.937" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">102.2686</Lap>
+<Lap num="17" p="1" et="5230.1382" s1="22.5698" s2="46.8491" s3="33.1191" fuel="0.365" twfl="0.945" twfr="0.969" twrl="0.906" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">102.5381</Lap>
+<Lap num="18" p="1" et="5332.6763" s1="22.4419" fuel="0.341" twfl="0.929" twfr="0.961" twrl="0.875" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="1" et="5435.5439" fuel="0.318" twfl="0.914" twfr="0.953" twrl="0.851" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="1" et="5538.3418" fuel="0.298" twfl="0.902" twfr="0.945" twrl="0.820" twrr="0.886" fcompound="0,Dry" rcompound="0,Dry">108.4448</Lap>
+<Lap num="21" p="1" et="5646.7866" s1="23.4229" s2="47.7324" s3="34.0186" fuel="0.275" twfl="0.890" twfr="0.941" twrl="0.796" twrr="0.871" fcompound="0,Dry" rcompound="0,Dry">105.1738</Lap>
+<Lap num="22" p="1" et="5751.9604" s1="23.1592" s2="48.0571" s3="34.7041" fuel="0.251" twfl="0.878" twfr="0.933" twrl="0.769" twrr="0.855" fcompound="0,Dry" rcompound="0,Dry">105.9204</Lap>
+<Lap num="23" p="1" et="5857.8809" fuel="0.231" twfl="0.867" twfr="0.925" twrl="0.745" twrr="0.839" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="24" p="1" et="5964.9561" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="1" et="5984.4243" fuel="0.431" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="1" et="6210.7227" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="27" p="1" et="6270.5547" fuel="0.431" twfl="0.996" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="28" p="1" et="6741.3257" s1="22.6992" s2="46.7446" s3="33.1177" fuel="0.412" twfl="0.976" twfr="0.984" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.5615</Lap>
+<Lap num="29" p="1" et="6843.8872" fuel="0.388" twfl="0.961" twfr="0.973" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="30" p="1" et="6945.7837" s1="22.5195" s2="46.4434" s3="33.1899" fuel="0.365" twfl="0.945" twfr="0.961" twrl="0.918" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">102.1528</Lap>
+<Lap num="31" p="1" et="7047.9365" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.1528</BestLapTime>
+<Laps>31</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="31">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="31"></Swap></Driver>
+<Driver>
+<Name>Alex Rott</Name>
+<SteamID>76561198073577577</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.431" twfl="0.969" twfr="0.969" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="5137.5859" s1="24.6582" s2="51.5879" s3="36.5195" fuel="0.408" twfl="0.906" twfr="0.949" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">112.7656</Lap>
+<Lap num="3" p="2" et="5250.3516" s1="24.9102" s2="68.0039" s3="38.7397" fuel="0.384" twfl="0.886" twfr="0.871" twrl="0.929" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">131.6538</Lap>
+<Lap num="4" p="2" et="5382.0054" s1="25.0654" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>112.7656</BestLapTime>
+<Laps>4</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="4"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

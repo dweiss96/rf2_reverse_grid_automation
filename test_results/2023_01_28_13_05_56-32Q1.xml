@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674896338</DateTime>
+<TimeString>2023/01/28 09:58:58</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v2</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1674906421</DateTime>
+<TimeString>2023/01/28 12:47:01</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>20</Minutes>
+<Stream>
+<Chat et="10.8">&gt; /w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.0">&gt; /w Sven Heide germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.0">/w Sven Heide germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.2">&gt; /w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.2">/w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.4">&gt; /w Torsten Spindler germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.4">/w Torsten Spindler germansimracing.de | discord.gg/GSR</Command>
+<Score et="85.3">Torsten Spindler(13) lap=0 point=1 t=-1.000 et=85.285</Score>
+<Score et="133.2">Torsten Spindler(13) lap=0 point=2 t=-1.000 et=133.152</Score>
+<Score et="167.3">Torsten Spindler(13) lap=1 point=0 t=-1.000 et=167.281</Score>
+<Score et="190.0">Torsten Spindler(13) lap=1 point=1 t=22.718 et=189.999</Score>
+<Sector et="190.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="190.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="190.0">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="236.6">Torsten Spindler(13) lap=1 point=2 t=69.308 et=236.589</Score>
+<Sector et="236.6">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="236.6">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="236.6">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="269.7">Torsten Spindler(13) lap=2 point=0 t=102.391 et=269.673</Score>
+<Sector et="269.7">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="269.7">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="269.7">Sven Heide(12) set new best for sector 1</Sector>
+<Incident et="275.9">Torsten Spindler(13) reported contact (35.59) with Sign</Incident>
+<Incident et="275.9">Torsten Spindler(13) reported contact (24.42) with Sign</Incident>
+<Incident et="275.9">Torsten Spindler(13) reported contact (25.83) with Sign</Incident>
+<Score et="292.3">Torsten Spindler(13) lap=2 point=1 t=22.589 et=292.262</Score>
+<Sector et="292.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="292.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="292.3">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="339.4">Torsten Spindler(13) lap=2 point=2 t=-1.000 et=339.389</Score>
+<Score et="373.2">Torsten Spindler(13) lap=3 point=0 t=103.493 et=373.166</Score>
+<Score et="397.0">Torsten Spindler(13) lap=3 point=1 t=-1.000 et=396.953</Score>
+<Score et="445.3">Torsten Spindler(13) lap=3 point=2 t=-1.000 et=445.248</Score>
+<Score et="479.5">Torsten Spindler(13) lap=4 point=0 t=-1.000 et=479.442</Score>
+<Score et="502.3">Torsten Spindler(13) lap=4 point=1 t=22.849 et=502.291</Score>
+<Sector et="502.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="502.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="502.3">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="549.5">Torsten Spindler(13) lap=4 point=2 t=70.035 et=549.478</Score>
+<Sector et="549.5">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="549.5">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="549.5">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="583.4">Torsten Spindler(13) lap=5 point=0 t=103.941 et=583.383</Score>
+<Sector et="606.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="606.4">Torsten Spindler(13) lap=5 point=1 t=23.001 et=606.384</Score>
+<Sector et="606.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="606.4">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="656.2">Torsten Spindler(13) lap=5 point=2 t=-1.000 et=656.209</Score>
+<Score et="656.2">Torsten Spindler(13) lap=6 point=0 t=-1.000 et=656.209</Score>
+<Score et="709.3">Torsten Spindler(13) lap=6 point=1 t=-1.000 et=709.312</Score>
+<Score et="756.8">Torsten Spindler(13) lap=6 point=2 t=-1.000 et=756.808</Score>
+<Score et="790.6">Torsten Spindler(13) lap=7 point=0 t=-1.000 et=790.564</Score>
+<Score et="813.1">Torsten Spindler(13) lap=7 point=1 t=22.498 et=813.062</Score>
+<Sector et="813.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="813.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="813.1">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="859.9">Torsten Spindler(13) lap=7 point=2 t=69.295 et=859.858</Score>
+<Sector et="859.9">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="859.9">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="859.9">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="894.3">Torsten Spindler(13) lap=8 point=0 t=103.692 et=894.255</Score>
+<Score et="917.0">Torsten Spindler(13) lap=8 point=1 t=22.722 et=916.978</Score>
+<Sector et="917.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="917.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="917.0">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="964.1">Torsten Spindler(13) lap=8 point=2 t=69.785 et=964.041</Score>
+<Sector et="964.1">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="964.1">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="964.1">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="997.9">Torsten Spindler(13) lap=9 point=0 t=103.647 et=997.903</Score>
+<Score et="1020.5">Torsten Spindler(13) lap=9 point=1 t=22.585 et=1020.488</Score>
+<Sector et="1020.5">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="1020.5">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="1020.5">Sven Heide(12) set new best for sector 2</Sector>
+<Chat et="1037.8">Sven Heide left the race.</Chat>
+<Score et="1068.4">Torsten Spindler(13) lap=9 point=2 t=-1.000 et=1068.338</Score>
+<Score et="1102.3">Torsten Spindler(13) lap=10 point=0 t=104.398 et=1102.301</Score>
+<Score et="1120.1">Torsten Spindler(13) lap=10 point=1 t=-1.000 et=1120.115</Score>
+<Score et="1120.1">Torsten Spindler(13) lap=10 point=2 t=-1.000 et=1120.115</Score>
+<Score et="1120.1">Torsten Spindler(13) lap=11 point=0 t=-1.000 et=1120.115</Score>
+<Command from="Torsten Spindler" nodeid="3" et="1129.1">/callvote nextrace</Command>
+<Vote et="1129.1">Torsten Spindler: /callvote nextrace</Vote>
+<Sent et="1129.1">&quot;load next circuit&quot; proposed by Torsten Spindler: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>11</MostLapsCompleted>
+<Driver>
+<Name>Torsten Spindler</Name>
+<SteamID>76561198042616734</SteamID>
+<Connected>1</Connected>
+<VehFile>70DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#70 Torsten Spindler</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>70</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.106" twfl="0.957" twfr="0.969" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="167.2811" s1="22.7177" s2="46.5904" s3="33.0833" fuel="0.082" twfl="0.918" twfr="0.953" twrl="0.961" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.3915</Lap>
+<Lap num="3" p="1" et="269.6726" s1="22.5891" fuel="0.059" twfl="0.878" twfr="0.933" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">103.4930</Lap>
+<Lap num="4" p="1" et="373.1656" fuel="0.035" twfl="0.859" twfr="0.925" twrl="0.929" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="479.4423" s1="22.8485" s2="47.1867" s3="33.9056" fuel="0.016" twfl="0.835" twfr="0.910" twrl="0.914" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">103.9409</Lap>
+<Lap num="6" p="1" et="583.3832" s1="23.0009" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="656.2095" fuel="0.106" twfl="0.984" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="790.5637" s1="22.4984" s2="46.7963" s3="34.3971" fuel="0.082" twfl="0.945" twfr="0.973" twrl="0.961" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">103.6917</Lap>
+<Lap num="9" p="1" et="894.2554" s1="22.7224" s2="47.0630" s3="33.8619" fuel="0.059" twfl="0.890" twfr="0.953" twrl="0.941" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.6473</Lap>
+<Lap num="10" p="1" et="997.9026" s1="22.5854" fuel="0.035" twfl="0.831" twfr="0.875" twrl="0.922" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">104.3983</Lap>
+<Lap num="11" p="1" et="1102.3009" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.3915</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sven Heide</Name>
+<SteamID>76561198012671202</SteamID>
+<Connected>0</Connected>
+<VehFile>69DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

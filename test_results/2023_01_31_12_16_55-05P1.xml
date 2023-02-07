@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675142625</DateTime>
+<TimeString>2023/01/31 06:23:45</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675153821</DateTime>
+<TimeString>2023/01/31 09:30:21</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="10.8">&gt; /w Marcel Burkhardt If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Marcel Burkhardt If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="11.0">/w Marcel Burkhardt germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.0">&gt; /w Marcel Burkhardt germansimracing.de | discord.gg/GSR</Chat>
+<Score et="56.2">Marcel Burkhardt(34) lap=0 point=1 t=-1.000 et=56.148</Score>
+<Score et="103.4">Marcel Burkhardt(34) lap=0 point=2 t=-1.000 et=103.328</Score>
+<Score et="137.0">Marcel Burkhardt(34) lap=1 point=0 t=-1.000 et=136.941</Score>
+<Sector et="160.2">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="160.2">Marcel Burkhardt(34) lap=1 point=1 t=23.235 et=160.176</Score>
+<Sector et="160.2">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="208.0">Marcel Burkhardt(34) lap=1 point=2 t=71.036 et=207.977</Score>
+<Sector et="208.0">Marcel Burkhardt(34) set new best for sector 3</Sector>
+<Sector et="208.0">Marcel Burkhardt(34) set new best for sector 3</Sector>
+<Sector et="242.0">Marcel Burkhardt(34) set new best for sector 1</Sector>
+<Score et="242.0">Marcel Burkhardt(34) lap=2 point=0 t=105.034 et=241.974</Score>
+<Sector et="242.0">Marcel Burkhardt(34) set new best for sector 1</Sector>
+<Sector et="265.3">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="265.3">Marcel Burkhardt(34) lap=2 point=1 t=23.252 et=265.226</Score>
+<Sector et="265.3">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Sector et="312.8">Marcel Burkhardt(34) set new best for sector 3</Sector>
+<Score et="312.8">Marcel Burkhardt(34) lap=2 point=2 t=70.845 et=312.819</Score>
+<Sector et="312.8">Marcel Burkhardt(34) set new best for sector 3</Sector>
+<Score et="347.1">Marcel Burkhardt(34) lap=3 point=0 t=105.124 et=347.098</Score>
+<Score et="353.8">Marcel Burkhardt(34) lap=3 point=1 t=-1.000 et=353.776</Score>
+<Score et="353.8">Marcel Burkhardt(34) lap=3 point=2 t=-1.000 et=353.776</Score>
+<Score et="353.8">Marcel Burkhardt(34) lap=4 point=0 t=-1.000 et=353.776</Score>
+<Score et="502.8">Marcel Burkhardt(34) lap=4 point=1 t=-1.000 et=502.730</Score>
+<Score et="550.7">Marcel Burkhardt(34) lap=4 point=2 t=-1.000 et=550.695</Score>
+<Score et="585.1">Marcel Burkhardt(34) lap=5 point=0 t=-1.000 et=585.033</Score>
+<Score et="608.1">Marcel Burkhardt(34) lap=5 point=1 t=23.042 et=608.075</Score>
+<Sector et="608.1">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Sector et="608.1">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="655.5">Marcel Burkhardt(34) lap=5 point=2 t=70.447 et=655.480</Score>
+<Sector et="655.5">Marcel Burkhardt(34) set new best for sector 3</Sector>
+<Sector et="655.5">Marcel Burkhardt(34) set new best for sector 3</Sector>
+<Score et="689.1">Marcel Burkhardt(34) lap=6 point=0 t=103.991 et=689.024</Score>
+<Sector et="689.1">Marcel Burkhardt(34) set new best for sector 1</Sector>
+<Sector et="689.1">Marcel Burkhardt(34) set new best for sector 1</Sector>
+<Incident et="695.5">Marcel Burkhardt(34) reported contact (172.18) with Sign</Incident>
+<Incident et="695.6">Marcel Burkhardt(34) reported contact (13.10) with Sign</Incident>
+<Incident et="695.6">Marcel Burkhardt(34) reported contact (28.64) with Sign</Incident>
+<Sector et="712.4">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="712.4">Marcel Burkhardt(34) lap=6 point=1 t=23.356 et=712.380</Score>
+<Sector et="712.4">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="719.4">Marcel Burkhardt(34) lap=6 point=2 t=-1.000 et=719.337</Score>
+<Score et="719.4">Marcel Burkhardt(34) lap=7 point=0 t=-1.000 et=719.337</Score>
+<Score et="843.9">Marcel Burkhardt(34) lap=7 point=1 t=-1.000 et=843.913</Score>
+<Score et="892.1">Marcel Burkhardt(34) lap=7 point=2 t=-1.000 et=892.052</Score>
+<Score et="925.7">Marcel Burkhardt(34) lap=8 point=0 t=-1.000 et=925.685</Score>
+<Sector et="948.9">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="948.9">Marcel Burkhardt(34) lap=8 point=1 t=23.205 et=948.889</Score>
+<Sector et="948.9">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="996.7">Marcel Burkhardt(34) lap=8 point=2 t=70.974 et=996.659</Score>
+<Sector et="996.7">Marcel Burkhardt(34) set new best for sector 3</Sector>
+<Sector et="996.7">Marcel Burkhardt(34) set new best for sector 3</Sector>
+<Score et="1030.3">Marcel Burkhardt(34) lap=9 point=0 t=104.580 et=1030.265</Score>
+<Score et="1053.5">Marcel Burkhardt(34) lap=9 point=1 t=-1.000 et=1053.471</Score>
+<Score et="1146.4">Marcel Burkhardt(34) lap=9 point=2 t=-1.000 et=1146.317</Score>
+<Score et="1220.8">Marcel Burkhardt(34) lap=10 point=0 t=-1.000 et=1220.789</Score>
+<Sector et="1244.1">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="1244.1">Marcel Burkhardt(34) lap=10 point=1 t=23.300 et=1244.090</Score>
+<Sector et="1244.1">Marcel Burkhardt(34) set new best for sector 2</Sector>
+<Score et="1253.8">Marcel Burkhardt(34) lap=10 point=2 t=-1.000 et=1253.730</Score>
+<Score et="1253.8">Marcel Burkhardt(34) lap=11 point=0 t=-1.000 et=1253.730</Score>
+<Chat et="1314.5">Marcel Burkhardt left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Marcel Burkhardt</Name>
+<SteamID>76561198084446890</SteamID>
+<Connected>0</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.114" twfl="0.976" twfr="0.984" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="136.9406" s1="23.2354" s2="47.8006" s3="33.9976" fuel="0.090" twfl="0.941" twfr="0.945" twrl="0.937" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">105.0336</Lap>
+<Lap num="3" p="1" et="241.9743" s1="23.2519" s2="47.5927" s3="34.2792" fuel="0.071" twfl="0.902" twfr="0.906" twrl="0.914" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">105.1238</Lap>
+<Lap num="4" p="1" et="347.0981" fuel="0.137" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="353.7760" fuel="0.114" twfl="0.976" twfr="0.976" twrl="0.980" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="585.0326" s1="23.0419" s2="47.4052" s3="33.5439" fuel="0.090" twfl="0.941" twfr="0.953" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.9911</Lap>
+<Lap num="7" p="1" et="689.0237" s1="23.3558" fuel="0.137" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="719.3370" fuel="0.114" twfl="0.976" twfr="0.941" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="925.6847" s1="23.2047" s2="47.7692" s3="33.6062" fuel="0.090" twfl="0.941" twfr="0.914" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">104.5801</Lap>
+<Lap num="10" p="1" et="1030.2648" fuel="0.071" twfl="0.929" twfr="0.886" twrl="0.929" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="1220.7893" s1="23.3003" fuel="0.137" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.9911</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="8" endLap="10">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="11" endLap="11">PlayerControl</ControlAndAids>
+<Swap startLap="1" endLap="11"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

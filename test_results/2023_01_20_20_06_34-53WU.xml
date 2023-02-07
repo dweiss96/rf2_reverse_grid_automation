@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674229449</DateTime>
+<TimeString>2023/01/20 16:44:09</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Warmup>
+<DateTime>1674240834</DateTime>
+<TimeString>2023/01/20 19:53:54</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Chat et="10.8">&gt; /w Cyrille If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Cyrille If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="11.0">/w Cyrille germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.0">&gt; /w Cyrille germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.2">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.2">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.4">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.4">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.6">/w Thomas Johansen If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.6">&gt; /w Thomas Johansen If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="11.8">&gt; /w Thomas Johansen germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.8">/w Thomas Johansen germansimracing.de | discord.gg/GSR</Command>
+<Score et="94.6">Fred Bart(10) lap=0 point=1 t=-1.000 et=94.532</Score>
+<Score et="95.8">Cyrille(7) lap=0 point=1 t=-1.000 et=95.776</Score>
+<Score et="97.2">Thomas Johansen(11) lap=0 point=1 t=-1.000 et=97.260</Score>
+<Score et="143.5">Fred Bart(10) lap=0 point=2 t=-1.000 et=143.464</Score>
+<Score et="145.2">Cyrille(7) lap=0 point=2 t=-1.000 et=145.201</Score>
+<Score et="145.7">Thomas Johansen(11) lap=0 point=2 t=-1.000 et=145.712</Score>
+<Score et="177.6">Fred Bart(10) lap=1 point=0 t=-1.000 et=177.545</Score>
+<Score et="179.6">Cyrille(7) lap=1 point=0 t=-1.000 et=179.606</Score>
+<Score et="180.9">Thomas Johansen(11) lap=1 point=0 t=-1.000 et=180.885</Score>
+<Sector et="200.3">Fred Bart(10) set new best for sector 2</Sector>
+<Score et="200.3">Fred Bart(10) lap=1 point=1 t=22.723 et=200.269</Score>
+<Sector et="200.3">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="200.3">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="200.3">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="202.4">Cyrille(7) set new best for sector 2</Sector>
+<Score et="202.4">Cyrille(7) lap=1 point=1 t=22.780 et=202.385</Score>
+<Sector et="202.4">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="202.5">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="202.5">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="204.0">Thomas Johansen(11) set new best for sector 2</Sector>
+<Score et="204.0">Thomas Johansen(11) lap=1 point=1 t=23.098 et=203.983</Score>
+<Sector et="204.0">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="204.1">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="204.1">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="247.7">Fred Bart(10) set new best for sector 3</Sector>
+<Score et="247.7">Fred Bart(10) lap=1 point=2 t=70.174 et=247.719</Score>
+<Sector et="247.7">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="247.8">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="247.8">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="249.5">Cyrille(7) set new best for sector 3</Sector>
+<Score et="249.5">Cyrille(7) lap=1 point=2 t=69.837 et=249.442</Score>
+<Sector et="249.5">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="249.5">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="249.5">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="251.4">Thomas Johansen(11) set new best for sector 3</Sector>
+<Score et="251.4">Thomas Johansen(11) lap=1 point=2 t=70.439 et=251.324</Score>
+<Sector et="251.4">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="251.4">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="251.4">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="281.3">Fred Bart(10) set new best for sector 1</Sector>
+<Score et="281.3">Fred Bart(10) lap=2 point=0 t=103.678 et=281.223</Score>
+<Sector et="281.3">Fred Bart(10) set new best for sector 1</Sector>
+<Sector et="281.3">Thomas Johansen(11) set new best for sector 1</Sector>
+<Sector et="281.3">Cyrille(7) set new best for sector 1</Sector>
+<Sector et="283.4">Cyrille(7) set new best for sector 1</Sector>
+<Score et="283.4">Cyrille(7) lap=2 point=0 t=103.784 et=283.389</Score>
+<Sector et="283.4">Cyrille(7) set new best for sector 1</Sector>
+<Sector et="283.5">Thomas Johansen(11) set new best for sector 1</Sector>
+<Sector et="283.5">Fred Bart(10) set new best for sector 1</Sector>
+<Score et="285.0">Thomas Johansen(11) lap=2 point=0 t=104.112 et=284.997</Score>
+<Sector et="285.0">Thomas Johansen(11) set new best for sector 1</Sector>
+<Sector et="285.0">Thomas Johansen(11) set new best for sector 1</Sector>
+<Sector et="285.1">Cyrille(7) set new best for sector 1</Sector>
+<Sector et="285.1">Fred Bart(10) set new best for sector 1</Sector>
+<Sector et="304.0">Fred Bart(10) set new best for sector 2</Sector>
+<Score et="304.0">Fred Bart(10) lap=2 point=1 t=22.785 et=304.008</Score>
+<Sector et="304.0">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="304.1">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="304.1">Thomas Johansen(11) set new best for sector 2</Sector>
+<Score et="308.3">Thomas Johansen(11) lap=2 point=1 t=23.259 et=308.256</Score>
+<Sector et="308.3">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="308.3">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="308.3">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="308.3">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="310.6">Cyrille(7) set new best for sector 2</Sector>
+<Score et="310.6">Cyrille(7) lap=2 point=1 t=27.225 et=310.615</Score>
+<Sector et="310.6">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="310.7">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="310.7">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="352.1">Fred Bart(10) set new best for sector 3</Sector>
+<Score et="352.1">Fred Bart(10) lap=2 point=2 t=70.843 et=352.066</Score>
+<Sector et="352.1">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="352.1">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="352.1">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="355.5">Thomas Johansen(11) set new best for sector 3</Sector>
+<Score et="355.5">Thomas Johansen(11) lap=2 point=2 t=70.492 et=355.489</Score>
+<Sector et="355.5">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="355.5">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="355.6">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="359.6">Cyrille(7) set new best for sector 3</Sector>
+<Score et="359.6">Cyrille(7) lap=2 point=2 t=76.211 et=359.600</Score>
+<Sector et="359.6">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="359.7">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="359.7">Thomas Johansen(11) set new best for sector 3</Sector>
+<Score et="385.6">Fred Bart(10) lap=3 point=0 t=104.349 et=385.572</Score>
+<Sector et="389.0">Thomas Johansen(11) set new best for sector 1</Sector>
+<Score et="389.0">Thomas Johansen(11) lap=3 point=0 t=103.930 et=388.926</Score>
+<Sector et="389.0">Thomas Johansen(11) set new best for sector 1</Sector>
+<Sector et="389.0">Cyrille(7) set new best for sector 1</Sector>
+<Sector et="389.0">Fred Bart(10) set new best for sector 1</Sector>
+<Score et="394.1">Cyrille(7) lap=3 point=0 t=110.678 et=394.067</Score>
+<Sector et="408.2">Fred Bart(10) set new best for sector 2</Sector>
+<Score et="408.2">Fred Bart(10) lap=3 point=1 t=22.601 et=408.173</Score>
+<Sector et="408.2">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="408.2">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="408.2">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="412.0">Thomas Johansen(11) set new best for sector 2</Sector>
+<Score et="412.0">Thomas Johansen(11) lap=3 point=1 t=23.085 et=412.012</Score>
+<Sector et="412.0">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="412.1">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="412.1">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="417.7">Cyrille(7) set new best for sector 2</Sector>
+<Score et="417.7">Cyrille(7) lap=3 point=1 t=23.557 et=417.624</Score>
+<Sector et="417.7">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="417.7">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="417.7">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="455.3">Fred Bart(10) set new best for sector 3</Sector>
+<Score et="455.3">Fred Bart(10) lap=3 point=2 t=69.731 et=455.303</Score>
+<Sector et="455.3">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="455.4">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="455.4">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="459.7">Thomas Johansen(11) set new best for sector 3</Sector>
+<Score et="459.7">Thomas Johansen(11) lap=3 point=2 t=70.737 et=459.663</Score>
+<Sector et="459.7">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="459.7">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="459.7">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="466.0">Cyrille(7) set new best for sector 3</Sector>
+<Score et="466.0">Cyrille(7) lap=3 point=2 t=71.929 et=465.997</Score>
+<Sector et="466.0">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="466.1">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="466.1">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="489.1">Fred Bart(10) set new best for sector 1</Sector>
+<Score et="489.1">Fred Bart(10) lap=4 point=0 t=103.476 et=489.047</Score>
+<Sector et="489.1">Fred Bart(10) set new best for sector 1</Sector>
+<Sector et="489.1">Cyrille(7) set new best for sector 1</Sector>
+<Sector et="489.1">Thomas Johansen(11) set new best for sector 1</Sector>
+<Score et="493.2">Thomas Johansen(11) lap=4 point=0 t=104.278 et=493.204</Score>
+<Incident et="499.5">Thomas Johansen(11) reported contact (170.77) with Sign</Incident>
+<Incident et="499.6">Thomas Johansen(11) reported contact (44.68) with Sign</Incident>
+<Incident et="499.6">Thomas Johansen(11) reported contact (17.49) with Sign</Incident>
+<Incident et="499.6">Thomas Johansen(11) reported contact (11.01) with Sign</Incident>
+<Score et="500.6">Cyrille(7) lap=4 point=0 t=106.458 et=500.525</Score>
+<Sector et="511.8">Fred Bart(10) set new best for sector 2</Sector>
+<Score et="511.8">Fred Bart(10) lap=4 point=1 t=22.755 et=511.802</Score>
+<Sector et="511.8">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="511.9">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="511.9">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="516.3">Thomas Johansen(11) set new best for sector 2</Sector>
+<Score et="516.3">Thomas Johansen(11) lap=4 point=1 t=23.047 et=516.251</Score>
+<Sector et="516.3">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="516.3">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="516.3">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="523.9">Cyrille(7) set new best for sector 2</Sector>
+<Score et="523.9">Cyrille(7) lap=4 point=1 t=23.384 et=523.909</Score>
+<Sector et="523.9">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="524.0">Thomas Johansen(11) set new best for sector 2</Sector>
+<Sector et="524.0">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="559.0">Fred Bart(10) set new best for sector 3</Sector>
+<Score et="559.0">Fred Bart(10) lap=4 point=2 t=69.951 et=558.998</Score>
+<Sector et="559.0">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="559.1">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="559.1">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="563.9">Thomas Johansen(11) set new best for sector 3</Sector>
+<Score et="563.9">Thomas Johansen(11) lap=4 point=2 t=70.637 et=563.841</Score>
+<Sector et="563.9">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="563.9">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="563.9">Fred Bart(10) set new best for sector 3</Sector>
+<Incident et="570.7">Cyrille(7) reported contact (1777.23) with Immovable</Incident>
+<Incident et="570.7">Cyrille(7) reported contact (2135.76) with Immovable</Incident>
+<Incident et="570.7">Cyrille(7) reported contact (1529.71) with Immovable</Incident>
+<Incident et="570.7">Cyrille(7) reported contact (1662.84) with Immovable</Incident>
+<Incident et="570.7">Cyrille(7) reported contact (1215.27) with Immovable</Incident>
+<Sector et="583.8">Cyrille(7) set new best for sector 3</Sector>
+<Score et="583.8">Cyrille(7) lap=4 point=2 t=83.204 et=583.729</Score>
+<Sector et="583.8">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="583.8">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="583.8">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="592.4">Fred Bart(10) set new best for sector 1</Sector>
+<Score et="592.4">Fred Bart(10) lap=5 point=0 t=103.293 et=592.341</Score>
+<Sector et="592.4">Fred Bart(10) set new best for sector 1</Sector>
+<Sector et="592.4">Cyrille(7) set new best for sector 1</Sector>
+<Sector et="592.4">Thomas Johansen(11) set new best for sector 1</Sector>
+<Score et="597.8">Thomas Johansen(11) lap=5 point=0 t=104.591 et=597.795</Score>
+<Score et="607.4">Thomas Johansen(11) lap=5 point=1 t=-1.000 et=607.332</Score>
+<Score et="607.4">Thomas Johansen(11) lap=5 point=2 t=-1.000 et=607.332</Score>
+<Score et="607.4">Thomas Johansen(11) lap=6 point=0 t=-1.000 et=607.332</Score>
+<Sector et="615.3">Fred Bart(10) set new best for sector 2</Sector>
+<Score et="615.3">Fred Bart(10) lap=5 point=1 t=22.917 et=615.258</Score>
+<Sector et="615.3">Fred Bart(10) set new best for sector 2</Sector>
+<Sector et="615.3">Cyrille(7) set new best for sector 2</Sector>
+<Sector et="615.3">Thomas Johansen(11) set new best for sector 2</Sector>
+<Incident et="617.3">Cyrille(7) reported contact (1797.56) with Immovable</Incident>
+<Incident et="617.3">Cyrille(7) reported contact (2269.76) with Immovable</Incident>
+<Incident et="617.3">Cyrille(7) reported contact (2769.65) with Immovable</Incident>
+<Incident et="617.3">Cyrille(7) reported contact (2597.31) with Immovable</Incident>
+<Incident et="617.4">Cyrille(7) reported contact (1707.47) with Immovable</Incident>
+<Incident et="617.4">Cyrille(7) reported contact (1101.24) with Immovable</Incident>
+<Incident et="617.7">Cyrille(7) reported contact (64.71) with Sign</Incident>
+<Incident et="617.7">Cyrille(7) reported contact (24.91) with Sign</Incident>
+<Incident et="621.4">Cyrille(7) reported contact (1360.61) with Immovable</Incident>
+<Score et="623.5">Cyrille(7) lap=5 point=0 t=-1.000 et=623.403</Score>
+<Score et="623.5">Cyrille(7) lap=5 point=1 t=-1.000 et=623.403</Score>
+<Score et="623.5">Cyrille(7) lap=5 point=2 t=-1.000 et=623.403</Score>
+<Score et="623.5">Cyrille(7) lap=6 point=0 t=-1.000 et=623.403</Score>
+<Sector et="662.2">Fred Bart(10) set new best for sector 3</Sector>
+<Score et="662.2">Fred Bart(10) lap=5 point=2 t=69.825 et=662.166</Score>
+<Sector et="662.2">Fred Bart(10) set new best for sector 3</Sector>
+<Sector et="662.2">Thomas Johansen(11) set new best for sector 3</Sector>
+<Sector et="662.2">Cyrille(7) set new best for sector 3</Sector>
+<Sector et="695.5">Fred Bart(10) set new best for sector 1</Sector>
+<Score et="695.5">Fred Bart(10) lap=6 point=0 t=103.127 et=695.467</Score>
+<Sector et="695.5">Fred Bart(10) set new best for sector 1</Sector>
+<Sector et="695.5">Thomas Johansen(11) set new best for sector 1</Sector>
+<Sector et="695.5">Cyrille(7) set new best for sector 1</Sector>
+</Stream>
+<MostLapsCompleted>6</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>69DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.153" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="177.5452" s1="22.7235" s2="47.4503" s3="33.5039" fuel="0.129" twfl="0.973" twfr="0.988" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">103.6777</Lap>
+<Lap num="3" p="1" et="281.2229" s1="22.7850" s2="48.0581" s3="33.5056" fuel="0.110" twfl="0.949" twfr="0.980" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">104.3487</Lap>
+<Lap num="4" p="1" et="385.5716" s1="22.6012" s2="47.1302" s3="33.7444" fuel="0.086" twfl="0.929" twfr="0.973" twrl="0.929" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">103.4758</Lap>
+<Lap num="5" p="1" et="489.0474" s1="22.7545" s2="47.1961" s3="33.3427" fuel="0.063" twfl="0.906" twfr="0.965" twrl="0.906" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">103.2934</Lap>
+<Lap num="6" p="1" et="592.3408" s1="22.9173" s2="46.9080" s3="33.3013" fuel="0.043" twfl="0.878" twfr="0.957" twrl="0.878" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">103.1265</Lap>
+<BestLapTime>103.1265</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Cyrille</Name>
+<SteamID>76561199117420930</SteamID>
+<Connected>1</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.141" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="179.6055" s1="22.7798" s2="47.0569" s3="33.9469" fuel="0.118" twfl="0.969" twfr="0.965" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.7836</Lap>
+<Lap num="3" p="2" et="283.3891" s1="27.2255" s2="48.9852" s3="34.4676" fuel="0.094" twfl="0.953" twfr="0.949" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">110.6783</Lap>
+<Lap num="4" p="2" et="394.0674" s1="23.5568" s2="48.3724" s3="34.5285" fuel="0.071" twfl="0.937" twfr="0.922" twrl="0.906" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">106.4576</Lap>
+<Lap num="5" p="2" et="500.5250" s1="23.3845" s2="59.8192" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="623.4030" fuel="0.165" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.7836</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="6" endLap="6">UnknownControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Thomas Johansen</Name>
+<SteamID>76561198060009589</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.353" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="3" et="180.8853" s1="23.0978" s2="47.3407" s3="33.6730" fuel="0.329" twfl="0.961" twfr="0.980" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.1116</Lap>
+<Lap num="3" p="3" et="284.9968" s1="23.2593" s2="47.2327" s3="33.4375" fuel="0.306" twfl="0.922" twfr="0.937" twrl="0.914" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.9295</Lap>
+<Lap num="4" p="3" et="388.9264" s1="23.0854" s2="47.6516" s3="33.5406" fuel="0.282" twfl="0.886" twfr="0.922" twrl="0.886" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">104.2776</Lap>
+<Lap num="5" p="3" et="493.2039" s1="23.0466" s2="47.5904" s3="33.9540" fuel="0.259" twfl="0.855" twfr="0.906" twrl="0.843" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry">104.5910</Lap>
+<Lap num="6" p="3" et="597.7949" fuel="0.373" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.9295</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+</Warmup>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674492854</DateTime>
+<TimeString>2023/01/23 17:54:14</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674492855</DateTime>
+<TimeString>2023/01/23 17:54:15</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="3375.7">Fred Bart has entered the race.</Chat>
+<System et="3375.7">Fred Bart(44) 176.168.165.76 has joined as a participant</System>
+<Command et="3385.8">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="3385.8">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="3386.0">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="3386.0">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Score et="3454.8">Fred Bart(44) lap=0 point=1 t=-1.000 et=3454.775</Score>
+<Score et="3503.2">Fred Bart(44) lap=0 point=2 t=-1.000 et=3503.169</Score>
+<Score et="3537.1">Fred Bart(44) lap=1 point=0 t=-1.000 et=3537.108</Score>
+<Sector et="3560.0">Fred Bart(44) set new best for sector 2</Sector>
+<Score et="3560.0">Fred Bart(44) lap=1 point=1 t=22.841 et=3559.949</Score>
+<Sector et="3560.0">Fred Bart(44) set new best for sector 2</Sector>
+<Sector et="3606.8">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="3606.8">Fred Bart(44) lap=1 point=2 t=69.626 et=3606.734</Score>
+<Sector et="3606.8">Fred Bart(44) set new best for sector 3</Sector>
+<Sector et="3639.8">Fred Bart(44) set new best for sector 1</Sector>
+<Score et="3639.8">Fred Bart(44) lap=2 point=0 t=102.671 et=3639.779</Score>
+<Sector et="3639.8">Fred Bart(44) set new best for sector 1</Sector>
+<Sector et="3662.5">Fred Bart(44) set new best for sector 2</Sector>
+<Score et="3662.5">Fred Bart(44) lap=2 point=1 t=22.736 et=3662.515</Score>
+<Sector et="3662.5">Fred Bart(44) set new best for sector 2</Sector>
+<Sector et="3709.4">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="3709.4">Fred Bart(44) lap=2 point=2 t=69.547 et=3709.326</Score>
+<Sector et="3709.4">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="3742.5">Fred Bart(44) lap=3 point=0 t=102.677 et=3742.456</Score>
+<Sector et="3765.5">Fred Bart(44) set new best for sector 2</Sector>
+<Score et="3765.5">Fred Bart(44) lap=3 point=1 t=22.990 et=3765.446</Score>
+<Sector et="3765.5">Fred Bart(44) set new best for sector 2</Sector>
+<Sector et="3812.3">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="3812.3">Fred Bart(44) lap=3 point=2 t=69.838 et=3812.294</Score>
+<Sector et="3812.3">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="3845.5">Fred Bart(44) lap=4 point=0 t=102.988 et=3845.444</Score>
+<Sector et="3868.4">Fred Bart(44) set new best for sector 2</Sector>
+<Score et="3868.4">Fred Bart(44) lap=4 point=1 t=22.908 et=3868.352</Score>
+<Sector et="3868.4">Fred Bart(44) set new best for sector 2</Sector>
+<Sector et="3915.5">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="3915.5">Fred Bart(44) lap=4 point=2 t=69.985 et=3915.428</Score>
+<Sector et="3915.5">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="3948.7">Fred Bart(44) lap=5 point=0 t=103.252 et=3948.696</Score>
+<Score et="3973.8">Fred Bart(44) lap=5 point=1 t=25.100 et=3973.796</Score>
+<Sector et="3973.8">Fred Bart(44) set new best for sector 2</Sector>
+<Sector et="3973.8">Fred Bart(44) set new best for sector 2</Sector>
+<Sector et="4023.4">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="4023.4">Fred Bart(44) lap=5 point=2 t=74.674 et=4023.370</Score>
+<Sector et="4023.4">Fred Bart(44) set new best for sector 3</Sector>
+<Score et="4065.2">Fred Bart(44) lap=6 point=0 t=-1.000 et=4065.161</Score>
+<Chat et="4073.9">Fred Bart left the race.</Chat>
+<Chat et="5995.9">Reiko Arnold has entered the race.</Chat>
+<System et="5995.9">Reiko Arnold(45) 46.142.106.174 has joined as a participant</System>
+<Command et="6006.8">/w Reiko Arnold If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6006.8">&gt; /w Reiko Arnold If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="6007.0">&gt; /w Reiko Arnold germansimracing.de | discord.gg/GSR</Chat>
+<Command et="6007.0">/w Reiko Arnold germansimracing.de | discord.gg/GSR</Command>
+<Chat et="6023.6">Reiko Arnold left the race.</Chat>
+<Chat et="6594.0">Reiko Arnold has entered the race.</Chat>
+<System et="6594.0">Reiko Arnold(46) 46.142.106.174 has joined as a participant</System>
+<System et="6594.0">Reiko Arnold returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Chat et="6597.8">&gt; /w Reiko Arnold If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6597.8">/w Reiko Arnold If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6598.0">&gt; /w Reiko Arnold germansimracing.de | discord.gg/GSR</Chat>
+<Command et="6598.0">/w Reiko Arnold germansimracing.de | discord.gg/GSR</Command>
+<Score et="6921.7">Reiko Arnold(46) lap=0 point=1 t=-1.000 et=6921.688</Score>
+<Score et="6971.2">Reiko Arnold(46) lap=0 point=2 t=-1.000 et=6971.176</Score>
+<Score et="6985.0">Reiko Arnold(46) lap=1 point=0 t=-1.000 et=6985.021</Score>
+<Score et="7060.5">Reiko Arnold(46) lap=1 point=1 t=-1.000 et=7060.432</Score>
+<Score et="7109.3">Reiko Arnold(46) lap=1 point=2 t=-1.000 et=7109.313</Score>
+<Score et="7144.7">Reiko Arnold(46) lap=2 point=0 t=-1.000 et=7144.716</Score>
+<Score et="7170.0">Reiko Arnold(46) lap=2 point=1 t=25.285 et=7170.001</Score>
+<Sector et="7170.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="7170.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="7217.7">Reiko Arnold(46) lap=2 point=2 t=72.957 et=7217.672</Score>
+<Sector et="7217.7">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="7217.7">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="7252.0">Reiko Arnold(46) lap=3 point=0 t=107.244 et=7251.959</Score>
+<Sector et="7252.0">Reiko Arnold(46) set new best for sector 1</Sector>
+<Sector et="7252.0">Reiko Arnold(46) set new best for sector 1</Sector>
+<Score et="7275.3">Reiko Arnold(46) lap=3 point=1 t=23.340 et=7275.300</Score>
+<Sector et="7275.3">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="7275.3">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="7322.7">Reiko Arnold(46) lap=3 point=2 t=70.735 et=7322.695</Score>
+<Sector et="7322.7">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="7322.7">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="7356.5">Reiko Arnold(46) lap=4 point=0 t=104.552 et=7356.511</Score>
+<Sector et="7356.5">Reiko Arnold(46) set new best for sector 1</Sector>
+<Sector et="7356.5">Reiko Arnold(46) set new best for sector 1</Sector>
+<Score et="7380.1">Reiko Arnold(46) lap=4 point=1 t=23.585 et=7380.097</Score>
+<Sector et="7380.1">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="7380.1">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="7427.7">Reiko Arnold(46) lap=4 point=2 t=71.193 et=7427.705</Score>
+<Sector et="7427.7">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="7427.7">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="7461.6">Reiko Arnold(46) lap=5 point=0 t=105.093 et=7461.604</Score>
+<Score et="7485.0">Reiko Arnold(46) lap=5 point=1 t=23.382 et=7484.986</Score>
+<Sector et="7485.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="7485.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="7527.2">Reiko Arnold(46) lap=5 point=2 t=-1.000 et=7527.160</Score>
+<Score et="7527.2">Reiko Arnold(46) lap=6 point=0 t=-1.000 et=7527.160</Score>
+<Chat et="7737.9">Sven Heide has entered the race.</Chat>
+<System et="7737.9">Sven Heide(47) 79.223.251.249 has joined as a participant</System>
+<Chat et="7738.9">Sven Heide left the race.</Chat>
+<Chat et="7825.7">Sven Heide has entered the race.</Chat>
+<System et="7825.7">Sven Heide(48) 79.223.251.249 has joined as a participant</System>
+<System et="7825.7">Sven Heide returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Chat et="7827.4">&gt; /w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7827.4">/w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="7827.6">&gt; /w Sven Heide germansimracing.de | discord.gg/GSR</Chat>
+<Command et="7827.6">/w Sven Heide germansimracing.de | discord.gg/GSR</Command>
+<Score et="7855.5">Reiko Arnold(46) lap=6 point=1 t=-1.000 et=7855.534</Score>
+<Score et="7904.4">Reiko Arnold(46) lap=6 point=2 t=-1.000 et=7904.326</Score>
+<Score et="7939.3">Reiko Arnold(46) lap=7 point=0 t=-1.000 et=7937.820</Score>
+<Score et="7966.4">Sven Heide(48) lap=0 point=1 t=-1.000 et=7966.369</Score>
+<Score et="7966.4">Sven Heide(48) lap=0 point=2 t=-1.000 et=7966.369</Score>
+<Score et="7966.4">Sven Heide(48) lap=1 point=0 t=-1.000 et=7966.369</Score>
+<Score et="8027.7">Sven Heide(48) lap=1 point=1 t=-1.000 et=8027.698</Score>
+<Score et="8027.7">Sven Heide(48) lap=1 point=2 t=-1.000 et=8027.698</Score>
+<Score et="8027.7">Sven Heide(48) lap=2 point=0 t=-1.000 et=8027.698</Score>
+<Score et="8031.0">Reiko Arnold(46) lap=7 point=1 t=-1.000 et=8031.008</Score>
+<Score et="8031.0">Reiko Arnold(46) lap=7 point=2 t=-1.000 et=8031.008</Score>
+<Score et="8031.0">Reiko Arnold(46) lap=8 point=0 t=-1.000 et=8031.008</Score>
+<Score et="8119.1">Reiko Arnold(46) lap=8 point=1 t=-1.000 et=8119.120</Score>
+<Score et="8120.0">Sven Heide(48) lap=2 point=1 t=-1.000 et=8120.016</Score>
+<Score et="8169.1">Reiko Arnold(46) lap=8 point=2 t=-1.000 et=8169.086</Score>
+<Score et="8172.5">Sven Heide(48) lap=2 point=2 t=-1.000 et=8172.503</Score>
+<Score et="8206.7">Reiko Arnold(46) lap=9 point=0 t=-1.000 et=8206.714</Score>
+<Score et="8207.0">Sven Heide(48) lap=3 point=0 t=-1.000 et=8206.976</Score>
+<Incident et="8213.6">Sven Heide(48) reported contact (68.70) with Sign</Incident>
+<Sector et="8231.2">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="8231.2">Sven Heide(48) lap=3 point=1 t=24.162 et=8231.138</Score>
+<Sector et="8231.2">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8231.2">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="8231.4">Reiko Arnold(46) lap=9 point=1 t=24.689 et=8231.403</Score>
+<Sector et="8231.4">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8231.4">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8231.5">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="8281.4">Reiko Arnold(46) lap=9 point=2 t=74.617 et=8281.331</Score>
+<Sector et="8281.4">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8281.4">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8281.4">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8282.4">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="8282.4">Sven Heide(48) lap=3 point=2 t=75.442 et=8282.418</Score>
+<Sector et="8282.4">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8282.5">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="8318.0">Reiko Arnold(46) lap=10 point=0 t=111.313 et=8318.026</Score>
+<Sector et="8320.3">Sven Heide(48) set new best for sector 1</Sector>
+<Score et="8320.3">Sven Heide(48) lap=4 point=0 t=113.281 et=8320.257</Score>
+<Sector et="8320.3">Sven Heide(48) set new best for sector 1</Sector>
+<Sector et="8320.3">Reiko Arnold(46) set new best for sector 1</Sector>
+<Score et="8343.3">Reiko Arnold(46) lap=10 point=1 t=25.212 et=8343.238</Score>
+<Sector et="8343.3">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8343.3">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8343.3">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8344.1">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="8344.1">Sven Heide(48) lap=4 point=1 t=23.773 et=8344.030</Score>
+<Sector et="8344.1">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8344.1">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="8391.5">Reiko Arnold(46) lap=10 point=2 t=73.401 et=8391.428</Score>
+<Sector et="8391.5">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8391.5">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8391.5">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8393.5">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="8393.5">Sven Heide(48) lap=4 point=2 t=73.258 et=8393.515</Score>
+<Sector et="8393.5">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8393.6">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="8426.2">Reiko Arnold(46) lap=11 point=0 t=108.145 et=8426.171</Score>
+<Sector et="8428.2">Sven Heide(48) set new best for sector 1</Sector>
+<Score et="8428.2">Sven Heide(48) lap=5 point=0 t=107.936 et=8428.192</Score>
+<Sector et="8428.2">Sven Heide(48) set new best for sector 1</Sector>
+<Sector et="8428.2">Reiko Arnold(46) set new best for sector 1</Sector>
+<Score et="8449.7">Reiko Arnold(46) lap=11 point=1 t=23.539 et=8449.710</Score>
+<Sector et="8449.7">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8449.7">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8449.8">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8451.6">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="8451.6">Sven Heide(48) lap=5 point=1 t=23.373 et=8451.565</Score>
+<Sector et="8451.6">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8451.6">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="8497.5">Reiko Arnold(46) lap=11 point=2 t=71.274 et=8497.445</Score>
+<Sector et="8497.5">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8497.5">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8497.5">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8499.9">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="8499.9">Sven Heide(48) lap=5 point=2 t=71.723 et=8499.915</Score>
+<Sector et="8499.9">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8500.0">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="8531.4">Reiko Arnold(46) lap=12 point=0 t=105.170 et=8531.341</Score>
+<Sector et="8534.6">Sven Heide(48) set new best for sector 1</Sector>
+<Score et="8534.6">Sven Heide(48) lap=6 point=0 t=106.330 et=8534.522</Score>
+<Sector et="8534.6">Sven Heide(48) set new best for sector 1</Sector>
+<Sector et="8534.6">Reiko Arnold(46) set new best for sector 1</Sector>
+<Score et="8545.2">Reiko Arnold(46) lap=12 point=1 t=-1.000 et=8545.162</Score>
+<Score et="8545.2">Reiko Arnold(46) lap=12 point=2 t=-1.000 et=8545.162</Score>
+<Score et="8545.2">Reiko Arnold(46) lap=13 point=0 t=-1.000 et=8545.162</Score>
+<Score et="8547.7">Sven Heide(48) lap=6 point=1 t=-1.000 et=8547.668</Score>
+<Score et="8547.7">Sven Heide(48) lap=6 point=2 t=-1.000 et=8547.668</Score>
+<Score et="8547.7">Sven Heide(48) lap=7 point=0 t=-1.000 et=8547.668</Score>
+<Score et="8711.5">Reiko Arnold(46) lap=13 point=1 t=-1.000 et=8711.459</Score>
+<Score et="8712.0">Sven Heide(48) lap=7 point=1 t=-1.000 et=8711.997</Score>
+<Score et="8760.3">Sven Heide(48) lap=7 point=2 t=-1.000 et=8760.313</Score>
+<Score et="8760.8">Reiko Arnold(46) lap=13 point=2 t=-1.000 et=8760.727</Score>
+<Score et="8801.7">Reiko Arnold(46) lap=14 point=0 t=-1.000 et=8801.648</Score>
+<Score et="8803.0">Sven Heide(48) lap=8 point=0 t=-1.000 et=8802.948</Score>
+<Score et="8825.7">Reiko Arnold(46) lap=14 point=1 t=24.071 et=8825.720</Score>
+<Sector et="8825.7">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8825.7">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8825.8">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8827.0">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="8827.0">Sven Heide(48) lap=8 point=1 t=24.054 et=8827.002</Score>
+<Sector et="8827.0">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8827.1">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="8874.0">Reiko Arnold(46) lap=14 point=2 t=72.285 et=8873.934</Score>
+<Sector et="8874.0">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8874.0">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8874.0">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8874.4">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="8874.4">Sven Heide(48) lap=8 point=2 t=71.374 et=8874.322</Score>
+<Sector et="8874.4">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8874.4">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="8907.6">Reiko Arnold(46) lap=15 point=0 t=105.949 et=8907.598</Score>
+<Sector et="8908.6">Sven Heide(48) set new best for sector 1</Sector>
+<Score et="8908.6">Sven Heide(48) lap=9 point=0 t=105.576 et=8908.524</Score>
+<Sector et="8908.6">Sven Heide(48) set new best for sector 1</Sector>
+<Sector et="8908.6">Reiko Arnold(46) set new best for sector 1</Sector>
+<Score et="8930.6">Reiko Arnold(46) lap=15 point=1 t=23.012 et=8930.609</Score>
+<Sector et="8930.6">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8930.6">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="8930.7">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8932.9">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="8932.9">Sven Heide(48) lap=9 point=1 t=24.381 et=8932.905</Score>
+<Sector et="8932.9">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="8933.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="8978.3">Reiko Arnold(46) lap=15 point=2 t=70.627 et=8978.225</Score>
+<Sector et="8978.3">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8978.3">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="8978.3">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8980.5">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="8980.5">Sven Heide(48) lap=9 point=2 t=71.952 et=8980.477</Score>
+<Sector et="8980.5">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="8980.5">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="9011.8">Reiko Arnold(46) lap=16 point=0 t=104.195 et=9011.793</Score>
+<Sector et="9011.8">Reiko Arnold(46) set new best for sector 1</Sector>
+<Sector et="9011.8">Reiko Arnold(46) set new best for sector 1</Sector>
+<Sector et="9011.8">Sven Heide(48) set new best for sector 1</Sector>
+<Score et="9015.0">Sven Heide(48) lap=10 point=0 t=106.417 et=9014.941</Score>
+<Score et="9035.0">Reiko Arnold(46) lap=16 point=1 t=23.180 et=9034.973</Score>
+<Sector et="9035.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9035.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9035.0">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="9038.5">Sven Heide(48) lap=10 point=1 t=23.516 et=9038.457</Score>
+<Sector et="9038.5">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="9038.5">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="9038.5">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="9082.9">Reiko Arnold(46) lap=16 point=2 t=71.063 et=9082.855</Score>
+<Sector et="9082.9">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9082.9">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9082.9">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="9087.0">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="9087.0">Sven Heide(48) lap=10 point=2 t=72.021 et=9086.962</Score>
+<Sector et="9087.0">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="9087.0">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="9116.4">Reiko Arnold(46) lap=17 point=0 t=104.559 et=9116.352</Score>
+<Incident et="9118.2">Sven Heide(48) reported contact (3225.69) with Immovable</Incident>
+<Incident et="9118.2">Sven Heide(48) reported contact (4473.74) with Immovable</Incident>
+<Incident et="9118.2">Sven Heide(48) reported contact (3136.90) with Immovable</Incident>
+<Sector et="9118.2">Sven Heide(48) reports new suspension damage</Sector>
+<Incident et="9118.2">Sven Heide(48) reported contact (1792.17) with Immovable</Incident>
+<Incident et="9118.2">Sven Heide(48) reported contact (2088.38) with Immovable</Incident>
+<Incident et="9118.2">Sven Heide(48) reported contact (1221.62) with Immovable</Incident>
+<Incident et="9118.7">Sven Heide(48) reported contact (40.32) with Sign</Incident>
+<Incident et="9118.8">Sven Heide(48) reported contact (22.28) with Sign</Incident>
+<Incident et="9118.8">Sven Heide(48) reported contact (45.81) with Sign</Incident>
+<Score et="9122.4">Sven Heide(48) lap=11 point=0 t=-1.000 et=9122.409</Score>
+<Score et="9122.4">Sven Heide(48) lap=11 point=1 t=-1.000 et=9122.409</Score>
+<Score et="9122.4">Sven Heide(48) lap=11 point=2 t=-1.000 et=9122.409</Score>
+<Score et="9122.4">Sven Heide(48) lap=12 point=0 t=-1.000 et=9122.409</Score>
+<Score et="9140.0">Reiko Arnold(46) lap=17 point=1 t=23.643 et=9139.994</Score>
+<Sector et="9140.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9140.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9140.0">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="9182.3">Reiko Arnold(46) lap=17 point=2 t=-1.000 et=9182.292</Score>
+<Score et="9182.3">Reiko Arnold(46) lap=18 point=0 t=-1.000 et=9182.292</Score>
+<Score et="9258.0">Sven Heide(48) lap=12 point=1 t=-1.000 et=9258.004</Score>
+<Score et="9258.4">Reiko Arnold(46) lap=18 point=1 t=-1.000 et=9258.391</Score>
+<Score et="9307.2">Sven Heide(48) lap=12 point=2 t=-1.000 et=9307.163</Score>
+<Score et="9307.5">Reiko Arnold(46) lap=18 point=2 t=-1.000 et=9307.427</Score>
+<Score et="9340.9">Sven Heide(48) lap=13 point=0 t=-1.000 et=9340.912</Score>
+<Score et="9341.3">Reiko Arnold(46) lap=19 point=0 t=-1.000 et=9341.293</Score>
+<Score et="9364.4">Sven Heide(48) lap=13 point=1 t=-1.000 et=9364.327</Score>
+<Score et="9364.6">Reiko Arnold(46) lap=19 point=1 t=23.319 et=9364.612</Score>
+<Sector et="9364.6">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9364.6">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9364.7">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="9414.2">Sven Heide(48) lap=13 point=2 t=-1.000 et=9414.129</Score>
+<Score et="9415.1">Reiko Arnold(46) lap=19 point=2 t=73.772 et=9415.065</Score>
+<Sector et="9415.1">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9415.1">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9415.1">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="9448.5">Sven Heide(48) lap=14 point=0 t=-1.000 et=9448.422</Score>
+<Score et="9448.9">Reiko Arnold(46) lap=20 point=0 t=107.539 et=9448.832</Score>
+<Sector et="9471.8">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="9471.8">Sven Heide(48) lap=14 point=1 t=23.391 et=9471.813</Score>
+<Sector et="9471.8">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="9471.9">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="9472.5">Reiko Arnold(46) lap=20 point=1 t=23.700 et=9472.532</Score>
+<Sector et="9472.5">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9472.6">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9472.6">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="9519.2">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="9519.2">Sven Heide(48) lap=14 point=2 t=70.791 et=9519.213</Score>
+<Sector et="9519.2">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="9519.3">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="9520.0">Reiko Arnold(46) lap=20 point=2 t=71.127 et=9519.959</Score>
+<Sector et="9520.0">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9520.0">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9520.0">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="9554.3">Reiko Arnold(46) lap=21 point=0 t=105.457 et=9554.289</Score>
+<Score et="9554.4">Sven Heide(48) lap=15 point=0 t=105.972 et=9554.394</Score>
+<Score et="9577.9">Reiko Arnold(46) lap=21 point=1 t=23.603 et=9577.892</Score>
+<Sector et="9577.9">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9577.9">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9577.9">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="9578.7">Sven Heide(48) lap=15 point=1 t=24.271 et=9578.664</Score>
+<Sector et="9578.7">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="9578.7">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="9578.7">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="9625.4">Reiko Arnold(46) lap=21 point=2 t=71.077 et=9625.366</Score>
+<Sector et="9625.4">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9625.4">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9625.4">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="9625.8">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="9625.8">Sven Heide(48) lap=15 point=2 t=71.343 et=9625.736</Score>
+<Sector et="9625.8">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="9625.8">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="9658.4">Reiko Arnold(46) lap=22 point=0 t=104.055 et=9658.344</Score>
+<Sector et="9658.4">Reiko Arnold(46) set new best for sector 1</Sector>
+<Sector et="9658.4">Reiko Arnold(46) set new best for sector 1</Sector>
+<Sector et="9658.4">Sven Heide(48) set new best for sector 1</Sector>
+<Sector et="9659.7">Sven Heide(48) set new best for sector 1</Sector>
+<Score et="9659.7">Sven Heide(48) lap=16 point=0 t=105.281 et=9659.675</Score>
+<Sector et="9659.7">Sven Heide(48) set new best for sector 1</Sector>
+<Sector et="9659.7">Reiko Arnold(46) set new best for sector 1</Sector>
+<Score et="9682.0">Reiko Arnold(46) lap=22 point=1 t=23.591 et=9681.935</Score>
+<Sector et="9682.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9682.0">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9682.0">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="9682.8">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="9682.8">Sven Heide(48) lap=16 point=1 t=23.120 et=9682.795</Score>
+<Sector et="9682.8">Sven Heide(48) set new best for sector 2</Sector>
+<Sector et="9682.8">Reiko Arnold(46) set new best for sector 2</Sector>
+<Score et="9729.4">Reiko Arnold(46) lap=22 point=2 t=71.039 et=9729.383</Score>
+<Sector et="9729.4">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9729.4">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9729.4">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="9730.3">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="9730.3">Sven Heide(48) lap=16 point=2 t=70.566 et=9730.241</Score>
+<Sector et="9730.3">Sven Heide(48) set new best for sector 3</Sector>
+<Sector et="9730.3">Reiko Arnold(46) set new best for sector 3</Sector>
+<Score et="9763.0">Reiko Arnold(46) lap=23 point=0 t=104.655 et=9762.999</Score>
+<Sector et="9764.0">Sven Heide(48) set new best for sector 1</Sector>
+<Score et="9764.0">Sven Heide(48) lap=17 point=0 t=104.287 et=9763.962</Score>
+<Sector et="9764.0">Sven Heide(48) set new best for sector 1</Sector>
+<Sector et="9764.0">Reiko Arnold(46) set new best for sector 1</Sector>
+<Incident et="9784.7">Reiko Arnold(46) reported contact (1827.19) with Immovable</Incident>
+<Incident et="9784.7">Reiko Arnold(46) reported contact (3046.75) with Immovable</Incident>
+<Incident et="9784.7">Reiko Arnold(46) reported contact (2986.62) with Immovable</Incident>
+<Incident et="9784.8">Reiko Arnold(46) reported contact (1809.51) with Immovable</Incident>
+<Incident et="9784.8">Reiko Arnold(46) reported contact (2041.63) with Immovable</Incident>
+<Incident et="9784.8">Reiko Arnold(46) reported contact (1470.35) with Immovable</Incident>
+<Incident et="9784.8">Reiko Arnold(46) reported contact (1048.24) with Immovable</Incident>
+<Score et="9803.0">Sven Heide(48) lap=17 point=1 t=-1.000 et=9802.979</Score>
+<Score et="9803.8">Reiko Arnold(46) lap=23 point=1 t=40.746 et=9803.745</Score>
+<Sector et="9803.8">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9803.8">Reiko Arnold(46) set new best for sector 2</Sector>
+<Sector et="9803.8">Sven Heide(48) set new best for sector 2</Sector>
+<Score et="9853.1">Reiko Arnold(46) lap=23 point=2 t=90.070 et=9853.069</Score>
+<Sector et="9853.1">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9853.1">Reiko Arnold(46) set new best for sector 3</Sector>
+<Sector et="9853.1">Sven Heide(48) set new best for sector 3</Sector>
+<Score et="9853.6">Sven Heide(48) lap=17 point=2 t=-1.000 et=9853.561</Score>
+<Incident et="9881.5">Sven Heide(48) reported contact (1953.68) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1891.22) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1921.02) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1476.07) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1295.96) with Immovable</Incident>
+<Sector et="9881.5">Sven Heide(48) reports new suspension damage</Sector>
+<Incident et="9881.5">Sven Heide(48) reported contact (1658.78) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1463.54) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (2398.80) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1642.44) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (2833.33) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (2581.76) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1076.40) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1126.23) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (1825.45) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (3114.49) with Immovable</Incident>
+<Incident et="9881.5">Sven Heide(48) reported contact (2391.55) with Immovable</Incident>
+<Sector et="9881.5">Sven Heide(48) reports new suspension damage</Sector>
+<Incident et="9881.6">Sven Heide(48) reported contact (1930.98) with Immovable</Incident>
+<Incident et="9881.6">Sven Heide(48) reported contact (1242.76) with Immovable</Incident>
+<Incident et="9881.9">Reiko Arnold(46) reported contact (1176.08) with Immovable</Incident>
+<Incident et="9883.3">Sven Heide(48) reported contact (1260.29) with another vehicle Reiko Arnold(46)</Incident>
+<Incident et="9883.3">Sven Heide(48) reported contact (1260.29) with another vehicle Sven Heide(48)</Incident>
+<Incident et="9883.3">Sven Heide(48) reported contact (1080.22) with another vehicle Reiko Arnold(46)</Incident>
+<Incident et="9883.3">Sven Heide(48) reported contact (1080.22) with another vehicle Sven Heide(48)</Incident>
+<Incident et="9883.3">Reiko Arnold(46) reported contact (1192.59) with another vehicle Reiko Arnold(46)</Incident>
+<Incident et="9883.3">Reiko Arnold(46) reported contact (1192.59) with another vehicle Sven Heide(48)</Incident>
+<Incident et="9883.3">Reiko Arnold(46) reported contact (1062.30) with another vehicle Reiko Arnold(46)</Incident>
+<Incident et="9883.3">Reiko Arnold(46) reported contact (1062.30) with another vehicle Sven Heide(48)</Incident>
+<Score et="9893.5">Sven Heide(48) lap=18 point=0 t=-1.000 et=9893.505</Score>
+<Score et="9895.7">Reiko Arnold(46) lap=24 point=0 t=-1.000 et=9895.706</Score>
+</Stream>
+<MostLapsCompleted>24</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.106" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="3537.1077" s1="22.8413" s2="46.7849" s3="33.0449" fuel="0.082" twfl="0.969" twfr="0.988" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">102.6711</Lap>
+<Lap num="3" p="1" et="3639.7788" s1="22.7358" s2="46.8110" s3="33.1306" fuel="0.063" twfl="0.949" twfr="0.976" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">102.6775</Lap>
+<Lap num="4" p="1" et="3742.4563" s1="22.9895" s2="46.8484" s3="33.1497" fuel="0.039" twfl="0.922" twfr="0.969" twrl="0.918" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">102.9875</Lap>
+<Lap num="5" p="1" et="3845.4438" s1="22.9080" s2="47.0767" s3="33.2678" fuel="0.016" twfl="0.894" twfr="0.957" twrl="0.898" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">103.2524</Lap>
+<Lap num="6" p="1" et="3948.6963" s1="25.0996" s2="49.5740" fuel="0.000" twfl="0.886" twfr="0.953" twrl="0.882" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>102.6711</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="6"></Swap></Driver>
+<Driver>
+<Name>Reiko Arnold</Name>
+<SteamID>76561198030101515</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.502" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="6985.0215" fuel="0.478" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="7144.7158" s1="25.2852" s2="47.6714" s3="34.2871" fuel="0.455" twfl="0.973" twfr="0.976" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">107.2437</Lap>
+<Lap num="4" p="1" et="7251.9595" s1="23.3403" s2="47.3950" s3="33.8164" fuel="0.431" twfl="0.957" twfr="0.965" twrl="0.937" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">104.5518</Lap>
+<Lap num="5" p="1" et="7356.5112" s1="23.5854" s2="47.6079" s3="33.8999" fuel="0.412" twfl="0.937" twfr="0.957" twrl="0.918" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">105.0933</Lap>
+<Lap num="6" p="1" et="7461.6045" s1="23.3818" fuel="0.502" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="7527.1602" fuel="0.502" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="7937.8198" fuel="0.502" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="8031.0078" fuel="0.478" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="8206.7139" s1="24.6895" s2="49.9277" s3="36.6953" fuel="0.459" twfl="0.980" twfr="0.953" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">111.3125</Lap>
+<Lap num="11" p="1" et="8318.0264" s1="25.2119" s2="48.1895" s3="34.7432" fuel="0.435" twfl="0.965" twfr="0.941" twrl="0.957" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">108.1445</Lap>
+<Lap num="12" p="1" et="8426.1709" s1="23.5391" s2="47.7354" s3="33.8955" fuel="0.412" twfl="0.953" twfr="0.929" twrl="0.929" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">105.1699</Lap>
+<Lap num="13" p="1" et="8531.3408" fuel="0.502" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="8545.1621" fuel="0.478" twfl="0.992" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="8801.6484" s1="24.0713" s2="48.2139" s3="33.6641" fuel="0.455" twfl="0.976" twfr="0.984" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">105.9492</Lap>
+<Lap num="16" p="1" et="8907.5977" s1="23.0117" s2="47.6152" s3="33.5684" fuel="0.431" twfl="0.937" twfr="0.976" twrl="0.937" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">104.1953</Lap>
+<Lap num="17" p="1" et="9011.7930" s1="23.1797" s2="47.8828" s3="33.4961" fuel="0.408" twfl="0.922" twfr="0.969" twrl="0.910" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">104.5586</Lap>
+<Lap num="18" p="1" et="9116.3516" s1="23.6426" fuel="0.502" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="1" et="9182.2920" fuel="0.478" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="1" et="9341.2930" s1="23.3193" s2="50.4531" s3="33.7666" fuel="0.459" twfl="0.980" twfr="0.984" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">107.5391</Lap>
+<Lap num="21" p="1" et="9448.8320" s1="23.7002" s2="47.4268" s3="34.3301" fuel="0.435" twfl="0.965" twfr="0.976" twrl="0.945" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">105.4570</Lap>
+<Lap num="22" p="1" et="9554.2891" s1="23.6025" s2="47.4746" s3="32.9775" fuel="0.412" twfl="0.949" twfr="0.969" twrl="0.925" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">104.0547</Lap>
+<Lap num="23" p="1" et="9658.3438" s1="23.5908" s2="47.4482" s3="33.6162" fuel="0.388" twfl="0.925" twfr="0.953" twrl="0.886" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">104.6553</Lap>
+<Lap num="24" p="1" et="9762.9990" s1="40.7461" s2="49.3242" fuel="0.369" twfl="0.910" twfr="0.941" twrl="0.831" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>104.0547</BestLapTime>
+<Laps>24</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="24">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sven Heide</Name>
+<SteamID>76561198012671202</SteamID>
+<Connected>1</Connected>
+<VehFile>69DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.408" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="7966.3687" fuel="0.408" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="8027.6978" fuel="0.384" twfl="0.973" twfr="0.976" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="2" et="8206.9756" s1="24.1621" s2="51.2803" s3="37.8389" fuel="0.365" twfl="0.953" twfr="0.933" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">113.2813</Lap>
+<Lap num="5" p="2" et="8320.2568" s1="23.7734" s2="49.4844" s3="34.6777" fuel="0.345" twfl="0.925" twfr="0.922" twrl="0.933" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">107.9355</Lap>
+<Lap num="6" p="2" et="8428.1924" s1="23.3730" s2="48.3496" s3="34.6074" fuel="0.322" twfl="0.894" twfr="0.906" twrl="0.914" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">106.3301</Lap>
+<Lap num="7" p="2" et="8534.5225" fuel="0.408" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="2" et="8547.6680" fuel="0.384" twfl="0.961" twfr="0.988" twrl="0.925" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="8802.9482" s1="24.0537" s2="47.3203" s3="34.2021" fuel="0.365" twfl="0.937" twfr="0.961" twrl="0.882" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">105.5762</Lap>
+<Lap num="10" p="2" et="8908.5244" s1="24.3809" s2="47.5713" s3="34.4648" fuel="0.341" twfl="0.910" twfr="0.949" twrl="0.843" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">106.4170</Lap>
+<Lap num="11" p="2" et="9014.9414" s1="23.5156" s2="48.5049" fuel="0.408" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="2" et="9122.4092" fuel="0.408" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="2" et="9122.4092" fuel="0.388" twfl="0.980" twfr="0.988" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="2" et="9340.9121" fuel="0.369" twfl="0.961" twfr="0.976" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="2" et="9448.4219" s1="23.3906" s2="47.4004" s3="35.1807" fuel="0.345" twfl="0.929" twfr="0.961" twrl="0.914" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">105.9717</Lap>
+<Lap num="16" p="2" et="9554.3936" s1="24.2705" s2="47.0723" s3="33.9385" fuel="0.322" twfl="0.910" twfr="0.949" twrl="0.886" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">105.2813</Lap>
+<Lap num="17" p="2" et="9659.6748" s1="23.1201" s2="47.4463" s3="33.7207" fuel="0.302" twfl="0.882" twfr="0.933" twrl="0.863" twrr="0.918" fcompound="0,Dry" rcompound="0,Dry">104.2871</Lap>
+<Lap num="18" p="2" et="9763.9619" fuel="0.408" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>104.2871</BestLapTime>
+<Laps>18</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="12" endLap="12">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="13" endLap="18">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

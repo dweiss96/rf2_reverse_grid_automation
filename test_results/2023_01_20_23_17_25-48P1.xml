@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674243050</DateTime>
+<TimeString>2023/01/20 20:30:50</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674243051</DateTime>
+<TimeString>2023/01/20 20:30:51</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="4620.2">Fred Bart has entered the race.</Chat>
+<System et="4620.2">Fred Bart(12) 176.168.165.76 has joined as a participant</System>
+<Chat et="4622.0">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="4622.0">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="4622.2">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="4622.2">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Score et="4687.3">Fred Bart(12) lap=0 point=1 t=-1.000 et=4687.293</Score>
+<Score et="4736.0">Fred Bart(12) lap=0 point=2 t=-1.000 et=4735.927</Score>
+<Score et="4770.6">Fred Bart(12) lap=1 point=0 t=-1.000 et=4770.571</Score>
+<Sector et="4793.4">Fred Bart(12) set new best for sector 2</Sector>
+<Score et="4793.4">Fred Bart(12) lap=1 point=1 t=22.832 et=4793.402</Score>
+<Sector et="4793.4">Fred Bart(12) set new best for sector 2</Sector>
+<Sector et="4840.7">Fred Bart(12) set new best for sector 3</Sector>
+<Score et="4840.7">Fred Bart(12) lap=1 point=2 t=70.120 et=4840.690</Score>
+<Sector et="4840.7">Fred Bart(12) set new best for sector 3</Sector>
+<Sector et="4874.4">Fred Bart(12) set new best for sector 1</Sector>
+<Score et="4874.4">Fred Bart(12) lap=2 point=0 t=103.775 et=4874.346</Score>
+<Sector et="4874.4">Fred Bart(12) set new best for sector 1</Sector>
+<Sector et="4897.1">Fred Bart(12) set new best for sector 2</Sector>
+<Score et="4897.1">Fred Bart(12) lap=2 point=1 t=22.677 et=4897.023</Score>
+<Sector et="4897.1">Fred Bart(12) set new best for sector 2</Sector>
+<Score et="4944.4">Fred Bart(12) lap=2 point=2 t=70.001 et=4944.348</Score>
+<Sector et="4944.4">Fred Bart(12) set new best for sector 3</Sector>
+<Sector et="4944.4">Fred Bart(12) set new best for sector 3</Sector>
+<Sector et="4977.7">Fred Bart(12) set new best for sector 1</Sector>
+<Score et="4977.7">Fred Bart(12) lap=3 point=0 t=103.309 et=4977.655</Score>
+<Sector et="4977.7">Fred Bart(12) set new best for sector 1</Sector>
+<Score et="4986.7">Fred Bart(12) lap=3 point=1 t=-1.000 et=4986.714</Score>
+<Score et="4986.7">Fred Bart(12) lap=3 point=2 t=-1.000 et=4986.714</Score>
+<Score et="4986.7">Fred Bart(12) lap=4 point=0 t=-1.000 et=4986.714</Score>
+<Score et="5048.3">Fred Bart(12) lap=4 point=1 t=-1.000 et=5048.254</Score>
+<Score et="5096.1">Fred Bart(12) lap=4 point=2 t=-1.000 et=5096.053</Score>
+<Score et="5129.6">Fred Bart(12) lap=5 point=0 t=-1.000 et=5129.615</Score>
+<Sector et="5152.4">Fred Bart(12) set new best for sector 2</Sector>
+<Score et="5152.4">Fred Bart(12) lap=5 point=1 t=22.779 et=5152.394</Score>
+<Sector et="5152.4">Fred Bart(12) set new best for sector 2</Sector>
+<Sector et="5199.3">Fred Bart(12) set new best for sector 3</Sector>
+<Score et="5199.3">Fred Bart(12) lap=5 point=2 t=69.689 et=5199.304</Score>
+<Sector et="5199.3">Fred Bart(12) set new best for sector 3</Sector>
+<Sector et="5232.6">Fred Bart(12) set new best for sector 1</Sector>
+<Score et="5232.6">Fred Bart(12) lap=6 point=0 t=102.959 et=5232.574</Score>
+<Sector et="5232.6">Fred Bart(12) set new best for sector 1</Sector>
+<Sector et="5255.5">Fred Bart(12) set new best for sector 2</Sector>
+<Score et="5255.5">Fred Bart(12) lap=6 point=1 t=22.851 et=5255.424</Score>
+<Sector et="5255.5">Fred Bart(12) set new best for sector 2</Sector>
+<Sector et="5302.3">Fred Bart(12) set new best for sector 3</Sector>
+<Score et="5302.3">Fred Bart(12) lap=6 point=2 t=69.739 et=5302.313</Score>
+<Sector et="5302.3">Fred Bart(12) set new best for sector 3</Sector>
+<Score et="5335.8">Fred Bart(12) lap=7 point=0 t=103.164 et=5335.738</Score>
+<Incident et="5342.1">Fred Bart(12) reported contact (93.79) with Sign</Incident>
+<Incident et="5342.1">Fred Bart(12) reported contact (28.51) with Sign</Incident>
+<Incident et="5342.1">Fred Bart(12) reported contact (55.86) with Sign</Incident>
+<Sector et="5358.7">Fred Bart(12) set new best for sector 2</Sector>
+<Score et="5358.7">Fred Bart(12) lap=7 point=1 t=22.925 et=5358.663</Score>
+<Sector et="5358.7">Fred Bart(12) set new best for sector 2</Sector>
+<Sector et="5405.7">Fred Bart(12) set new best for sector 3</Sector>
+<Score et="5405.7">Fred Bart(12) lap=7 point=2 t=69.955 et=5405.693</Score>
+<Sector et="5405.7">Fred Bart(12) set new best for sector 3</Sector>
+<Score et="5439.0">Fred Bart(12) lap=8 point=0 t=103.208 et=5438.945</Score>
+<Score et="5447.6">Fred Bart(12) lap=8 point=1 t=-1.000 et=5447.611</Score>
+<Score et="5447.6">Fred Bart(12) lap=8 point=2 t=-1.000 et=5447.611</Score>
+<Score et="5447.6">Fred Bart(12) lap=9 point=0 t=-1.000 et=5447.611</Score>
+<Chat et="5491.5">Fred Bart left the race.</Chat>
+<Chat et="6451.6">Thomas Johansen has entered the race.</Chat>
+<System et="6451.6">Thomas Johansen(13) 176.23.56.194 has joined as a participant</System>
+<Command et="6453.0">/w Thomas Johansen If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6453.0">&gt; /w Thomas Johansen If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6453.2">/w Thomas Johansen germansimracing.de | discord.gg/GSR</Command>
+<Chat et="6453.2">&gt; /w Thomas Johansen germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="6623.4">Thomas Johansen left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.059" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="4770.5708" s1="22.8315" s2="47.2881" s3="33.6558" fuel="0.039" twfl="0.976" twfr="0.988" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">103.7754</Lap>
+<Lap num="3" p="1" et="4874.3462" s1="22.6772" s2="47.3242" s3="33.3076" fuel="0.020" twfl="0.961" twfr="0.980" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">103.3091</Lap>
+<Lap num="4" p="1" et="4977.6553" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="4986.7139" fuel="0.078" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="5129.6147" s1="22.7793" s2="46.9097" s3="33.2700" fuel="0.059" twfl="0.973" twfr="0.988" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.9590</Lap>
+<Lap num="7" p="1" et="5232.5737" s1="22.8506" s2="46.8887" s3="33.4248" fuel="0.035" twfl="0.953" twfr="0.980" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.1641</Lap>
+<Lap num="8" p="1" et="5335.7378" s1="22.9253" s2="47.0298" s3="33.2524" fuel="0.016" twfl="0.933" twfr="0.973" twrl="0.918" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.2075</Lap>
+<Lap num="9" p="1" et="5438.9453" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.9590</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="9">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="9"></Swap></Driver>
+<Driver>
+<Name>Thomas Johansen</Name>
+<SteamID>76561198060009589</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

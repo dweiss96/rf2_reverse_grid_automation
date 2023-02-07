@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675177825</DateTime>
+<TimeString>2023/01/31 16:10:25</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675177826</DateTime>
+<TimeString>2023/01/31 16:10:26</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="2265.1">Kay Uwe Fischer has entered the race.</Chat>
+<System et="2265.1">Kay Uwe Fischer(35) 93.204.71.79 has joined as a participant</System>
+<Chat et="2272.4">&gt; /w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="2272.4">/w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="2272.6">/w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Command>
+<Chat et="2272.6">&gt; /w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Chat>
+<Score et="2355.5">Kay Uwe Fischer(35) lap=0 point=1 t=-1.000 et=2355.499</Score>
+<Score et="2404.5">Kay Uwe Fischer(35) lap=0 point=2 t=-1.000 et=2404.480</Score>
+<Score et="2438.8">Kay Uwe Fischer(35) lap=1 point=0 t=-1.000 et=2438.776</Score>
+<Sector et="2462.4">Kay Uwe Fischer(35) set new best for sector 2</Sector>
+<Score et="2462.4">Kay Uwe Fischer(35) lap=1 point=1 t=23.628 et=2462.404</Score>
+<Sector et="2462.4">Kay Uwe Fischer(35) set new best for sector 2</Sector>
+<Sector et="2509.9">Kay Uwe Fischer(35) set new best for sector 3</Sector>
+<Score et="2509.9">Kay Uwe Fischer(35) lap=1 point=2 t=71.137 et=2509.913</Score>
+<Sector et="2509.9">Kay Uwe Fischer(35) set new best for sector 3</Sector>
+<Sector et="2543.8">Kay Uwe Fischer(35) set new best for sector 1</Sector>
+<Score et="2543.8">Kay Uwe Fischer(35) lap=2 point=0 t=105.003 et=2543.779</Score>
+<Sector et="2543.8">Kay Uwe Fischer(35) set new best for sector 1</Sector>
+<Incident et="2550.3">Kay Uwe Fischer(35) reported contact (51.48) with Sign</Incident>
+<Incident et="2550.3">Kay Uwe Fischer(35) reported contact (168.56) with Sign</Incident>
+<Incident et="2550.3">Kay Uwe Fischer(35) reported contact (10.87) with Sign</Incident>
+<Sector et="2567.4">Kay Uwe Fischer(35) set new best for sector 2</Sector>
+<Score et="2567.4">Kay Uwe Fischer(35) lap=2 point=1 t=23.641 et=2567.420</Score>
+<Sector et="2567.4">Kay Uwe Fischer(35) set new best for sector 2</Sector>
+<Sector et="2615.3">Kay Uwe Fischer(35) set new best for sector 3</Sector>
+<Score et="2615.3">Kay Uwe Fischer(35) lap=2 point=2 t=71.458 et=2615.237</Score>
+<Sector et="2615.3">Kay Uwe Fischer(35) set new best for sector 3</Sector>
+<Score et="2649.1">Kay Uwe Fischer(35) lap=3 point=0 t=105.279 et=2649.058</Score>
+<Sector et="2673.3">Kay Uwe Fischer(35) set new best for sector 2</Sector>
+<Score et="2673.3">Kay Uwe Fischer(35) lap=3 point=1 t=24.205 et=2673.262</Score>
+<Sector et="2673.3">Kay Uwe Fischer(35) set new best for sector 2</Sector>
+<Sector et="2720.8">Kay Uwe Fischer(35) set new best for sector 3</Sector>
+<Score et="2720.8">Kay Uwe Fischer(35) lap=3 point=2 t=71.756 et=2720.814</Score>
+<Sector et="2720.8">Kay Uwe Fischer(35) set new best for sector 3</Sector>
+<Score et="2754.8">Kay Uwe Fischer(35) lap=4 point=0 t=105.716 et=2754.774</Score>
+<Sector et="2778.8">Kay Uwe Fischer(35) set new best for sector 2</Sector>
+<Score et="2778.8">Kay Uwe Fischer(35) lap=4 point=1 t=23.998 et=2778.772</Score>
+<Sector et="2778.8">Kay Uwe Fischer(35) set new best for sector 2</Sector>
+<Score et="2783.1">Kay Uwe Fischer(35) lap=4 point=2 t=-1.000 et=2783.067</Score>
+<Score et="2783.1">Kay Uwe Fischer(35) lap=5 point=0 t=-1.000 et=2783.067</Score>
+<Chat et="2828.9">Kay Uwe Fischer left the race.</Chat>
+<Chat et="5442.3">Jerome Delbarre has entered the race.</Chat>
+<System et="5442.3">Jerome Delbarre(36) 90.0.141.169 has joined as a participant</System>
+<Command et="5453.6">/w Jerome Delbarre If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="5453.6">&gt; /w Jerome Delbarre If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="5453.8">/w Jerome Delbarre germansimracing.de | discord.gg/GSR</Command>
+<Chat et="5453.8">&gt; /w Jerome Delbarre germansimracing.de | discord.gg/GSR</Chat>
+<Score et="5855.1">Jerome Delbarre(36) lap=0 point=1 t=-1.000 et=5855.022</Score>
+<Incident et="5905.9">Jerome Delbarre(36) reported contact (2419.64) with Immovable</Incident>
+<Incident et="5905.9">Jerome Delbarre(36) reported contact (2024.25) with Immovable</Incident>
+<Incident et="5906.0">Jerome Delbarre(36) reported contact (1654.50) with Immovable</Incident>
+<Incident et="5906.0">Jerome Delbarre(36) reported contact (1375.93) with Immovable</Incident>
+<Score et="5908.7">Jerome Delbarre(36) lap=0 point=2 t=-1.000 et=5908.717</Score>
+<Score et="5908.7">Jerome Delbarre(36) lap=1 point=0 t=-1.000 et=5908.717</Score>
+<Score et="5963.5">Jerome Delbarre(36) lap=1 point=1 t=-1.000 et=5963.470</Score>
+<Score et="6014.5">Jerome Delbarre(36) lap=1 point=2 t=-1.000 et=6014.509</Score>
+<Score et="6050.3">Jerome Delbarre(36) lap=2 point=0 t=-1.000 et=6050.248</Score>
+<Score et="6076.0">Jerome Delbarre(36) lap=2 point=1 t=25.765 et=6076.012</Score>
+<Sector et="6076.0">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="6076.0">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="6125.3">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="6125.3">Jerome Delbarre(36) lap=2 point=2 t=75.060 et=6125.307</Score>
+<Sector et="6125.3">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="6166.5">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Score et="6166.5">Jerome Delbarre(36) lap=3 point=0 t=116.266 et=6166.514</Score>
+<Sector et="6166.5">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="6191.7">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="6191.7">Jerome Delbarre(36) lap=3 point=1 t=25.134 et=6191.647</Score>
+<Sector et="6191.7">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="6241.9">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="6241.9">Jerome Delbarre(36) lap=3 point=2 t=75.351 et=6241.865</Score>
+<Sector et="6241.9">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="6277.6">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Score et="6277.6">Jerome Delbarre(36) lap=4 point=0 t=111.035 et=6277.549</Score>
+<Sector et="6277.6">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="6301.7">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="6301.7">Jerome Delbarre(36) lap=4 point=1 t=24.137 et=6301.686</Score>
+<Sector et="6301.7">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="6351.1">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="6351.1">Jerome Delbarre(36) lap=4 point=2 t=73.499 et=6351.048</Score>
+<Sector et="6351.1">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="6386.2">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Score et="6386.2">Jerome Delbarre(36) lap=5 point=0 t=108.603 et=6386.152</Score>
+<Sector et="6386.2">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="6410.3">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="6410.3">Jerome Delbarre(36) lap=5 point=1 t=24.111 et=6410.263</Score>
+<Sector et="6410.3">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="6459.3">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="6459.3">Jerome Delbarre(36) lap=5 point=2 t=73.161 et=6459.313</Score>
+<Sector et="6459.3">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="6494.3">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Score et="6494.3">Jerome Delbarre(36) lap=6 point=0 t=108.144 et=6494.295</Score>
+<Sector et="6494.3">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Chat et="6503.9">Clement Gergaud has entered the race.</Chat>
+<System et="6503.9">Clement Gergaud(37) 90.25.73.17 has joined as a participant</System>
+<Command et="6513.4">/w Clement Gergaud If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6513.4">&gt; /w Clement Gergaud If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6513.6">/w Clement Gergaud germansimracing.de | discord.gg/GSR</Command>
+<Chat et="6513.6">&gt; /w Clement Gergaud germansimracing.de | discord.gg/GSR</Chat>
+<Score et="6518.3">Jerome Delbarre(36) lap=6 point=1 t=23.977 et=6518.272</Score>
+<Sector et="6518.3">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="6518.3">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="6518.3">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="6567.3">Jerome Delbarre(36) lap=6 point=2 t=72.990 et=6567.285</Score>
+<Sector et="6567.3">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="6567.3">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="6567.3">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="6577.0">Clement Gergaud(37) lap=0 point=1 t=-1.000 et=6576.953</Score>
+<Incident et="6599.1">Jerome Delbarre(36) reported contact (1670.11) with Immovable</Incident>
+<Incident et="6599.1">Jerome Delbarre(36) reported contact (1501.97) with Immovable</Incident>
+<Score et="6603.7">Jerome Delbarre(36) lap=7 point=0 t=-1.000 et=6601.840</Score>
+<Score et="6603.7">Jerome Delbarre(36) lap=7 point=1 t=-1.000 et=6601.840</Score>
+<Score et="6603.7">Jerome Delbarre(36) lap=7 point=2 t=-1.000 et=6601.840</Score>
+<Score et="6603.7">Jerome Delbarre(36) lap=8 point=0 t=-1.000 et=6601.840</Score>
+<Score et="6624.8">Clement Gergaud(37) lap=0 point=2 t=-1.000 et=6624.727</Score>
+<Score et="6672.9">Clement Gergaud(37) lap=1 point=0 t=-1.000 et=6672.910</Score>
+<Score et="6679.0">Jerome Delbarre(36) lap=8 point=1 t=-1.000 et=6678.990</Score>
+<Sector et="6696.4">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="6696.4">Clement Gergaud(37) lap=1 point=1 t=23.481 et=6696.391</Score>
+<Sector et="6696.4">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="6696.4">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="6728.0">Jerome Delbarre(36) lap=8 point=2 t=-1.000 et=6728.014</Score>
+<Sector et="6745.9">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="6745.9">Clement Gergaud(37) lap=1 point=2 t=72.971 et=6745.881</Score>
+<Sector et="6745.9">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="6745.9">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="6763.3">Jerome Delbarre(36) lap=9 point=0 t=-1.000 et=6763.271</Score>
+<Sector et="6787.7">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="6787.7">Jerome Delbarre(36) lap=9 point=1 t=24.379 et=6787.650</Score>
+<Sector et="6787.7">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="6787.7">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="6789.5">Clement Gergaud(37) set new best for sector 1</Sector>
+<Score et="6789.5">Clement Gergaud(37) lap=2 point=0 t=116.583 et=6789.493</Score>
+<Sector et="6789.5">Clement Gergaud(37) set new best for sector 1</Sector>
+<Sector et="6789.5">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="6813.1">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="6813.1">Clement Gergaud(37) lap=2 point=1 t=23.537 et=6813.030</Score>
+<Sector et="6813.1">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="6813.1">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="6836.7">Jerome Delbarre(36) lap=9 point=2 t=-1.000 et=6836.687</Score>
+<Sector et="6860.9">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="6860.9">Clement Gergaud(37) lap=2 point=2 t=71.371 et=6860.864</Score>
+<Sector et="6860.9">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="6860.9">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="6871.6">Jerome Delbarre(36) lap=10 point=0 t=108.307 et=6871.578</Score>
+<Score et="6894.8">Jerome Delbarre(36) lap=10 point=1 t=-1.000 et=6894.765</Score>
+<Sector et="6896.1">Clement Gergaud(37) set new best for sector 1</Sector>
+<Score et="6896.1">Clement Gergaud(37) lap=3 point=0 t=106.555 et=6896.048</Score>
+<Sector et="6896.1">Clement Gergaud(37) set new best for sector 1</Sector>
+<Sector et="6896.1">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="6919.8">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="6919.8">Clement Gergaud(37) lap=3 point=1 t=23.699 et=6919.748</Score>
+<Sector et="6919.8">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="6919.8">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="6943.1">Jerome Delbarre(36) lap=10 point=2 t=-1.000 et=6943.042</Score>
+<Sector et="6967.9">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="6967.9">Clement Gergaud(37) lap=3 point=2 t=71.795 et=6967.844</Score>
+<Sector et="6967.9">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="6967.9">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="6977.2">Jerome Delbarre(36) lap=11 point=0 t=-1.000 et=6977.162</Score>
+<Score et="7000.5">Jerome Delbarre(36) lap=11 point=1 t=-1.000 et=7000.473</Score>
+<Sector et="7002.5">Clement Gergaud(37) set new best for sector 1</Sector>
+<Score et="7002.5">Clement Gergaud(37) lap=4 point=0 t=106.388 et=7002.436</Score>
+<Sector et="7002.5">Clement Gergaud(37) set new best for sector 1</Sector>
+<Sector et="7002.5">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="7026.5">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7026.5">Clement Gergaud(37) lap=4 point=1 t=24.043 et=7026.479</Score>
+<Sector et="7026.5">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7026.5">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="7049.0">Jerome Delbarre(36) lap=11 point=2 t=-1.000 et=7048.988</Score>
+<Score et="7049.6">Clement Gergaud(37) lap=4 point=2 t=-1.000 et=7049.621</Score>
+<Score et="7049.6">Clement Gergaud(37) lap=5 point=0 t=-1.000 et=7049.621</Score>
+<Score et="7085.1">Jerome Delbarre(36) lap=12 point=0 t=-1.000 et=7085.090</Score>
+<Score et="7102.2">Clement Gergaud(37) lap=5 point=1 t=-1.000 et=7102.186</Score>
+<Score et="7109.0">Jerome Delbarre(36) lap=12 point=1 t=23.876 et=7108.966</Score>
+<Sector et="7109.0">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7109.0">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7109.0">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7150.5">Clement Gergaud(37) lap=5 point=2 t=-1.000 et=7150.487</Score>
+<Score et="7157.1">Jerome Delbarre(36) lap=12 point=2 t=71.969 et=7157.059</Score>
+<Sector et="7157.1">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7157.1">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7157.1">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="7185.1">Clement Gergaud(37) lap=6 point=0 t=-1.000 et=7185.058</Score>
+<Score et="7191.7">Jerome Delbarre(36) lap=13 point=0 t=106.532 et=7191.622</Score>
+<Sector et="7191.7">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="7191.7">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="7191.7">Clement Gergaud(37) set new best for sector 1</Sector>
+<Sector et="7208.1">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7208.1">Clement Gergaud(37) lap=6 point=1 t=23.058 et=7208.115</Score>
+<Sector et="7208.1">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7208.2">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="7215.2">Jerome Delbarre(36) lap=13 point=1 t=23.582 et=7215.203</Score>
+<Sector et="7215.2">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7215.2">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7215.3">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7255.7">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="7255.7">Clement Gergaud(37) lap=6 point=2 t=70.595 et=7255.652</Score>
+<Sector et="7255.7">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="7255.7">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7263.7">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="7263.7">Jerome Delbarre(36) lap=13 point=2 t=72.068 et=7263.689</Score>
+<Sector et="7263.7">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7263.7">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="7291.2">Clement Gergaud(37) set new best for sector 1</Sector>
+<Score et="7291.2">Clement Gergaud(37) lap=7 point=0 t=106.152 et=7291.210</Score>
+<Sector et="7291.2">Clement Gergaud(37) set new best for sector 1</Sector>
+<Sector et="7291.3">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="7297.8">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Score et="7297.8">Jerome Delbarre(36) lap=14 point=0 t=106.178 et=7297.799</Score>
+<Sector et="7297.8">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Sector et="7297.8">Clement Gergaud(37) set new best for sector 1</Sector>
+<Sector et="7314.5">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7314.5">Clement Gergaud(37) lap=7 point=1 t=23.264 et=7314.474</Score>
+<Sector et="7314.5">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7314.5">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="7321.4">Jerome Delbarre(36) lap=14 point=1 t=23.522 et=7321.321</Score>
+<Sector et="7321.4">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7321.4">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7321.4">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7361.4">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="7361.4">Clement Gergaud(37) lap=7 point=2 t=70.199 et=7361.409</Score>
+<Sector et="7361.4">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="7361.5">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="7370.1">Jerome Delbarre(36) lap=14 point=2 t=72.222 et=7370.021</Score>
+<Sector et="7370.1">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7370.1">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7370.1">Clement Gergaud(37) set new best for sector 3</Sector>
+<Incident et="7370.9">Clement Gergaud(37) reported contact (1175.59) with Immovable</Incident>
+<Incident et="7370.9">Clement Gergaud(37) reported contact (1218.17) with Immovable</Incident>
+<Incident et="7370.9">Clement Gergaud(37) reported contact (1217.98) with Immovable</Incident>
+<Score et="7373.9">Clement Gergaud(37) lap=8 point=0 t=-1.000 et=7373.915</Score>
+<Score et="7414.8">Jerome Delbarre(36) lap=15 point=0 t=116.933 et=7414.732</Score>
+<Score et="7427.1">Clement Gergaud(37) lap=8 point=1 t=-1.000 et=7427.030</Score>
+<Sector et="7438.4">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="7438.4">Jerome Delbarre(36) lap=15 point=1 t=23.672 et=7438.404</Score>
+<Sector et="7438.4">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7438.5">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7474.6">Clement Gergaud(37) lap=8 point=2 t=-1.000 et=7474.616</Score>
+<Sector et="7486.5">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="7486.5">Jerome Delbarre(36) lap=15 point=2 t=71.727 et=7486.459</Score>
+<Sector et="7486.5">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7486.5">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="7509.1">Clement Gergaud(37) lap=9 point=0 t=-1.000 et=7509.036</Score>
+<Incident et="7517.7">Jerome Delbarre(36) reported contact (122.21) with Sign</Incident>
+<Incident et="7517.8">Jerome Delbarre(36) reported contact (15.47) with Sign</Incident>
+<Incident et="7517.8">Jerome Delbarre(36) reported contact (15.75) with Sign</Incident>
+<Incident et="7517.8">Jerome Delbarre(36) reported contact (163.24) with Sign</Incident>
+<Incident et="7517.8">Jerome Delbarre(36) reported contact (134.62) with Sign</Incident>
+<Incident et="7517.8">Jerome Delbarre(36) reported contact (15.83) with Sign</Incident>
+<Incident et="7517.8">Jerome Delbarre(36) reported contact (78.14) with Sign</Incident>
+<Incident et="7518.0">Jerome Delbarre(36) reported contact (113.60) with Sign</Incident>
+<Incident et="7518.0">Jerome Delbarre(36) reported contact (9.87) with Sign</Incident>
+<Score et="7527.0">Jerome Delbarre(36) lap=16 point=0 t=-1.000 et=7527.022</Score>
+<Score et="7527.0">Jerome Delbarre(36) lap=16 point=1 t=-1.000 et=7527.022</Score>
+<Score et="7527.0">Jerome Delbarre(36) lap=16 point=2 t=-1.000 et=7527.022</Score>
+<Score et="7527.0">Jerome Delbarre(36) lap=17 point=0 t=-1.000 et=7527.022</Score>
+<Sector et="7532.1">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7532.1">Clement Gergaud(37) lap=9 point=1 t=23.042 et=7532.078</Score>
+<Sector et="7532.1">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7532.1">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7579.2">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="7579.2">Clement Gergaud(37) lap=9 point=2 t=70.147 et=7579.183</Score>
+<Sector et="7579.2">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="7579.2">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7612.6">Clement Gergaud(37) set new best for sector 1</Sector>
+<Score et="7612.6">Clement Gergaud(37) lap=10 point=0 t=103.495 et=7612.530</Score>
+<Sector et="7612.6">Clement Gergaud(37) set new best for sector 1</Sector>
+<Sector et="7612.6">Jerome Delbarre(36) set new best for sector 1</Sector>
+<Score et="7635.7">Clement Gergaud(37) lap=10 point=1 t=-1.000 et=7635.685</Score>
+<Penalty et="7649.2">Jerome Delbarre received Stop/Go penalty, 10s, 0laps for &quot;Speeding In Pitlane&quot;. Result: penalties=1, 1st=Stop/Go,10s</Penalty>
+<Score et="7671.3">Jerome Delbarre(36) lap=17 point=1 t=-1.000 et=7671.312</Score>
+<Score et="7682.8">Clement Gergaud(37) lap=10 point=2 t=-1.000 et=7682.789</Score>
+<Score et="7716.6">Clement Gergaud(37) lap=11 point=0 t=-1.000 et=7716.545</Score>
+<Score et="7719.5">Jerome Delbarre(36) lap=17 point=2 t=-1.000 et=7719.442</Score>
+<Incident et="7737.9">Jerome Delbarre(36) reported contact (2025.82) with Immovable</Incident>
+<Incident et="7737.9">Jerome Delbarre(36) reported contact (1910.51) with Immovable</Incident>
+<Incident et="7737.9">Jerome Delbarre(36) reported contact (1393.30) with Immovable</Incident>
+<Incident et="7737.9">Jerome Delbarre(36) reported contact (1148.62) with Immovable</Incident>
+<Sector et="7739.9">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7739.9">Clement Gergaud(37) lap=11 point=1 t=23.296 et=7739.841</Score>
+<Sector et="7739.9">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7739.9">Jerome Delbarre(36) lap=18 point=0 t=-1.000 et=7739.867</Score>
+<Sector et="7740.5">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="7784.6">Jerome Delbarre(36) lap=18 point=1 t=-1.000 et=7784.571</Score>
+<Sector et="7787.2">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="7787.2">Clement Gergaud(37) lap=11 point=2 t=70.665 et=7787.210</Score>
+<Sector et="7787.2">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="7787.3">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="7821.0">Clement Gergaud(37) lap=12 point=0 t=104.412 et=7820.958</Score>
+<Score et="7832.9">Jerome Delbarre(36) lap=18 point=2 t=-1.000 et=7832.902</Score>
+<Score et="7844.4">Clement Gergaud(37) lap=12 point=1 t=23.375 et=7844.333</Score>
+<Sector et="7844.4">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7844.4">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7844.4">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="7867.7">Jerome Delbarre(36) lap=19 point=0 t=-1.000 et=7867.670</Score>
+<Sector et="7891.0">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="7891.0">Jerome Delbarre(36) lap=19 point=1 t=23.345 et=7891.015</Score>
+<Sector et="7891.0">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="7891.1">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7891.7">Clement Gergaud(37) set new best for sector 3</Sector>
+<Score et="7891.7">Clement Gergaud(37) lap=12 point=2 t=70.724 et=7891.682</Score>
+<Sector et="7891.7">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="7891.7">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="7927.1">Clement Gergaud(37) lap=13 point=0 t=106.080 et=7927.037</Score>
+<Sector et="7938.5">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Score et="7938.5">Jerome Delbarre(36) lap=19 point=2 t=70.824 et=7938.494</Score>
+<Sector et="7938.5">Jerome Delbarre(36) set new best for sector 3</Sector>
+<Sector et="7938.5">Clement Gergaud(37) set new best for sector 3</Sector>
+<Sector et="7950.7">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="7950.7">Clement Gergaud(37) lap=13 point=1 t=23.674 et=7950.711</Score>
+<Sector et="7950.7">Clement Gergaud(37) set new best for sector 2</Sector>
+<Sector et="7950.8">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="7959.5">Clement Gergaud(37) lap=13 point=2 t=-1.000 et=7959.426</Score>
+<Score et="7959.5">Clement Gergaud(37) lap=14 point=0 t=-1.000 et=7959.426</Score>
+<Score et="7979.8">Jerome Delbarre(36) lap=20 point=0 t=112.142 et=7979.812</Score>
+<Sector et="8003.4">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Score et="8003.4">Jerome Delbarre(36) lap=20 point=1 t=23.535 et=8003.347</Score>
+<Sector et="8003.4">Jerome Delbarre(36) set new best for sector 2</Sector>
+<Sector et="8003.4">Clement Gergaud(37) set new best for sector 2</Sector>
+<Score et="8043.7">Jerome Delbarre(36) lap=20 point=2 t=-1.000 et=8043.693</Score>
+<Score et="8043.7">Jerome Delbarre(36) lap=21 point=0 t=-1.000 et=8043.693</Score>
+<Score et="8088.9">Jerome Delbarre(36) lap=21 point=1 t=-1.000 et=8088.917</Score>
+<Score et="8137.0">Jerome Delbarre(36) lap=21 point=2 t=-1.000 et=8136.945</Score>
+<Score et="8179.1">Jerome Delbarre(36) lap=22 point=0 t=-1.000 et=8179.085</Score>
+<Score et="8215.7">Jerome Delbarre(36) lap=22 point=1 t=-1.000 et=8215.663</Score>
+<Score et="8264.4">Jerome Delbarre(36) lap=22 point=2 t=-1.000 et=8264.408</Score>
+<Score et="8298.5">Jerome Delbarre(36) lap=23 point=0 t=-1.000 et=8298.454</Score>
+<Command from="Jerome Delbarre" nodeid="1" et="8317.5">/callvote restartweekend</Command>
+<Vote et="8317.5">Jerome Delbarre: /callvote restartweekend</Vote>
+<Sent et="8317.5">&quot;restart weekend&quot; proposed by Jerome Delbarre: 1 vote needed to pass</Sent>
+<Command from="Jerome Delbarre" nodeid="1" et="8351.0">/callvote restartweekend</Command>
+<Vote et="8351.0">Jerome Delbarre: /callvote restartweekend</Vote>
+<Sent et="8351.0">Cannot call vote: there is a vote in progress</Sent>
+<Chat et="8361.5">Jerome Delbarre left the race.</Chat>
+<Chat et="8411.5">Jerome Delbarre has entered the race.</Chat>
+<System et="8411.5">Jerome Delbarre(38) 90.0.141.169 has joined as a participant</System>
+<System et="8411.5">Jerome Delbarre returned with matching vehicle/upgrades: restoring score (23 laps)</System>
+<Chat et="8413.2">&gt; /w Jerome Delbarre If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="8413.2">/w Jerome Delbarre If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="8413.4">/w Jerome Delbarre germansimracing.de | discord.gg/GSR</Command>
+<Chat et="8413.4">&gt; /w Jerome Delbarre germansimracing.de | discord.gg/GSR</Chat>
+<Command from="Jerome Delbarre" nodeid="1" et="8434.2">/callvote restartweekend</Command>
+<Vote et="8434.2">Jerome Delbarre: /callvote restartweekend</Vote>
+<Sent et="8434.2">&quot;restart weekend&quot; proposed by Jerome Delbarre: 1 vote needed to pass</Sent>
+<Command from="Jerome Delbarre" nodeid="1" et="8439.5">/vote yes</Command>
+<Vote et="8439.5">Jerome Delbarre: /vote yes</Vote>
+<Sent et="8439.5">Vote ignored: You can only vote once per issue</Sent>
+<Chat et="8493.3">Clement Gergaud left the race.</Chat>
+<Command from="Jerome Delbarre" nodeid="1" et="8512.1">/vote yes</Command>
+<Vote et="8512.1">Jerome Delbarre: /vote yes</Vote>
+<Sent et="8512.1">Vote ignored: There is no vote in progress</Sent>
+<Command from="Jerome Delbarre" nodeid="1" et="8518.9">/callvote restartweekend</Command>
+<Vote et="8518.9">Jerome Delbarre: /callvote restartweekend</Vote>
+<Sent et="8518.9">&quot;restart weekend&quot; proposed by Jerome Delbarre: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>23</MostLapsCompleted>
+<Driver>
+<Name>Jerome Delbarre</Name>
+<SteamID>76561199232552780</SteamID>
+<Connected>1</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="5908.7168" fuel="0.431" twfl="0.980" twfr="0.992" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="6050.2476" s1="25.7646" s2="49.2949" s3="41.2065" fuel="0.412" twfl="0.965" twfr="0.980" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">116.2661</Lap>
+<Lap num="4" p="1" et="6166.5137" s1="25.1338" s2="50.2173" s3="35.6841" fuel="0.388" twfl="0.937" twfr="0.969" twrl="0.910" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">111.0352</Lap>
+<Lap num="5" p="1" et="6277.5488" s1="24.1372" s2="49.3618" s3="35.1040" fuel="0.369" twfl="0.922" twfr="0.949" twrl="0.882" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">108.6030</Lap>
+<Lap num="6" p="1" et="6386.1519" s1="24.1108" s2="49.0498" s3="34.9829" fuel="0.345" twfl="0.902" twfr="0.937" twrl="0.859" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">108.1436</Lap>
+<Lap num="7" p="1" et="6494.2954" s1="23.9766" s2="49.0132" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="6601.8403" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="6601.8403" fuel="0.431" twfl="0.988" twfr="0.980" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="6763.2715" s1="24.3789" fuel="0.412" twfl="0.969" twfr="0.965" twrl="0.969" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">108.3066</Lap>
+<Lap num="11" p="2" et="6871.5781" fuel="0.388" twfl="0.949" twfr="0.953" twrl="0.945" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="2" et="6977.1616" fuel="0.365" twfl="0.925" twfr="0.902" twrl="0.918" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="2" et="7085.0898" s1="23.8760" s2="48.0933" s3="34.5625" fuel="0.345" twfl="0.871" twfr="0.886" twrl="0.890" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">106.5317</Lap>
+<Lap num="14" p="2" et="7191.6216" s1="23.5815" s2="48.4863" s3="34.1099" fuel="0.322" twfl="0.804" twfr="0.847" twrl="0.855" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry">106.1777</Lap>
+<Lap num="15" p="2" et="7297.7993" s1="23.5220" s2="48.6997" s3="44.7114" fuel="0.298" twfl="0.729" twfr="0.827" twrl="0.812" twrr="0.894" fcompound="0,Dry" rcompound="0,Dry">116.9331</Lap>
+<Lap num="16" p="2" et="7414.7324" s1="23.6719" s2="48.0552" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="2" et="7527.0220" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="2" et="7527.0220" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="7739.8667" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="2" et="7867.6699" s1="23.3447" s2="47.4795" s3="41.3179" fuel="0.408" twfl="0.965" twfr="0.980" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">112.1421</Lap>
+<Lap num="21" p="2" et="7979.8120" s1="23.5352" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="2" et="8043.6929" fuel="0.435" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="23" p="2" et="8179.0850" fuel="0.412" twfl="0.976" twfr="0.984" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>106.1777</BestLapTime>
+<Laps>23</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>DQ</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="8" endLap="8">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="9" endLap="16">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="17" endLap="17">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="18" endLap="23">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="23"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

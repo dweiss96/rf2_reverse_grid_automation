@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674158877</DateTime>
+<TimeString>2023/01/19 21:07:57</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674158877</DateTime>
+<TimeString>2023/01/19 21:07:57</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="1048.2">Connor Roth has entered the race.</Chat>
+<System et="1048.2">Connor Roth(1) 84.191.80.200 has joined as a participant</System>
+<Command et="1052.0">/w Connor Roth If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="1052.0">&gt; /w Connor Roth If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="1052.2">&gt; /w Connor Roth germansimracing.de | discord.gg/GSR</Chat>
+<Command et="1052.2">/w Connor Roth germansimracing.de | discord.gg/GSR</Command>
+<Score et="1244.9">Connor Roth(1) lap=0 point=1 t=-1.000 et=1244.823</Score>
+<Score et="1293.1">Connor Roth(1) lap=0 point=2 t=-1.000 et=1293.103</Score>
+<Score et="1327.7">Connor Roth(1) lap=1 point=0 t=-1.000 et=1327.633</Score>
+<Incident et="1334.0">Connor Roth(1) reported contact (34.36) with Sign</Incident>
+<Incident et="1334.0">Connor Roth(1) reported contact (15.34) with Sign</Incident>
+<Incident et="1334.0">Connor Roth(1) reported contact (55.87) with Sign</Incident>
+<Sector et="1350.8">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="1350.8">Connor Roth(1) lap=1 point=1 t=23.133 et=1350.766</Score>
+<Sector et="1350.8">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="1399.4">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="1399.4">Connor Roth(1) lap=1 point=2 t=71.769 et=1399.402</Score>
+<Sector et="1399.4">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="1433.7">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="1433.7">Connor Roth(1) lap=2 point=0 t=106.064 et=1433.697</Score>
+<Sector et="1433.7">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="1456.7">Connor Roth(1) lap=2 point=1 t=22.994 et=1456.690</Score>
+<Sector et="1456.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="1456.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="1504.8">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="1504.8">Connor Roth(1) lap=2 point=2 t=71.024 et=1504.721</Score>
+<Sector et="1504.8">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="1538.4">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="1538.4">Connor Roth(1) lap=3 point=0 t=104.710 et=1538.407</Score>
+<Sector et="1538.4">Connor Roth(1) set new best for sector 1</Sector>
+<Sector et="1562.2">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="1562.2">Connor Roth(1) lap=3 point=1 t=23.736 et=1562.143</Score>
+<Sector et="1562.2">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="1609.9">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="1609.9">Connor Roth(1) lap=3 point=2 t=71.488 et=1609.895</Score>
+<Sector et="1609.9">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="1643.7">Connor Roth(1) lap=4 point=0 t=105.301 et=1643.707</Score>
+<Score et="1663.7">Connor Roth(1) lap=4 point=1 t=-1.000 et=1663.706</Score>
+<Score et="1663.7">Connor Roth(1) lap=4 point=2 t=-1.000 et=1663.706</Score>
+<Score et="1663.7">Connor Roth(1) lap=5 point=0 t=-1.000 et=1663.706</Score>
+<Score et="1736.6">Connor Roth(1) lap=5 point=1 t=-1.000 et=1736.609</Score>
+<Score et="1784.8">Connor Roth(1) lap=5 point=2 t=-1.000 et=1784.757</Score>
+<Score et="1817.8">Connor Roth(1) lap=6 point=0 t=-1.000 et=1817.752</Score>
+<Score et="1841.1">Connor Roth(1) lap=6 point=1 t=23.318 et=1841.070</Score>
+<Sector et="1841.1">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="1841.1">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="1888.1">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="1888.1">Connor Roth(1) lap=6 point=2 t=70.298 et=1888.050</Score>
+<Sector et="1888.1">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="1921.3">Connor Roth(1) lap=7 point=0 t=103.562 et=1921.314</Score>
+<Sector et="1921.3">Connor Roth(1) set new best for sector 1</Sector>
+<Sector et="1921.3">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="1944.6">Connor Roth(1) lap=7 point=1 t=23.274 et=1944.589</Score>
+<Sector et="1944.6">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="1944.6">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="1991.9">Connor Roth(1) lap=7 point=2 t=70.506 et=1991.821</Score>
+<Sector et="1991.9">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="1991.9">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="2025.7">Connor Roth(1) lap=8 point=0 t=104.378 et=2025.692</Score>
+<Sector et="2049.0">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="2049.0">Connor Roth(1) lap=8 point=1 t=23.307 et=2049.000</Score>
+<Sector et="2049.0">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="2096.4">Connor Roth(1) lap=8 point=2 t=70.642 et=2096.335</Score>
+<Sector et="2096.4">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="2096.4">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="2129.8">Connor Roth(1) lap=9 point=0 t=104.085 et=2129.778</Score>
+<Score et="2152.5">Connor Roth(1) lap=9 point=1 t=-1.000 et=2152.508</Score>
+<Score et="2200.0">Connor Roth(1) lap=9 point=2 t=-1.000 et=2199.938</Score>
+<Score et="2233.5">Connor Roth(1) lap=10 point=0 t=-1.000 et=2233.461</Score>
+<Score et="2256.8">Connor Roth(1) lap=10 point=1 t=23.292 et=2256.753</Score>
+<Sector et="2256.8">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="2256.8">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="2304.7">Connor Roth(1) lap=10 point=2 t=71.205 et=2304.666</Score>
+<Sector et="2304.7">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="2304.7">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="2338.1">Connor Roth(1) lap=11 point=0 t=104.654 et=2338.115</Score>
+<Sector et="2361.0">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="2361.0">Connor Roth(1) lap=11 point=1 t=22.816 et=2360.931</Score>
+<Sector et="2361.0">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="2408.6">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="2408.6">Connor Roth(1) lap=11 point=2 t=70.449 et=2408.564</Score>
+<Sector et="2408.6">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="2442.3">Connor Roth(1) lap=12 point=0 t=104.188 et=2442.303</Score>
+<Score et="2465.7">Connor Roth(1) lap=12 point=1 t=23.339 et=2465.643</Score>
+<Sector et="2465.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="2465.7">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="2513.1">Connor Roth(1) lap=12 point=2 t=70.739 et=2513.043</Score>
+<Sector et="2513.1">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="2513.1">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="2546.7">Connor Roth(1) lap=13 point=0 t=104.395 et=2546.698</Score>
+<Score et="2560.0">Connor Roth(1) lap=13 point=1 t=-1.000 et=2560.000</Score>
+<Score et="2560.0">Connor Roth(1) lap=13 point=2 t=-1.000 et=2560.000</Score>
+<Score et="2560.0">Connor Roth(1) lap=14 point=0 t=-1.000 et=2560.000</Score>
+<Score et="2674.2">Connor Roth(1) lap=14 point=1 t=-1.000 et=2674.174</Score>
+<Score et="2723.0">Connor Roth(1) lap=14 point=2 t=-1.000 et=2722.990</Score>
+<Score et="2756.4">Connor Roth(1) lap=15 point=0 t=-1.000 et=2756.364</Score>
+<Sector et="2779.3">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="2779.3">Connor Roth(1) lap=15 point=1 t=22.924 et=2779.288</Score>
+<Sector et="2779.3">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="2826.8">Connor Roth(1) lap=15 point=2 t=70.420 et=2826.783</Score>
+<Sector et="2826.8">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="2826.8">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="2861.2">Connor Roth(1) lap=16 point=0 t=104.838 et=2861.202</Score>
+<Score et="2883.9">Connor Roth(1) lap=16 point=1 t=22.646 et=2883.848</Score>
+<Sector et="2883.9">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="2883.9">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="2930.9">Connor Roth(1) lap=16 point=2 t=69.703 et=2930.905</Score>
+<Sector et="2930.9">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="2930.9">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="2964.2">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="2964.2">Connor Roth(1) lap=17 point=0 t=102.975 et=2964.177</Score>
+<Sector et="2964.2">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="2987.0">Connor Roth(1) lap=17 point=1 t=22.797 et=2986.974</Score>
+<Sector et="2987.0">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="2987.0">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="3034.0">Connor Roth(1) lap=17 point=2 t=69.794 et=3033.970</Score>
+<Sector et="3034.0">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="3034.0">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="3067.1">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="3067.1">Connor Roth(1) lap=18 point=0 t=102.931 et=3067.108</Score>
+<Sector et="3067.1">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="3089.8">Connor Roth(1) lap=18 point=1 t=22.705 et=3089.813</Score>
+<Sector et="3089.8">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="3089.8">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="3136.7">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="3136.7">Connor Roth(1) lap=18 point=2 t=69.519 et=3136.627</Score>
+<Sector et="3136.7">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="3170.1">Connor Roth(1) lap=19 point=0 t=102.931 et=3170.039</Score>
+<Sector et="3170.1">Connor Roth(1) set new best for sector 1</Sector>
+<Sector et="3170.1">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="3193.2">Connor Roth(1) lap=19 point=1 t=23.175 et=3193.214</Score>
+<Sector et="3193.2">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="3193.2">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="3240.2">Connor Roth(1) lap=19 point=2 t=70.173 et=3240.212</Score>
+<Sector et="3240.2">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="3240.2">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="3273.5">Connor Roth(1) lap=20 point=0 t=103.435 et=3273.474</Score>
+<Sector et="3296.5">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="3296.5">Connor Roth(1) lap=20 point=1 t=23.020 et=3296.494</Score>
+<Sector et="3296.5">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="3343.9">Connor Roth(1) lap=20 point=2 t=70.391 et=3343.865</Score>
+<Sector et="3343.9">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="3343.9">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="3377.5">Connor Roth(1) lap=21 point=0 t=104.007 et=3377.481</Score>
+<Sector et="3400.3">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="3400.3">Connor Roth(1) lap=21 point=1 t=22.810 et=3400.290</Score>
+<Sector et="3400.3">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="3447.6">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="3447.6">Connor Roth(1) lap=21 point=2 t=70.135 et=3447.615</Score>
+<Sector et="3447.6">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="3481.2">Connor Roth(1) lap=22 point=0 t=103.658 et=3481.139</Score>
+<Sector et="3505.6">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="3505.6">Connor Roth(1) lap=22 point=1 t=24.440 et=3505.579</Score>
+<Sector et="3505.6">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="3553.4">Connor Roth(1) lap=22 point=2 t=72.280 et=3553.419</Score>
+<Sector et="3553.4">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="3553.4">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="3587.1">Connor Roth(1) lap=23 point=0 t=105.980 et=3587.119</Score>
+<Incident et="3605.3">Connor Roth(1) reported contact (2035.13) with Immovable</Incident>
+<Incident et="3605.3">Connor Roth(1) reported contact (1086.24) with Immovable</Incident>
+<Incident et="3605.4">Connor Roth(1) reported contact (1064.72) with Immovable</Incident>
+<Incident et="3606.8">Connor Roth(1) reported contact (7760.22) with Immovable</Incident>
+<Incident et="3606.8">Connor Roth(1) reported contact (6456.96) with Immovable</Incident>
+<Incident et="3606.8">Connor Roth(1) reported contact (5958.87) with Immovable</Incident>
+<Incident et="3606.8">Connor Roth(1) reported contact (4669.00) with Immovable</Incident>
+<Incident et="3606.9">Connor Roth(1) reported contact (3658.64) with Immovable</Incident>
+<Incident et="3606.9">Connor Roth(1) reported contact (2866.21) with Immovable</Incident>
+<Incident et="3606.9">Connor Roth(1) reported contact (2034.99) with Immovable</Incident>
+<Incident et="3606.9">Connor Roth(1) reported contact (1463.74) with Immovable</Incident>
+<Incident et="3606.9">Connor Roth(1) reported contact (1107.82) with Immovable</Incident>
+<Score et="3609.8">Connor Roth(1) lap=23 point=1 t=-1.000 et=3609.769</Score>
+<Score et="3609.8">Connor Roth(1) lap=23 point=2 t=-1.000 et=3609.769</Score>
+<Score et="3609.8">Connor Roth(1) lap=24 point=0 t=-1.000 et=3609.769</Score>
+<Chat et="4325.5">Tomek Zbroja has entered the race.</Chat>
+<System et="4325.5">Tomek Zbroja(2) 85.190.240.183 has joined as a participant</System>
+<Command et="4331.8">/w Tomek Zbroja If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="4331.8">&gt; /w Tomek Zbroja If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="4332.0">&gt; /w Tomek Zbroja germansimracing.de | discord.gg/GSR</Chat>
+<Command et="4332.0">/w Tomek Zbroja germansimracing.de | discord.gg/GSR</Command>
+<Score et="4382.4">Tomek Zbroja(2) lap=0 point=1 t=-1.000 et=4382.374</Score>
+<Score et="4430.7">Tomek Zbroja(2) lap=0 point=2 t=-1.000 et=4430.621</Score>
+<Score et="4463.3">Connor Roth(1) lap=24 point=1 t=-1.000 et=4463.317</Score>
+<Score et="4464.6">Tomek Zbroja(2) lap=1 point=0 t=-1.000 et=4464.595</Score>
+<Sector et="4487.8">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="4487.8">Tomek Zbroja(2) lap=1 point=1 t=23.182 et=4487.777</Score>
+<Score et="4511.5">Connor Roth(1) lap=24 point=2 t=-1.000 et=4511.449</Score>
+<Sector et="4535.1">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="4535.1">Tomek Zbroja(2) lap=1 point=2 t=70.519 et=4535.114</Score>
+<Score et="4545.1">Connor Roth(1) lap=25 point=0 t=-1.000 et=4545.064</Score>
+<Sector et="4569.0">Tomek Zbroja(2) set new best for sector 1</Sector>
+<Score et="4569.0">Tomek Zbroja(2) lap=2 point=0 t=104.378 et=4568.973</Score>
+<Sector et="4569.4">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="4569.4">Connor Roth(1) lap=25 point=1 t=24.308 et=4569.372</Score>
+<Sector et="4569.4">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="4569.4">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Sector et="4591.9">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="4591.9">Tomek Zbroja(2) lap=2 point=1 t=22.912 et=4591.885</Score>
+<Sector et="4617.6">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="4617.6">Connor Roth(1) lap=25 point=2 t=72.497 et=4617.561</Score>
+<Sector et="4617.6">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="4617.6">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="4639.1">Tomek Zbroja(2) lap=2 point=2 t=-1.000 et=4639.043</Score>
+<Incident et="4646.1">Tomek Zbroja(2) reported contact (2421.55) with Immovable</Incident>
+<Incident et="4646.1">Tomek Zbroja(2) reported contact (2292.20) with Immovable</Incident>
+<Incident et="4646.1">Tomek Zbroja(2) reported contact (2319.88) with Immovable</Incident>
+<Incident et="4646.1">Tomek Zbroja(2) reported contact (2318.87) with Immovable</Incident>
+<Incident et="4646.2">Tomek Zbroja(2) reported contact (1411.55) with Immovable</Incident>
+<Incident et="4646.2">Tomek Zbroja(2) reported contact (1240.00) with Immovable</Incident>
+<Incident et="4646.2">Tomek Zbroja(2) reported contact (1135.44) with Immovable</Incident>
+<Incident et="4646.4">Tomek Zbroja(2) reported contact (1505.40) with Immovable</Incident>
+<Score et="4647.3">Tomek Zbroja(2) lap=3 point=0 t=-1.000 et=4647.302</Score>
+<Score et="4650.8">Connor Roth(1) lap=26 point=0 t=105.732 et=4650.796</Score>
+<Score et="4673.3">Connor Roth(1) lap=26 point=1 t=22.491 et=4673.288</Score>
+<Sector et="4673.3">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="4673.3">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="4673.3">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="4685.6">Tomek Zbroja(2) lap=3 point=1 t=-1.000 et=4685.552</Score>
+<Score et="4720.3">Connor Roth(1) lap=26 point=2 t=69.508 et=4720.305</Score>
+<Sector et="4720.3">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="4720.3">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="4720.4">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="4733.6">Tomek Zbroja(2) lap=3 point=2 t=-1.000 et=4733.603</Score>
+<Sector et="4753.3">Connor Roth(1) set new best for sector 1</Sector>
+<Score et="4753.3">Connor Roth(1) lap=27 point=0 t=102.469 et=4753.265</Score>
+<Sector et="4753.3">Connor Roth(1) set new best for sector 1</Sector>
+<Sector et="4753.3">Tomek Zbroja(2) set new best for sector 1</Sector>
+<Score et="4762.7">Tomek Zbroja(2) lap=4 point=0 t=-1.000 et=4762.653</Score>
+<Score et="4762.7">Tomek Zbroja(2) lap=4 point=1 t=-1.000 et=4762.653</Score>
+<Score et="4762.7">Tomek Zbroja(2) lap=4 point=2 t=-1.000 et=4762.653</Score>
+<Score et="4762.7">Tomek Zbroja(2) lap=5 point=0 t=-1.000 et=4762.653</Score>
+<Sector et="4776.2">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="4776.2">Connor Roth(1) lap=27 point=1 t=22.865 et=4776.130</Score>
+<Sector et="4776.2">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="4776.2">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="4802.2">Tomek Zbroja(2) lap=5 point=1 t=-1.000 et=4802.129</Score>
+<Sector et="4823.5">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="4823.5">Connor Roth(1) lap=27 point=2 t=70.215 et=4823.480</Score>
+<Sector et="4823.5">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="4823.5">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="4850.9">Tomek Zbroja(2) lap=5 point=2 t=-1.000 et=4850.897</Score>
+<Score et="4856.7">Connor Roth(1) lap=28 point=0 t=103.377 et=4856.643</Score>
+<Sector et="4879.9">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="4879.9">Connor Roth(1) lap=28 point=1 t=23.197 et=4879.839</Score>
+<Sector et="4879.9">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="4879.9">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="4906.3">Tomek Zbroja(2) lap=6 point=0 t=-1.000 et=4906.313</Score>
+<Sector et="4926.9">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="4926.9">Connor Roth(1) lap=28 point=2 t=70.243 et=4926.885</Score>
+<Sector et="4926.9">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="4926.9">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="4929.7">Tomek Zbroja(2) lap=6 point=1 t=-1.000 et=4929.637</Score>
+<Score et="4960.2">Connor Roth(1) lap=29 point=0 t=103.556 et=4960.198</Score>
+<Score et="4977.0">Tomek Zbroja(2) lap=6 point=2 t=-1.000 et=4976.921</Score>
+<Score et="4983.1">Connor Roth(1) lap=29 point=1 t=22.857 et=4983.055</Score>
+<Sector et="4983.1">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="4983.1">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="4983.1">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5011.3">Tomek Zbroja(2) lap=7 point=0 t=-1.000 et=5011.225</Score>
+<Score et="5030.1">Connor Roth(1) lap=29 point=2 t=69.885 et=5030.083</Score>
+<Sector et="5030.1">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5030.1">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5030.1">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="5034.8">Tomek Zbroja(2) lap=7 point=1 t=23.499 et=5034.724</Score>
+<Score et="5043.3">Tomek Zbroja(2) lap=7 point=2 t=-1.000 et=5043.253</Score>
+<Score et="5043.3">Tomek Zbroja(2) lap=8 point=0 t=-1.000 et=5043.253</Score>
+<Score et="5063.7">Connor Roth(1) lap=30 point=0 t=103.477 et=5063.675</Score>
+<Score et="5083.9">Tomek Zbroja(2) lap=8 point=1 t=-1.000 et=5083.898</Score>
+<Sector et="5087.0">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="5087.0">Connor Roth(1) lap=30 point=1 t=23.334 et=5087.010</Score>
+<Sector et="5087.0">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5087.1">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5131.6">Tomek Zbroja(2) lap=8 point=2 t=-1.000 et=5131.598</Score>
+<Sector et="5136.5">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="5136.5">Connor Roth(1) lap=30 point=2 t=72.767 et=5136.442</Score>
+<Sector et="5136.5">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5136.5">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="5164.9">Tomek Zbroja(2) lap=9 point=0 t=-1.000 et=5164.919</Score>
+<Score et="5169.8">Connor Roth(1) lap=31 point=0 t=106.087 et=5169.762</Score>
+<Score et="5187.6">Tomek Zbroja(2) lap=9 point=1 t=22.684 et=5187.603</Score>
+<Sector et="5192.8">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="5192.8">Connor Roth(1) lap=31 point=1 t=22.969 et=5192.731</Score>
+<Sector et="5192.8">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5192.8">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5235.1">Tomek Zbroja(2) lap=9 point=2 t=70.109 et=5235.028</Score>
+<Sector et="5239.9">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="5239.9">Connor Roth(1) lap=31 point=2 t=70.106 et=5239.868</Score>
+<Sector et="5239.9">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5239.9">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="5268.4">Tomek Zbroja(2) lap=10 point=0 t=103.427 et=5268.346</Score>
+<Score et="5273.7">Connor Roth(1) lap=32 point=0 t=103.861 et=5273.624</Score>
+<Sector et="5297.5">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="5297.5">Connor Roth(1) lap=32 point=1 t=23.871 et=5297.495</Score>
+<Sector et="5297.5">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5297.5">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5297.9">Tomek Zbroja(2) lap=10 point=1 t=29.512 et=5297.858</Score>
+<Score et="5345.0">Connor Roth(1) lap=32 point=2 t=71.385 et=5345.009</Score>
+<Sector et="5345.0">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5345.0">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5345.1">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="5345.9">Tomek Zbroja(2) lap=10 point=2 t=77.481 et=5345.828</Score>
+<Score et="5378.8">Connor Roth(1) lap=33 point=0 t=105.124 et=5378.748</Score>
+<Score et="5379.3">Tomek Zbroja(2) lap=11 point=0 t=110.928 et=5379.274</Score>
+<Incident et="5396.3">Tomek Zbroja(2) reported contact (1322.33) with another vehicle Connor Roth(1)</Incident>
+<Incident et="5396.3">Tomek Zbroja(2) reported contact (1322.33) with another vehicle Tomek Zbroja(2)</Incident>
+<Incident et="5396.3">Connor Roth(1) reported contact (1336.91) with another vehicle Connor Roth(1)</Incident>
+<Incident et="5396.3">Connor Roth(1) reported contact (1336.91) with another vehicle Tomek Zbroja(2)</Incident>
+<Score et="5402.7">Tomek Zbroja(2) lap=11 point=1 t=-1.000 et=5402.638</Score>
+<Sector et="5403.4">Connor Roth(1) set new best for sector 2</Sector>
+<Score et="5403.4">Connor Roth(1) lap=33 point=1 t=24.630 et=5403.377</Score>
+<Sector et="5403.4">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5403.4">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5451.9">Connor Roth(1) lap=33 point=2 t=-1.000 et=5451.906</Score>
+<Score et="5452.4">Tomek Zbroja(2) lap=11 point=2 t=-1.000 et=5452.323</Score>
+<Score et="5485.2">Connor Roth(1) lap=34 point=0 t=-1.000 et=5485.160</Score>
+<Score et="5486.0">Tomek Zbroja(2) lap=12 point=0 t=-1.000 et=5485.967</Score>
+<Score et="5508.1">Connor Roth(1) lap=34 point=1 t=-1.000 et=5508.074</Score>
+<Score et="5508.9">Tomek Zbroja(2) lap=12 point=1 t=22.864 et=5508.831</Score>
+<Score et="5555.9">Connor Roth(1) lap=34 point=2 t=-1.000 et=5555.835</Score>
+<Score et="5556.0">Tomek Zbroja(2) lap=12 point=2 t=-1.000 et=5555.997</Score>
+<Score et="5589.7">Tomek Zbroja(2) lap=13 point=0 t=103.735 et=5589.702</Score>
+<Score et="5590.4">Connor Roth(1) lap=35 point=0 t=-1.000 et=5590.439</Score>
+<Score et="5612.5">Tomek Zbroja(2) lap=13 point=1 t=-1.000 et=5612.476</Score>
+<Score et="5613.7">Connor Roth(1) lap=35 point=1 t=23.184 et=5613.623</Score>
+<Sector et="5613.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5613.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5613.7">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5660.0">Tomek Zbroja(2) lap=13 point=2 t=-1.000 et=5659.961</Score>
+<Sector et="5661.3">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="5661.3">Connor Roth(1) lap=35 point=2 t=70.832 et=5661.271</Score>
+<Sector et="5661.3">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5661.3">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="5694.1">Tomek Zbroja(2) lap=14 point=0 t=-1.000 et=5694.043</Score>
+<Score et="5694.9">Connor Roth(1) lap=36 point=0 t=104.407 et=5694.847</Score>
+<Score et="5717.1">Tomek Zbroja(2) lap=14 point=1 t=22.986 et=5717.030</Score>
+<Score et="5718.3">Connor Roth(1) lap=36 point=1 t=23.467 et=5718.313</Score>
+<Sector et="5718.3">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5718.3">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5718.4">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5732.5">Tomek Zbroja(2) lap=14 point=2 t=-1.000 et=5732.518</Score>
+<Score et="5732.5">Tomek Zbroja(2) lap=15 point=0 t=-1.000 et=5732.518</Score>
+<Score et="5765.6">Connor Roth(1) lap=36 point=2 t=-1.000 et=5765.572</Score>
+<Score et="5780.7">Tomek Zbroja(2) lap=15 point=1 t=-1.000 et=5780.719</Score>
+<Score et="5799.6">Connor Roth(1) lap=37 point=0 t=-1.000 et=5799.614</Score>
+<Score et="5822.7">Connor Roth(1) lap=37 point=1 t=23.050 et=5822.665</Score>
+<Sector et="5822.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5822.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5822.7">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5830.1">Tomek Zbroja(2) lap=15 point=2 t=-1.000 et=5830.070</Score>
+<Score et="5864.1">Tomek Zbroja(2) lap=16 point=0 t=-1.000 et=5864.022</Score>
+<Sector et="5870.5">Connor Roth(1) set new best for sector 3</Sector>
+<Score et="5870.5">Connor Roth(1) lap=37 point=2 t=70.849 et=5870.463</Score>
+<Sector et="5870.5">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5870.5">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="5886.7">Tomek Zbroja(2) lap=16 point=1 t=-1.000 et=5886.634</Score>
+<Score et="5904.3">Connor Roth(1) lap=38 point=0 t=104.686 et=5904.300</Score>
+<Score et="5927.7">Connor Roth(1) lap=38 point=1 t=23.385 et=5927.686</Score>
+<Sector et="5927.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5927.7">Connor Roth(1) set new best for sector 2</Sector>
+<Sector et="5927.7">Tomek Zbroja(2) set new best for sector 2</Sector>
+<Score et="5933.7">Tomek Zbroja(2) lap=16 point=2 t=-1.000 et=5933.677</Score>
+<Score et="5967.3">Tomek Zbroja(2) lap=17 point=0 t=-1.000 et=5967.309</Score>
+<Score et="5975.3">Connor Roth(1) lap=38 point=2 t=70.998 et=5975.298</Score>
+<Sector et="5975.3">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5975.3">Connor Roth(1) set new best for sector 3</Sector>
+<Sector et="5975.3">Tomek Zbroja(2) set new best for sector 3</Sector>
+<Score et="5990.2">Tomek Zbroja(2) lap=17 point=1 t=22.909 et=5990.217</Score>
+<Score et="6009.7">Connor Roth(1) lap=39 point=0 t=105.375 et=6009.676</Score>
+<Score et="6023.7">Connor Roth(1) lap=39 point=1 t=-1.000 et=6023.719</Score>
+<Score et="6023.7">Connor Roth(1) lap=39 point=2 t=-1.000 et=6023.719</Score>
+<Score et="6023.7">Connor Roth(1) lap=40 point=0 t=-1.000 et=6023.719</Score>
+<Score et="6037.0">Tomek Zbroja(2) lap=17 point=2 t=-1.000 et=6036.934</Score>
+<Score et="6070.3">Tomek Zbroja(2) lap=18 point=0 t=-1.000 et=6070.252</Score>
+<Score et="6082.6">Tomek Zbroja(2) lap=18 point=1 t=-1.000 et=6082.545</Score>
+<Score et="6082.6">Tomek Zbroja(2) lap=18 point=2 t=-1.000 et=6082.545</Score>
+<Score et="6082.6">Tomek Zbroja(2) lap=19 point=0 t=-1.000 et=6082.545</Score>
+<Chat et="6088.5">Connor Roth left the race.</Chat>
+<Chat et="6096.6">Tomek Zbroja left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Connor Roth</Name>
+<SteamID>76561197984386799</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.431" twfl="0.980" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="1327.6327" s1="23.1333" s2="48.6356" s3="34.2949" fuel="0.408" twfl="0.953" twfr="0.976" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">106.0638</Lap>
+<Lap num="3" p="1" et="1433.6965" s1="22.9938" s2="48.0305" s3="33.6860" fuel="0.388" twfl="0.925" twfr="0.965" twrl="0.937" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">104.7103</Lap>
+<Lap num="4" p="1" et="1538.4069" s1="23.7360" s2="47.7521" s3="33.8125" fuel="0.365" twfl="0.902" twfr="0.953" twrl="0.914" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">105.3005</Lap>
+<Lap num="5" p="1" et="1643.7074" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="1663.7063" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="1817.7520" s1="23.3181" s2="46.9801" s3="33.2642" fuel="0.408" twfl="0.965" twfr="0.980" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">103.5624</Lap>
+<Lap num="8" p="1" et="1921.3143" s1="23.2743" s2="47.2319" s3="33.8718" fuel="0.384" twfl="0.941" twfr="0.969" twrl="0.914" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">104.3781</Lap>
+<Lap num="9" p="1" et="2025.6924" s1="23.3074" s2="47.3350" s3="33.4429" fuel="0.361" twfl="0.922" twfr="0.957" twrl="0.890" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">104.0852</Lap>
+<Lap num="10" p="1" et="2129.7776" fuel="0.341" twfl="0.902" twfr="0.945" twrl="0.863" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="2233.4614" s1="23.2920" s2="47.9128" s3="33.4487" fuel="0.318" twfl="0.878" twfr="0.929" twrl="0.835" twrr="0.890" fcompound="0,Dry" rcompound="0,Dry">104.6536</Lap>
+<Lap num="12" p="1" et="2338.1150" s1="22.8162" s2="47.6328" s3="33.7395" fuel="0.294" twfl="0.851" twfr="0.918" twrl="0.804" twrr="0.871" fcompound="0,Dry" rcompound="0,Dry">104.1885</Lap>
+<Lap num="13" p="1" et="2442.3035" s1="23.3391" s2="47.4001" s3="33.6555" fuel="0.271" twfl="0.831" twfr="0.906" twrl="0.776" twrr="0.855" fcompound="0,Dry" rcompound="0,Dry">104.3948</Lap>
+<Lap num="14" p="1" et="2546.6982" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="2560.0002" fuel="0.322" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="1" et="2756.3638" s1="22.9241" s2="47.4956" s3="34.4182" fuel="0.302" twfl="0.969" twfr="0.980" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.8379</Lap>
+<Lap num="17" p="1" et="2861.2017" s1="22.6462" s2="47.0571" s3="33.2717" fuel="0.278" twfl="0.949" twfr="0.969" twrl="0.937" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">102.9751</Lap>
+<Lap num="18" p="1" et="2964.1768" s1="22.7974" s2="46.9963" s3="33.1377" fuel="0.255" twfl="0.929" twfr="0.961" twrl="0.914" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">102.9314</Lap>
+<Lap num="19" p="1" et="3067.1082" s1="22.7046" s2="46.8140" s3="33.4124" fuel="0.231" twfl="0.910" twfr="0.949" twrl="0.890" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">102.9309</Lap>
+<Lap num="20" p="1" et="3170.0391" s1="23.1753" s2="46.9973" s3="33.2625" fuel="0.208" twfl="0.894" twfr="0.933" twrl="0.867" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry">103.4351</Lap>
+<Lap num="21" p="1" et="3273.4741" s1="23.0200" s2="47.3711" s3="33.6155" fuel="0.184" twfl="0.871" twfr="0.922" twrl="0.839" twrr="0.890" fcompound="0,Dry" rcompound="0,Dry">104.0066</Lap>
+<Lap num="22" p="1" et="3377.4807" s1="22.8096" s2="47.3252" s3="33.5234" fuel="0.165" twfl="0.851" twfr="0.910" twrl="0.816" twrr="0.875" fcompound="0,Dry" rcompound="0,Dry">103.6582</Lap>
+<Lap num="23" p="1" et="3481.1389" s1="24.4397" s2="47.8403" s3="33.7000" fuel="0.141" twfl="0.827" twfr="0.902" twrl="0.792" twrr="0.859" fcompound="0,Dry" rcompound="0,Dry">105.9800</Lap>
+<Lap num="24" p="1" et="3587.1189" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="1" et="3609.7693" fuel="0.318" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="1" et="4545.0640" s1="24.3076" s2="48.1890" s3="33.2358" fuel="0.294" twfl="0.969" twfr="0.976" twrl="0.957" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">105.7324</Lap>
+<Lap num="27" p="1" et="4650.7964" s1="22.4912" s2="47.0171" s3="32.9604" fuel="0.275" twfl="0.945" twfr="0.965" twrl="0.929" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">102.4688</Lap>
+<Lap num="28" p="1" et="4753.2651" s1="22.8652" s2="47.3501" s3="33.1621" fuel="0.251" twfl="0.922" twfr="0.949" twrl="0.898" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">103.3774</Lap>
+<Lap num="29" p="1" et="4856.6426" s1="23.1968" s2="47.0459" s3="33.3130" fuel="0.227" twfl="0.902" twfr="0.937" twrl="0.859" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry">103.5557</Lap>
+<Lap num="30" p="1" et="4960.1982" s1="22.8569" s2="47.0283" s3="33.5918" fuel="0.204" twfl="0.871" twfr="0.925" twrl="0.827" twrr="0.882" fcompound="0,Dry" rcompound="0,Dry">103.4771</Lap>
+<Lap num="31" p="1" et="5063.6753" s1="23.3345" s2="49.4326" s3="33.3198" fuel="0.180" twfl="0.847" twfr="0.914" twrl="0.796" twrr="0.867" fcompound="0,Dry" rcompound="0,Dry">106.0869</Lap>
+<Lap num="32" p="1" et="5169.7622" s1="22.9692" s2="47.1367" s3="33.7554" fuel="0.157" twfl="0.824" twfr="0.902" twrl="0.745" twrr="0.839" fcompound="0,Dry" rcompound="0,Dry">103.8613</Lap>
+<Lap num="33" p="1" et="5273.6235" s1="23.8711" s2="47.5142" s3="33.7388" fuel="0.137" twfl="0.796" twfr="0.894" twrl="0.698" twrr="0.816" fcompound="0,Dry" rcompound="0,Dry">105.1240</Lap>
+<Lap num="34" p="1" et="5378.7476" s1="24.6299" fuel="0.114" twfl="0.776" twfr="0.882" twrl="0.663" twrr="0.792" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="35" p="1" et="5485.1602" fuel="0.090" twfl="0.749" twfr="0.867" twrl="0.631" twrr="0.773" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="36" p="1" et="5590.4395" s1="23.1836" s2="47.6479" s3="33.5757" fuel="0.067" twfl="0.722" twfr="0.855" twrl="0.588" twrr="0.749" fcompound="0,Dry" rcompound="0,Dry">104.4072</Lap>
+<Lap num="37" p="1" et="5694.8467" s1="23.4668" fuel="0.043" twfl="0.694" twfr="0.816" twrl="0.545" twrr="0.729" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="38" p="1" et="5799.6143" s1="23.0503" s2="47.7983" s3="33.8374" fuel="0.020" twfl="0.675" twfr="0.808" twrl="0.522" twrr="0.710" fcompound="0,Dry" rcompound="0,Dry">104.6860</Lap>
+<Lap num="39" p="1" et="5904.3003" s1="23.3853" s2="47.6128" s3="34.3774" fuel="0.000" twfl="0.651" twfr="0.796" twrl="0.494" twrr="0.694" fcompound="0,Dry" rcompound="0,Dry">105.3755</Lap>
+<Lap num="40" p="1" et="6009.6758" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.4688</BestLapTime>
+<Laps>40</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="40">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="40"></Swap></Driver>
+<Driver>
+<Name>Tomek Zbroja</Name>
+<SteamID>76561199229096702</SteamID>
+<Connected>0</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.129" twfl="0.984" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="4464.5952" s1="23.1821" s2="47.3364" s3="33.8594" fuel="0.106" twfl="0.969" twfr="0.976" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.3779</Lap>
+<Lap num="3" p="2" et="4568.9731" s1="22.9121" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="2" et="4647.3022" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="4762.6528" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="4762.6528" fuel="0.129" twfl="0.973" twfr="0.988" twrl="0.945" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="4906.3135" fuel="0.106" twfl="0.945" twfr="0.973" twrl="0.918" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="2" et="5011.2246" s1="23.4990" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="5043.2529" fuel="0.129" twfl="0.980" twfr="0.988" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="2" et="5164.9189" s1="22.6836" s2="47.4258" s3="33.3179" fuel="0.106" twfl="0.925" twfr="0.973" twrl="0.929" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.4272</Lap>
+<Lap num="11" p="2" et="5268.3462" s1="29.5122" s2="47.9692" s3="33.4463" fuel="0.082" twfl="0.906" twfr="0.961" twrl="0.898" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">110.9277</Lap>
+<Lap num="12" p="2" et="5379.2739" fuel="0.055" twfl="0.820" twfr="0.922" twrl="0.867" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="2" et="5485.9668" s1="22.8643" fuel="0.031" twfl="0.765" twfr="0.902" twrl="0.808" twrr="0.894" fcompound="0,Dry" rcompound="0,Dry">103.7349</Lap>
+<Lap num="14" p="2" et="5589.7017" fuel="0.008" twfl="0.737" twfr="0.886" twrl="0.773" twrr="0.878" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="2" et="5694.0435" s1="22.9863" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="2" et="5732.5181" fuel="0.129" twfl="0.980" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="2" et="5864.0225" fuel="0.106" twfl="0.949" twfr="0.980" twrl="0.941" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="2" et="5967.3086" s1="22.9087" fuel="0.082" twfl="0.922" twfr="0.961" twrl="0.894" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="6070.2520" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.4272</BestLapTime>
+<Laps>19</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">PlayerControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="5">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="6" endLap="19">PlayerControl</ControlAndAids>
+<Swap startLap="1" endLap="19"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

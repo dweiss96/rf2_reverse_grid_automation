@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674999398</DateTime>
+<TimeString>2023/01/29 14:36:38</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674999398</DateTime>
+<TimeString>2023/01/29 14:36:38</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="3242.3">Cyrille Canavate has entered the race.</Chat>
+<System et="3242.3">Cyrille Canavate(9) 90.51.91.27 has joined as a participant</System>
+<Chat et="3252.2">&gt; /w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="3252.2">/w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="3252.4">/w Cyrille Canavate germansimracing.de | discord.gg/GSR</Command>
+<Chat et="3252.4">&gt; /w Cyrille Canavate germansimracing.de | discord.gg/GSR</Chat>
+<Score et="3295.8">Cyrille Canavate(9) lap=0 point=1 t=-1.000 et=3295.729</Score>
+<Chat et="3302.9">Kay Uwe Fischer has entered the race.</Chat>
+<System et="3302.9">Kay Uwe Fischer(10) 80.137.246.198 has joined as a participant</System>
+<Command et="3312.0">/w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="3312.0">&gt; /w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="3312.2">/w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Command>
+<Chat et="3312.2">&gt; /w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Chat>
+<Score et="3339.4">Cyrille Canavate(9) lap=0 point=2 t=-1.000 et=3337.591</Score>
+<Score et="3339.4">Cyrille Canavate(9) lap=1 point=0 t=-1.000 et=3337.591</Score>
+<Chat et="3345.0">Cyrille Canavate left the race.</Chat>
+<Incident et="3645.7">Kay Uwe Fischer(10) reported contact (4447.57) with Immovable</Incident>
+<Incident et="3645.7">Kay Uwe Fischer(10) reported contact (3964.50) with Immovable</Incident>
+<Incident et="3645.7">Kay Uwe Fischer(10) reported contact (3330.67) with Immovable</Incident>
+<Incident et="3645.7">Kay Uwe Fischer(10) reported contact (2594.55) with Immovable</Incident>
+<Incident et="3645.7">Kay Uwe Fischer(10) reported contact (2015.16) with Immovable</Incident>
+<Incident et="3645.7">Kay Uwe Fischer(10) reported contact (1563.25) with Immovable</Incident>
+<Incident et="3645.8">Kay Uwe Fischer(10) reported contact (1111.54) with Immovable</Incident>
+<Score et="3649.0">Kay Uwe Fischer(10) lap=0 point=1 t=-1.000 et=3648.961</Score>
+<Score et="3649.0">Kay Uwe Fischer(10) lap=0 point=2 t=-1.000 et=3648.961</Score>
+<Score et="3649.0">Kay Uwe Fischer(10) lap=1 point=0 t=-1.000 et=3648.961</Score>
+<Score et="3697.4">Kay Uwe Fischer(10) lap=1 point=1 t=-1.000 et=3697.372</Score>
+<Score et="3758.3">Kay Uwe Fischer(10) lap=1 point=2 t=-1.000 et=3758.319</Score>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (1997.56) with Immovable</Incident>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (2667.06) with Immovable</Incident>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (1326.58) with Immovable</Incident>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (2768.72) with Immovable</Incident>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (1985.92) with Immovable</Incident>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (2464.20) with Immovable</Incident>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (1368.63) with Immovable</Incident>
+<Sector et="3765.1">Kay Uwe Fischer(10) reports new suspension damage</Sector>
+<Sector et="3765.1">Kay Uwe Fischer(10) reports new suspension damage</Sector>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (1076.49) with Immovable</Incident>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (1375.40) with Immovable</Incident>
+<Incident et="3765.1">Kay Uwe Fischer(10) reported contact (1115.32) with Immovable</Incident>
+<Score et="3776.1">Kay Uwe Fischer(10) lap=2 point=0 t=-1.000 et=3776.079</Score>
+<Score et="3828.7">Kay Uwe Fischer(10) lap=2 point=1 t=-1.000 et=3828.708</Score>
+<Score et="3884.8">Kay Uwe Fischer(10) lap=2 point=2 t=-1.000 et=3884.743</Score>
+<Score et="3928.6">Kay Uwe Fischer(10) lap=3 point=0 t=-1.000 et=3928.570</Score>
+<Sector et="3954.3">Kay Uwe Fischer(10) set new best for sector 2</Sector>
+<Score et="3954.3">Kay Uwe Fischer(10) lap=3 point=1 t=25.744 et=3954.314</Score>
+<Sector et="3954.3">Kay Uwe Fischer(10) set new best for sector 2</Sector>
+<Incident et="3975.7">Kay Uwe Fischer(10) reported contact (2759.50) with Immovable</Incident>
+<Incident et="3975.7">Kay Uwe Fischer(10) reported contact (2508.58) with Immovable</Incident>
+<Incident et="3975.7">Kay Uwe Fischer(10) reported contact (1666.47) with Immovable</Incident>
+<Incident et="3975.7">Kay Uwe Fischer(10) reported contact (1602.71) with Immovable</Incident>
+<Incident et="3975.7">Kay Uwe Fischer(10) reported contact (1086.35) with Immovable</Incident>
+<Score et="3977.5">Kay Uwe Fischer(10) lap=3 point=2 t=-1.000 et=3977.491</Score>
+<Score et="3977.5">Kay Uwe Fischer(10) lap=4 point=0 t=-1.000 et=3977.491</Score>
+<Score et="4146.2">Kay Uwe Fischer(10) lap=4 point=1 t=-1.000 et=4146.176</Score>
+<Score et="4196.3">Kay Uwe Fischer(10) lap=4 point=2 t=-1.000 et=4196.239</Score>
+<Score et="4231.3">Kay Uwe Fischer(10) lap=5 point=0 t=-1.000 et=4231.246</Score>
+<Sector et="4256.1">Kay Uwe Fischer(10) set new best for sector 2</Sector>
+<Score et="4256.1">Kay Uwe Fischer(10) lap=5 point=1 t=24.841 et=4256.087</Score>
+<Sector et="4256.1">Kay Uwe Fischer(10) set new best for sector 2</Sector>
+<Sector et="4305.4">Kay Uwe Fischer(10) set new best for sector 3</Sector>
+<Score et="4305.4">Kay Uwe Fischer(10) lap=5 point=2 t=74.150 et=4305.396</Score>
+<Sector et="4305.4">Kay Uwe Fischer(10) set new best for sector 3</Sector>
+<Sector et="4349.6">Kay Uwe Fischer(10) set new best for sector 1</Sector>
+<Score et="4349.6">Kay Uwe Fischer(10) lap=6 point=0 t=118.293 et=4349.539</Score>
+<Sector et="4349.6">Kay Uwe Fischer(10) set new best for sector 1</Sector>
+<Incident et="4356.5">Kay Uwe Fischer(10) reported contact (50.14) with Sign</Incident>
+<Incident et="4356.5">Kay Uwe Fischer(10) reported contact (74.63) with Sign</Incident>
+<Incident et="4356.6">Kay Uwe Fischer(10) reported contact (23.88) with Sign</Incident>
+<Score et="4361.1">Kay Uwe Fischer(10) lap=6 point=1 t=-1.000 et=4361.090</Score>
+<Score et="4361.1">Kay Uwe Fischer(10) lap=6 point=2 t=-1.000 et=4361.090</Score>
+<Score et="4361.1">Kay Uwe Fischer(10) lap=7 point=0 t=-1.000 et=4361.090</Score>
+<Chat et="4512.2">Sven Heide has entered the race.</Chat>
+<System et="4512.2">Sven Heide(11) 84.134.33.197 has joined as a participant</System>
+<Command et="4521.8">/w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="4521.8">&gt; /w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="4522.0">&gt; /w Sven Heide germansimracing.de | discord.gg/GSR</Chat>
+<Command et="4522.0">/w Sven Heide germansimracing.de | discord.gg/GSR</Command>
+<Chat et="4550.7">Kay Uwe Fischer left the race.</Chat>
+<Chat et="4715.3">Kay Uwe Fischer has entered the race.</Chat>
+<System et="4715.3">Kay Uwe Fischer(12) 80.137.246.198 has joined as a participant</System>
+<System et="4715.3">Kay Uwe Fischer returned with matching vehicle/upgrades: restoring score (7 laps)</System>
+<Command et="4721.6">/w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="4721.6">&gt; /w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="4721.8">/w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Command>
+<Chat et="4721.8">&gt; /w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Chat>
+<Score et="5412.4">Kay Uwe Fischer(12) lap=7 point=1 t=-1.000 et=5412.375</Score>
+<Score et="5461.3">Kay Uwe Fischer(12) lap=7 point=2 t=-1.000 et=5461.315</Score>
+<Score et="5496.8">Kay Uwe Fischer(12) lap=8 point=0 t=-1.000 et=5496.763</Score>
+<Sector et="5521.6">Kay Uwe Fischer(12) set new best for sector 2</Sector>
+<Score et="5521.6">Kay Uwe Fischer(12) lap=8 point=1 t=24.830 et=5521.593</Score>
+<Sector et="5521.6">Kay Uwe Fischer(12) set new best for sector 2</Sector>
+<Sector et="5521.6">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="5570.8">Kay Uwe Fischer(12) set new best for sector 3</Sector>
+<Score et="5570.8">Kay Uwe Fischer(12) lap=8 point=2 t=73.996 et=5570.759</Score>
+<Sector et="5570.8">Kay Uwe Fischer(12) set new best for sector 3</Sector>
+<Sector et="5570.8">Sven Heide(11) set new best for sector 3</Sector>
+<Score et="5605.6">Kay Uwe Fischer(12) lap=9 point=0 t=108.820 et=5605.583</Score>
+<Sector et="5605.6">Kay Uwe Fischer(12) set new best for sector 1</Sector>
+<Sector et="5605.6">Kay Uwe Fischer(12) set new best for sector 1</Sector>
+<Sector et="5605.6">Sven Heide(11) set new best for sector 1</Sector>
+<Sector et="5629.9">Kay Uwe Fischer(12) set new best for sector 2</Sector>
+<Score et="5629.9">Kay Uwe Fischer(12) lap=9 point=1 t=24.333 et=5629.916</Score>
+<Sector et="5629.9">Kay Uwe Fischer(12) set new best for sector 2</Sector>
+<Sector et="5630.0">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="5679.5">Kay Uwe Fischer(12) set new best for sector 3</Sector>
+<Score et="5679.5">Kay Uwe Fischer(12) lap=9 point=2 t=73.853 et=5679.437</Score>
+<Sector et="5679.5">Kay Uwe Fischer(12) set new best for sector 3</Sector>
+<Sector et="5679.5">Sven Heide(11) set new best for sector 3</Sector>
+<Sector et="5713.8">Kay Uwe Fischer(12) set new best for sector 1</Sector>
+<Score et="5713.8">Kay Uwe Fischer(12) lap=10 point=0 t=108.171 et=5713.755</Score>
+<Sector et="5713.8">Kay Uwe Fischer(12) set new best for sector 1</Sector>
+<Sector et="5713.8">Sven Heide(11) set new best for sector 1</Sector>
+<Sector et="5737.9">Kay Uwe Fischer(12) set new best for sector 2</Sector>
+<Score et="5737.9">Kay Uwe Fischer(12) lap=10 point=1 t=24.106 et=5737.861</Score>
+<Sector et="5737.9">Kay Uwe Fischer(12) set new best for sector 2</Sector>
+<Sector et="5737.9">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="5786.7">Kay Uwe Fischer(12) set new best for sector 3</Sector>
+<Score et="5786.7">Kay Uwe Fischer(12) lap=10 point=2 t=72.912 et=5786.667</Score>
+<Sector et="5786.7">Kay Uwe Fischer(12) set new best for sector 3</Sector>
+<Sector et="5786.7">Sven Heide(11) set new best for sector 3</Sector>
+<Score et="5821.9">Kay Uwe Fischer(12) lap=11 point=0 t=-1.000 et=5821.885</Score>
+<Score et="5821.9">Kay Uwe Fischer(12) lap=11 point=1 t=-1.000 et=5821.885</Score>
+<Score et="5821.9">Kay Uwe Fischer(12) lap=11 point=2 t=-1.000 et=5821.885</Score>
+<Score et="5821.9">Kay Uwe Fischer(12) lap=12 point=0 t=-1.000 et=5821.885</Score>
+<Chat et="5860.4">Kay Uwe Fischer left the race.</Chat>
+<Chat et="6225.7">Kay Uwe Fischer has entered the race.</Chat>
+<System et="6225.7">Kay Uwe Fischer(13) 80.137.246.198 has joined as a participant</System>
+<System et="6225.7">Kay Uwe Fischer returned with matching vehicle/upgrades: restoring score (12 laps)</System>
+<Chat et="6231.4">&gt; /w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6231.4">/w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="6231.6">/w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Command>
+<Chat et="6231.6">&gt; /w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="6440.7">Andrej Warkentin has entered the race.</Chat>
+<System et="6440.7">Andrej Warkentin(14) 86.103.194.131 has joined as a participant</System>
+<Command et="6441.2">/w Andrej Warkentin If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6441.2">&gt; /w Andrej Warkentin If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="6441.4">&gt; /w Andrej Warkentin germansimracing.de | discord.gg/GSR</Chat>
+<Command et="6441.4">/w Andrej Warkentin germansimracing.de | discord.gg/GSR</Command>
+<Score et="6579.8">Kay Uwe Fischer(13) lap=12 point=1 t=-1.000 et=6579.739</Score>
+<Score et="6592.9">Andrej Warkentin(14) lap=0 point=1 t=-1.000 et=6592.848</Score>
+<Score et="6630.3">Kay Uwe Fischer(13) lap=12 point=2 t=-1.000 et=6630.293</Score>
+<Score et="6640.9">Andrej Warkentin(14) lap=0 point=2 t=-1.000 et=6640.861</Score>
+<Score et="6664.5">Kay Uwe Fischer(13) lap=13 point=0 t=-1.000 et=6664.459</Score>
+<Score et="6674.8">Andrej Warkentin(14) lap=1 point=0 t=-1.000 et=6674.792</Score>
+<Sector et="6688.6">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="6688.6">Kay Uwe Fischer(13) lap=13 point=1 t=24.121 et=6688.580</Score>
+<Sector et="6688.6">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="6688.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="6688.6">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="6697.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="6697.6">Andrej Warkentin(14) lap=1 point=1 t=22.825 et=6697.617</Score>
+<Sector et="6697.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="6697.7">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="6697.7">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="6736.7">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="6736.7">Kay Uwe Fischer(13) lap=13 point=2 t=72.205 et=6736.664</Score>
+<Sector et="6736.7">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="6736.7">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="6736.7">Sven Heide(11) set new best for sector 3</Sector>
+<Sector et="6745.4">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="6745.4">Andrej Warkentin(14) lap=1 point=2 t=70.621 et=6745.412</Score>
+<Sector et="6745.4">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="6745.5">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="6745.5">Sven Heide(11) set new best for sector 3</Sector>
+<Sector et="6771.2">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Score et="6771.2">Kay Uwe Fischer(13) lap=14 point=0 t=106.752 et=6771.211</Score>
+<Sector et="6771.2">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="6771.3">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="6771.3">Sven Heide(11) set new best for sector 1</Sector>
+<Sector et="6778.9">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Score et="6778.9">Andrej Warkentin(14) lap=2 point=0 t=104.119 et=6778.910</Score>
+<Sector et="6778.9">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="6779.0">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="6779.0">Sven Heide(11) set new best for sector 1</Sector>
+<Sector et="6795.2">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="6795.2">Kay Uwe Fischer(13) lap=14 point=1 t=23.952 et=6795.163</Score>
+<Sector et="6795.2">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="6795.2">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="6795.2">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="6801.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="6801.6">Andrej Warkentin(14) lap=2 point=1 t=22.672 et=6801.583</Score>
+<Sector et="6801.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="6801.6">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="6801.6">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="6843.7">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="6843.7">Kay Uwe Fischer(13) lap=14 point=2 t=72.477 et=6843.688</Score>
+<Sector et="6843.7">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="6843.8">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="6843.8">Sven Heide(11) set new best for sector 3</Sector>
+<Sector et="6849.0">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="6849.0">Andrej Warkentin(14) lap=2 point=2 t=70.075 et=6848.985</Score>
+<Sector et="6849.0">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="6849.0">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="6849.0">Sven Heide(11) set new best for sector 3</Sector>
+<Sector et="6877.5">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Score et="6877.5">Kay Uwe Fischer(13) lap=15 point=0 t=106.231 et=6877.442</Score>
+<Sector et="6877.5">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="6877.5">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="6877.5">Sven Heide(11) set new best for sector 1</Sector>
+<Score et="6883.6">Andrej Warkentin(14) lap=3 point=0 t=104.674 et=6883.584</Score>
+<Sector et="6901.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="6901.5">Kay Uwe Fischer(13) lap=15 point=1 t=24.050 et=6901.493</Score>
+<Sector et="6901.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="6901.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="6901.5">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="6906.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="6906.5">Andrej Warkentin(14) lap=3 point=1 t=22.841 et=6906.426</Score>
+<Sector et="6906.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="6906.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="6906.5">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="6949.8">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="6949.8">Kay Uwe Fischer(13) lap=15 point=2 t=72.348 et=6949.791</Score>
+<Sector et="6949.8">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="6949.8">Sven Heide(11) set new best for sector 3</Sector>
+<Sector et="6949.8">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="6953.6">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="6953.6">Andrej Warkentin(14) lap=3 point=2 t=69.959 et=6953.543</Score>
+<Sector et="6953.6">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="6953.6">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="6953.6">Sven Heide(11) set new best for sector 3</Sector>
+<Score et="6984.4">Kay Uwe Fischer(13) lap=16 point=0 t=106.910 et=6984.353</Score>
+<Sector et="6986.7">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Score et="6986.7">Andrej Warkentin(14) lap=4 point=0 t=103.091 et=6986.675</Score>
+<Sector et="6986.7">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="6986.7">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="6986.7">Sven Heide(11) set new best for sector 1</Sector>
+<Sector et="7008.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="7008.5">Kay Uwe Fischer(13) lap=16 point=1 t=24.091 et=7008.443</Score>
+<Sector et="7008.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7008.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7008.5">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="7009.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="7009.4">Andrej Warkentin(14) lap=4 point=1 t=22.707 et=7009.382</Score>
+<Sector et="7009.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7009.4">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7009.4">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="7056.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="7056.9">Kay Uwe Fischer(13) lap=16 point=2 t=72.534 et=7056.887</Score>
+<Sector et="7056.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="7056.9">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="7056.9">Sven Heide(11) set new best for sector 3</Sector>
+<Sector et="7057.2">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="7057.2">Andrej Warkentin(14) lap=4 point=2 t=70.465 et=7057.141</Score>
+<Sector et="7057.2">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="7057.2">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="7057.2">Sven Heide(11) set new best for sector 3</Sector>
+<Score et="7091.5">Andrej Warkentin(14) lap=5 point=0 t=104.783 et=7091.458</Score>
+<Score et="7113.4">Kay Uwe Fischer(13) lap=17 point=0 t=-1.000 et=7113.375</Score>
+<Sector et="7114.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="7114.5">Andrej Warkentin(14) lap=5 point=1 t=22.970 et=7114.428</Score>
+<Sector et="7114.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7114.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7114.5">Sven Heide(11) set new best for sector 2</Sector>
+<Chat et="7131.9">florian Flori has entered the race.</Chat>
+<System et="7131.9">florian Flori(15) 80.141.29.230 has joined as a participant</System>
+<Chat et="7141.0">&gt; /w florian Flori If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7141.0">/w florian Flori If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="7141.2">/w florian Flori germansimracing.de | discord.gg/GSR</Command>
+<Chat et="7141.2">&gt; /w florian Flori germansimracing.de | discord.gg/GSR</Chat>
+<Sector et="7162.4">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="7162.4">Andrej Warkentin(14) lap=5 point=2 t=70.878 et=7162.336</Score>
+<Sector et="7162.4">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="7162.4">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7162.4">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="7162.4">Sven Heide(11) set new best for sector 3</Sector>
+<Score et="7198.6">Andrej Warkentin(14) lap=6 point=0 t=-1.000 et=7198.590</Score>
+<Score et="7232.8">florian Flori(15) lap=0 point=1 t=-1.000 et=7232.745</Score>
+<Incident et="7273.0">florian Flori(15) reported contact (1406.03) with Immovable</Incident>
+<Score et="7285.5">Andrej Warkentin(14) lap=6 point=1 t=-1.000 et=7285.520</Score>
+<Score et="7302.7">florian Flori(15) lap=0 point=2 t=-1.000 et=7302.663</Score>
+<Score et="7333.7">Andrej Warkentin(14) lap=6 point=2 t=-1.000 et=7333.657</Score>
+<Score et="7337.9">florian Flori(15) lap=1 point=0 t=-1.000 et=7337.869</Score>
+<Sector et="7361.4">florian Flori(15) set new best for sector 2</Sector>
+<Score et="7361.4">florian Flori(15) lap=1 point=1 t=23.482 et=7361.351</Score>
+<Sector et="7361.4">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7361.4">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7361.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7361.4">Sven Heide(11) set new best for sector 2</Sector>
+<Score et="7366.9">Andrej Warkentin(14) lap=7 point=0 t=-1.000 et=7366.821</Score>
+<Sector et="7390.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="7390.5">Andrej Warkentin(14) lap=7 point=1 t=23.604 et=7390.425</Score>
+<Sector et="7390.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7390.5">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7390.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7390.5">Sven Heide(11) set new best for sector 2</Sector>
+<Sector et="7409.9">florian Flori(15) set new best for sector 3</Sector>
+<Score et="7409.9">florian Flori(15) lap=1 point=2 t=72.023 et=7409.892</Score>
+<Sector et="7409.9">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7409.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="7409.9">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="7410.1">Sven Heide(11) set new best for sector 3</Sector>
+<Sector et="7438.7">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="7438.7">Andrej Warkentin(14) lap=7 point=2 t=71.856 et=7438.677</Score>
+<Sector et="7438.7">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="7438.7">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7438.7">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="7438.7">Sven Heide(11) set new best for sector 3</Sector>
+<Score et="7445.1">florian Flori(15) lap=2 point=0 t=107.178 et=7445.046</Score>
+<Sector et="7445.1">florian Flori(15) set new best for sector 1</Sector>
+<Sector et="7445.1">florian Flori(15) set new best for sector 1</Sector>
+<Sector et="7445.1">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="7445.1">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="7445.1">Sven Heide(11) set new best for sector 1</Sector>
+<Score et="7468.7">florian Flori(15) lap=2 point=1 t=23.655 et=7468.702</Score>
+<Sector et="7468.7">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7468.7">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7468.8">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7468.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7468.8">Sven Heide(11) set new best for sector 2</Sector>
+<Score et="7472.5">Andrej Warkentin(14) lap=8 point=0 t=105.650 et=7472.471</Score>
+<Sector et="7495.7">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="7495.7">Andrej Warkentin(14) lap=8 point=1 t=23.152 et=7495.623</Score>
+<Sector et="7495.7">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7495.7">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7495.7">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7495.7">Sven Heide(11) set new best for sector 2</Sector>
+<Score et="7517.5">florian Flori(15) lap=2 point=2 t=72.440 et=7517.486</Score>
+<Sector et="7517.5">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7517.5">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7517.5">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="7517.5">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="7517.5">Sven Heide(11) set new best for sector 3</Sector>
+<Score et="7524.4">Sven Heide(11) lap=0 point=1 t=-1.000 et=7524.332</Score>
+<Score et="7524.4">Sven Heide(11) lap=0 point=2 t=-1.000 et=7524.332</Score>
+<Score et="7524.4">Sven Heide(11) lap=1 point=0 t=-1.000 et=7524.332</Score>
+<Chat et="7528.8">Sven Heide left the race.</Chat>
+<Sector et="7542.5">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="7542.5">Andrej Warkentin(14) lap=8 point=2 t=69.973 et=7542.443</Score>
+<Sector et="7542.5">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="7542.5">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7542.5">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="7553.5">florian Flori(15) lap=3 point=0 t=108.461 et=7553.508</Score>
+<Sector et="7574.9">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Score et="7574.9">Andrej Warkentin(14) lap=9 point=0 t=102.417 et=7574.887</Score>
+<Sector et="7574.9">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="7574.9">florian Flori(15) set new best for sector 1</Sector>
+<Sector et="7574.9">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Incident et="7576.6">florian Flori(15) reported contact (1393.36) with Immovable</Incident>
+<Incident et="7576.6">florian Flori(15) reported contact (1506.43) with Immovable</Incident>
+<Incident et="7576.6">florian Flori(15) reported contact (1506.35) with Immovable</Incident>
+<Score et="7577.7">florian Flori(15) lap=3 point=1 t=-1.000 et=7577.731</Score>
+<Score et="7577.7">florian Flori(15) lap=3 point=2 t=-1.000 et=7577.731</Score>
+<Score et="7577.7">florian Flori(15) lap=4 point=0 t=-1.000 et=7577.731</Score>
+<Sector et="7597.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="7597.6">Andrej Warkentin(14) lap=9 point=1 t=22.682 et=7597.569</Score>
+<Sector et="7597.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7597.6">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7597.6">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Chat et="7627.1">Sven Heide has entered the race.</Chat>
+<System et="7627.1">Sven Heide(16) 84.134.33.197 has joined as a participant</System>
+<System et="7627.1">Sven Heide returned with matching vehicle/upgrades: restoring score (1 laps)</System>
+<Command et="7630.8">/w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="7630.8">&gt; /w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7631.0">/w Sven Heide germansimracing.de | discord.gg/GSR</Command>
+<Chat et="7631.0">&gt; /w Sven Heide germansimracing.de | discord.gg/GSR</Chat>
+<Sector et="7644.6">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="7644.6">Andrej Warkentin(14) lap=9 point=2 t=69.727 et=7644.614</Score>
+<Sector et="7644.6">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="7644.7">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7644.7">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="7644.7">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="7674.6">florian Flori(15) lap=4 point=1 t=-1.000 et=7674.638</Score>
+<Score et="7677.6">Andrej Warkentin(14) lap=10 point=0 t=102.638 et=7677.525</Score>
+<Score et="7691.7">Sven Heide(16) lap=1 point=1 t=-1.000 et=7691.720</Score>
+<Sector et="7701.2">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="7701.2">Andrej Warkentin(14) lap=10 point=1 t=23.632 et=7701.157</Score>
+<Sector et="7701.2">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7701.2">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7701.2">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7701.2">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="7732.5">florian Flori(15) lap=4 point=2 t=-1.000 et=7732.437</Score>
+<Score et="7735.4">Sven Heide(16) lap=1 point=2 t=-1.000 et=7735.402</Score>
+<Score et="7735.4">Sven Heide(16) lap=2 point=0 t=-1.000 et=7735.402</Score>
+<Score et="7758.9">Andrej Warkentin(14) lap=10 point=2 t=-1.000 et=7757.708</Score>
+<Score et="7758.9">Andrej Warkentin(14) lap=11 point=0 t=-1.000 et=7757.708</Score>
+<Score et="7767.8">florian Flori(15) lap=5 point=0 t=-1.000 et=7767.756</Score>
+<Score et="7790.9">florian Flori(15) lap=5 point=1 t=23.097 et=7790.853</Score>
+<Sector et="7790.9">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7790.9">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7790.9">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7790.9">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7790.9">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="7805.7">Sven Heide(16) lap=2 point=1 t=-1.000 et=7805.716</Score>
+<Score et="7838.3">florian Flori(15) lap=5 point=2 t=70.493 et=7838.249</Score>
+<Sector et="7838.3">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7838.3">florian Flori(15) set new best for sector 3</Sector>
+<Sector et="7838.3">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="7838.3">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="7838.3">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="7852.1">Andrej Warkentin(14) lap=11 point=1 t=-1.000 et=7852.103</Score>
+<Score et="7854.6">Sven Heide(16) lap=2 point=2 t=-1.000 et=7854.564</Score>
+<Score et="7872.6">florian Flori(15) lap=6 point=0 t=104.834 et=7872.590</Score>
+<Sector et="7872.6">florian Flori(15) set new best for sector 1</Sector>
+<Sector et="7872.6">florian Flori(15) set new best for sector 1</Sector>
+<Sector et="7872.6">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="7872.6">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="7872.7">Sven Heide(16) set new best for sector 1</Sector>
+<Score et="7888.7">Sven Heide(16) lap=3 point=0 t=-1.000 et=7888.703</Score>
+<Score et="7896.3">florian Flori(15) lap=6 point=1 t=23.720 et=7896.311</Score>
+<Sector et="7896.3">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7896.3">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7896.4">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7896.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7896.4">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="7902.6">Andrej Warkentin(14) lap=11 point=2 t=-1.000 et=7902.619</Score>
+<Sector et="7912.8">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="7912.8">Sven Heide(16) lap=3 point=1 t=24.062 et=7912.765</Score>
+<Sector et="7912.8">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="7912.8">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7912.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7912.8">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="7935.6">Andrej Warkentin(14) lap=12 point=0 t=-1.000 et=7935.618</Score>
+<Score et="7944.4">florian Flori(15) lap=6 point=2 t=-1.000 et=7944.398</Score>
+<Incident et="7953.6">Sven Heide(16) reported contact (3851.79) with Immovable</Incident>
+<Incident et="7953.6">Sven Heide(16) reported contact (2317.70) with Immovable</Incident>
+<Incident et="7953.6">Sven Heide(16) reported contact (2462.02) with Immovable</Incident>
+<Incident et="7953.6">Sven Heide(16) reported contact (1525.22) with Immovable</Incident>
+<Incident et="7953.6">Sven Heide(16) reported contact (1533.93) with Immovable</Incident>
+<Score et="7956.0">Sven Heide(16) lap=3 point=2 t=-1.000 et=7955.946</Score>
+<Score et="7956.0">Sven Heide(16) lap=4 point=0 t=-1.000 et=7955.946</Score>
+<Sector et="7958.1">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="7958.1">Andrej Warkentin(14) lap=12 point=1 t=22.472 et=7958.090</Score>
+<Sector et="7958.1">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="7958.1">florian Flori(15) set new best for sector 2</Sector>
+<Sector et="7958.1">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="7958.1">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="7967.5">florian Flori(15) lap=7 point=0 t=-1.000 et=7965.638</Score>
+<Score et="7974.7">Kay Uwe Fischer(13) lap=17 point=1 t=-1.000 et=7974.703</Score>
+<Chat et="7994.7">florian Flori left the race.</Chat>
+<Sector et="8004.8">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="8004.8">Andrej Warkentin(14) lap=12 point=2 t=69.124 et=8004.742</Score>
+<Sector et="8004.8">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8004.8">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8004.8">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8023.4">Sven Heide(16) lap=4 point=1 t=-1.000 et=8023.384</Score>
+<Score et="8023.6">Kay Uwe Fischer(13) lap=17 point=2 t=-1.000 et=8023.616</Score>
+<Sector et="8037.6">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Score et="8037.6">Andrej Warkentin(14) lap=13 point=0 t=101.984 et=8037.603</Score>
+<Sector et="8037.6">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="8037.7">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="8037.7">Sven Heide(16) set new best for sector 1</Sector>
+<Score et="8057.6">Kay Uwe Fischer(13) lap=18 point=0 t=-1.000 et=8057.527</Score>
+<Sector et="8060.2">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="8060.2">Andrej Warkentin(14) lap=13 point=1 t=22.600 et=8060.202</Score>
+<Sector et="8060.2">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8060.3">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8060.3">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8071.2">Sven Heide(16) lap=4 point=2 t=-1.000 et=8071.145</Score>
+<Sector et="8081.2">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="8081.2">Kay Uwe Fischer(13) lap=18 point=1 t=23.630 et=8081.157</Score>
+<Sector et="8081.2">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8081.2">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8081.2">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="8104.7">Sven Heide(16) lap=5 point=0 t=-1.000 et=8104.685</Score>
+<Sector et="8107.0">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="8107.0">Andrej Warkentin(14) lap=13 point=2 t=69.327 et=8106.929</Score>
+<Sector et="8107.0">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8107.0">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8107.0">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8128.1">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8128.1">Sven Heide(16) lap=5 point=1 t=23.351 et=8128.036</Score>
+<Sector et="8128.1">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8128.1">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8128.1">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8129.1">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="8129.1">Kay Uwe Fischer(13) lap=18 point=2 t=71.560 et=8129.087</Score>
+<Sector et="8129.1">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8129.1">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8129.1">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8143.6">Andrej Warkentin(14) lap=14 point=0 t=-1.000 et=8143.584</Score>
+<Sector et="8162.9">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Score et="8162.9">Kay Uwe Fischer(13) lap=19 point=0 t=105.388 et=8162.915</Score>
+<Sector et="8162.9">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="8163.0">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="8163.0">Sven Heide(16) set new best for sector 1</Sector>
+<Sector et="8175.3">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8175.3">Sven Heide(16) lap=5 point=2 t=70.563 et=8175.248</Score>
+<Sector et="8175.3">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8175.3">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8175.3">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="8186.9">Kay Uwe Fischer(13) lap=19 point=1 t=23.978 et=8186.893</Score>
+<Sector et="8186.9">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8186.9">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8186.9">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8187.0">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8209.5">Sven Heide(16) set new best for sector 1</Sector>
+<Score et="8209.5">Sven Heide(16) lap=6 point=0 t=104.803 et=8209.487</Score>
+<Sector et="8209.5">Sven Heide(16) set new best for sector 1</Sector>
+<Sector et="8209.5">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="8209.5">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="8232.2">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8232.2">Sven Heide(16) lap=6 point=1 t=22.638 et=8232.125</Score>
+<Sector et="8232.2">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8232.2">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8232.2">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8234.7">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="8234.7">Kay Uwe Fischer(13) lap=19 point=2 t=71.771 et=8234.686</Score>
+<Sector et="8234.7">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8234.7">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8234.7">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8269.2">Kay Uwe Fischer(13) lap=20 point=0 t=106.303 et=8269.218</Score>
+<Sector et="8279.1">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8279.1">Sven Heide(16) lap=6 point=2 t=69.585 et=8279.072</Score>
+<Sector et="8279.1">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8279.1">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8279.1">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8292.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="8292.8">Kay Uwe Fischer(13) lap=20 point=1 t=23.598 et=8292.815</Score>
+<Sector et="8292.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8292.9">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8292.9">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8312.9">Sven Heide(16) set new best for sector 1</Sector>
+<Score et="8312.9">Sven Heide(16) lap=7 point=0 t=103.334 et=8312.821</Score>
+<Sector et="8312.9">Sven Heide(16) set new best for sector 1</Sector>
+<Sector et="8312.9">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="8312.9">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Score et="8335.6">Sven Heide(16) lap=7 point=1 t=22.712 et=8335.533</Score>
+<Sector et="8335.6">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8335.6">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8335.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8335.6">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8341.3">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="8341.3">Kay Uwe Fischer(13) lap=20 point=2 t=72.082 et=8341.300</Score>
+<Sector et="8341.3">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8341.3">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8341.3">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8351.9">Kay Uwe Fischer(13) lap=21 point=0 t=-1.000 et=8351.919</Score>
+<Score et="8382.8">Sven Heide(16) lap=7 point=2 t=-1.000 et=8382.807</Score>
+<Score et="8416.8">Sven Heide(16) lap=8 point=0 t=103.971 et=8416.792</Score>
+<Sector et="8439.5">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8439.5">Sven Heide(16) lap=8 point=1 t=22.684 et=8439.476</Score>
+<Sector et="8439.5">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8439.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8439.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="8465.7">Andrej Warkentin(14) lap=14 point=1 t=-1.000 et=8465.623</Score>
+<Score et="8487.4">Sven Heide(16) lap=8 point=2 t=70.546 et=8487.338</Score>
+<Sector et="8487.4">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8487.4">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8487.4">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8487.4">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="8514.0">Andrej Warkentin(14) lap=14 point=2 t=-1.000 et=8514.005</Score>
+<Score et="8522.0">Sven Heide(16) lap=9 point=0 t=105.207 et=8521.999</Score>
+<Sector et="8545.8">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8545.8">Sven Heide(16) lap=9 point=1 t=23.770 et=8545.769</Score>
+<Sector et="8545.8">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8545.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8545.8">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="8547.2">Andrej Warkentin(14) lap=15 point=0 t=-1.000 et=8547.206</Score>
+<Sector et="8569.9">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="8569.9">Andrej Warkentin(14) lap=15 point=1 t=22.630 et=8569.836</Score>
+<Sector et="8569.9">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8569.9">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8569.9">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8593.5">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8593.5">Sven Heide(16) lap=9 point=2 t=71.445 et=8593.444</Score>
+<Sector et="8593.5">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8593.5">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8593.5">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8616.8">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="8616.8">Andrej Warkentin(14) lap=15 point=2 t=69.609 et=8616.815</Score>
+<Sector et="8616.8">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8616.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8616.9">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8633.4">Sven Heide(16) lap=10 point=0 t=-1.000 et=8633.346</Score>
+<Score et="8649.7">Andrej Warkentin(14) lap=16 point=0 t=102.458 et=8649.664</Score>
+<Sector et="8672.1">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="8672.1">Andrej Warkentin(14) lap=16 point=1 t=22.605 et=8672.270</Score>
+<Sector et="8672.1">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8672.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8672.8">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8716.4">Sven Heide(16) lap=10 point=1 t=-1.000 et=8716.410</Score>
+<Sector et="8718.9">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="8718.9">Andrej Warkentin(14) lap=16 point=2 t=69.191 et=8718.855</Score>
+<Sector et="8718.9">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8718.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8718.9">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8751.9">Andrej Warkentin(14) lap=17 point=0 t=102.190 et=8751.854</Score>
+<Score et="8764.6">Sven Heide(16) lap=10 point=2 t=-1.000 et=8764.595</Score>
+<Sector et="8774.7">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="8774.7">Andrej Warkentin(14) lap=17 point=1 t=22.818 et=8774.673</Score>
+<Sector et="8774.7">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8774.7">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8774.7">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8797.9">Sven Heide(16) lap=11 point=0 t=-1.000 et=8797.892</Score>
+<Sector et="8820.5">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8820.5">Sven Heide(16) lap=11 point=1 t=22.540 et=8820.432</Score>
+<Sector et="8820.5">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8820.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8820.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8821.7">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="8821.7">Andrej Warkentin(14) lap=17 point=2 t=69.857 et=8821.712</Score>
+<Sector et="8821.7">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="8821.8">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8821.8">Sven Heide(16) set new best for sector 3</Sector>
+<Incident et="8828.5">Andrej Warkentin(14) reported contact (2693.92) with Immovable</Incident>
+<Incident et="8828.5">Andrej Warkentin(14) reported contact (2453.96) with Immovable</Incident>
+<Incident et="8828.5">Andrej Warkentin(14) reported contact (1744.25) with Immovable</Incident>
+<Incident et="8828.5">Andrej Warkentin(14) reported contact (1534.91) with Immovable</Incident>
+<Incident et="8828.5">Andrej Warkentin(14) reported contact (1203.21) with Immovable</Incident>
+<Score et="8860.9">Kay Uwe Fischer(13) lap=21 point=1 t=-1.000 et=8860.854</Score>
+<Score et="8861.1">Andrej Warkentin(14) lap=18 point=0 t=-1.000 et=8861.034</Score>
+<Score et="8867.4">Sven Heide(16) lap=11 point=2 t=69.474 et=8867.365</Score>
+<Sector et="8867.4">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8867.4">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8867.4">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8867.4">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="8901.4">Sven Heide(16) lap=12 point=0 t=103.517 et=8901.408</Score>
+<Score et="8909.6">Kay Uwe Fischer(13) lap=21 point=2 t=-1.000 et=8909.521</Score>
+<Score et="8923.2">Andrej Warkentin(14) lap=18 point=1 t=-1.000 et=8923.149</Score>
+<Sector et="8924.4">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8924.4">Sven Heide(16) lap=12 point=1 t=23.002 et=8924.410</Score>
+<Sector et="8924.4">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="8924.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8924.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="8943.5">Kay Uwe Fischer(13) lap=22 point=0 t=-1.000 et=8943.474</Score>
+<Sector et="8967.0">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="8967.0">Kay Uwe Fischer(13) lap=22 point=1 t=23.503 et=8966.977</Score>
+<Sector et="8967.0">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="8967.0">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="8967.0">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="8973.4">Andrej Warkentin(14) lap=18 point=2 t=-1.000 et=8973.365</Score>
+<Sector et="8973.7">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="8973.7">Sven Heide(16) lap=12 point=2 t=72.303 et=8973.711</Score>
+<Sector et="8973.7">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="8973.8">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="8973.8">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="9007.0">Andrej Warkentin(14) lap=19 point=0 t=-1.000 et=9006.986</Score>
+<Score et="9007.6">Sven Heide(16) lap=13 point=0 t=106.169 et=9007.577</Score>
+<Sector et="9014.5">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="9014.5">Kay Uwe Fischer(13) lap=22 point=2 t=70.996 et=9014.470</Score>
+<Sector et="9014.5">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9014.5">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9014.5">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9029.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="9029.6">Andrej Warkentin(14) lap=19 point=1 t=22.553 et=9029.539</Score>
+<Sector et="9029.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9029.6">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9029.6">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9030.4">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9030.4">Sven Heide(16) lap=13 point=1 t=22.796 et=9030.373</Score>
+<Sector et="9030.4">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9030.4">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9030.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9048.4">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Score et="9048.4">Kay Uwe Fischer(13) lap=23 point=0 t=104.855 et=9048.329</Score>
+<Sector et="9048.4">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="9048.4">Sven Heide(16) set new best for sector 1</Sector>
+<Sector et="9048.4">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="9071.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="9071.8">Kay Uwe Fischer(13) lap=23 point=1 t=23.429 et=9071.758</Score>
+<Sector et="9071.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9071.8">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9071.8">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9076.3">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="9076.3">Andrej Warkentin(14) lap=19 point=2 t=69.236 et=9076.223</Score>
+<Sector et="9076.3">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9076.3">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9076.3">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9078.1">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="9078.1">Sven Heide(16) lap=13 point=2 t=70.498 et=9078.075</Score>
+<Sector et="9078.1">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9078.1">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9078.1">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="9098.4">Kay Uwe Fischer(13) lap=23 point=2 t=-1.000 et=9098.404</Score>
+<Score et="9098.4">Kay Uwe Fischer(13) lap=24 point=0 t=-1.000 et=9098.404</Score>
+<Score et="9108.6">Andrej Warkentin(14) lap=20 point=0 t=101.559 et=9108.545</Score>
+<Sector et="9108.6">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="9108.6">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="9108.6">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="9108.6">Sven Heide(16) set new best for sector 1</Sector>
+<Score et="9111.6">Sven Heide(16) lap=14 point=0 t=104.018 et=9111.595</Score>
+<Sector et="9131.1">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="9131.1">Andrej Warkentin(14) lap=20 point=1 t=22.556 et=9131.101</Score>
+<Sector et="9131.1">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9131.2">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9131.2">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9134.4">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9134.4">Sven Heide(16) lap=14 point=1 t=22.813 et=9134.408</Score>
+<Sector et="9134.4">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9134.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9134.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="9177.8">Andrej Warkentin(14) lap=20 point=2 t=-1.000 et=9177.736</Score>
+<Sector et="9183.0">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="9183.0">Sven Heide(16) lap=14 point=2 t=71.360 et=9182.955</Score>
+<Sector et="9183.0">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9183.0">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9183.0">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Incident et="9215.8">Sven Heide(16) reported contact (2655.29) with Immovable</Incident>
+<Incident et="9215.9">Sven Heide(16) reported contact (2081.06) with Immovable</Incident>
+<Incident et="9215.9">Sven Heide(16) reported contact (1316.27) with Immovable</Incident>
+<Incident et="9216.0">Sven Heide(16) reported contact (1270.22) with Immovable</Incident>
+<Incident et="9216.0">Sven Heide(16) reported contact (1319.33) with Immovable</Incident>
+<Incident et="9216.0">Sven Heide(16) reported contact (1408.62) with Immovable</Incident>
+<Sector et="9216.0">Sven Heide(16) reports new suspension damage</Sector>
+<Incident et="9222.4">Sven Heide(16) reported contact (2500.82) with another vehicle Andrej Warkentin(14)</Incident>
+<Incident et="9222.4">Sven Heide(16) reported contact (2500.82) with another vehicle Sven Heide(16)</Incident>
+<Incident et="9222.4">Andrej Warkentin(14) reported contact (2511.49) with another vehicle Andrej Warkentin(14)</Incident>
+<Incident et="9222.4">Andrej Warkentin(14) reported contact (2511.49) with another vehicle Sven Heide(16)</Incident>
+<Incident et="9222.4">Sven Heide(16) reported contact (1538.62) with another vehicle Andrej Warkentin(14)</Incident>
+<Incident et="9222.4">Sven Heide(16) reported contact (1538.62) with another vehicle Sven Heide(16)</Incident>
+<Incident et="9222.4">Andrej Warkentin(14) reported contact (1585.70) with another vehicle Andrej Warkentin(14)</Incident>
+<Incident et="9222.4">Andrej Warkentin(14) reported contact (1585.70) with another vehicle Sven Heide(16)</Incident>
+<Score et="9229.1">Sven Heide(16) lap=15 point=0 t=-1.000 et=9229.098</Score>
+<Score et="9229.6">Andrej Warkentin(14) lap=21 point=0 t=-1.000 et=9229.586</Score>
+<Score et="9364.3">Sven Heide(16) lap=15 point=1 t=-1.000 et=9364.315</Score>
+<Score et="9412.4">Sven Heide(16) lap=15 point=2 t=-1.000 et=9412.385</Score>
+<Score et="9446.9">Sven Heide(16) lap=16 point=0 t=-1.000 et=9446.897</Score>
+<Score et="9466.1">Kay Uwe Fischer(13) lap=24 point=1 t=-1.000 et=9466.060</Score>
+<Sector et="9470.8">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9470.8">Sven Heide(16) lap=16 point=1 t=23.839 et=9470.736</Score>
+<Sector et="9470.8">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9470.8">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9470.8">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="9514.9">Kay Uwe Fischer(13) lap=24 point=2 t=-1.000 et=9514.885</Score>
+<Sector et="9518.2">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="9518.2">Sven Heide(16) lap=16 point=2 t=71.235 et=9518.133</Score>
+<Sector et="9518.2">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9518.2">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9518.2">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="9534.5">Andrej Warkentin(14) lap=21 point=1 t=-1.000 et=9534.468</Score>
+<Score et="9548.6">Kay Uwe Fischer(13) lap=25 point=0 t=-1.000 et=9548.542</Score>
+<Score et="9551.5">Sven Heide(16) lap=17 point=0 t=104.543 et=9551.440</Score>
+<Sector et="9572.3">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="9572.3">Kay Uwe Fischer(13) lap=25 point=1 t=23.689 et=9572.231</Score>
+<Sector et="9572.3">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9572.3">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9572.3">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9574.3">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9574.3">Sven Heide(16) lap=17 point=1 t=22.855 et=9574.296</Score>
+<Sector et="9574.3">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9574.3">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9574.3">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="9584.4">Andrej Warkentin(14) lap=21 point=2 t=-1.000 et=9584.415</Score>
+<Score et="9617.9">Andrej Warkentin(14) lap=22 point=0 t=-1.000 et=9617.879</Score>
+<Sector et="9620.2">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="9620.2">Kay Uwe Fischer(13) lap=25 point=2 t=71.594 et=9620.136</Score>
+<Sector et="9620.2">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9620.2">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9620.2">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9622.6">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="9622.6">Sven Heide(16) lap=17 point=2 t=71.100 et=9622.540</Score>
+<Sector et="9622.6">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9622.6">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9622.6">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9640.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="9640.4">Andrej Warkentin(14) lap=22 point=1 t=22.536 et=9640.415</Score>
+<Sector et="9640.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9640.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9640.5">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9647.0">Sven Heide(16) lap=18 point=0 t=-1.000 et=9646.984</Score>
+<Score et="9653.8">Kay Uwe Fischer(13) lap=26 point=0 t=105.268 et=9653.810</Score>
+<Sector et="9677.3">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="9677.3">Kay Uwe Fischer(13) lap=26 point=1 t=23.505 et=9677.314</Score>
+<Sector et="9677.3">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9677.4">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9677.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9687.2">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="9687.2">Andrej Warkentin(14) lap=22 point=2 t=69.262 et=9687.141</Score>
+<Sector et="9687.2">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9687.2">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9687.2">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9719.5">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Score et="9719.5">Andrej Warkentin(14) lap=23 point=0 t=101.544 et=9719.423</Score>
+<Sector et="9719.5">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Sector et="9719.5">Kay Uwe Fischer(13) set new best for sector 1</Sector>
+<Sector et="9719.5">Sven Heide(16) set new best for sector 1</Sector>
+<Sector et="9725.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="9725.9">Kay Uwe Fischer(13) lap=26 point=2 t=72.038 et=9725.848</Score>
+<Sector et="9725.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9725.9">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9725.9">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9742.3">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="9742.3">Andrej Warkentin(14) lap=23 point=1 t=22.824 et=9742.247</Score>
+<Sector et="9742.3">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9742.3">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9742.3">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9759.8">Kay Uwe Fischer(13) lap=27 point=0 t=105.965 et=9759.774</Score>
+<Score et="9762.7">Sven Heide(16) lap=18 point=1 t=-1.000 et=9762.713</Score>
+<Sector et="9783.6">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="9783.6">Kay Uwe Fischer(13) lap=27 point=1 t=23.779 et=9783.554</Score>
+<Sector et="9783.6">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9783.6">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9783.6">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9789.3">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="9789.3">Andrej Warkentin(14) lap=23 point=2 t=69.820 et=9789.243</Score>
+<Sector et="9789.3">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9789.3">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9789.3">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="9810.4">Sven Heide(16) lap=18 point=2 t=-1.000 et=9810.414</Score>
+<Score et="9824.4">Andrej Warkentin(14) lap=24 point=0 t=104.991 et=9824.414</Score>
+<Sector et="9830.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Score et="9830.9">Kay Uwe Fischer(13) lap=27 point=2 t=71.132 et=9830.906</Score>
+<Sector et="9830.9">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9831.0">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="9831.0">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="9843.6">Sven Heide(16) lap=19 point=0 t=-1.000 et=9843.574</Score>
+<Sector et="9850.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="9850.4">Andrej Warkentin(14) lap=24 point=1 t=25.930 et=9850.344</Score>
+<Sector et="9850.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9850.4">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9850.4">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9853.7">Andrej Warkentin(14) lap=24 point=2 t=-1.000 et=9853.670</Score>
+<Score et="9853.7">Andrej Warkentin(14) lap=25 point=0 t=-1.000 et=9853.670</Score>
+<Score et="9865.1">Kay Uwe Fischer(13) lap=28 point=0 t=105.295 et=9865.069</Score>
+<Sector et="9866.4">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9866.4">Sven Heide(16) lap=19 point=1 t=22.757 et=9866.331</Score>
+<Sector et="9866.4">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="9866.4">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9866.4">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9888.7">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Score et="9888.7">Kay Uwe Fischer(13) lap=28 point=1 t=23.601 et=9888.670</Score>
+<Sector et="9888.7">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="9888.7">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="9888.7">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="9910.4">Kay Uwe Fischer(13) lap=28 point=2 t=-1.000 et=9910.341</Score>
+<Score et="9910.4">Kay Uwe Fischer(13) lap=29 point=0 t=-1.000 et=9910.341</Score>
+<Sector et="9914.0">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="9914.0">Sven Heide(16) lap=19 point=2 t=70.371 et=9913.945</Score>
+<Sector et="9914.0">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="9914.0">Kay Uwe Fischer(13) set new best for sector 3</Sector>
+<Sector et="9914.0">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Score et="9925.0">Andrej Warkentin(14) lap=25 point=1 t=-1.000 et=9924.971</Score>
+<Score et="9951.9">Sven Heide(16) lap=20 point=0 t=-1.000 et=9951.918</Score>
+<Score et="9973.7">Andrej Warkentin(14) lap=25 point=2 t=-1.000 et=9973.667</Score>
+<Score et="10006.8">Andrej Warkentin(14) lap=26 point=0 t=-1.000 et=10006.818</Score>
+</Stream>
+<MostLapsCompleted>29</MostLapsCompleted>
+<Driver>
+<Name>Andrej Warkentin</Name>
+<SteamID>76561198070672426</SteamID>
+<Connected>1</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.384" twfl="0.984" twfr="0.988" twrl="0.976" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="6674.7915" s1="22.8252" s2="47.7954" s3="33.4980" fuel="0.365" twfl="0.965" twfr="0.980" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.1187</Lap>
+<Lap num="3" p="1" et="6778.9102" s1="22.6724" s2="47.4028" s3="34.5991" fuel="0.341" twfl="0.937" twfr="0.965" twrl="0.918" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">104.6743</Lap>
+<Lap num="4" p="1" et="6883.5845" s1="22.8413" s2="47.1177" s3="33.1318" fuel="0.318" twfl="0.914" twfr="0.957" twrl="0.890" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">103.0908</Lap>
+<Lap num="5" p="1" et="6986.6753" s1="22.7065" s2="47.7588" s3="34.3174" fuel="0.294" twfl="0.898" twfr="0.945" twrl="0.867" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">104.7827</Lap>
+<Lap num="6" p="1" et="7091.4580" s1="22.9697" s2="47.9082" fuel="0.275" twfl="0.871" twfr="0.933" twrl="0.835" twrr="0.914" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="7" p="1" et="7198.5898" fuel="0.341" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="7366.8208" s1="23.6040" s2="48.2524" s3="33.7935" fuel="0.318" twfl="0.973" twfr="0.988" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">105.6499</Lap>
+<Lap num="9" p="1" et="7472.4707" s1="23.1523" s2="46.8203" s3="32.4438" fuel="0.298" twfl="0.949" twfr="0.969" twrl="0.937" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">102.4165</Lap>
+<Lap num="10" p="1" et="7574.8872" s1="22.6821" s2="47.0444" s3="32.9116" fuel="0.271" twfl="0.922" twfr="0.949" twrl="0.898" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">102.6382</Lap>
+<Lap num="11" p="1" et="7677.5254" s1="23.6318" fuel="0.365" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="7757.7080" fuel="0.341" twfl="0.992" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="7935.6182" s1="22.4717" s2="46.6519" s3="32.8608" fuel="0.318" twfl="0.965" twfr="0.980" twrl="0.941" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.9844</Lap>
+<Lap num="14" p="1" et="8037.6025" s1="22.5996" s2="46.7271" fuel="0.294" twfl="0.937" twfr="0.969" twrl="0.906" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="15" p="1" et="8143.5840" fuel="0.341" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="1" et="8547.2061" s1="22.6299" s2="46.9795" s3="32.8486" fuel="0.318" twfl="0.965" twfr="0.957" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">102.4580</Lap>
+<Lap num="17" p="1" et="8649.6641" s1="22.6055" s2="46.5859" s3="32.9990" fuel="0.294" twfl="0.941" twfr="0.937" twrl="0.922" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">102.1904</Lap>
+<Lap num="18" p="1" et="8751.8545" s1="22.8184" s2="47.0391" fuel="0.275" twfl="0.922" twfr="0.929" twrl="0.902" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="19" p="1" et="8861.0342" fuel="0.341" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="1" et="9006.9863" s1="22.5527" s2="46.6836" s3="32.3223" fuel="0.318" twfl="0.969" twfr="0.976" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.5586</Lap>
+<Lap num="21" p="1" et="9108.5449" s1="22.5557" fuel="0.298" twfl="0.949" twfr="0.957" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="22" p="1" et="9229.5859" fuel="0.341" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="1" et="9617.8789" s1="22.5361" s2="46.7256" s3="32.2822" fuel="0.318" twfl="0.961" twfr="0.976" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.5439</Lap>
+<Lap num="24" p="1" et="9719.4229" s1="22.8242" s2="46.9961" s3="35.1709" fuel="0.294" twfl="0.937" twfr="0.945" twrl="0.918" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">104.9912</Lap>
+<Lap num="25" p="1" et="9824.4141" s1="25.9297" fuel="0.365" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="1" et="9853.6699" fuel="0.341" twfl="0.992" twfr="0.996" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>101.5439</BestLapTime>
+<Laps>26</Laps>
+<Pitstops>6</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="18">PlayerControl</ControlAndAids>
+<ControlAndAids startLap="19" endLap="19">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="20" endLap="26">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sven Heide</Name>
+<SteamID>76561198012671202</SteamID>
+<Connected>1</Connected>
+<VehFile>69_DAR_69.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="4" et="--.---" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="4" et="7735.4019" fuel="0.439" twfl="0.914" twfr="0.961" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="4" et="7888.7031" s1="24.0615" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="3" et="7955.9458" fuel="0.439" twfl="0.980" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="8104.6846" s1="23.3511" s2="47.2124" s3="34.2393" fuel="0.420" twfl="0.953" twfr="0.961" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">104.8027</Lap>
+<Lap num="7" p="2" et="8209.4873" s1="22.6377" s2="46.9473" s3="33.7490" fuel="0.396" twfl="0.918" twfr="0.945" twrl="0.929" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.3340</Lap>
+<Lap num="8" p="2" et="8312.8213" s1="22.7119" fuel="0.373" twfl="0.882" twfr="0.929" twrl="0.906" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">103.9707</Lap>
+<Lap num="9" p="2" et="8416.7920" s1="22.6836" s2="47.8623" s3="34.6611" fuel="0.349" twfl="0.851" twfr="0.910" twrl="0.882" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">105.2070</Lap>
+<Lap num="10" p="2" et="8521.9990" s1="23.7695" s2="47.6758" fuel="0.325" twfl="0.808" twfr="0.894" twrl="0.863" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="11" p="2" et="8633.3457" fuel="0.439" twfl="0.957" twfr="0.984" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="2" et="8797.8916" s1="22.5400" s2="46.9336" s3="34.0430" fuel="0.416" twfl="0.918" twfr="0.969" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.5166</Lap>
+<Lap num="13" p="2" et="8901.4082" s1="23.0020" s2="49.3008" s3="33.8662" fuel="0.396" twfl="0.898" twfr="0.957" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">106.1689</Lap>
+<Lap num="14" p="2" et="9007.5771" s1="22.7959" s2="47.7021" s3="33.5195" fuel="0.373" twfl="0.863" twfr="0.945" twrl="0.902" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">104.0176</Lap>
+<Lap num="15" p="2" et="9111.5947" s1="22.8135" s2="48.5469" fuel="0.353" twfl="0.835" twfr="0.906" twrl="0.878" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="16" p="2" et="9229.0977" fuel="0.439" twfl="0.980" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="2" et="9446.8975" s1="23.8389" s2="47.3965" s3="33.3076" fuel="0.420" twfl="0.953" twfr="0.980" twrl="0.945" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.5430</Lap>
+<Lap num="18" p="2" et="9551.4404" s1="22.8555" s2="48.2441" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="9646.9844" fuel="0.439" twfl="0.976" twfr="0.988" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="2" et="9843.5742" s1="22.7568" s2="47.6143" fuel="0.420" twfl="0.941" twfr="0.973" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>103.3340</BestLapTime>
+<Laps>20</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="20">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>florian Flori</Name>
+<SteamID>76561198039901863</SteamID>
+<Connected>0</Connected>
+<VehFile>70_DAR_70.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#70 Torsten Spindler</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>70</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.431" twfl="0.980" twfr="0.976" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="3" et="7337.8687" s1="23.4819" s2="48.5410" s3="35.1548" fuel="0.412" twfl="0.953" twfr="0.906" twrl="0.941" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">107.1777</Lap>
+<Lap num="3" p="3" et="7445.0464" s1="23.6553" s2="48.7847" s3="36.0215" fuel="0.388" twfl="0.925" twfr="0.886" twrl="0.898" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">108.4614</Lap>
+<Lap num="4" p="3" et="7553.5078" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="3" et="7577.7310" fuel="0.149" twfl="0.984" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="7767.7559" s1="23.0972" s2="47.3955" s3="34.3418" fuel="0.129" twfl="0.961" twfr="0.949" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">104.8345</Lap>
+<Lap num="7" p="2" et="7872.5903" s1="23.7202" fuel="0.173" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>104.8345</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl</ControlAndAids>
+<Swap startLap="1" endLap="7"></Swap></Driver>
+<Driver>
+<Name>Kay Uwe Fischer</Name>
+<SteamID>76561197984706933</SteamID>
+<Connected>1</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="3648.9607" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="3776.0786" fuel="0.431" twfl="0.976" twfr="0.988" twrl="0.949" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="3928.5703" s1="25.7439" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="3977.4912" fuel="0.431" twfl="0.976" twfr="0.988" twrl="0.961" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="4231.2456" s1="24.8413" s2="49.3086" s3="44.1436" fuel="0.408" twfl="0.945" twfr="0.973" twrl="0.898" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">118.2935</Lap>
+<Lap num="7" p="1" et="4349.5391" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="--.---" fuel="0.439" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="5496.7632" s1="24.8296" s2="49.1665" s3="34.8242" fuel="0.420" twfl="0.973" twfr="0.976" twrl="0.965" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">108.8203</Lap>
+<Lap num="10" p="1" et="5605.5835" s1="24.3325" s2="49.5205" s3="34.3184" fuel="0.396" twfl="0.957" twfr="0.969" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">108.1714</Lap>
+<Lap num="11" p="1" et="5713.7549" s1="24.1064" s2="48.8052" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="5821.8853" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="--.---" fuel="0.439" twfl="0.984" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="6664.4590" s1="24.1206" s2="48.0845" s3="34.5469" fuel="0.416" twfl="0.969" twfr="0.976" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">106.7520</Lap>
+<Lap num="15" p="2" et="6771.2109" s1="23.9521" s2="48.5249" s3="33.7544" fuel="0.392" twfl="0.949" twfr="0.953" twrl="0.918" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">106.2314</Lap>
+<Lap num="16" p="2" et="6877.4424" s1="24.0503" s2="48.2979" s3="34.5620" fuel="0.369" twfl="0.922" twfr="0.933" twrl="0.878" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">106.9102</Lap>
+<Lap num="17" p="2" et="6984.3525" s1="24.0908" s2="48.4434" fuel="0.349" twfl="0.882" twfr="0.835" twrl="0.820" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="18" p="2" et="7113.3745" fuel="0.341" twfl="0.976" twfr="0.988" twrl="0.969" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="8057.5273" s1="23.6299" s2="47.9297" s3="33.8281" fuel="0.318" twfl="0.953" twfr="0.937" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">105.3877</Lap>
+<Lap num="20" p="3" et="8162.9150" s1="23.9775" s2="47.7930" s3="34.5322" fuel="0.294" twfl="0.929" twfr="0.914" twrl="0.922" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">106.3027</Lap>
+<Lap num="21" p="3" et="8269.2178" s1="23.5977" s2="48.4844" fuel="0.365" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="3" et="8351.9189" fuel="0.341" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="3" et="8943.4736" s1="23.5029" s2="47.4932" s3="33.8594" fuel="0.318" twfl="0.965" twfr="0.929" twrl="0.957" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">104.8555</Lap>
+<Lap num="24" p="3" et="9048.3291" s1="23.4287" fuel="0.365" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="3" et="9098.4043" fuel="0.157" twfl="0.984" twfr="0.988" twrl="0.984" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="3" et="9548.5420" s1="23.6895" s2="47.9043" s3="33.6738" fuel="0.133" twfl="0.941" twfr="0.867" twrl="0.961" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">105.2676</Lap>
+<Lap num="27" p="3" et="9653.8096" s1="23.5049" s2="48.5332" s3="33.9268" fuel="0.110" twfl="0.902" twfr="0.808" twrl="0.937" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">105.9648</Lap>
+<Lap num="28" p="3" et="9759.7744" s1="23.7793" s2="47.3525" s3="34.1631" fuel="0.090" twfl="0.859" twfr="0.698" twrl="0.918" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">105.2949</Lap>
+<Lap num="29" p="3" et="9865.0693" s1="23.6006" fuel="0.180" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>104.8555</BestLapTime>
+<Laps>29</Laps>
+<Pitstops>3</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="12" endLap="12">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="13" endLap="29">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Cyrille Canavate</Name>
+<SteamID>76561199117420930</SteamID>
+<Connected>0</Connected>
+<VehFile>29_DAR_29.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#29 Cyrille Canavate</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>29</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Laps>1</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="1"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

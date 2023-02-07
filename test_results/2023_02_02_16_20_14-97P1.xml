@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675333361</DateTime>
+<TimeString>2023/02/02 11:22:41</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v4</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675341219</DateTime>
+<TimeString>2023/02/02 13:33:39</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="10.8">&gt; /w Pereira If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Pereira If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="11.0">/w Pereira germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.0">&gt; /w Pereira germansimracing.de | discord.gg/GSR</Chat>
+<Score et="60.2">Pereira(31) lap=0 point=1 t=-1.000 et=60.219</Score>
+<Score et="110.3">Pereira(31) lap=0 point=2 t=-1.000 et=110.236</Score>
+<Score et="144.1">Pereira(31) lap=1 point=0 t=-1.000 et=144.058</Score>
+<Sector et="167.2">Pereira(31) set new best for sector 2</Sector>
+<Score et="167.2">Pereira(31) lap=1 point=1 t=23.074 et=167.133</Score>
+<Sector et="167.2">Pereira(31) set new best for sector 2</Sector>
+<Sector et="214.5">Pereira(31) set new best for sector 3</Sector>
+<Score et="214.5">Pereira(31) lap=1 point=2 t=70.433 et=214.492</Score>
+<Sector et="214.5">Pereira(31) set new best for sector 3</Sector>
+<Sector et="248.9">Pereira(31) set new best for sector 1</Sector>
+<Score et="248.9">Pereira(31) lap=2 point=0 t=104.849 et=248.908</Score>
+<Sector et="248.9">Pereira(31) set new best for sector 1</Sector>
+<Sector et="271.8">Pereira(31) set new best for sector 2</Sector>
+<Score et="271.8">Pereira(31) lap=2 point=1 t=22.906 et=271.813</Score>
+<Sector et="271.8">Pereira(31) set new best for sector 2</Sector>
+<Sector et="318.8">Pereira(31) set new best for sector 3</Sector>
+<Score et="318.8">Pereira(31) lap=2 point=2 t=69.901 et=318.809</Score>
+<Sector et="318.8">Pereira(31) set new best for sector 3</Sector>
+<Score et="354.5">Pereira(31) lap=3 point=0 t=-1.000 et=354.452</Score>
+<Score et="354.5">Pereira(31) lap=3 point=1 t=-1.000 et=354.452</Score>
+<Score et="354.5">Pereira(31) lap=3 point=2 t=-1.000 et=354.452</Score>
+<Score et="354.5">Pereira(31) lap=4 point=0 t=-1.000 et=354.452</Score>
+<Score et="580.2">Pereira(31) lap=4 point=1 t=-1.000 et=580.209</Score>
+<Score et="630.2">Pereira(31) lap=4 point=2 t=-1.000 et=630.195</Score>
+<Score et="664.3">Pereira(31) lap=5 point=0 t=-1.000 et=664.263</Score>
+<Sector et="687.0">Pereira(31) set new best for sector 2</Sector>
+<Score et="687.0">Pereira(31) lap=5 point=1 t=22.672 et=686.935</Score>
+<Sector et="687.0">Pereira(31) set new best for sector 2</Sector>
+<Sector et="733.9">Pereira(31) set new best for sector 3</Sector>
+<Score et="733.9">Pereira(31) lap=5 point=2 t=69.560 et=733.823</Score>
+<Sector et="733.9">Pereira(31) set new best for sector 3</Sector>
+<Sector et="767.1">Pereira(31) set new best for sector 1</Sector>
+<Score et="767.1">Pereira(31) lap=6 point=0 t=102.844 et=767.107</Score>
+<Sector et="767.1">Pereira(31) set new best for sector 1</Sector>
+<Sector et="789.9">Pereira(31) set new best for sector 2</Sector>
+<Score et="789.9">Pereira(31) lap=6 point=1 t=22.813 et=789.920</Score>
+<Sector et="789.9">Pereira(31) set new best for sector 2</Sector>
+<Sector et="836.8">Pereira(31) set new best for sector 3</Sector>
+<Score et="836.8">Pereira(31) lap=6 point=2 t=69.640 et=836.747</Score>
+<Sector et="836.8">Pereira(31) set new best for sector 3</Sector>
+<Score et="870.6">Pereira(31) lap=7 point=0 t=103.445 et=870.552</Score>
+<Sector et="893.6">Pereira(31) set new best for sector 2</Sector>
+<Score et="893.6">Pereira(31) lap=7 point=1 t=23.058 et=893.610</Score>
+<Sector et="893.6">Pereira(31) set new best for sector 2</Sector>
+<Score et="941.9">Pereira(31) lap=7 point=2 t=-1.000 et=941.826</Score>
+<Incident et="965.4">Pereira(31) reported contact (3677.63) with Immovable</Incident>
+<Incident et="965.4">Pereira(31) reported contact (3798.12) with Immovable</Incident>
+<Incident et="965.4">Pereira(31) reported contact (3690.53) with Immovable</Incident>
+<Incident et="965.4">Pereira(31) reported contact (3472.06) with Immovable</Incident>
+<Incident et="965.4">Pereira(31) reported contact (3774.62) with Immovable</Incident>
+<Incident et="965.5">Pereira(31) reported contact (2176.63) with Immovable</Incident>
+<Incident et="965.5">Pereira(31) reported contact (65.67) with Wing</Incident>
+<Incident et="965.5">Pereira(31) reported contact (28.06) with Wing</Incident>
+<Incident et="965.5">Pereira(31) reported contact (60.75) with Wing</Incident>
+<Incident et="965.5">Pereira(31) reported contact (15.50) with Wing</Incident>
+<Incident et="965.5">Pereira(31) reported contact (78.05) with Wing</Incident>
+<Incident et="965.5">Pereira(31) reported contact (27.32) with Wing</Incident>
+<Incident et="965.5">Pereira(31) reported contact (60.76) with Wing</Incident>
+<Incident et="965.5">Pereira(31) reported contact (1049.07) with Immovable</Incident>
+<Incident et="965.5">Pereira(31) reported contact (1065.90) with Immovable</Incident>
+<Incident et="965.5">Pereira(31) reported contact (1454.33) with Immovable</Incident>
+<Incident et="965.5">Pereira(31) reported contact (1099.18) with Immovable</Incident>
+<Incident et="965.5">Pereira(31) reported contact (36.34) with Wing</Incident>
+<Incident et="965.5">Pereira(31) reported contact (26.65) with Wing</Incident>
+<Incident et="965.6">Pereira(31) reported contact (15.30) with Wing</Incident>
+<Incident et="965.9">Pereira(31) reported contact (16.53) with Wing</Incident>
+<Incident et="966.3">Pereira(31) reported contact (30.70) with Wing</Incident>
+<Score et="967.4">Pereira(31) lap=8 point=0 t=-1.000 et=967.396</Score>
+<Score et="967.4">Pereira(31) lap=8 point=1 t=-1.000 et=967.396</Score>
+<Score et="967.4">Pereira(31) lap=8 point=2 t=-1.000 et=967.396</Score>
+<Score et="967.4">Pereira(31) lap=9 point=0 t=-1.000 et=967.396</Score>
+<Chat et="972.3">Pereira left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Pereira</Name>
+<SteamID>76561199225113769</SteamID>
+<Connected>0</Connected>
+<VehFile>8_DAR_8.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#8 Marcel Wolf</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>8</CarNumber>
+<TeamName>B4B</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.224" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="144.0584" s1="23.0742" s2="47.3592" s3="34.4160" fuel="0.200" twfl="0.961" twfr="0.980" twrl="0.945" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.8493</Lap>
+<Lap num="3" p="1" et="248.9078" s1="22.9057" s2="46.9953" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="354.4517" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="354.4517" fuel="0.224" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="664.2631" s1="22.6724" s2="46.8871" s3="33.2842" fuel="0.200" twfl="0.965" twfr="0.969" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">102.8437</Lap>
+<Lap num="7" p="1" et="767.1068" s1="22.8131" s2="46.8273" s3="33.8047" fuel="0.176" twfl="0.937" twfr="0.957" twrl="0.929" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">103.4452</Lap>
+<Lap num="8" p="1" et="870.5519" s1="23.0583" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="967.3955" fuel="0.247" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.8437</BestLapTime>
+<Laps>9</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="4" endLap="4">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="8">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="9" endLap="9">UnknownControl</ControlAndAids>
+<Swap startLap="1" endLap="9"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674657172</DateTime>
+<TimeString>2023/01/25 15:32:52</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674657172</DateTime>
+<TimeString>2023/01/25 15:32:52</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="866.4">Daniel Weiss has entered the race.</Chat>
+<System et="866.4">Daniel Weiss(78) 91.40.243.211 has joined as a participant</System>
+<Command et="872.2">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="872.2">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="872.4">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="872.4">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Score et="1029.7">Daniel Weiss(78) lap=0 point=1 t=-1.000 et=1029.653</Score>
+<Score et="1076.6">Daniel Weiss(78) lap=0 point=2 t=-1.000 et=1076.587</Score>
+<Score et="1115.0">Daniel Weiss(78) lap=1 point=0 t=-1.000 et=1115.001</Score>
+<Sector et="1137.6">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="1137.6">Daniel Weiss(78) lap=1 point=1 t=22.619 et=1137.620</Score>
+<Sector et="1137.6">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="1162.3">Daniel Weiss(78) lap=1 point=2 t=-1.000 et=1162.313</Score>
+<Score et="1162.3">Daniel Weiss(78) lap=2 point=0 t=-1.000 et=1162.313</Score>
+<Score et="1242.3">Daniel Weiss(78) lap=2 point=1 t=-1.000 et=1242.276</Score>
+<Command from="Daniel Weiss" nodeid="1" et="1261.8">/vote yes</Command>
+<Vote et="1261.8">Daniel Weiss: /vote yes</Vote>
+<Sent et="1261.8">Vote ignored: There is no vote in progress</Sent>
+<Score et="1289.3">Daniel Weiss(78) lap=2 point=2 t=-1.000 et=1289.267</Score>
+<Score et="1322.3">Daniel Weiss(78) lap=3 point=0 t=-1.000 et=1322.247</Score>
+<Sector et="1344.6">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="1344.7">Daniel Weiss(78) lap=3 point=1 t=22.386 et=1344.633</Score>
+<Sector et="1344.7">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="1391.3">Daniel Weiss(78) lap=3 point=2 t=-1.000 et=1391.270</Score>
+<Score et="1402.1">Daniel Weiss(78) lap=4 point=0 t=-1.000 et=1402.066</Score>
+<Score et="1450.4">Daniel Weiss(78) lap=4 point=1 t=-1.000 et=1450.365</Score>
+<Score et="1498.1">Daniel Weiss(78) lap=4 point=2 t=-1.000 et=1498.069</Score>
+<Score et="1531.7">Daniel Weiss(78) lap=5 point=0 t=-1.000 et=1531.704</Score>
+<Incident et="1537.9">Daniel Weiss(78) reported contact (34.99) with Sign</Incident>
+<Incident et="1537.9">Daniel Weiss(78) reported contact (21.74) with Sign</Incident>
+<Incident et="1538.0">Daniel Weiss(78) reported contact (35.88) with Sign</Incident>
+<Incident et="1538.0">Daniel Weiss(78) reported contact (41.33) with Sign</Incident>
+<Sector et="1554.2">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="1554.2">Daniel Weiss(78) lap=5 point=1 t=22.456 et=1554.160</Score>
+<Sector et="1554.2">Daniel Weiss(78) set new best for sector 2</Sector>
+<Sector et="1600.6">Daniel Weiss(78) set new best for sector 3</Sector>
+<Score et="1600.6">Daniel Weiss(78) lap=5 point=2 t=68.889 et=1600.593</Score>
+<Sector et="1600.6">Daniel Weiss(78) set new best for sector 3</Sector>
+<Sector et="1633.6">Daniel Weiss(78) set new best for sector 1</Sector>
+<Score et="1633.6">Daniel Weiss(78) lap=6 point=0 t=101.852 et=1633.556</Score>
+<Sector et="1633.6">Daniel Weiss(78) set new best for sector 1</Sector>
+<Sector et="1656.0">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="1656.0">Daniel Weiss(78) lap=6 point=1 t=22.432 et=1655.988</Score>
+<Sector et="1656.0">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="1697.6">Daniel Weiss(78) lap=6 point=2 t=-1.000 et=1697.588</Score>
+<Score et="1697.6">Daniel Weiss(78) lap=7 point=0 t=-1.000 et=1697.588</Score>
+<Score et="2546.6">Daniel Weiss(78) lap=7 point=1 t=-1.000 et=2546.576</Score>
+<Score et="2594.1">Daniel Weiss(78) lap=7 point=2 t=-1.000 et=2594.043</Score>
+<Score et="2627.2">Daniel Weiss(78) lap=8 point=0 t=-1.000 et=2627.188</Score>
+<Sector et="2649.7">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="2649.7">Daniel Weiss(78) lap=8 point=1 t=22.509 et=2649.697</Score>
+<Sector et="2649.7">Daniel Weiss(78) set new best for sector 2</Sector>
+<Sector et="2696.0">Daniel Weiss(78) set new best for sector 3</Sector>
+<Score et="2696.0">Daniel Weiss(78) lap=8 point=2 t=68.775 et=2695.964</Score>
+<Sector et="2696.0">Daniel Weiss(78) set new best for sector 3</Sector>
+<Sector et="2728.8">Daniel Weiss(78) set new best for sector 1</Sector>
+<Score et="2728.8">Daniel Weiss(78) lap=9 point=0 t=101.625 et=2728.813</Score>
+<Sector et="2728.8">Daniel Weiss(78) set new best for sector 1</Sector>
+<Sector et="2751.4">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="2751.4">Daniel Weiss(78) lap=9 point=1 t=22.557 et=2751.370</Score>
+<Sector et="2751.4">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="2798.3">Daniel Weiss(78) lap=9 point=2 t=-1.000 et=2798.279</Score>
+<Score et="2811.8">Daniel Weiss(78) lap=10 point=0 t=-1.000 et=2811.766</Score>
+<Score et="2898.9">Daniel Weiss(78) lap=10 point=1 t=-1.000 et=2898.879</Score>
+<Score et="2946.5">Daniel Weiss(78) lap=10 point=2 t=-1.000 et=2946.468</Score>
+<Score et="2979.6">Daniel Weiss(78) lap=11 point=0 t=-1.000 et=2979.587</Score>
+<Sector et="3002.2">Daniel Weiss(78) set new best for sector 2</Sector>
+<Score et="3002.2">Daniel Weiss(78) lap=11 point=1 t=22.572 et=3002.159</Score>
+<Sector et="3002.2">Daniel Weiss(78) set new best for sector 2</Sector>
+<Sector et="3048.4">Daniel Weiss(78) set new best for sector 3</Sector>
+<Score et="3048.4">Daniel Weiss(78) lap=11 point=2 t=68.842 et=3048.428</Score>
+<Sector et="3048.4">Daniel Weiss(78) set new best for sector 3</Sector>
+<Score et="3065.3">Daniel Weiss(78) lap=12 point=0 t=-1.000 et=3065.309</Score>
+<Chat et="3080.7">Daniel Weiss left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Daniel Weiss</Name>
+<SteamID>76561198060516602</SteamID>
+<Connected>0</Connected>
+<VehFile>96DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.976" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="1115.0010" s1="22.6188" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="1162.3131" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="1322.2468" s1="22.3859" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="1402.0657" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="1531.7039" s1="22.4557" s2="46.4333" s3="32.9629" fuel="0.408" twfl="0.973" twfr="0.984" twrl="0.945" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.8519</Lap>
+<Lap num="7" p="1" et="1633.5558" s1="22.4324" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="1697.5881" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="2627.1885" s1="22.5085" s2="46.2666" s3="32.8494" fuel="0.408" twfl="0.969" twfr="0.984" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.6245</Lap>
+<Lap num="10" p="1" et="2728.8130" s1="22.5571" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="2811.7659" fuel="0.431" twfl="0.988" twfr="0.996" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="2979.5867" s1="22.5723" s2="46.2693" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>101.6245</BestLapTime>
+<Laps>12</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="12"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

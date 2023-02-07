@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674896338</DateTime>
+<TimeString>2023/01/28 09:58:58</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v2</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674896338</DateTime>
+<TimeString>2023/01/28 09:58:58</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="5858.9">Volker Schmidt has entered the race.</Chat>
+<System et="5858.9">Volker Schmidt(11) 84.118.169.209 has joined as a participant</System>
+<Command et="5862.2">/w Volker Schmidt If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="5862.2">&gt; /w Volker Schmidt If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="5862.4">&gt; /w Volker Schmidt germansimracing.de | discord.gg/GSR</Chat>
+<Command et="5862.4">/w Volker Schmidt germansimracing.de | discord.gg/GSR</Command>
+<Chat et="5968.8">Sven Heide has entered the race.</Chat>
+<System et="5968.8">Sven Heide(12) 79.223.250.250 has joined as a participant</System>
+<Command et="5972.0">/w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="5972.0">&gt; /w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="5972.2">/w Sven Heide germansimracing.de | discord.gg/GSR</Command>
+<Chat et="5972.2">&gt; /w Sven Heide germansimracing.de | discord.gg/GSR</Chat>
+<Score et="6084.8">Volker Schmidt(11) lap=0 point=1 t=-1.000 et=6084.771</Score>
+<Score et="6135.4">Volker Schmidt(11) lap=0 point=2 t=-1.000 et=6135.370</Score>
+<Score et="6172.3">Volker Schmidt(11) lap=1 point=0 t=-1.000 et=6172.253</Score>
+<Score et="6196.4">Volker Schmidt(11) lap=1 point=1 t=24.148 et=6196.401</Score>
+<Sector et="6196.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6196.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6196.5">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="6246.7">Volker Schmidt(11) lap=1 point=2 t=74.454 et=6246.707</Score>
+<Sector et="6246.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6246.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6246.8">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="6264.5">Sven Heide(12) lap=0 point=1 t=-1.000 et=6264.425</Score>
+<Score et="6282.8">Volker Schmidt(11) lap=2 point=0 t=110.534 et=6282.787</Score>
+<Sector et="6282.8">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="6282.8">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="6282.8">Sven Heide(12) set new best for sector 1</Sector>
+<Score et="6306.9">Volker Schmidt(11) lap=2 point=1 t=24.045 et=6306.832</Score>
+<Sector et="6306.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6306.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6306.9">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="6363.8">Volker Schmidt(11) lap=2 point=2 t=81.008 et=6363.795</Score>
+<Sector et="6363.8">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6363.8">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6363.8">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="6364.5">Sven Heide(12) lap=0 point=2 t=-1.000 et=6364.454</Score>
+<Score et="6399.5">Volker Schmidt(11) lap=3 point=0 t=116.704 et=6399.491</Score>
+<Score et="6400.0">Sven Heide(12) lap=1 point=0 t=-1.000 et=6399.979</Score>
+<Score et="6422.9">Volker Schmidt(11) lap=3 point=1 t=23.428 et=6422.919</Score>
+<Sector et="6422.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6422.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6423.0">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="6423.2">Sven Heide(12) lap=1 point=1 t=23.203 et=6423.182</Score>
+<Sector et="6423.2">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="6423.2">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="6423.2">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="6470.3">Sven Heide(12) lap=1 point=2 t=70.282 et=6470.261</Score>
+<Sector et="6470.3">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="6470.3">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="6470.3">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="6471.6">Volker Schmidt(11) lap=3 point=2 t=72.100 et=6471.591</Score>
+<Sector et="6471.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6471.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6471.6">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="6504.1">Sven Heide(12) lap=2 point=0 t=104.140 et=6504.119</Score>
+<Sector et="6504.1">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="6504.1">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="6504.2">Volker Schmidt(11) set new best for sector 1</Sector>
+<Score et="6506.6">Volker Schmidt(11) lap=4 point=0 t=107.081 et=6506.572</Score>
+<Sector et="6506.6">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="6506.6">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="6506.6">Sven Heide(12) set new best for sector 1</Sector>
+<Incident et="6510.4">Sven Heide(12) reported contact (84.36) with Sign</Incident>
+<Incident et="6510.4">Sven Heide(12) reported contact (126.68) with Sign</Incident>
+<Incident et="6510.4">Sven Heide(12) reported contact (38.86) with Sign</Incident>
+<Score et="6529.4">Sven Heide(12) lap=2 point=1 t=-1.000 et=6529.374</Score>
+<Score et="6530.3">Volker Schmidt(11) lap=4 point=1 t=23.700 et=6530.271</Score>
+<Sector et="6530.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6530.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6530.3">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="6578.3">Sven Heide(12) lap=2 point=2 t=-1.000 et=6578.226</Score>
+<Score et="6579.5">Volker Schmidt(11) lap=4 point=2 t=72.908 et=6579.479</Score>
+<Sector et="6579.5">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6579.5">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6579.5">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="6612.0">Sven Heide(12) lap=3 point=0 t=-1.000 et=6612.002</Score>
+<Score et="6613.9">Volker Schmidt(11) lap=5 point=0 t=107.312 et=6613.883</Score>
+<Score et="6635.3">Sven Heide(12) lap=3 point=1 t=23.225 et=6635.228</Score>
+<Sector et="6635.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="6635.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="6635.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="6637.6">Volker Schmidt(11) lap=5 point=1 t=23.660 et=6637.543</Score>
+<Sector et="6637.6">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6637.6">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="6637.6">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="6682.8">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="6682.8">Sven Heide(12) lap=3 point=2 t=70.815 et=6682.817</Score>
+<Sector et="6682.8">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="6682.9">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6686.1">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="6686.1">Volker Schmidt(11) lap=5 point=2 t=72.219 et=6686.103</Score>
+<Sector et="6686.1">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="6686.2">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="6719.5">Sven Heide(12) lap=4 point=0 t=107.500 et=6719.502</Score>
+<Score et="6720.8">Volker Schmidt(11) lap=6 point=0 t=106.874 et=6720.757</Score>
+<Sector et="6720.8">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="6720.8">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="6720.8">Sven Heide(12) set new best for sector 1</Sector>
+<Incident et="6729.2">Volker Schmidt(11) reported contact (3782.25) with Immovable</Incident>
+<Incident et="6729.2">Volker Schmidt(11) reported contact (2151.69) with Immovable</Incident>
+<Incident et="6729.2">Volker Schmidt(11) reported contact (1463.20) with Immovable</Incident>
+<Score et="6737.4">Sven Heide(12) lap=4 point=1 t=-1.000 et=6737.363</Score>
+<Score et="6737.4">Sven Heide(12) lap=4 point=2 t=-1.000 et=6737.363</Score>
+<Score et="6737.4">Sven Heide(12) lap=5 point=0 t=-1.000 et=6737.363</Score>
+<Score et="6742.4">Volker Schmidt(11) lap=6 point=1 t=-1.000 et=6742.394</Score>
+<Score et="6742.4">Volker Schmidt(11) lap=6 point=2 t=-1.000 et=6742.394</Score>
+<Score et="6742.4">Volker Schmidt(11) lap=7 point=0 t=-1.000 et=6742.394</Score>
+<Chat et="6854.6">Torsten Spindler has entered the race.</Chat>
+<System et="6854.6">Torsten Spindler(13) 24.134.216.129 has joined as a participant</System>
+<Chat et="6861.8">&gt; /w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6861.8">/w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6862.0">&gt; /w Torsten Spindler germansimracing.de | discord.gg/GSR</Chat>
+<Command et="6862.0">/w Torsten Spindler germansimracing.de | discord.gg/GSR</Command>
+<Score et="6945.5">Torsten Spindler(13) lap=0 point=1 t=-1.000 et=6945.439</Score>
+<Score et="6946.3">Volker Schmidt(11) lap=7 point=1 t=-1.000 et=6946.269</Score>
+<Score et="6947.0">Sven Heide(12) lap=5 point=1 t=-1.000 et=6946.983</Score>
+<Score et="6995.1">Torsten Spindler(13) lap=0 point=2 t=-1.000 et=6995.092</Score>
+<Score et="6995.7">Volker Schmidt(11) lap=7 point=2 t=-1.000 et=6995.709</Score>
+<Score et="6996.2">Sven Heide(12) lap=5 point=2 t=-1.000 et=6996.183</Score>
+<Score et="7030.5">Torsten Spindler(13) lap=1 point=0 t=-1.000 et=7030.532</Score>
+<Score et="7031.0">Volker Schmidt(11) lap=8 point=0 t=-1.000 et=7031.013</Score>
+<Score et="7031.7">Sven Heide(12) lap=6 point=0 t=-1.000 et=7031.678</Score>
+<Score et="7053.9">Torsten Spindler(13) lap=1 point=1 t=23.296 et=7053.828</Score>
+<Sector et="7053.9">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7053.9">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7053.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7053.9">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7054.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="7054.3">Volker Schmidt(11) lap=8 point=1 t=23.222 et=7054.234</Score>
+<Sector et="7054.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7054.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7054.3">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="7054.9">Sven Heide(12) lap=6 point=1 t=23.177 et=7054.854</Score>
+<Sector et="7054.9">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7054.9">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7054.9">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7054.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="7102.2">Torsten Spindler(13) lap=1 point=2 t=71.647 et=7102.179</Score>
+<Sector et="7102.2">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7102.2">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7102.2">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7102.2">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="7102.7">Volker Schmidt(11) lap=8 point=2 t=71.669 et=7102.682</Score>
+<Sector et="7102.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7102.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7102.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7102.7">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="7103.0">Sven Heide(12) lap=6 point=2 t=71.321 et=7102.999</Score>
+<Sector et="7103.0">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7103.0">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7103.0">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7103.0">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7137.0">Torsten Spindler(13) set new best for sector 1</Sector>
+<Score et="7137.0">Torsten Spindler(13) lap=2 point=0 t=106.458 et=7136.990</Score>
+<Sector et="7137.0">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="7137.0">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="7137.0">Volker Schmidt(11) set new best for sector 1</Sector>
+<Score et="7137.6">Volker Schmidt(11) lap=9 point=0 t=106.533 et=7137.545</Score>
+<Sector et="7137.6">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="7137.6">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="7137.6">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="7137.6">Torsten Spindler(13) set new best for sector 1</Sector>
+<Score et="7137.8">Sven Heide(12) lap=7 point=0 t=106.133 et=7137.811</Score>
+<Score et="7160.2">Torsten Spindler(13) lap=2 point=1 t=23.237 et=7160.227</Score>
+<Sector et="7160.2">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7160.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7160.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7160.3">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="7161.0">Volker Schmidt(11) lap=9 point=1 t=23.441 et=7160.986</Score>
+<Sector et="7161.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7161.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7161.0">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7161.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7161.3">Sven Heide(12) lap=7 point=1 t=23.414 et=7161.225</Score>
+<Sector et="7161.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7161.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7161.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7161.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7209.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7209.3">Torsten Spindler(13) lap=2 point=2 t=72.240 et=7209.230</Score>
+<Sector et="7209.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7209.3">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7209.3">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="7210.2">Volker Schmidt(11) lap=9 point=2 t=72.655 et=7210.200</Score>
+<Sector et="7210.2">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7210.2">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7210.3">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7210.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7210.4">Sven Heide(12) lap=7 point=2 t=72.575 et=7210.386</Score>
+<Sector et="7210.4">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7210.4">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7210.4">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7210.4">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="7244.0">Torsten Spindler(13) lap=3 point=0 t=107.007 et=7243.997</Score>
+<Score et="7244.5">Volker Schmidt(11) lap=10 point=0 t=106.925 et=7244.471</Score>
+<Score et="7244.8">Sven Heide(12) lap=8 point=0 t=106.922 et=7244.733</Score>
+<Sector et="7266.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7266.8">Torsten Spindler(13) lap=3 point=1 t=22.823 et=7266.819</Score>
+<Sector et="7266.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7266.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7266.9">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="7268.1">Volker Schmidt(11) lap=10 point=1 t=23.612 et=7268.083</Score>
+<Sector et="7268.1">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7268.1">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7268.1">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7268.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7268.2">Sven Heide(12) lap=8 point=1 t=23.440 et=7268.173</Score>
+<Sector et="7268.2">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7268.2">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7268.2">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7268.2">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="7316.9">Torsten Spindler(13) lap=3 point=2 t=72.853 et=7316.850</Score>
+<Sector et="7316.9">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7316.9">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7316.9">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7316.9">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="7317.7">Sven Heide(12) lap=8 point=2 t=72.938 et=7317.671</Score>
+<Sector et="7317.7">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7317.7">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7317.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7317.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7318.0">Volker Schmidt(11) lap=10 point=2 t=73.470 et=7317.941</Score>
+<Sector et="7318.0">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7318.0">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7318.0">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7318.0">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7351.3">Sven Heide(12) lap=9 point=0 t=106.566 et=7351.299</Score>
+<Score et="7351.6">Torsten Spindler(13) lap=4 point=0 t=107.524 et=7351.521</Score>
+<Score et="7361.8">Volker Schmidt(11) lap=11 point=0 t=117.325 et=7361.795</Score>
+<Score et="7374.3">Sven Heide(12) lap=9 point=1 t=22.940 et=7374.239</Score>
+<Sector et="7374.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7374.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7374.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7374.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7374.6">Torsten Spindler(13) lap=4 point=1 t=23.106 et=7374.627</Score>
+<Sector et="7374.6">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7374.7">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7374.7">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7374.7">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="7385.5">Volker Schmidt(11) lap=11 point=1 t=23.662 et=7385.458</Score>
+<Sector et="7385.5">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7385.5">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7385.5">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7385.5">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7421.6">Sven Heide(12) lap=9 point=2 t=70.260 et=7421.559</Score>
+<Sector et="7421.6">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7421.6">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7421.6">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7421.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="7422.2">Torsten Spindler(13) lap=4 point=2 t=70.707 et=7422.228</Score>
+<Sector et="7422.2">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7422.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7422.3">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7422.3">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="7434.1">Volker Schmidt(11) lap=11 point=2 t=72.313 et=7434.109</Score>
+<Sector et="7434.1">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7434.1">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7434.2">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7434.2">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7455.3">Sven Heide(12) lap=10 point=0 t=103.945 et=7455.244</Score>
+<Sector et="7455.3">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="7455.3">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="7455.3">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="7455.3">Torsten Spindler(13) set new best for sector 1</Sector>
+<Score et="7460.5">Sven Heide(12) lap=10 point=1 t=-1.000 et=7460.446</Score>
+<Score et="7460.5">Sven Heide(12) lap=10 point=2 t=-1.000 et=7460.446</Score>
+<Score et="7460.5">Sven Heide(12) lap=11 point=0 t=-1.000 et=7460.446</Score>
+<Score et="7464.2">Torsten Spindler(13) lap=5 point=0 t=112.622 et=7464.143</Score>
+<Score et="7469.7">Volker Schmidt(11) lap=12 point=0 t=107.863 et=7469.659</Score>
+<Score et="7480.2">Volker Schmidt(11) lap=12 point=1 t=-1.000 et=7480.230</Score>
+<Score et="7480.2">Volker Schmidt(11) lap=12 point=2 t=-1.000 et=7480.230</Score>
+<Score et="7480.2">Volker Schmidt(11) lap=13 point=0 t=-1.000 et=7480.230</Score>
+<Score et="7480.4">Torsten Spindler(13) lap=5 point=1 t=-1.000 et=7480.422</Score>
+<Score et="7480.4">Torsten Spindler(13) lap=5 point=2 t=-1.000 et=7480.422</Score>
+<Score et="7480.4">Torsten Spindler(13) lap=6 point=0 t=-1.000 et=7480.422</Score>
+<Score et="7591.0">Sven Heide(12) lap=11 point=1 t=-1.000 et=7591.012</Score>
+<Score et="7591.5">Volker Schmidt(11) lap=13 point=1 t=-1.000 et=7591.462</Score>
+<Score et="7591.7">Torsten Spindler(13) lap=6 point=1 t=-1.000 et=7591.711</Score>
+<Score et="7640.5">Sven Heide(12) lap=11 point=2 t=-1.000 et=7640.507</Score>
+<Score et="7641.6">Volker Schmidt(11) lap=13 point=2 t=-1.000 et=7641.567</Score>
+<Score et="7642.0">Torsten Spindler(13) lap=6 point=2 t=-1.000 et=7641.958</Score>
+<Score et="7675.4">Sven Heide(12) lap=12 point=0 t=-1.000 et=7675.369</Score>
+<Score et="7676.2">Volker Schmidt(11) lap=14 point=0 t=-1.000 et=7676.204</Score>
+<Score et="7676.7">Torsten Spindler(13) lap=7 point=0 t=-1.000 et=7676.723</Score>
+<Score et="7698.1">Sven Heide(12) lap=12 point=1 t=22.711 et=7698.080</Score>
+<Sector et="7698.1">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7698.1">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7698.1">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7698.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7699.5">Volker Schmidt(11) lap=14 point=1 t=23.250 et=7699.454</Score>
+<Sector et="7699.5">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7699.5">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7699.5">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7699.5">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7700.1">Torsten Spindler(13) lap=7 point=1 t=-1.000 et=7700.058</Score>
+<Score et="7745.6">Sven Heide(12) lap=12 point=2 t=70.248 et=7745.616</Score>
+<Sector et="7745.6">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7745.6">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7745.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7745.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7747.8">Volker Schmidt(11) lap=14 point=2 t=71.520 et=7747.724</Score>
+<Sector et="7747.8">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7747.8">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7747.8">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7747.8">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7748.1">Torsten Spindler(13) lap=7 point=2 t=-1.000 et=7748.091</Score>
+<Score et="7779.0">Sven Heide(12) lap=13 point=0 t=103.579 et=7778.947</Score>
+<Sector et="7779.0">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="7779.0">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="7779.0">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="7779.0">Volker Schmidt(11) set new best for sector 1</Sector>
+<Score et="7782.4">Volker Schmidt(11) lap=15 point=0 t=106.208 et=7782.413</Score>
+<Sector et="7782.4">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="7782.4">Volker Schmidt(11) set new best for sector 1</Sector>
+<Sector et="7782.5">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="7782.5">Sven Heide(12) set new best for sector 1</Sector>
+<Score et="7782.6">Torsten Spindler(13) lap=8 point=0 t=-1.000 et=7782.595</Score>
+<Score et="7807.0">Volker Schmidt(11) lap=15 point=1 t=24.531 et=7806.943</Score>
+<Sector et="7807.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7807.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7807.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7807.0">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="7807.6">Sven Heide(12) lap=13 point=1 t=-1.000 et=7807.608</Score>
+<Sector et="7808.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7808.3">Torsten Spindler(13) lap=8 point=1 t=25.721 et=7808.316</Score>
+<Sector et="7808.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7808.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7808.4">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="7855.4">Sven Heide(12) lap=13 point=2 t=-1.000 et=7855.337</Score>
+<Score et="7856.4">Volker Schmidt(11) lap=15 point=2 t=73.978 et=7856.390</Score>
+<Sector et="7856.4">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7856.4">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7856.4">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7856.4">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7856.5">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7856.5">Torsten Spindler(13) lap=8 point=2 t=73.924 et=7856.519</Score>
+<Sector et="7856.5">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7856.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7856.6">Sven Heide(12) set new best for sector 3</Sector>
+<Incident et="7863.9">Volker Schmidt(11) reported contact (1601.00) with Immovable</Incident>
+<Incident et="7863.9">Volker Schmidt(11) reported contact (1239.78) with Immovable</Incident>
+<Incident et="7863.9">Volker Schmidt(11) reported contact (1586.44) with Immovable</Incident>
+<Score et="7896.1">Volker Schmidt(11) lap=16 point=0 t=113.648 et=7896.061</Score>
+<Score et="7897.3">Sven Heide(12) lap=14 point=0 t=-1.000 et=7897.303</Score>
+<Score et="7898.5">Torsten Spindler(13) lap=9 point=0 t=115.829 et=7898.423</Score>
+<Score et="7919.4">Volker Schmidt(11) lap=16 point=1 t=23.376 et=7919.438</Score>
+<Sector et="7919.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7919.5">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7919.5">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="7920.0">Sven Heide(12) lap=14 point=1 t=22.630 et=7919.934</Score>
+<Sector et="7920.0">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7920.0">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7920.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="7920.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="7921.3">Torsten Spindler(13) lap=9 point=1 t=22.818 et=7921.241</Score>
+<Sector et="7921.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7921.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="7921.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="7921.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="7968.0">Volker Schmidt(11) lap=16 point=2 t=71.902 et=7967.963</Score>
+<Sector et="7968.0">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7968.0">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7968.0">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="7968.0">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7968.1">Sven Heide(12) lap=14 point=2 t=-1.000 et=7968.063</Score>
+<Sector et="7968.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="7968.7">Torsten Spindler(13) lap=9 point=2 t=70.218 et=7968.641</Score>
+<Sector et="7968.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="7968.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="7968.7">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="8003.8">Torsten Spindler(13) lap=10 point=0 t=105.360 et=8003.784</Score>
+<Sector et="8003.8">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="8003.8">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="8003.8">Sven Heide(12) set new best for sector 1</Sector>
+<Sector et="8003.8">Volker Schmidt(11) set new best for sector 1</Sector>
+<Score et="8004.6">Volker Schmidt(11) lap=17 point=0 t=108.463 et=8004.524</Score>
+<Score et="8019.4">Sven Heide(12) lap=15 point=0 t=-1.000 et=8019.343</Score>
+<Score et="8048.0">Volker Schmidt(11) lap=17 point=1 t=43.470 et=8047.994</Score>
+<Sector et="8048.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8048.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8048.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8048.0">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="8049.0">Sven Heide(12) lap=15 point=1 t=29.673 et=8049.016</Score>
+<Sector et="8049.0">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8049.0">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8049.1">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8049.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8049.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="8049.8">Torsten Spindler(13) lap=10 point=1 t=46.008 et=8049.792</Score>
+<Sector et="8049.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8049.8">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8049.8">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="8096.6">Volker Schmidt(11) lap=17 point=2 t=92.084 et=8096.608</Score>
+<Sector et="8096.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="8096.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="8096.7">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8096.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="8096.8">Sven Heide(12) lap=15 point=2 t=77.411 et=8096.754</Score>
+<Sector et="8096.8">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8096.8">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8096.8">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8096.8">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="8097.6">Torsten Spindler(13) lap=10 point=2 t=-1.000 et=8097.576</Score>
+<Score et="8131.8">Volker Schmidt(11) lap=18 point=0 t=127.203 et=8131.728</Score>
+<Score et="8132.1">Sven Heide(12) lap=16 point=0 t=112.684 et=8132.027</Score>
+<Score et="8132.4">Torsten Spindler(13) lap=11 point=0 t=128.558 et=8132.341</Score>
+<Incident et="8147.8">Torsten Spindler(13) reported contact (1468.79) with another vehicle Sven Heide(12)</Incident>
+<Incident et="8147.8">Torsten Spindler(13) reported contact (1468.79) with another vehicle Torsten Spindler(13)</Incident>
+<Incident et="8147.8">Sven Heide(12) reported contact (1450.26) with another vehicle Sven Heide(12)</Incident>
+<Incident et="8147.8">Sven Heide(12) reported contact (1450.26) with another vehicle Torsten Spindler(13)</Incident>
+<Incident et="8154.4">Sven Heide(12) reported contact (1611.09) with another vehicle Volker Schmidt(11)</Incident>
+<Incident et="8154.4">Sven Heide(12) reported contact (1611.09) with another vehicle Sven Heide(12)</Incident>
+<Incident et="8154.4">Volker Schmidt(11) reported contact (1603.60) with another vehicle Volker Schmidt(11)</Incident>
+<Incident et="8154.4">Volker Schmidt(11) reported contact (1603.60) with another vehicle Sven Heide(12)</Incident>
+<Score et="8155.7">Volker Schmidt(11) lap=18 point=1 t=23.923 et=8155.650</Score>
+<Sector et="8155.7">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8155.7">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8155.7">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8155.7">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="8155.8">Sven Heide(12) lap=16 point=1 t=23.698 et=8155.725</Score>
+<Sector et="8155.8">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8155.8">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8155.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8155.8">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="8156.6">Torsten Spindler(13) lap=11 point=1 t=24.257 et=8156.599</Score>
+<Sector et="8156.6">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8156.6">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8156.6">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8156.6">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="8163.6">Sven Heide(12) lap=16 point=2 t=-1.000 et=8163.632</Score>
+<Score et="8163.7">Sven Heide(12) lap=17 point=0 t=-1.000 et=8163.632</Score>
+<Score et="8166.8">Volker Schmidt(11) lap=18 point=2 t=-1.000 et=8166.810</Score>
+<Score et="8166.8">Volker Schmidt(11) lap=19 point=0 t=-1.000 et=8166.810</Score>
+<Score et="8167.4">Torsten Spindler(13) lap=11 point=2 t=-1.000 et=8167.334</Score>
+<Score et="8167.4">Torsten Spindler(13) lap=12 point=0 t=-1.000 et=8167.334</Score>
+<Score et="8304.9">Volker Schmidt(11) lap=19 point=1 t=-1.000 et=8304.839</Score>
+<Score et="8305.2">Torsten Spindler(13) lap=12 point=1 t=-1.000 et=8305.213</Score>
+<Score et="8305.8">Sven Heide(12) lap=17 point=1 t=-1.000 et=8305.768</Score>
+<Score et="8353.6">Volker Schmidt(11) lap=19 point=2 t=-1.000 et=8353.609</Score>
+<Score et="8354.3">Torsten Spindler(13) lap=12 point=2 t=-1.000 et=8354.309</Score>
+<Score et="8355.3">Sven Heide(12) lap=17 point=2 t=-1.000 et=8355.257</Score>
+<Score et="8388.6">Volker Schmidt(11) lap=20 point=0 t=-1.000 et=8388.619</Score>
+<Score et="8389.4">Torsten Spindler(13) lap=13 point=0 t=-1.000 et=8389.340</Score>
+<Score et="8389.6">Sven Heide(12) lap=18 point=0 t=-1.000 et=8389.586</Score>
+<Score et="8411.9">Volker Schmidt(11) lap=20 point=1 t=23.229 et=8411.849</Score>
+<Sector et="8411.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8411.9">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8411.9">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8411.9">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="8412.0">Torsten Spindler(13) lap=13 point=1 t=22.691 et=8412.031</Score>
+<Sector et="8412.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8412.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8412.1">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8412.1">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="8412.7">Sven Heide(12) lap=18 point=1 t=23.125 et=8412.711</Score>
+<Sector et="8412.7">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8412.7">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8412.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8412.8">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="8460.6">Volker Schmidt(11) lap=20 point=2 t=71.983 et=8460.603</Score>
+<Sector et="8460.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="8460.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="8460.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8460.7">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="8461.0">Torsten Spindler(13) lap=13 point=2 t=71.600 et=8460.939</Score>
+<Sector et="8461.0">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8461.0">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8461.0">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8461.0">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="8461.3">Sven Heide(12) lap=18 point=2 t=71.715 et=8461.301</Score>
+<Sector et="8461.3">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8461.3">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8461.4">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8461.4">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="8496.0">Volker Schmidt(11) lap=21 point=0 t=107.311 et=8495.930</Score>
+<Score et="8496.1">Torsten Spindler(13) lap=14 point=0 t=106.769 et=8496.108</Score>
+<Score et="8496.6">Sven Heide(12) lap=19 point=0 t=106.961 et=8496.547</Score>
+<Score et="8520.0">Torsten Spindler(13) lap=14 point=1 t=23.918 et=8520.026</Score>
+<Sector et="8520.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8520.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8520.1">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8520.1">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="8520.3">Volker Schmidt(11) lap=21 point=1 t=24.311 et=8520.240</Score>
+<Sector et="8520.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8520.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8520.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8520.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="8520.4">Sven Heide(12) lap=19 point=1 t=23.810 et=8520.356</Score>
+<Sector et="8520.4">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8520.4">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8520.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8520.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="8558.1">Volker Schmidt(11) lap=21 point=2 t=-1.000 et=8558.083</Score>
+<Score et="8558.1">Volker Schmidt(11) lap=22 point=0 t=-1.000 et=8558.083</Score>
+<Score et="8568.6">Sven Heide(12) lap=19 point=2 t=72.004 et=8568.551</Score>
+<Sector et="8568.6">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8568.6">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8568.6">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8568.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="8570.0">Torsten Spindler(13) lap=14 point=2 t=73.829 et=8569.938</Score>
+<Sector et="8570.0">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8570.0">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8570.0">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="8570.0">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="8604.7">Torsten Spindler(13) lap=15 point=0 t=108.550 et=8604.658</Score>
+<Score et="8606.6">Sven Heide(12) lap=20 point=0 t=-1.000 et=8606.566</Score>
+<Score et="8627.6">Torsten Spindler(13) lap=15 point=1 t=22.963 et=8627.621</Score>
+<Sector et="8627.6">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8627.7">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8627.7">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8627.7">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="8674.9">Torsten Spindler(13) lap=15 point=2 t=-1.000 et=8674.823</Score>
+<Score et="8718.3">Torsten Spindler(13) lap=16 point=0 t=-1.000 et=8718.230</Score>
+<Score et="8765.3">Sven Heide(12) lap=20 point=1 t=-1.000 et=8765.249</Score>
+<Score et="8765.3">Sven Heide(12) lap=20 point=2 t=-1.000 et=8765.249</Score>
+<Score et="8765.3">Sven Heide(12) lap=21 point=0 t=-1.000 et=8765.249</Score>
+<Score et="8796.8">Volker Schmidt(11) lap=22 point=1 t=-1.000 et=8796.802</Score>
+<Score et="8797.2">Torsten Spindler(13) lap=16 point=1 t=-1.000 et=8797.167</Score>
+<Score et="8847.3">Volker Schmidt(11) lap=22 point=2 t=-1.000 et=8847.253</Score>
+<Score et="8847.7">Torsten Spindler(13) lap=16 point=2 t=-1.000 et=8847.648</Score>
+<Score et="8857.5">Sven Heide(12) lap=21 point=1 t=-1.000 et=8857.530</Score>
+<Score et="8893.1">Volker Schmidt(11) lap=23 point=0 t=-1.000 et=8893.063</Score>
+<Score et="8893.5">Torsten Spindler(13) lap=17 point=0 t=-1.000 et=8893.435</Score>
+<Score et="8908.1">Sven Heide(12) lap=21 point=2 t=-1.000 et=8908.112</Score>
+<Score et="8918.1">Volker Schmidt(11) lap=23 point=1 t=25.038 et=8918.101</Score>
+<Sector et="8918.1">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8918.1">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8918.2">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8918.2">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="8918.4">Torsten Spindler(13) lap=17 point=1 t=24.954 et=8918.389</Score>
+<Sector et="8918.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8918.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="8918.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="8918.4">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="8975.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="8975.7">Volker Schmidt(11) lap=23 point=2 t=82.595 et=8975.657</Score>
+<Sector et="8975.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="8975.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8975.7">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="8976.1">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="8976.1">Torsten Spindler(13) lap=17 point=2 t=82.619 et=8976.054</Score>
+<Sector et="8976.1">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="8976.1">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="8976.1">Sven Heide(12) set new best for sector 3</Sector>
+<Incident et="9010.2">Sven Heide(12) reported contact (243.91) with Post</Incident>
+<Incident et="9010.2">Sven Heide(12) reported contact (37.44) with Post</Incident>
+<Score et="9011.3">Volker Schmidt(11) lap=24 point=0 t=118.218 et=9011.280</Score>
+<Score et="9011.5">Torsten Spindler(13) lap=18 point=0 t=118.093 et=9011.527</Score>
+<Score et="9020.0">Sven Heide(12) lap=22 point=0 t=-1.000 et=9019.925</Score>
+<Score et="9035.3">Volker Schmidt(11) lap=24 point=1 t=23.944 et=9035.225</Score>
+<Sector et="9035.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9035.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9035.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="9035.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="9035.5">Torsten Spindler(13) lap=18 point=1 t=23.896 et=9035.424</Score>
+<Sector et="9035.5">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9035.5">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9035.5">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9035.5">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="9043.7">Sven Heide(12) lap=22 point=1 t=-1.000 et=9043.697</Score>
+<Score et="9043.7">Sven Heide(12) lap=22 point=2 t=-1.000 et=9043.697</Score>
+<Score et="9043.7">Sven Heide(12) lap=23 point=0 t=-1.000 et=9043.697</Score>
+<Score et="9084.9">Volker Schmidt(11) lap=24 point=2 t=73.583 et=9084.863</Score>
+<Sector et="9084.9">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9084.9">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9084.9">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9084.9">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="9085.2">Torsten Spindler(13) lap=18 point=2 t=73.637 et=9085.164</Score>
+<Sector et="9085.2">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9085.2">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9085.2">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9085.2">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="9120.4">Volker Schmidt(11) lap=25 point=0 t=109.143 et=9120.423</Score>
+<Score et="9120.5">Torsten Spindler(13) lap=19 point=0 t=109.013 et=9120.540</Score>
+<Sector et="9144.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="9144.3">Torsten Spindler(13) lap=19 point=1 t=23.690 et=9144.230</Score>
+<Sector et="9144.3">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9144.3">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9144.3">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="9145.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="9145.0">Volker Schmidt(11) lap=25 point=1 t=24.582 et=9145.005</Score>
+<Sector et="9145.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9145.1">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="9145.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9193.6">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="9193.6">Torsten Spindler(13) lap=19 point=2 t=73.010 et=9193.550</Score>
+<Sector et="9193.6">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9193.6">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9193.6">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="9194.2">Volker Schmidt(11) lap=25 point=2 t=73.727 et=9194.149</Score>
+<Sector et="9194.2">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9194.2">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9194.2">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="9194.2">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="9228.5">Torsten Spindler(13) lap=20 point=0 t=107.885 et=9228.425</Score>
+<Score et="9229.3">Volker Schmidt(11) lap=26 point=0 t=108.855 et=9229.278</Score>
+<Score et="9252.8">Torsten Spindler(13) lap=20 point=1 t=24.393 et=9252.817</Score>
+<Sector et="9252.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9252.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9252.8">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9252.9">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="9253.4">Volker Schmidt(11) lap=26 point=1 t=24.120 et=9253.398</Score>
+<Sector et="9253.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9253.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9253.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9253.4">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="9315.8">Torsten Spindler(13) lap=20 point=2 t=87.351 et=9315.775</Score>
+<Sector et="9315.8">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9315.8">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9315.8">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9315.8">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="9316.5">Volker Schmidt(11) set new best for sector 3</Sector>
+<Score et="9316.5">Volker Schmidt(11) lap=26 point=2 t=87.168 et=9316.446</Score>
+<Sector et="9316.5">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9316.5">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="9316.5">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="9351.4">Torsten Spindler(13) lap=21 point=0 t=123.012 et=9351.437</Score>
+<Score et="9352.1">Volker Schmidt(11) lap=27 point=0 t=122.821 et=9352.100</Score>
+<Score et="9375.0">Torsten Spindler(13) lap=21 point=1 t=23.521 et=9374.957</Score>
+<Sector et="9375.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9375.0">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9375.0">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9375.0">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="9376.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="9376.4">Volker Schmidt(11) lap=27 point=1 t=24.237 et=9376.337</Score>
+<Sector et="9376.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9376.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9376.4">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="9424.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="9424.3">Torsten Spindler(13) lap=21 point=2 t=72.874 et=9424.311</Score>
+<Sector et="9424.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9424.4">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9424.4">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="9425.4">Volker Schmidt(11) lap=27 point=2 t=73.272 et=9425.372</Score>
+<Sector et="9425.4">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9425.4">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9425.4">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="9425.4">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="9460.2">Torsten Spindler(13) lap=22 point=0 t=108.785 et=9460.222</Score>
+<Score et="9460.8">Volker Schmidt(11) lap=28 point=0 t=108.680 et=9460.779</Score>
+<Score et="9483.4">Torsten Spindler(13) lap=22 point=1 t=23.128 et=9483.350</Score>
+<Sector et="9483.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9483.4">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9483.4">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="9483.4">Volker Schmidt(11) set new best for sector 2</Sector>
+<Score et="9484.2">Volker Schmidt(11) lap=28 point=1 t=23.421 et=9484.200</Score>
+<Sector et="9484.2">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9484.2">Volker Schmidt(11) set new best for sector 2</Sector>
+<Sector et="9484.2">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9484.2">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="9533.3">Volker Schmidt(11) lap=28 point=2 t=72.494 et=9533.273</Score>
+<Sector et="9533.3">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9533.3">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9533.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9533.3">Sven Heide(12) set new best for sector 3</Sector>
+<Sector et="9533.6">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="9533.6">Torsten Spindler(13) lap=22 point=2 t=73.394 et=9533.615</Score>
+<Sector et="9533.6">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9533.7">Volker Schmidt(11) set new best for sector 3</Sector>
+<Sector et="9533.7">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="9574.4">Volker Schmidt(11) lap=29 point=0 t=-1.000 et=9574.362</Score>
+<Score et="9576.1">Torsten Spindler(13) lap=23 point=0 t=-1.000 et=9576.099</Score>
+<Chat et="9631.8">Volker Schmidt left the race.</Chat>
+<Score et="9721.8">Torsten Spindler(13) lap=23 point=1 t=-1.000 et=9721.828</Score>
+<Score et="9769.2">Torsten Spindler(13) lap=23 point=2 t=-1.000 et=9769.202</Score>
+<Score et="9802.5">Torsten Spindler(13) lap=24 point=0 t=-1.000 et=9802.443</Score>
+<Sector et="9825.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Score et="9825.1">Torsten Spindler(13) lap=24 point=1 t=22.620 et=9825.063</Score>
+<Sector et="9825.1">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9825.1">Sven Heide(12) set new best for sector 2</Sector>
+<Score et="9872.3">Torsten Spindler(13) lap=24 point=2 t=69.851 et=9872.294</Score>
+<Sector et="9872.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9872.3">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9872.3">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="9905.7">Torsten Spindler(13) lap=25 point=0 t=103.261 et=9905.704</Score>
+<Sector et="9905.7">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="9905.7">Torsten Spindler(13) set new best for sector 1</Sector>
+<Sector et="9905.8">Sven Heide(12) set new best for sector 1</Sector>
+<Score et="9928.8">Torsten Spindler(13) lap=25 point=1 t=23.039 et=9928.743</Score>
+<Sector et="9928.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9928.8">Torsten Spindler(13) set new best for sector 2</Sector>
+<Sector et="9928.8">Sven Heide(12) set new best for sector 2</Sector>
+<Sector et="9976.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Score et="9976.7">Torsten Spindler(13) lap=25 point=2 t=70.983 et=9976.688</Score>
+<Sector et="9976.7">Torsten Spindler(13) set new best for sector 3</Sector>
+<Sector et="9976.7">Sven Heide(12) set new best for sector 3</Sector>
+<Score et="10016.3">Torsten Spindler(13) lap=26 point=0 t=-1.000 et=10016.339</Score>
+</Stream>
+<MostLapsCompleted>26</MostLapsCompleted>
+<Driver>
+<Name>Torsten Spindler</Name>
+<SteamID>76561198042616734</SteamID>
+<Connected>1</Connected>
+<VehFile>70DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#70 Torsten Spindler</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>70</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.435" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="7030.5317" s1="23.2959" s2="48.3516" s3="34.8105" fuel="0.412" twfl="0.973" twfr="0.988" twrl="0.965" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">106.4580</Lap>
+<Lap num="3" p="2" et="7136.9897" s1="23.2373" s2="49.0029" s3="34.7666" fuel="0.392" twfl="0.957" twfr="0.980" twrl="0.949" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">107.0068</Lap>
+<Lap num="4" p="2" et="7243.9966" s1="22.8228" s2="50.0303" s3="34.6714" fuel="0.369" twfl="0.941" twfr="0.973" twrl="0.925" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">107.5244</Lap>
+<Lap num="5" p="2" et="7351.5210" s1="23.1060" s2="47.6006" s3="41.9155" fuel="0.345" twfl="0.910" twfr="0.961" twrl="0.882" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">112.6221</Lap>
+<Lap num="6" p="2" et="7464.1431" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="7480.4219" fuel="0.443" twfl="0.953" twfr="0.992" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="3" et="7676.7231" fuel="0.420" twfl="0.929" twfr="0.957" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="3" et="7782.5947" s1="25.7212" s2="48.2026" s3="41.9048" fuel="0.400" twfl="0.898" twfr="0.933" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">115.8286</Lap>
+<Lap num="10" p="2" et="7898.4233" s1="22.8179" s2="47.3999" s3="35.1426" fuel="0.376" twfl="0.875" twfr="0.918" twrl="0.937" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">105.3604</Lap>
+<Lap num="11" p="2" et="8003.7837" s1="46.0083" fuel="0.357" twfl="0.851" twfr="0.902" twrl="0.918" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">128.5576</Lap>
+<Lap num="12" p="2" et="8132.3413" s1="24.2573" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="2" et="8167.3340" fuel="0.443" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="2" et="8389.3398" s1="22.6914" s2="48.9082" s3="35.1689" fuel="0.420" twfl="0.969" twfr="0.976" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">106.7686</Lap>
+<Lap num="15" p="2" et="8496.1084" s1="23.9180" s2="49.9111" s3="34.7207" fuel="0.396" twfl="0.949" twfr="0.941" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">108.5498</Lap>
+<Lap num="16" p="2" et="8604.6582" s1="22.9629" fuel="0.376" twfl="0.922" twfr="0.914" twrl="0.929" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="17" p="2" et="8718.2305" fuel="0.443" twfl="0.984" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="2" et="8893.4346" s1="24.9541" s2="57.6650" s3="35.4736" fuel="0.424" twfl="0.973" twfr="0.988" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">118.0928</Lap>
+<Lap num="19" p="2" et="9011.5273" s1="23.8965" s2="49.7402" s3="35.3760" fuel="0.404" twfl="0.957" twfr="0.980" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">109.0127</Lap>
+<Lap num="20" p="2" et="9120.5400" s1="23.6904" s2="49.3193" s3="34.8750" fuel="0.380" twfl="0.937" twfr="0.973" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">107.8848</Lap>
+<Lap num="21" p="2" et="9228.4248" s1="24.3926" s2="62.9580" s3="35.6611" fuel="0.361" twfl="0.922" twfr="0.965" twrl="0.925" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">123.0117</Lap>
+<Lap num="22" p="2" et="9351.4365" s1="23.5205" s2="49.3535" s3="35.9111" fuel="0.341" twfl="0.906" twfr="0.961" twrl="0.906" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">108.7852</Lap>
+<Lap num="23" p="2" et="9460.2217" s1="23.1279" s2="50.2656" fuel="0.322" twfl="0.886" twfr="0.929" twrl="0.890" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="24" p="2" et="9576.0986" fuel="0.439" twfl="0.980" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="1" et="9802.4434" s1="22.6201" s2="47.2305" s3="33.4102" fuel="0.416" twfl="0.949" twfr="0.969" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.2607</Lap>
+<Lap num="26" p="1" et="9905.7041" s1="23.0391" s2="47.9443" fuel="0.396" twfl="0.914" twfr="0.941" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>103.2607</BestLapTime>
+<Laps>26</Laps>
+<Pitstops>2</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="26">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Sven Heide</Name>
+<SteamID>76561198012671202</SteamID>
+<Connected>1</Connected>
+<VehFile>69DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.447" twfl="0.992" twfr="0.996" twrl="0.992" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="6399.9790" s1="23.2026" s2="47.0796" s3="33.8579" fuel="0.427" twfl="0.965" twfr="0.984" twrl="0.961" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">104.1401</Lap>
+<Lap num="3" p="1" et="6504.1191" fuel="0.404" twfl="0.945" twfr="0.969" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="6612.0024" s1="23.2251" s2="47.5898" s3="36.6846" fuel="0.384" twfl="0.922" twfr="0.937" twrl="0.902" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">107.4995</Lap>
+<Lap num="5" p="1" et="6719.5020" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="6737.3633" fuel="0.443" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="7031.6777" s1="23.1768" s2="48.1440" s3="34.8125" fuel="0.420" twfl="0.973" twfr="0.984" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">106.1333</Lap>
+<Lap num="8" p="1" et="7137.8110" s1="23.4141" s2="49.1611" s3="34.3467" fuel="0.400" twfl="0.957" twfr="0.980" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">106.9219</Lap>
+<Lap num="9" p="1" et="7244.7329" s1="23.4399" s2="49.4985" s3="33.6274" fuel="0.376" twfl="0.918" twfr="0.969" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">106.5659</Lap>
+<Lap num="10" p="1" et="7351.2988" s1="22.9399" s2="47.3198" s3="33.6855" fuel="0.353" twfl="0.898" twfr="0.949" twrl="0.902" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">103.9453</Lap>
+<Lap num="11" p="1" et="7455.2441" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="7460.4463" fuel="0.443" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="7675.3687" s1="22.7109" s2="47.5366" s3="33.3311" fuel="0.420" twfl="0.969" twfr="0.976" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">103.5786</Lap>
+<Lap num="14" p="1" et="7778.9473" fuel="0.400" twfl="0.949" twfr="0.969" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="7897.3032" s1="22.6304" fuel="0.376" twfl="0.918" twfr="0.953" twrl="0.894" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="1" et="8019.3433" s1="29.6729" s2="47.7378" s3="35.2729" fuel="0.357" twfl="0.894" twfr="0.918" twrl="0.863" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">112.6836</Lap>
+<Lap num="17" p="1" et="8132.0269" s1="23.6982" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="1" et="8163.6318" fuel="0.443" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="1" et="8389.5859" s1="23.1250" s2="48.5898" s3="35.2461" fuel="0.420" twfl="0.973" twfr="0.984" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">106.9609</Lap>
+<Lap num="20" p="1" et="8496.5469" s1="23.8096" s2="48.1943" fuel="0.400" twfl="0.941" twfr="0.973" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="21" p="1" et="8606.5664" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="1" et="8765.2490" fuel="0.439" twfl="0.976" twfr="0.984" twrl="0.957" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="1" et="9019.9248" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.5786</BestLapTime>
+<Laps>23</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="23">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Volker Schmidt</Name>
+<SteamID>76561198100423709</SteamID>
+<Connected>0</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.431" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="6172.2529" s1="24.1479" s2="50.3057" s3="36.0806" fuel="0.412" twfl="0.980" twfr="0.988" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">110.5342</Lap>
+<Lap num="3" p="1" et="6282.7871" s1="24.0449" s2="56.9629" s3="35.6963" fuel="0.388" twfl="0.961" twfr="0.980" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">116.7041</Lap>
+<Lap num="4" p="2" et="6399.4912" s1="23.4277" s2="48.6719" s3="34.9810" fuel="0.369" twfl="0.937" twfr="0.953" twrl="0.929" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">107.0806</Lap>
+<Lap num="5" p="2" et="6506.5718" s1="23.6997" s2="49.2080" s3="34.4038" fuel="0.349" twfl="0.922" twfr="0.945" twrl="0.914" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">107.3115</Lap>
+<Lap num="6" p="2" et="6613.8833" s1="23.6602" s2="48.5591" s3="34.6543" fuel="0.325" twfl="0.898" twfr="0.937" twrl="0.886" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">106.8735</Lap>
+<Lap num="7" p="2" et="6720.7568" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="2" et="6742.3940" fuel="0.435" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="3" et="7031.0127" s1="23.2217" s2="48.4473" s3="34.8638" fuel="0.412" twfl="0.965" twfr="0.984" twrl="0.965" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">106.5327</Lap>
+<Lap num="10" p="3" et="7137.5454" s1="23.4409" s2="49.2139" s3="34.2705" fuel="0.392" twfl="0.945" twfr="0.976" twrl="0.945" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">106.9253</Lap>
+<Lap num="11" p="3" et="7244.4707" s1="23.6123" s2="49.8579" s3="43.8545" fuel="0.369" twfl="0.925" twfr="0.961" twrl="0.906" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">117.3247</Lap>
+<Lap num="12" p="3" et="7361.7954" s1="23.6621" s2="48.6514" s3="35.5498" fuel="0.349" twfl="0.902" twfr="0.953" twrl="0.890" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">107.8633</Lap>
+<Lap num="13" p="3" et="7469.6587" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="3" et="7480.2300" fuel="0.443" twfl="0.984" twfr="0.992" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="2" et="7676.2041" s1="23.2495" s2="48.2700" s3="34.6890" fuel="0.420" twfl="0.957" twfr="0.980" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">106.2085</Lap>
+<Lap num="16" p="2" et="7782.4126" s1="24.5308" s2="49.4468" s3="39.6709" fuel="0.400" twfl="0.937" twfr="0.969" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">113.6484</Lap>
+<Lap num="17" p="3" et="7896.0610" s1="23.3765" s2="48.5254" s3="36.5615" fuel="0.380" twfl="0.902" twfr="0.953" twrl="0.937" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">108.4634</Lap>
+<Lap num="18" p="3" et="8004.5244" s1="43.4697" s2="48.6143" s3="35.1191" fuel="0.361" twfl="0.875" twfr="0.941" twrl="0.918" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">127.2031</Lap>
+<Lap num="19" p="3" et="8131.7275" s1="23.9229" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="3" et="8166.8101" fuel="0.443" twfl="0.980" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="21" p="3" et="8388.6191" s1="23.2295" s2="48.7539" s3="35.3271" fuel="0.420" twfl="0.957" twfr="0.973" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">107.3105</Lap>
+<Lap num="22" p="3" et="8495.9297" s1="24.3105" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="3" et="8558.0830" fuel="0.443" twfl="0.988" twfr="0.984" twrl="0.988" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="24" p="3" et="8893.0625" s1="25.0381" s2="57.5566" s3="35.6230" fuel="0.424" twfl="0.969" twfr="0.961" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">118.2178</Lap>
+<Lap num="25" p="3" et="9011.2803" s1="23.9443" s2="49.6387" s3="35.5596" fuel="0.404" twfl="0.949" twfr="0.949" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">109.1426</Lap>
+<Lap num="26" p="3" et="9120.4229" s1="24.5820" s2="49.1445" s3="35.1289" fuel="0.384" twfl="0.929" twfr="0.945" twrl="0.937" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">108.8555</Lap>
+<Lap num="27" p="3" et="9229.2783" s1="24.1201" s2="63.0479" s3="35.6533" fuel="0.365" twfl="0.914" twfr="0.933" twrl="0.925" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">122.8213</Lap>
+<Lap num="28" p="3" et="9352.0996" s1="24.2373" s2="49.0352" s3="35.4072" fuel="0.345" twfl="0.902" twfr="0.929" twrl="0.914" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">108.6797</Lap>
+<Lap num="29" p="3" et="9460.7793" s1="23.4209" s2="49.0732" fuel="0.325" twfl="0.886" twfr="0.918" twrl="0.898" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>106.2085</BestLapTime>
+<Laps>29</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="29">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="29"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674917726</DateTime>
+<TimeString>2023/01/28 15:55:26</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674927390</DateTime>
+<TimeString>2023/01/28 18:36:30</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Command from="Cyrille Canavate" nodeid="2" et="0.0">/vote yes</Command>
+<Vote et="0.0">Cyrille Canavate: /vote yes</Vote>
+<Sent et="0.0">Vote ignored: There is no vote in progress</Sent>
+<Command from="Fred Bart" nodeid="1" et="0.0">/callvote restartweekend</Command>
+<Vote et="0.0">Fred Bart: /callvote restartweekend</Vote>
+<Sent et="0.0">&quot;restart weekend&quot; proposed by Fred Bart: 1 vote needed to pass</Sent>
+<Chat et="10.8">&gt; /w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.0">&gt; /w Cyrille Canavate germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.0">/w Cyrille Canavate germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.2">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.2">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="11.4">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.4">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Score et="86.0">Cyrille Canavate(2) lap=0 point=1 t=-1.000 et=85.978</Score>
+<Score et="87.7">Fred Bart(3) lap=0 point=1 t=-1.000 et=87.695</Score>
+<Score et="134.4">Cyrille Canavate(2) lap=0 point=2 t=-1.000 et=134.369</Score>
+<Score et="135.6">Fred Bart(3) lap=0 point=2 t=-1.000 et=135.612</Score>
+<Score et="168.5">Cyrille Canavate(2) lap=1 point=0 t=-1.000 et=168.467</Score>
+<Score et="169.3">Fred Bart(3) lap=1 point=0 t=-1.000 et=169.226</Score>
+<Sector et="191.7">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Score et="191.7">Cyrille Canavate(2) lap=1 point=1 t=23.208 et=191.675</Score>
+<Sector et="191.7">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="191.7">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="192.5">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="192.5">Fred Bart(3) lap=1 point=1 t=23.272 et=192.498</Score>
+<Sector et="192.5">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="192.6">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="238.8">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Score et="238.8">Cyrille Canavate(2) lap=1 point=2 t=70.325 et=238.792</Score>
+<Sector et="238.8">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Sector et="238.9">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="239.5">Fred Bart(3) lap=1 point=2 t=70.293 et=239.518</Score>
+<Sector et="239.5">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="239.5">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="239.6">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Score et="272.5">Fred Bart(3) lap=2 point=0 t=-1.000 et=272.437</Score>
+<Score et="272.5">Fred Bart(3) lap=2 point=1 t=-1.000 et=272.437</Score>
+<Score et="272.5">Fred Bart(3) lap=2 point=2 t=-1.000 et=272.437</Score>
+<Score et="272.5">Fred Bart(3) lap=3 point=0 t=-1.000 et=272.437</Score>
+<Score et="273.3">Cyrille Canavate(2) lap=2 point=0 t=-1.000 et=273.246</Score>
+<Score et="273.3">Cyrille Canavate(2) lap=2 point=1 t=-1.000 et=273.246</Score>
+<Score et="273.3">Cyrille Canavate(2) lap=2 point=2 t=-1.000 et=273.246</Score>
+<Score et="273.3">Cyrille Canavate(2) lap=3 point=0 t=-1.000 et=273.246</Score>
+<Score et="535.1">Fred Bart(3) lap=3 point=1 t=-1.000 et=535.092</Score>
+<Score et="536.2">Cyrille Canavate(2) lap=3 point=1 t=-1.000 et=536.161</Score>
+<Score et="585.6">Cyrille Canavate(2) lap=3 point=2 t=-1.000 et=585.527</Score>
+<Score et="586.0">Fred Bart(3) lap=3 point=2 t=-1.000 et=585.925</Score>
+<Score et="686.2">Cyrille Canavate(2) lap=4 point=0 t=-1.000 et=686.206</Score>
+<Score et="686.9">Fred Bart(3) lap=4 point=0 t=-1.000 et=686.911</Score>
+<Score et="855.1">Fred Bart(3) lap=4 point=1 t=-1.000 et=855.106</Score>
+<Score et="855.6">Cyrille Canavate(2) lap=4 point=1 t=-1.000 et=855.569</Score>
+<Score et="903.7">Fred Bart(3) lap=4 point=2 t=-1.000 et=903.683</Score>
+<Score et="903.9">Cyrille Canavate(2) lap=4 point=2 t=-1.000 et=903.845</Score>
+<Score et="937.6">Fred Bart(3) lap=5 point=0 t=-1.000 et=937.528</Score>
+<Score et="938.5">Cyrille Canavate(2) lap=5 point=0 t=-1.000 et=938.494</Score>
+<Sector et="961.0">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="961.0">Fred Bart(3) lap=5 point=1 t=23.478 et=961.006</Score>
+<Sector et="961.0">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="961.1">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="961.8">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Score et="961.8">Cyrille Canavate(2) lap=5 point=1 t=23.313 et=961.806</Score>
+<Sector et="961.8">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="961.9">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1008.9">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="1008.9">Fred Bart(3) lap=5 point=2 t=71.324 et=1008.852</Score>
+<Sector et="1008.9">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="1008.9">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Sector et="1009.4">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Score et="1009.4">Cyrille Canavate(2) lap=5 point=2 t=70.852 et=1009.346</Score>
+<Sector et="1009.4">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Sector et="1009.4">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="1068.8">Cyrille Canavate(2) set new best for sector 1</Sector>
+<Score et="1068.8">Cyrille Canavate(2) lap=6 point=0 t=130.229 et=1068.723</Score>
+<Sector et="1068.8">Cyrille Canavate(2) set new best for sector 1</Sector>
+<Sector et="1068.8">Fred Bart(3) set new best for sector 1</Sector>
+<Sector et="1069.6">Fred Bart(3) set new best for sector 1</Sector>
+<Score et="1069.6">Fred Bart(3) lap=6 point=0 t=132.053 et=1069.581</Score>
+<Sector et="1069.6">Fred Bart(3) set new best for sector 1</Sector>
+<Sector et="1069.7">Cyrille Canavate(2) set new best for sector 1</Sector>
+<Sector et="1123.5">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Score et="1123.5">Cyrille Canavate(2) lap=6 point=1 t=54.762 et=1123.485</Score>
+<Sector et="1123.5">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="1123.6">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1124.4">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="1124.4">Fred Bart(3) lap=6 point=1 t=54.755 et=1124.336</Score>
+<Sector et="1124.4">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1124.4">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="1172.1">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Score et="1172.1">Cyrille Canavate(2) lap=6 point=2 t=103.394 et=1172.117</Score>
+<Sector et="1172.1">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Sector et="1172.2">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="1172.7">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="1172.7">Fred Bart(3) lap=6 point=2 t=103.081 et=1172.662</Score>
+<Sector et="1172.7">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="1172.7">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Score et="1187.7">Fred Bart(3) lap=7 point=0 t=-1.000 et=1187.677</Score>
+<Score et="1194.1">Cyrille Canavate(2) lap=7 point=0 t=-1.000 et=1194.091</Score>
+<Score et="1266.0">Fred Bart(3) lap=7 point=1 t=-1.000 et=1265.944</Score>
+<Score et="1267.4">Cyrille Canavate(2) lap=7 point=1 t=-1.000 et=1267.395</Score>
+<Score et="1314.5">Fred Bart(3) lap=7 point=2 t=-1.000 et=1314.483</Score>
+<Score et="1315.3">Cyrille Canavate(2) lap=7 point=2 t=-1.000 et=1315.234</Score>
+<Score et="1348.9">Fred Bart(3) lap=8 point=0 t=-1.000 et=1348.827</Score>
+<Score et="1350.0">Cyrille Canavate(2) lap=8 point=0 t=-1.000 et=1349.942</Score>
+<Sector et="1372.1">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="1372.1">Fred Bart(3) lap=8 point=1 t=23.194 et=1372.022</Score>
+<Sector et="1372.1">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1372.1">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="1372.9">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Score et="1372.9">Cyrille Canavate(2) lap=8 point=1 t=22.962 et=1372.904</Score>
+<Sector et="1372.9">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="1373.0">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1418.8">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="1418.8">Fred Bart(3) lap=8 point=2 t=69.894 et=1418.721</Score>
+<Sector et="1418.8">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="1418.8">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Sector et="1420.1">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Score et="1420.1">Cyrille Canavate(2) lap=8 point=2 t=70.169 et=1420.111</Score>
+<Sector et="1420.1">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Sector et="1420.2">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="1452.1">Fred Bart(3) lap=9 point=0 t=103.257 et=1452.085</Score>
+<Sector et="1452.1">Fred Bart(3) set new best for sector 1</Sector>
+<Sector et="1452.1">Fred Bart(3) set new best for sector 1</Sector>
+<Sector et="1452.2">Cyrille Canavate(2) set new best for sector 1</Sector>
+<Sector et="1453.4">Cyrille Canavate(2) set new best for sector 1</Sector>
+<Score et="1453.4">Cyrille Canavate(2) lap=9 point=0 t=103.382 et=1453.324</Score>
+<Sector et="1453.4">Cyrille Canavate(2) set new best for sector 1</Sector>
+<Sector et="1453.4">Fred Bart(3) set new best for sector 1</Sector>
+<Incident et="1458.4">Fred Bart(3) reported contact (38.54) with Sign</Incident>
+<Incident et="1460.0">Cyrille Canavate(2) reported contact (52.86) with Sign</Incident>
+<Incident et="1460.0">Cyrille Canavate(2) reported contact (159.41) with Sign</Incident>
+<Sector et="1475.8">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="1475.8">Fred Bart(3) lap=9 point=1 t=23.642 et=1475.727</Score>
+<Sector et="1475.8">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1475.8">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="1476.4">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Score et="1476.4">Cyrille Canavate(2) lap=9 point=1 t=23.072 et=1476.396</Score>
+<Sector et="1476.4">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="1476.5">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1522.7">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="1522.7">Fred Bart(3) lap=9 point=2 t=70.587 et=1522.671</Score>
+<Sector et="1522.7">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="1522.7">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Sector et="1523.5">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Score et="1523.5">Cyrille Canavate(2) lap=9 point=2 t=70.125 et=1523.449</Score>
+<Sector et="1523.5">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Sector et="1523.5">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="1566.5">Fred Bart(3) lap=10 point=0 t=114.391 et=1566.475</Score>
+<Score et="1567.2">Cyrille Canavate(2) lap=10 point=0 t=113.859 et=1567.183</Score>
+<Sector et="1590.3">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="1590.3">Fred Bart(3) lap=10 point=1 t=23.773 et=1590.248</Score>
+<Sector et="1590.3">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1590.3">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="1591.0">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Score et="1591.0">Cyrille Canavate(2) lap=10 point=1 t=23.779 et=1590.962</Score>
+<Sector et="1591.0">Cyrille Canavate(2) set new best for sector 2</Sector>
+<Sector et="1591.0">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="1638.2">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="1638.2">Fred Bart(3) lap=10 point=2 t=71.691 et=1638.167</Score>
+<Sector et="1638.2">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="1638.2">Cyrille Canavate(2) set new best for sector 3</Sector>
+<Score et="1639.0">Cyrille Canavate(2) lap=10 point=2 t=-1.000 et=1638.960</Score>
+<Incident et="1674.8">Cyrille Canavate(2) reported contact (1457.68) with another vehicle Cyrille Canavate(2)</Incident>
+<Incident et="1674.8">Cyrille Canavate(2) reported contact (1457.68) with another vehicle Fred Bart(3)</Incident>
+<Incident et="1674.8">Cyrille Canavate(2) reported contact (1414.03) with another vehicle Cyrille Canavate(2)</Incident>
+<Incident et="1674.8">Cyrille Canavate(2) reported contact (1414.03) with another vehicle Fred Bart(3)</Incident>
+<Incident et="1674.8">Cyrille Canavate(2) reported contact (1255.55) with another vehicle Cyrille Canavate(2)</Incident>
+<Incident et="1674.8">Cyrille Canavate(2) reported contact (1255.55) with another vehicle Fred Bart(3)</Incident>
+<Incident et="1674.8">Fred Bart(3) reported contact (1474.61) with another vehicle Cyrille Canavate(2)</Incident>
+<Incident et="1674.8">Fred Bart(3) reported contact (1474.61) with another vehicle Fred Bart(3)</Incident>
+<Incident et="1674.8">Fred Bart(3) reported contact (1416.18) with another vehicle Cyrille Canavate(2)</Incident>
+<Incident et="1674.8">Fred Bart(3) reported contact (1416.18) with another vehicle Fred Bart(3)</Incident>
+<Incident et="1674.8">Fred Bart(3) reported contact (1253.10) with another vehicle Cyrille Canavate(2)</Incident>
+<Incident et="1674.8">Fred Bart(3) reported contact (1253.10) with another vehicle Fred Bart(3)</Incident>
+<Score et="1676.3">Fred Bart(3) lap=11 point=0 t=-1.000 et=1676.312</Score>
+<Score et="1676.3">Fred Bart(3) lap=11 point=1 t=-1.000 et=1676.312</Score>
+<Score et="1676.3">Fred Bart(3) lap=11 point=2 t=-1.000 et=1676.312</Score>
+<Score et="1676.3">Fred Bart(3) lap=12 point=0 t=-1.000 et=1676.312</Score>
+<Score et="1677.8">Cyrille Canavate(2) lap=11 point=0 t=-1.000 et=1677.798</Score>
+<Score et="1677.8">Cyrille Canavate(2) lap=11 point=1 t=-1.000 et=1677.798</Score>
+<Score et="1677.8">Cyrille Canavate(2) lap=11 point=2 t=-1.000 et=1677.798</Score>
+<Score et="1677.8">Cyrille Canavate(2) lap=12 point=0 t=-1.000 et=1677.798</Score>
+<Chat et="1687.0">Fred Bart left the race.</Chat>
+<Chat et="1704.5">Cyrille Canavate left the race.</Chat>
+<Chat et="2195.1">Cyrille Canavate has entered the race.</Chat>
+<System et="2195.1">Cyrille Canavate(4) 90.51.91.27 has joined as a participant</System>
+<System et="2195.1">Cyrille Canavate returned with matching vehicle/upgrades: restoring score (12 laps)</System>
+<Chat et="2201.8">&gt; /w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="2201.8">/w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="2202.0">&gt; /w Cyrille Canavate germansimracing.de | discord.gg/GSR</Chat>
+<Command et="2202.0">/w Cyrille Canavate germansimracing.de | discord.gg/GSR</Command>
+<Score et="2295.0">Cyrille Canavate(4) lap=12 point=1 t=-1.000 et=2294.967</Score>
+<Score et="2344.5">Cyrille Canavate(4) lap=12 point=2 t=-1.000 et=2344.421</Score>
+<Score et="2377.9">Cyrille Canavate(4) lap=13 point=0 t=-1.000 et=2377.908</Score>
+<Sector et="2401.5">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="2401.5">Cyrille Canavate(4) lap=13 point=1 t=23.606 et=2401.514</Score>
+<Sector et="2401.5">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="2449.0">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="2449.0">Cyrille Canavate(4) lap=13 point=2 t=71.017 et=2448.926</Score>
+<Sector et="2449.0">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="2482.2">Cyrille Canavate(4) lap=14 point=0 t=104.215 et=2482.123</Score>
+<Sector et="2505.0">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="2505.0">Cyrille Canavate(4) lap=14 point=1 t=22.836 et=2504.959</Score>
+<Sector et="2505.0">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="2552.3">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="2552.3">Cyrille Canavate(4) lap=14 point=2 t=70.100 et=2552.223</Score>
+<Sector et="2552.3">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Chat et="2579.8">Fred Bart has entered the race.</Chat>
+<System et="2579.8">Fred Bart(5) 176.168.165.76 has joined as a participant</System>
+<System et="2579.8">Fred Bart returned with matching vehicle/upgrades: restoring score (12 laps)</System>
+<Command et="2581.6">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="2581.6">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="2581.8">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="2581.8">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Score et="2594.6">Cyrille Canavate(4) lap=15 point=0 t=112.438 et=2594.561</Score>
+<Sector et="2618.5">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="2618.5">Cyrille Canavate(4) lap=15 point=1 t=23.915 et=2618.476</Score>
+<Sector et="2618.5">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="2618.5">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="2655.6">Fred Bart(5) lap=12 point=1 t=-1.000 et=2655.581</Score>
+<Sector et="2666.5">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="2666.5">Cyrille Canavate(4) lap=15 point=2 t=71.903 et=2666.464</Score>
+<Sector et="2666.5">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Sector et="2666.5">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="2707.3">Fred Bart(5) lap=12 point=2 t=-1.000 et=2707.295</Score>
+<Score et="2746.4">Fred Bart(5) lap=13 point=0 t=-1.000 et=2746.324</Score>
+<Score et="2748.7">Cyrille Canavate(4) lap=16 point=0 t=154.080 et=2748.641</Score>
+<Score et="2762.9">Cyrille Canavate(4) lap=16 point=1 t=-1.000 et=2761.045</Score>
+<Score et="2762.9">Cyrille Canavate(4) lap=16 point=2 t=-1.000 et=2761.045</Score>
+<Score et="2762.9">Cyrille Canavate(4) lap=17 point=0 t=-1.000 et=2761.045</Score>
+<Sector et="2769.4">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="2769.4">Fred Bart(5) lap=13 point=1 t=23.009 et=2769.333</Score>
+<Sector et="2769.4">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="2769.4">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="2817.1">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="2817.1">Fred Bart(5) lap=13 point=2 t=70.708 et=2817.032</Score>
+<Sector et="2817.1">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="2817.1">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="2850.7">Fred Bart(5) lap=14 point=0 t=104.380 et=2850.704</Score>
+<Sector et="2873.8">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="2873.8">Fred Bart(5) lap=14 point=1 t=23.066 et=2873.770</Score>
+<Sector et="2873.8">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="2873.8">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="2878.2">Cyrille Canavate(4) lap=17 point=1 t=-1.000 et=2878.170</Score>
+<Sector et="2920.9">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="2920.9">Fred Bart(5) lap=14 point=2 t=70.182 et=2920.886</Score>
+<Sector et="2920.9">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="2921.0">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="2926.6">Cyrille Canavate(4) lap=17 point=2 t=-1.000 et=2926.564</Score>
+<Score et="2954.3">Fred Bart(5) lap=15 point=0 t=103.575 et=2954.280</Score>
+<Score et="2960.8">Cyrille Canavate(4) lap=18 point=0 t=-1.000 et=2960.755</Score>
+<Score et="2960.8">Fred Bart(5) lap=15 point=1 t=-1.000 et=2960.775</Score>
+<Score et="2960.8">Fred Bart(5) lap=15 point=2 t=-1.000 et=2960.775</Score>
+<Score et="2960.8">Fred Bart(5) lap=16 point=0 t=-1.000 et=2960.775</Score>
+<Sector et="2983.8">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="2983.8">Cyrille Canavate(4) lap=18 point=1 t=23.042 et=2983.797</Score>
+<Sector et="2983.8">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="2983.9">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3015.8">Fred Bart(5) lap=16 point=1 t=-1.000 et=3015.749</Score>
+<Sector et="3030.8">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3030.8">Cyrille Canavate(4) lap=18 point=2 t=69.998 et=3030.753</Score>
+<Sector et="3030.8">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Sector et="3030.8">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="3064.0">Fred Bart(5) lap=16 point=2 t=-1.000 et=3064.009</Score>
+<Score et="3064.2">Cyrille Canavate(4) lap=19 point=0 t=103.448 et=3064.203</Score>
+<Sector et="3087.0">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="3087.0">Cyrille Canavate(4) lap=19 point=1 t=22.745 et=3086.948</Score>
+<Sector et="3087.0">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3087.0">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3097.7">Fred Bart(5) lap=17 point=0 t=-1.000 et=3097.697</Score>
+<Sector et="3120.7">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3120.7">Fred Bart(5) lap=17 point=1 t=22.959 et=3120.655</Score>
+<Sector et="3120.7">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3120.7">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3134.2">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3134.2">Cyrille Canavate(4) lap=19 point=2 t=69.948 et=3134.151</Score>
+<Sector et="3134.2">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Sector et="3134.2">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3167.8">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="3167.8">Fred Bart(5) lap=17 point=2 t=70.117 et=3167.813</Score>
+<Sector et="3167.8">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3167.9">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3168.2">Cyrille Canavate(4) lap=20 point=0 t=103.977 et=3168.180</Score>
+<Sector et="3191.1">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="3191.1">Cyrille Canavate(4) lap=20 point=1 t=22.919 et=3191.099</Score>
+<Sector et="3191.1">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3191.2">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3201.1">Fred Bart(5) lap=18 point=0 t=103.372 et=3201.068</Score>
+<Sector et="3223.9">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3223.9">Fred Bart(5) lap=18 point=1 t=22.794 et=3223.863</Score>
+<Sector et="3223.9">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3223.9">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3238.3">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3238.3">Cyrille Canavate(4) lap=20 point=2 t=70.116 et=3238.296</Score>
+<Sector et="3238.3">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Sector et="3238.4">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3271.2">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="3271.2">Fred Bart(5) lap=18 point=2 t=70.065 et=3271.133</Score>
+<Sector et="3271.2">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3271.2">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3271.7">Cyrille Canavate(4) lap=21 point=0 t=103.516 et=3271.696</Score>
+<Sector et="3295.0">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="3295.0">Cyrille Canavate(4) lap=21 point=1 t=23.227 et=3294.923</Score>
+<Sector et="3295.0">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3295.0">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3304.2">Fred Bart(5) set new best for sector 1</Sector>
+<Score et="3304.2">Fred Bart(5) lap=19 point=0 t=103.144 et=3304.212</Score>
+<Sector et="3304.2">Fred Bart(5) set new best for sector 1</Sector>
+<Sector et="3304.3">Cyrille Canavate(4) set new best for sector 1</Sector>
+<Score et="3326.6">Fred Bart(5) lap=19 point=1 t=-1.000 et=3326.622</Score>
+<Score et="3326.6">Fred Bart(5) lap=19 point=2 t=-1.000 et=3326.622</Score>
+<Score et="3326.6">Fred Bart(5) lap=20 point=0 t=-1.000 et=3326.622</Score>
+<Score et="3340.4">Cyrille Canavate(4) lap=21 point=2 t=-1.000 et=3340.386</Score>
+<Score et="3340.4">Cyrille Canavate(4) lap=22 point=0 t=-1.000 et=3340.386</Score>
+<Score et="3395.5">Cyrille Canavate(4) lap=22 point=1 t=-1.000 et=3395.464</Score>
+<Score et="3398.2">Fred Bart(5) lap=20 point=1 t=-1.000 et=3398.209</Score>
+<Score et="3445.1">Cyrille Canavate(4) lap=22 point=2 t=-1.000 et=3445.100</Score>
+<Score et="3446.5">Fred Bart(5) lap=20 point=2 t=-1.000 et=3446.497</Score>
+<Score et="3478.9">Cyrille Canavate(4) lap=23 point=0 t=-1.000 et=3478.884</Score>
+<Score et="3480.0">Fred Bart(5) lap=21 point=0 t=-1.000 et=3479.960</Score>
+<Sector et="3501.8">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="3501.8">Cyrille Canavate(4) lap=23 point=1 t=22.932 et=3501.816</Score>
+<Sector et="3501.8">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3501.9">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3503.0">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3503.0">Fred Bart(5) lap=21 point=1 t=22.970 et=3502.930</Score>
+<Sector et="3503.0">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3503.0">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3549.2">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3549.2">Cyrille Canavate(4) lap=23 point=2 t=70.331 et=3549.216</Score>
+<Sector et="3549.2">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Sector et="3549.3">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="3550.1">Fred Bart(5) lap=21 point=2 t=70.118 et=3550.078</Score>
+<Sector et="3550.1">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3550.1">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3550.1">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3582.6">Cyrille Canavate(4) lap=24 point=0 t=103.705 et=3582.589</Score>
+<Score et="3583.4">Fred Bart(5) lap=22 point=0 t=103.432 et=3583.392</Score>
+<Sector et="3605.9">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="3605.9">Cyrille Canavate(4) lap=24 point=1 t=23.256 et=3605.845</Score>
+<Sector et="3605.9">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3605.9">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3606.9">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3606.9">Fred Bart(5) lap=22 point=1 t=23.432 et=3606.824</Score>
+<Sector et="3606.9">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3606.9">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Incident et="3629.4">Cyrille Canavate(4) reported contact (2550.86) with Immovable</Incident>
+<Incident et="3629.5">Cyrille Canavate(4) reported contact (2336.80) with Immovable</Incident>
+<Incident et="3629.5">Cyrille Canavate(4) reported contact (1788.48) with Immovable</Incident>
+<Incident et="3629.5">Cyrille Canavate(4) reported contact (1376.75) with Immovable</Incident>
+<Incident et="3629.5">Cyrille Canavate(4) reported contact (1075.58) with Immovable</Incident>
+<Score et="3632.5">Fred Bart(5) lap=22 point=2 t=-1.000 et=3632.509</Score>
+<Score et="3632.5">Fred Bart(5) lap=23 point=0 t=-1.000 et=3632.509</Score>
+<Score et="3634.3">Cyrille Canavate(4) lap=24 point=2 t=-1.000 et=3634.304</Score>
+<Score et="3634.3">Cyrille Canavate(4) lap=25 point=0 t=-1.000 et=3634.304</Score>
+<Score et="3682.7">Cyrille Canavate(4) lap=25 point=1 t=-1.000 et=3682.627</Score>
+<Score et="3684.5">Fred Bart(5) lap=23 point=1 t=-1.000 et=3684.433</Score>
+<Score et="3732.5">Cyrille Canavate(4) lap=25 point=2 t=-1.000 et=3732.453</Score>
+<Score et="3732.9">Fred Bart(5) lap=23 point=2 t=-1.000 et=3732.851</Score>
+<Score et="3766.5">Cyrille Canavate(4) lap=26 point=0 t=-1.000 et=3766.425</Score>
+<Score et="3770.0">Fred Bart(5) lap=24 point=0 t=-1.000 et=3770.003</Score>
+<Score et="3789.4">Cyrille Canavate(4) lap=26 point=1 t=22.994 et=3789.419</Score>
+<Sector et="3789.4">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3789.4">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3789.5">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3792.9">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3792.9">Fred Bart(5) lap=24 point=1 t=22.848 et=3792.851</Score>
+<Sector et="3792.9">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3792.9">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3836.7">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3836.7">Cyrille Canavate(4) lap=26 point=2 t=70.260 et=3836.686</Score>
+<Sector et="3836.7">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Sector et="3836.8">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3840.3">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="3840.3">Fred Bart(5) lap=24 point=2 t=70.291 et=3840.294</Score>
+<Sector et="3840.3">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3840.4">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3869.9">Cyrille Canavate(4) lap=27 point=0 t=103.452 et=3869.877</Score>
+<Score et="3873.2">Fred Bart(5) lap=25 point=0 t=103.206 et=3873.209</Score>
+<Sector et="3893.2">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="3893.2">Cyrille Canavate(4) lap=27 point=1 t=23.252 et=3893.129</Score>
+<Sector et="3893.2">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3893.2">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3895.9">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3895.9">Fred Bart(5) lap=25 point=1 t=22.688 et=3895.896</Score>
+<Sector et="3895.9">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3896.0">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3940.5">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3940.5">Cyrille Canavate(4) lap=27 point=2 t=70.626 et=3940.503</Score>
+<Sector et="3940.5">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Sector et="3940.6">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3942.8">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="3942.8">Fred Bart(5) lap=25 point=2 t=69.552 et=3942.761</Score>
+<Sector et="3942.8">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="3942.8">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="3974.4">Cyrille Canavate(4) lap=28 point=0 t=104.483 et=3974.360</Score>
+<Sector et="3975.9">Fred Bart(5) set new best for sector 1</Sector>
+<Score et="3975.9">Fred Bart(5) lap=26 point=0 t=102.649 et=3975.858</Score>
+<Sector et="3975.9">Fred Bart(5) set new best for sector 1</Sector>
+<Sector et="3975.9">Cyrille Canavate(4) set new best for sector 1</Sector>
+<Sector et="3997.3">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="3997.3">Cyrille Canavate(4) lap=28 point=1 t=22.922 et=3997.281</Score>
+<Sector et="3997.3">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="3997.4">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3999.4">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="3999.4">Fred Bart(5) lap=26 point=1 t=23.497 et=3999.355</Score>
+<Sector et="3999.4">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="3999.4">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="4044.9">Cyrille Canavate(4) lap=28 point=2 t=-1.000 et=4044.873</Score>
+<Sector et="4047.3">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="4047.3">Fred Bart(5) lap=26 point=2 t=71.398 et=4047.256</Score>
+<Sector et="4047.3">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="4047.3">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="4078.9">Cyrille Canavate(4) lap=29 point=0 t=104.463 et=4078.823</Score>
+<Score et="4083.9">Fred Bart(5) lap=27 point=0 t=107.973 et=4083.831</Score>
+<Score et="4102.0">Cyrille Canavate(4) lap=29 point=1 t=-1.000 et=4101.972</Score>
+<Sector et="4106.7">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="4106.7">Fred Bart(5) lap=27 point=1 t=22.800 et=4106.631</Score>
+<Sector et="4106.7">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="4106.7">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="4149.8">Cyrille Canavate(4) lap=29 point=2 t=-1.000 et=4149.799</Score>
+<Sector et="4154.0">Fred Bart(5) set new best for sector 3</Sector>
+<Score et="4154.0">Fred Bart(5) lap=27 point=2 t=70.104 et=4153.935</Score>
+<Sector et="4154.0">Fred Bart(5) set new best for sector 3</Sector>
+<Sector et="4154.0">Cyrille Canavate(4) set new best for sector 3</Sector>
+<Score et="4183.5">Cyrille Canavate(4) lap=30 point=0 t=-1.000 et=4183.507</Score>
+<Score et="4187.3">Fred Bart(5) lap=28 point=0 t=103.430 et=4187.261</Score>
+<Sector et="4206.8">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Score et="4206.8">Cyrille Canavate(4) lap=30 point=1 t=23.270 et=4206.777</Score>
+<Sector et="4206.8">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Sector et="4206.8">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="4210.3">Fred Bart(5) set new best for sector 2</Sector>
+<Score et="4210.3">Fred Bart(5) lap=28 point=1 t=23.016 et=4210.277</Score>
+<Sector et="4210.3">Fred Bart(5) set new best for sector 2</Sector>
+<Sector et="4210.3">Cyrille Canavate(4) set new best for sector 2</Sector>
+<Incident et="4230.3">Cyrille Canavate(4) reported contact (2303.32) with Immovable</Incident>
+<Incident et="4230.3">Cyrille Canavate(4) reported contact (1316.01) with Immovable</Incident>
+<Incident et="4230.5">Cyrille Canavate(4) reported contact (1046.45) with Immovable</Incident>
+<Incident et="4230.5">Cyrille Canavate(4) reported contact (1125.58) with Immovable</Incident>
+<Sector et="4230.5">Cyrille Canavate(4) reports new suspension damage</Sector>
+<Score et="4234.3">Cyrille Canavate(4) lap=30 point=2 t=-1.000 et=4234.290</Score>
+<Score et="4234.3">Cyrille Canavate(4) lap=31 point=0 t=-1.000 et=4234.290</Score>
+<Score et="4235.1">Fred Bart(5) lap=28 point=2 t=-1.000 et=4235.037</Score>
+<Score et="4235.1">Fred Bart(5) lap=29 point=0 t=-1.000 et=4235.037</Score>
+<Chat et="4285.2">Fred Bart left the race.</Chat>
+<Chat et="4291.8">Cyrille Canavate left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.059" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="169.2256" s1="23.2719" s2="47.0209" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="272.4368" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="2" et="272.4368" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="686.9111" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="937.5277" s1="23.4784" s2="47.8455" s3="60.7294" fuel="0.149" twfl="0.976" twfr="0.988" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">132.0533</Lap>
+<Lap num="7" p="2" et="1069.5811" s1="54.7550" s2="48.3256" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="2" et="1187.6768" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="1348.8273" s1="23.1943" s2="46.6992" s3="33.3639" fuel="0.149" twfl="0.969" twfr="0.988" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">103.2574</Lap>
+<Lap num="10" p="1" et="1452.0847" s1="23.6418" s2="46.9447" s3="43.8042" fuel="0.125" twfl="0.949" twfr="0.980" twrl="0.937" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">114.3907</Lap>
+<Lap num="11" p="1" et="1566.4755" s1="23.7727" s2="47.9185" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="1676.3116" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="--.---" fuel="0.169" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="2746.3245" s1="23.0088" s2="47.6992" s3="33.6716" fuel="0.149" twfl="0.980" twfr="0.992" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">104.3796</Lap>
+<Lap num="15" p="1" et="2850.7041" s1="23.0659" s2="47.1160" s3="33.3936" fuel="0.125" twfl="0.961" twfr="0.984" twrl="0.945" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">103.5754</Lap>
+<Lap num="16" p="1" et="2954.2795" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="1" et="2960.7754" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="1" et="3097.6965" s1="22.9587" s2="47.1582" s3="33.2549" fuel="0.145" twfl="0.973" twfr="0.984" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">103.3718</Lap>
+<Lap num="19" p="1" et="3201.0684" s1="22.7942" s2="47.2708" s3="33.0791" fuel="0.125" twfl="0.957" twfr="0.976" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.1440</Lap>
+<Lap num="20" p="1" et="3304.2124" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="21" p="1" et="3326.6216" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="1" et="3479.9600" s1="22.9702" s2="47.1482" s3="33.3137" fuel="0.145" twfl="0.973" twfr="0.984" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">103.4321</Lap>
+<Lap num="23" p="1" et="3583.3921" s1="23.4319" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="24" p="1" et="3632.5088" fuel="0.169" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="1" et="3770.0027" s1="22.8484" s2="47.4429" s3="32.9150" fuel="0.145" twfl="0.973" twfr="0.984" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">103.2063</Lap>
+<Lap num="26" p="1" et="3873.2090" s1="22.6875" s2="46.8650" s3="33.0964" fuel="0.125" twfl="0.953" twfr="0.976" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">102.6489</Lap>
+<Lap num="27" p="1" et="3975.8579" s1="23.4971" s2="47.9011" s3="36.5747" fuel="0.102" twfl="0.941" twfr="0.969" twrl="0.929" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">107.9729</Lap>
+<Lap num="28" p="1" et="4083.8308" s1="22.8000" s2="47.3042" s3="33.3262" fuel="0.082" twfl="0.922" twfr="0.961" twrl="0.910" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">103.4304</Lap>
+<Lap num="29" p="1" et="4187.2612" s1="23.0161" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.6489</BestLapTime>
+<Laps>29</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="3" endLap="3">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="4" endLap="11">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="12" endLap="12">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="13" endLap="29">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="29"></Swap></Driver>
+<Driver>
+<Name>Cyrille Canavate</Name>
+<SteamID>76561199117420930</SteamID>
+<Connected>0</Connected>
+<VehFile>29_DAR_29.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#29 Cyrille Canavate</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>29</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.169" twfl="0.980" twfr="0.992" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="168.4668" s1="23.2079" s2="47.1172" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="273.2462" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="273.2462" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="686.2062" fuel="0.169" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="938.4936" s1="23.3126" s2="47.5396" s3="59.3772" fuel="0.145" twfl="0.941" twfr="0.969" twrl="0.922" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">130.2294</Lap>
+<Lap num="7" p="1" et="1068.7230" s1="54.7616" s2="48.6326" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="1194.0906" fuel="0.169" twfl="0.980" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="1349.9420" s1="22.9615" s2="47.2078" s3="33.2123" fuel="0.145" twfl="0.957" twfr="0.976" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.3816</Lap>
+<Lap num="10" p="2" et="1453.3236" s1="23.0720" s2="47.0531" s3="43.7340" fuel="0.122" twfl="0.929" twfr="0.961" twrl="0.910" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">113.8591</Lap>
+<Lap num="11" p="2" et="1567.1827" s1="23.7792" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="2" et="1677.7977" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="--.---" fuel="0.169" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="2377.9084" s1="23.6060" s2="47.4114" s3="33.1973" fuel="0.145" twfl="0.965" twfr="0.980" twrl="0.945" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">104.2146</Lap>
+<Lap num="15" p="2" et="2482.1230" s1="22.8359" s2="47.2637" s3="42.3381" fuel="0.122" twfl="0.925" twfr="0.965" twrl="0.894" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">112.4377</Lap>
+<Lap num="16" p="2" et="2594.5608" s1="23.9150" s2="47.9880" s3="82.1768" fuel="0.098" twfl="0.902" twfr="0.957" twrl="0.831" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">154.0798</Lap>
+<Lap num="17" p="2" et="2748.6406" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="2" et="2761.0454" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="2960.7554" s1="23.0420" s2="46.9556" s3="33.4502" fuel="0.145" twfl="0.969" twfr="0.976" twrl="0.961" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">103.4478</Lap>
+<Lap num="20" p="2" et="3064.2031" s1="22.7449" s2="47.2031" s3="34.0288" fuel="0.122" twfl="0.937" twfr="0.953" twrl="0.922" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.9768</Lap>
+<Lap num="21" p="2" et="3168.1799" s1="22.9194" s2="47.1965" s3="33.3997" fuel="0.098" twfl="0.906" twfr="0.933" twrl="0.886" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">103.5156</Lap>
+<Lap num="22" p="2" et="3271.6956" s1="23.2271" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="2" et="3340.3860" fuel="0.169" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="24" p="2" et="3478.8843" s1="22.9321" s2="47.3992" s3="33.3735" fuel="0.145" twfl="0.965" twfr="0.976" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.7048</Lap>
+<Lap num="25" p="2" et="3582.5891" s1="23.2556" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="2" et="3634.3042" fuel="0.169" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="27" p="2" et="3766.4253" s1="22.9941" s2="47.2661" s3="33.1914" fuel="0.145" twfl="0.961" twfr="0.973" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">103.4517</Lap>
+<Lap num="28" p="2" et="3869.8770" s1="23.2524" s2="47.3735" s3="33.8569" fuel="0.122" twfl="0.933" twfr="0.953" twrl="0.918" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">104.4829</Lap>
+<Lap num="29" p="2" et="3974.3599" s1="22.9216" fuel="0.098" twfl="0.906" twfr="0.933" twrl="0.890" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">104.4626</Lap>
+<Lap num="30" p="2" et="4078.8225" fuel="0.075" twfl="0.875" twfr="0.918" twrl="0.859" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="31" p="2" et="4183.5073" s1="23.2695" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.3816</BestLapTime>
+<Laps>31</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="3" endLap="3">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="4" endLap="11">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="12" endLap="12">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="13" endLap="31">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="31"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

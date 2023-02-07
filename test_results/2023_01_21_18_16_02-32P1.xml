@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674314205</DateTime>
+<TimeString>2023/01/21 16:16:45</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674314206</DateTime>
+<TimeString>2023/01/21 16:16:46</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="20.8">Fred Bart has entered the race.</Chat>
+<System et="20.8">Fred Bart(19) 176.168.165.76 has joined as a participant</System>
+<Command et="32.0">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="32.0">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="32.2">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="32.2">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Score et="78.5">Fred Bart(19) lap=0 point=1 t=-1.000 et=78.438</Score>
+<Score et="126.9">Fred Bart(19) lap=0 point=2 t=-1.000 et=126.821</Score>
+<Score et="160.7">Fred Bart(19) lap=1 point=0 t=-1.000 et=160.678</Score>
+<Sector et="183.6">Fred Bart(19) set new best for sector 2</Sector>
+<Score et="183.6">Fred Bart(19) lap=1 point=1 t=22.898 et=183.576</Score>
+<Sector et="183.6">Fred Bart(19) set new best for sector 2</Sector>
+<Score et="230.5">Fred Bart(19) lap=1 point=2 t=69.824 et=230.503</Score>
+<Sector et="230.5">Fred Bart(19) set new best for sector 3</Sector>
+<Sector et="230.5">Fred Bart(19) set new best for sector 3</Sector>
+<Sector et="264.1">Fred Bart(19) set new best for sector 1</Sector>
+<Score et="264.1">Fred Bart(19) lap=2 point=0 t=103.442 et=264.120</Score>
+<Sector et="264.1">Fred Bart(19) set new best for sector 1</Sector>
+<Sector et="286.9">Fred Bart(19) set new best for sector 2</Sector>
+<Score et="286.9">Fred Bart(19) lap=2 point=1 t=22.713 et=286.833</Score>
+<Sector et="286.9">Fred Bart(19) set new best for sector 2</Sector>
+<Sector et="333.7">Fred Bart(19) set new best for sector 3</Sector>
+<Score et="333.7">Fred Bart(19) lap=2 point=2 t=69.576 et=333.696</Score>
+<Sector et="333.7">Fred Bart(19) set new best for sector 3</Sector>
+<Sector et="367.3">Fred Bart(19) set new best for sector 1</Sector>
+<Score et="367.3">Fred Bart(19) lap=3 point=0 t=103.108 et=367.228</Score>
+<Sector et="367.3">Fred Bart(19) set new best for sector 1</Sector>
+<Incident et="375.7">Fred Bart(19) reported contact (2803.78) with Immovable</Incident>
+<Incident et="375.7">Fred Bart(19) reported contact (2065.93) with Immovable</Incident>
+<Incident et="375.8">Fred Bart(19) reported contact (1278.31) with Immovable</Incident>
+<Incident et="376.1">Fred Bart(19) reported contact (1581.50) with Immovable</Incident>
+<Score et="377.4">Fred Bart(19) lap=3 point=1 t=-1.000 et=377.332</Score>
+<Score et="377.4">Fred Bart(19) lap=3 point=2 t=-1.000 et=377.332</Score>
+<Score et="377.4">Fred Bart(19) lap=4 point=0 t=-1.000 et=377.332</Score>
+<Chat et="383.8">Fred Bart left the race.</Chat>
+<Chat et="6420.5">Cyrille has entered the race.</Chat>
+<System et="6420.5">Cyrille(20) 90.51.91.27 has joined as a participant</System>
+<Command et="6423.0">/w Cyrille If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6423.0">&gt; /w Cyrille If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6423.2">/w Cyrille germansimracing.de | discord.gg/GSR</Command>
+<Chat et="6423.2">&gt; /w Cyrille germansimracing.de | discord.gg/GSR</Chat>
+<Score et="6511.5">Cyrille(20) lap=0 point=1 t=-1.000 et=6511.471</Score>
+<Score et="6561.0">Cyrille(20) lap=0 point=2 t=-1.000 et=6560.957</Score>
+<Score et="6596.3">Cyrille(20) lap=1 point=0 t=-1.000 et=6596.276</Score>
+<Incident et="6602.8">Cyrille(20) reported contact (39.85) with Sign</Incident>
+<Incident et="6602.8">Cyrille(20) reported contact (12.38) with Sign</Incident>
+<Incident et="6602.8">Cyrille(20) reported contact (46.82) with Sign</Incident>
+<Sector et="6620.6">Cyrille(20) set new best for sector 2</Sector>
+<Score et="6620.6">Cyrille(20) lap=1 point=1 t=24.313 et=6620.588</Score>
+<Sector et="6620.6">Cyrille(20) set new best for sector 2</Sector>
+<Score et="6629.7">Cyrille(20) lap=1 point=2 t=-1.000 et=6629.679</Score>
+<Score et="6629.7">Cyrille(20) lap=2 point=0 t=-1.000 et=6629.679</Score>
+<Chat et="6704.6">Fred Bart has entered the race.</Chat>
+<System et="6704.6">Fred Bart(21) 176.168.165.76 has joined as a participant</System>
+<System et="6704.6">Fred Bart may have returned with a different vehicle or upgrades (all session joins recorded)</System>
+<Command et="6712.8">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="6712.8">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="6713.0">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="6713.0">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Score et="6719.1">Cyrille(20) lap=2 point=1 t=-1.000 et=6719.091</Score>
+<Score et="6767.6">Cyrille(20) lap=2 point=2 t=-1.000 et=6767.568</Score>
+<Score et="6787.5">Fred Bart(21) lap=0 point=1 t=-1.000 et=6787.455</Score>
+<Score et="6802.1">Cyrille(20) lap=3 point=0 t=-1.000 et=6802.027</Score>
+<Sector et="6825.2">Cyrille(20) set new best for sector 2</Sector>
+<Score et="6825.2">Cyrille(20) lap=3 point=1 t=23.128 et=6825.155</Score>
+<Sector et="6825.2">Cyrille(20) set new best for sector 2</Sector>
+<Sector et="6825.2">Fred Bart(21) set new best for sector 2</Sector>
+<Score et="6836.4">Fred Bart(21) lap=0 point=2 t=-1.000 et=6836.415</Score>
+<Score et="6871.0">Fred Bart(21) lap=1 point=0 t=-1.000 et=6870.962</Score>
+<Incident et="6882.2">Cyrille(20) reported contact (1706.39) with Immovable</Incident>
+<Incident et="6882.2">Cyrille(20) reported contact (1482.63) with Immovable</Incident>
+<Score et="6886.8">Cyrille(20) lap=3 point=2 t=-1.000 et=6884.857</Score>
+<Score et="6886.8">Cyrille(20) lap=4 point=0 t=-1.000 et=6884.857</Score>
+<Sector et="6893.9">Fred Bart(21) set new best for sector 2</Sector>
+<Score et="6893.9">Fred Bart(21) lap=1 point=1 t=22.876 et=6893.838</Score>
+<Sector et="6893.9">Fred Bart(21) set new best for sector 2</Sector>
+<Sector et="6893.9">Cyrille(20) set new best for sector 2</Sector>
+<Score et="6940.2">Cyrille(20) lap=4 point=1 t=-1.000 et=6940.173</Score>
+<Sector et="6941.3">Fred Bart(21) set new best for sector 3</Sector>
+<Score et="6941.3">Fred Bart(21) lap=1 point=2 t=70.292 et=6941.254</Score>
+<Sector et="6941.3">Fred Bart(21) set new best for sector 3</Sector>
+<Sector et="6941.3">Cyrille(20) set new best for sector 3</Sector>
+<Sector et="6974.5">Fred Bart(21) set new best for sector 1</Sector>
+<Score et="6974.5">Fred Bart(21) lap=2 point=0 t=103.548 et=6974.511</Score>
+<Sector et="6974.5">Fred Bart(21) set new best for sector 1</Sector>
+<Sector et="6974.6">Cyrille(20) set new best for sector 1</Sector>
+<Score et="6989.9">Cyrille(20) lap=4 point=2 t=-1.000 et=6989.824</Score>
+<Sector et="6997.3">Fred Bart(21) set new best for sector 2</Sector>
+<Score et="6997.3">Fred Bart(21) lap=2 point=1 t=22.745 et=6997.256</Score>
+<Sector et="6997.3">Fred Bart(21) set new best for sector 2</Sector>
+<Sector et="6997.3">Cyrille(20) set new best for sector 2</Sector>
+<Score et="7024.2">Cyrille(20) lap=5 point=0 t=-1.000 et=7024.136</Score>
+<Score et="7040.3">Fred Bart(21) lap=2 point=2 t=-1.000 et=7040.236</Score>
+<Score et="7040.3">Fred Bart(21) lap=3 point=0 t=-1.000 et=7040.236</Score>
+<Sector et="7047.3">Cyrille(20) set new best for sector 2</Sector>
+<Score et="7047.3">Cyrille(20) lap=5 point=1 t=23.087 et=7047.224</Score>
+<Sector et="7047.3">Cyrille(20) set new best for sector 2</Sector>
+<Sector et="7047.3">Fred Bart(21) set new best for sector 2</Sector>
+<Command from="Fred Bart" nodeid="2" et="7061.0">/callvote nextrace</Command>
+<Vote et="7061.0">Fred Bart: /callvote nextrace</Vote>
+<Sent et="7061.0">&quot;load next circuit&quot; proposed by Fred Bart: 1 vote needed to pass</Sent>
+<Command from="Fred Bart" nodeid="2" et="7075.7">/vote yes</Command>
+<Vote et="7075.7">Fred Bart: /vote yes</Vote>
+<Sent et="7075.7">Vote ignored: You can only vote once per issue</Sent>
+<Sector et="7094.9">Cyrille(20) set new best for sector 3</Sector>
+<Score et="7094.9">Cyrille(20) lap=5 point=2 t=70.705 et=7094.841</Score>
+<Sector et="7094.9">Cyrille(20) set new best for sector 3</Sector>
+<Sector et="7094.9">Fred Bart(21) set new best for sector 3</Sector>
+<Sector et="7128.4">Cyrille(20) set new best for sector 1</Sector>
+<Score et="7128.4">Cyrille(20) lap=6 point=0 t=104.192 et=7128.328</Score>
+<Sector et="7128.4">Cyrille(20) set new best for sector 1</Sector>
+<Sector et="7128.4">Fred Bart(21) set new best for sector 1</Sector>
+<Score et="7134.5">Cyrille(20) lap=6 point=1 t=-1.000 et=7134.487</Score>
+<Score et="7134.5">Cyrille(20) lap=6 point=2 t=-1.000 et=7134.487</Score>
+<Score et="7134.5">Cyrille(20) lap=7 point=0 t=-1.000 et=7134.487</Score>
+<Command from="Cyrille" nodeid="1" et="7137.8">/vote yes</Command>
+<Vote et="7137.8">Cyrille: /vote yes</Vote>
+<Sent et="7137.8">Vote ignored: There is no vote in progress</Sent>
+<Command from="Fred Bart" nodeid="2" et="7149.5">/callvote nextrace</Command>
+<Vote et="7149.5">Fred Bart: /callvote nextrace</Vote>
+<Sent et="7149.5">&quot;load next circuit&quot; proposed by Fred Bart: 1 vote needed to pass</Sent>
+<Command from="Fred Bart" nodeid="2" et="7150.9">/vote yes</Command>
+<Vote et="7150.9">Fred Bart: /vote yes</Vote>
+<Sent et="7150.9">Vote ignored: You can only vote once per issue</Sent>
+<Command from="Cyrille" nodeid="1" et="7151.1">/vote yes</Command>
+<Vote et="7151.1">Cyrille: /vote yes</Vote>
+<Sent et="7151.1">Cyrille voted YES to load next circuit: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>7</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>69DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.063" twfl="0.988" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="6870.9624" s1="22.8760" s2="47.4160" s3="33.2563" fuel="0.039" twfl="0.976" twfr="0.988" twrl="0.969" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">103.5483</Lap>
+<Lap num="3" p="1" et="6974.5107" s1="22.7451" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.5483</BestLapTime>
+<Laps>3</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Cyrille</Name>
+<SteamID>76561199117420930</SteamID>
+<Connected>1</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.133" twfl="0.988" twfr="0.988" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="6596.2759" s1="24.3125" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="6629.6792" fuel="0.133" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="6802.0269" s1="23.1279" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="6884.8574" fuel="0.133" twfl="0.984" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="7024.1362" s1="23.0874" s2="47.6177" s3="33.4868" fuel="0.110" twfl="0.965" twfr="0.973" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">104.1919</Lap>
+<Lap num="7" p="2" et="7128.3281" fuel="0.153" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>104.1919</BestLapTime>
+<Laps>7</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

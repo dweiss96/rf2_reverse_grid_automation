@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675503273</DateTime>
+<TimeString>2023/02/04 10:34:33</TimeString>
+<Mod>GSR_CUP_231_R1_v4</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\Monza_2021\1.33\layoutMonza.mas</TrackData>
+<TrackLength>5780.6</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1675513276</DateTime>
+<TimeString>2023/02/04 13:21:16</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>20</Minutes>
+<Stream>
+<Chat et="400.2">Torsten Spindler has entered the race.</Chat>
+<System et="400.2">Torsten Spindler(11) 24.134.216.129 has joined as a participant</System>
+<Command et="402.0">/w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="402.0">&gt; /w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="402.2">&gt; /w Torsten Spindler germansimracing.de | discord.gg/GSR</Chat>
+<Command et="402.2">/w Torsten Spindler germansimracing.de | discord.gg/GSR</Command>
+<Score et="590.6">Torsten Spindler(11) lap=0 point=1 t=-1.000 et=590.569</Score>
+<Score et="629.5">Torsten Spindler(11) lap=0 point=2 t=-1.000 et=629.464</Score>
+<Score et="667.8">Torsten Spindler(11) lap=1 point=0 t=-1.000 et=667.771</Score>
+<Score et="703.8">Torsten Spindler(11) lap=1 point=1 t=36.033 et=703.803</Score>
+<Sector et="703.8">Torsten Spindler(11) set new best for sector 2</Sector>
+<Sector et="703.8">Torsten Spindler(11) set new best for sector 2</Sector>
+<Sector et="753.3">Torsten Spindler(11) set new best for sector 3</Sector>
+<Score et="753.3">Torsten Spindler(11) lap=1 point=2 t=85.457 et=753.228</Score>
+<Sector et="753.3">Torsten Spindler(11) set new best for sector 3</Sector>
+<Sector et="791.0">Torsten Spindler(11) set new best for sector 1</Sector>
+<Score et="791.0">Torsten Spindler(11) lap=2 point=0 t=123.267 et=791.038</Score>
+<Sector et="791.0">Torsten Spindler(11) set new best for sector 1</Sector>
+<Score et="827.1">Torsten Spindler(11) lap=2 point=1 t=36.026 et=827.064</Score>
+<Sector et="827.1">Torsten Spindler(11) set new best for sector 2</Sector>
+<Sector et="827.1">Torsten Spindler(11) set new best for sector 2</Sector>
+<Score et="864.9">Torsten Spindler(11) lap=2 point=2 t=73.857 et=864.895</Score>
+<Sector et="864.9">Torsten Spindler(11) set new best for sector 3</Sector>
+<Sector et="864.9">Torsten Spindler(11) set new best for sector 3</Sector>
+<Incident et="895.7">Torsten Spindler(11) reported contact (2576.75) with Immovable</Incident>
+<Incident et="895.7">Torsten Spindler(11) reported contact (1712.38) with Immovable</Incident>
+<Incident et="895.8">Torsten Spindler(11) reported contact (1132.26) with Immovable</Incident>
+<Sector et="905.2">Torsten Spindler(11) set new best for sector 1</Sector>
+<Score et="905.2">Torsten Spindler(11) lap=3 point=0 t=114.129 et=905.167</Score>
+<Sector et="905.2">Torsten Spindler(11) set new best for sector 1</Sector>
+<Score et="942.2">Torsten Spindler(11) lap=3 point=1 t=37.023 et=942.190</Score>
+<Sector et="942.2">Torsten Spindler(11) set new best for sector 2</Sector>
+<Sector et="942.2">Torsten Spindler(11) set new best for sector 2</Sector>
+<Score et="979.3">Torsten Spindler(11) lap=3 point=2 t=-1.000 et=979.336</Score>
+<Score et="1018.4">Torsten Spindler(11) lap=4 point=0 t=-1.000 et=1018.416</Score>
+<Score et="1054.4">Torsten Spindler(11) lap=4 point=1 t=35.994 et=1054.410</Score>
+<Sector et="1054.4">Torsten Spindler(11) set new best for sector 2</Sector>
+<Sector et="1054.4">Torsten Spindler(11) set new best for sector 2</Sector>
+<Sector et="1092.1">Torsten Spindler(11) set new best for sector 3</Sector>
+<Score et="1092.1">Torsten Spindler(11) lap=4 point=2 t=73.701 et=1092.116</Score>
+<Sector et="1092.1">Torsten Spindler(11) set new best for sector 3</Sector>
+<Score et="1129.5">Torsten Spindler(11) lap=5 point=0 t=111.066 et=1129.482</Score>
+<Sector et="1129.5">Torsten Spindler(11) set new best for sector 1</Sector>
+<Sector et="1129.5">Torsten Spindler(11) set new best for sector 1</Sector>
+<Score et="1165.8">Torsten Spindler(11) lap=5 point=1 t=36.239 et=1165.721</Score>
+<Sector et="1165.8">Torsten Spindler(11) set new best for sector 2</Sector>
+<Sector et="1165.8">Torsten Spindler(11) set new best for sector 2</Sector>
+<Score et="1176.2">Torsten Spindler(11) lap=5 point=2 t=-1.000 et=1176.229</Score>
+<Score et="1176.2">Torsten Spindler(11) lap=6 point=0 t=-1.000 et=1176.229</Score>
+</Stream>
+<MostLapsCompleted>6</MostLapsCompleted>
+<Driver>
+<Name>Torsten Spindler</Name>
+<SteamID>76561198042616734</SteamID>
+<Connected>1</Connected>
+<VehFile>70_DAR_70.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#70 Torsten Spindler</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>70</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.337" twfl="0.992" twfr="0.992" twrl="0.992" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="667.7707" s1="36.0327" s2="49.4244" s3="37.8100" fuel="0.306" twfl="0.976" twfr="0.976" twrl="0.969" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">123.2671</Lap>
+<Lap num="3" p="1" et="791.0378" s1="36.0262" s2="37.8306" s3="40.2719" fuel="0.278" twfl="0.961" twfr="0.961" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">114.1288</Lap>
+<Lap num="4" p="1" et="905.1666" s1="37.0234" fuel="0.251" twfl="0.945" twfr="0.949" twrl="0.918" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="1018.4160" s1="35.9943" s2="37.7062" s3="37.3654" fuel="0.224" twfl="0.929" twfr="0.933" twrl="0.902" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">111.0659</Lap>
+<Lap num="6" p="1" et="1129.4818" s1="36.2388" fuel="0.365" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>111.0659</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

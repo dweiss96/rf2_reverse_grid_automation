@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674564881</DateTime>
+<TimeString>2023/01/24 13:54:41</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1674595827</DateTime>
+<TimeString>2023/01/24 22:30:27</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>20</Minutes>
+<Stream>
+<Chat et="10.8">&gt; /w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="11.0">/w Marcel Wolf germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.0">&gt; /w Marcel Wolf germansimracing.de | discord.gg/GSR</Chat>
+<Score et="72.2">Marcel Wolf(67) lap=0 point=1 t=-1.000 et=72.148</Score>
+<Score et="119.4">Marcel Wolf(67) lap=0 point=2 t=-1.000 et=119.342</Score>
+<Score et="153.6">Marcel Wolf(67) lap=1 point=0 t=-1.000 et=153.553</Score>
+<Sector et="176.0">Marcel Wolf(67) set new best for sector 2</Sector>
+<Score et="176.0">Marcel Wolf(67) lap=1 point=1 t=22.405 et=175.958</Score>
+<Sector et="176.0">Marcel Wolf(67) set new best for sector 2</Sector>
+<Sector et="222.5">Marcel Wolf(67) set new best for sector 3</Sector>
+<Score et="222.5">Marcel Wolf(67) lap=1 point=2 t=68.875 et=222.428</Score>
+<Sector et="222.5">Marcel Wolf(67) set new best for sector 3</Sector>
+<Sector et="255.1">Marcel Wolf(67) set new best for sector 1</Sector>
+<Score et="255.1">Marcel Wolf(67) lap=2 point=0 t=101.514 et=255.067</Score>
+<Sector et="255.1">Marcel Wolf(67) set new best for sector 1</Sector>
+<Score et="280.7">Marcel Wolf(67) lap=2 point=1 t=-1.000 et=280.656</Score>
+<Score et="280.7">Marcel Wolf(67) lap=2 point=2 t=-1.000 et=280.656</Score>
+<Score et="280.7">Marcel Wolf(67) lap=3 point=0 t=-1.000 et=280.656</Score>
+<Score et="356.1">Marcel Wolf(67) lap=3 point=1 t=-1.000 et=356.069</Score>
+<Score et="404.4">Marcel Wolf(67) lap=3 point=2 t=-1.000 et=404.348</Score>
+<Score et="437.7">Marcel Wolf(67) lap=4 point=0 t=-1.000 et=437.710</Score>
+<Sector et="460.4">Marcel Wolf(67) set new best for sector 2</Sector>
+<Score et="460.4">Marcel Wolf(67) lap=4 point=1 t=22.685 et=460.394</Score>
+<Sector et="460.4">Marcel Wolf(67) set new best for sector 2</Sector>
+<Sector et="506.7">Marcel Wolf(67) set new best for sector 3</Sector>
+<Score et="506.7">Marcel Wolf(67) lap=4 point=2 t=68.989 et=506.699</Score>
+<Sector et="506.7">Marcel Wolf(67) set new best for sector 3</Sector>
+<Score et="539.8">Marcel Wolf(67) lap=5 point=0 t=102.012 et=539.722</Score>
+<Sector et="563.8">Marcel Wolf(67) set new best for sector 2</Sector>
+<Score et="563.8">Marcel Wolf(67) lap=5 point=1 t=24.009 et=563.731</Score>
+<Sector et="563.8">Marcel Wolf(67) set new best for sector 2</Sector>
+<Sector et="610.8">Marcel Wolf(67) set new best for sector 3</Sector>
+<Score et="610.8">Marcel Wolf(67) lap=5 point=2 t=71.051 et=610.773</Score>
+<Sector et="610.8">Marcel Wolf(67) set new best for sector 3</Sector>
+<Sector et="613.6">(71) set new best for sector 3</Sector>
+<Chat et="613.7">Bertogucci Alfonso has entered the race.</Chat>
+<System et="613.7">Bertogucci Alfonso(71) 92.66.34.129 has joined as a participant</System>
+<Command et="620.6">/w Bertogucci Alfonso If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="620.6">&gt; /w Bertogucci Alfonso If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="620.8">&gt; /w Bertogucci Alfonso germansimracing.de | discord.gg/GSR</Chat>
+<Command et="620.8">/w Bertogucci Alfonso germansimracing.de | discord.gg/GSR</Command>
+<Score et="644.1">Marcel Wolf(67) lap=6 point=0 t=104.348 et=644.069</Score>
+<Incident et="650.2">Marcel Wolf(67) reported contact (144.38) with Sign</Incident>
+<Incident et="650.2">Marcel Wolf(67) reported contact (109.45) with Sign</Incident>
+<Incident et="650.3">Marcel Wolf(67) reported contact (11.33) with Sign</Incident>
+<Incident et="664.6">Marcel Wolf(67) reported contact (4126.39) with Immovable</Incident>
+<Incident et="664.6">Marcel Wolf(67) reported contact (3945.80) with Immovable</Incident>
+<Incident et="664.6">Marcel Wolf(67) reported contact (2282.95) with Immovable</Incident>
+<Incident et="664.6">Marcel Wolf(67) reported contact (2273.66) with Immovable</Incident>
+<Incident et="664.7">Marcel Wolf(67) reported contact (1148.07) with Immovable</Incident>
+<Incident et="664.7">Marcel Wolf(67) reported contact (1334.32) with Immovable</Incident>
+<Incident et="664.9">Marcel Wolf(67) reported contact (1080.88) with Immovable</Incident>
+<Incident et="664.9">Marcel Wolf(67) reported contact (1095.78) with Immovable</Incident>
+<Incident et="664.9">Marcel Wolf(67) reported contact (1051.57) with Immovable</Incident>
+<Incident et="665.9">Marcel Wolf(67) reported contact (2121.17) with Immovable</Incident>
+<Incident et="665.9">Marcel Wolf(67) reported contact (1450.77) with Immovable</Incident>
+<Incident et="666.0">Marcel Wolf(67) reported contact (1054.29) with Immovable</Incident>
+<Incident et="666.3">Marcel Wolf(67) reported contact (1414.07) with Immovable</Incident>
+<Incident et="666.3">Marcel Wolf(67) reported contact (1289.73) with Immovable</Incident>
+<Score et="678.8">Marcel Wolf(67) lap=6 point=1 t=-1.000 et=677.423</Score>
+<Score et="678.8">Marcel Wolf(67) lap=6 point=2 t=-1.000 et=677.423</Score>
+<Score et="678.8">Marcel Wolf(67) lap=7 point=0 t=-1.000 et=677.423</Score>
+<Score et="737.3">Marcel Wolf(67) lap=7 point=1 t=-1.000 et=737.281</Score>
+<Chat et="750.7">Aaron Markham has entered the race.</Chat>
+<System et="750.7">Aaron Markham(72) 82.26.58.126 has joined as a participant</System>
+<Chat et="760.4">&gt; /w Aaron Markham If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="760.4">/w Aaron Markham If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="760.6">&gt; /w Aaron Markham germansimracing.de | discord.gg/GSR</Chat>
+<Command et="760.6">/w Aaron Markham germansimracing.de | discord.gg/GSR</Command>
+<Score et="784.2">Marcel Wolf(67) lap=7 point=2 t=-1.000 et=784.134</Score>
+<Score et="811.5">Aaron Markham(72) lap=0 point=1 t=-1.000 et=811.466</Score>
+<Score et="816.7">Marcel Wolf(67) lap=8 point=0 t=-1.000 et=816.710</Score>
+<Chat et="820.0">Tomek Zbroja has entered the race.</Chat>
+<System et="820.0">Tomek Zbroja(73) 85.190.240.183 has joined as a participant</System>
+<Chat et="820.2">&gt; /w Tomek Zbroja If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="820.2">/w Tomek Zbroja If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="820.4">/w Tomek Zbroja germansimracing.de | discord.gg/GSR</Command>
+<Chat et="820.4">&gt; /w Tomek Zbroja germansimracing.de | discord.gg/GSR</Chat>
+<Score et="839.0">Marcel Wolf(67) lap=8 point=1 t=-1.000 et=839.013</Score>
+<Score et="860.6">Aaron Markham(72) lap=0 point=2 t=-1.000 et=860.533</Score>
+<Score et="885.7">Marcel Wolf(67) lap=8 point=2 t=-1.000 et=885.687</Score>
+<Score et="888.1">Tomek Zbroja(73) lap=0 point=1 t=-1.000 et=888.076</Score>
+<Score et="897.0">Aaron Markham(72) lap=1 point=0 t=-1.000 et=896.937</Score>
+<Score et="918.6">Marcel Wolf(67) lap=9 point=0 t=-1.000 et=918.563</Score>
+<Sector et="920.9">Aaron Markham(72) set new best for sector 2</Sector>
+<Score et="920.9">Aaron Markham(72) lap=1 point=1 t=23.894 et=920.830</Score>
+<Sector et="920.9">Aaron Markham(72) set new best for sector 2</Sector>
+<Sector et="920.9">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="920.9">Marcel Wolf(67) set new best for sector 2</Sector>
+<Sector et="920.9">Tomek Zbroja(73) set new best for sector 2</Sector>
+<Incident et="922.7">Aaron Markham(72) reported contact (3571.20) with Sign</Incident>
+<Incident et="922.8">Aaron Markham(72) reported contact (1434.55) with Sign</Incident>
+<Incident et="922.8">Aaron Markham(72) reported contact (241.69) with Sign</Incident>
+<Incident et="922.8">Aaron Markham(72) reported contact (673.52) with Sign</Incident>
+<Incident et="922.9">Aaron Markham(72) reported contact (256.94) with Sign</Incident>
+<Incident et="928.7">Aaron Markham(72) reported contact (1041.11) with Immovable</Incident>
+<Score et="934.1">Aaron Markham(72) lap=1 point=2 t=-1.000 et=932.245</Score>
+<Score et="934.1">Aaron Markham(72) lap=2 point=0 t=-1.000 et=932.245</Score>
+<Score et="936.5">Tomek Zbroja(73) lap=0 point=2 t=-1.000 et=936.477</Score>
+<Chat et="938.7">Aaron Markham left the race.</Chat>
+<Sector et="941.3">Marcel Wolf(67) set new best for sector 2</Sector>
+<Score et="941.3">Marcel Wolf(67) lap=9 point=1 t=22.709 et=941.272</Score>
+<Sector et="941.3">Marcel Wolf(67) set new best for sector 2</Sector>
+<Sector et="941.3">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="941.3">Tomek Zbroja(73) set new best for sector 2</Sector>
+<Score et="970.3">Tomek Zbroja(73) lap=1 point=0 t=-1.000 et=970.232</Score>
+<Sector et="993.4">Tomek Zbroja(73) set new best for sector 2</Sector>
+<Score et="993.4">Tomek Zbroja(73) lap=1 point=1 t=23.179 et=993.410</Score>
+<Sector et="993.4">Tomek Zbroja(73) set new best for sector 2</Sector>
+<Sector et="993.5">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="993.5">Marcel Wolf(67) set new best for sector 2</Sector>
+<Score et="996.7">Marcel Wolf(67) lap=9 point=2 t=-1.000 et=996.716</Score>
+<Score et="1031.4">Marcel Wolf(67) lap=10 point=0 t=112.776 et=1031.339</Score>
+<Chat et="1035.9">Stefan Erxmeyer has entered the race.</Chat>
+<System et="1035.9">Stefan Erxmeyer(74) 84.118.175.112 has joined as a participant</System>
+<Command et="1040.0">/w Stefan Erxmeyer If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="1040.0">&gt; /w Stefan Erxmeyer If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="1040.2">&gt; /w Stefan Erxmeyer germansimracing.de | discord.gg/GSR</Chat>
+<Command et="1040.2">/w Stefan Erxmeyer germansimracing.de | discord.gg/GSR</Command>
+<Sector et="1040.9">Tomek Zbroja(73) set new best for sector 3</Sector>
+<Score et="1040.9">Tomek Zbroja(73) lap=1 point=2 t=70.592 et=1040.824</Score>
+<Sector et="1040.9">Tomek Zbroja(73) set new best for sector 3</Sector>
+<Sector et="1040.9">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1040.9">Marcel Wolf(67) set new best for sector 3</Sector>
+<Sector et="1040.9">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Score et="1054.5">Marcel Wolf(67) lap=10 point=1 t=-1.000 et=1054.510</Score>
+<Sector et="1075.2">Tomek Zbroja(73) set new best for sector 1</Sector>
+<Score et="1075.2">Tomek Zbroja(73) lap=2 point=0 t=104.950 et=1075.182</Score>
+<Sector et="1075.2">Tomek Zbroja(73) set new best for sector 1</Sector>
+<Sector et="1075.2">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Sector et="1075.2">Marcel Wolf(67) set new best for sector 1</Sector>
+<Sector et="1075.2">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Incident et="1078.1">Marcel Wolf(67) reported contact (1103.99) with Immovable</Incident>
+<Incident et="1078.1">Marcel Wolf(67) reported contact (1103.08) with Immovable</Incident>
+<Sector et="1098.6">Tomek Zbroja(73) set new best for sector 2</Sector>
+<Score et="1098.6">Tomek Zbroja(73) lap=2 point=1 t=23.354 et=1098.536</Score>
+<Sector et="1098.6">Tomek Zbroja(73) set new best for sector 2</Sector>
+<Sector et="1098.6">Bertogucci Alfonso(71) set new best for sector 2</Sector>
+<Sector et="1098.6">Stefan Erxmeyer(74) set new best for sector 2</Sector>
+<Sector et="1098.6">Marcel Wolf(67) set new best for sector 2</Sector>
+<Score et="1123.4">Marcel Wolf(67) lap=10 point=2 t=-1.000 et=1120.755</Score>
+<Score et="1123.4">Marcel Wolf(67) lap=11 point=0 t=-1.000 et=1120.755</Score>
+<Sector et="1146.2">Tomek Zbroja(73) set new best for sector 3</Sector>
+<Score et="1146.2">Tomek Zbroja(73) lap=2 point=2 t=70.950 et=1146.132</Score>
+<Sector et="1146.2">Tomek Zbroja(73) set new best for sector 3</Sector>
+<Sector et="1146.2">Bertogucci Alfonso(71) set new best for sector 3</Sector>
+<Sector et="1146.2">Stefan Erxmeyer(74) set new best for sector 3</Sector>
+<Sector et="1146.2">Marcel Wolf(67) set new best for sector 3</Sector>
+<Score et="1164.3">Stefan Erxmeyer(74) lap=0 point=1 t=-1.000 et=1164.272</Score>
+<Sector et="1179.4">Tomek Zbroja(73) set new best for sector 1</Sector>
+<Score et="1179.4">Tomek Zbroja(73) lap=3 point=0 t=104.143 et=1179.325</Score>
+<Sector et="1179.4">Tomek Zbroja(73) set new best for sector 1</Sector>
+<Sector et="1179.4">Bertogucci Alfonso(71) set new best for sector 1</Sector>
+<Sector et="1179.4">Stefan Erxmeyer(74) set new best for sector 1</Sector>
+<Sector et="1179.4">Marcel Wolf(67) set new best for sector 1</Sector>
+<Score et="1192.9">Tomek Zbroja(73) lap=3 point=1 t=-1.000 et=1191.234</Score>
+<Score et="1192.9">Tomek Zbroja(73) lap=3 point=2 t=-1.000 et=1191.234</Score>
+<Score et="1192.9">Tomek Zbroja(73) lap=4 point=0 t=-1.000 et=1191.234</Score>
+<Score et="1203.7">Stefan Erxmeyer(74) lap=0 point=2 t=-1.000 et=1203.642</Score>
+<Score et="1203.7">Stefan Erxmeyer(74) lap=1 point=0 t=-1.000 et=1203.642</Score>
+<Chat et="1214.9">Marcel Wolf left the race.</Chat>
+<Command from="Tomek Zbroja" nodeid="4" et="1251.8">/callvote str</Command>
+<Vote et="1251.8">Tomek Zbroja: /callvote str</Vote>
+<Sent et="1251.8">&quot;straight to race&quot; proposed by Tomek Zbroja: 1 vote needed to pass</Sent>
+<Command from="Stefan Erxmeyer" nodeid="2" et="1253.4">/callvote restartweekend</Command>
+<Vote et="1253.4">Stefan Erxmeyer: /callvote restartweekend</Vote>
+<Sent et="1253.4">Cannot call vote: there is a vote in progress</Sent>
+<Command from="Stefan Erxmeyer" nodeid="2" et="1258.6">/vote yes</Command>
+<Vote et="1258.6">Stefan Erxmeyer: /vote yes</Vote>
+<Sent et="1258.6">Stefan Erxmeyer voted YES to straight to race: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>4</MostLapsCompleted>
+<Driver>
+<Name>Marcel Wolf</Name>
+<SteamID>76561197979977963</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.114" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="153.5529" s1="22.4047" s2="46.4707" s3="32.6391" fuel="0.090" twfl="0.973" twfr="0.980" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">101.5145</Lap>
+<Lap num="3" p="1" et="255.0674" fuel="0.137" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="280.6557" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="437.7095" s1="22.6849" s2="46.3042" s3="33.0230" fuel="0.408" twfl="0.969" twfr="0.984" twrl="0.945" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">102.0121</Lap>
+<Lap num="6" p="1" et="539.7216" s1="24.0089" s2="47.0420" s3="33.2967" fuel="0.388" twfl="0.953" twfr="0.976" twrl="0.914" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">104.3476</Lap>
+<Lap num="7" p="1" et="644.0692" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="677.4229" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="816.7101" fuel="0.408" twfl="0.965" twfr="0.984" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="918.5626" s1="22.7092" fuel="0.384" twfl="0.949" twfr="0.973" twrl="0.922" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">112.7763</Lap>
+<Lap num="11" p="1" et="1031.3389" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>101.5145</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="11">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="11"></Swap></Driver>
+<Driver>
+<Name>Tomek Zbroja</Name>
+<SteamID>76561199229096702</SteamID>
+<Connected>1</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.184" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="970.2319" s1="23.1786" s2="47.4131" s3="34.3584" fuel="0.161" twfl="0.969" twfr="0.973" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.9501</Lap>
+<Lap num="3" p="2" et="1075.1820" s1="23.3539" s2="47.5961" s3="33.1934" fuel="0.137" twfl="0.941" twfr="0.957" twrl="0.922" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">104.1433</Lap>
+<Lap num="4" p="2" et="1179.3253" fuel="0.208" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>104.1433</BestLapTime>
+<Laps>4</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">PlayerControl</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Aaron Markham</Name>
+<SteamID>76561199227107764</SteamID>
+<Connected>0</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.431" twfl="0.976" twfr="0.988" twrl="0.969" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="3" et="896.9366" s1="23.8939" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Laps>2</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="2">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="2"></Swap></Driver>
+<Driver>
+<Name>Bertogucci Alfonso</Name>
+<SteamID>76561198082205712</SteamID>
+<Connected>1</Connected>
+<VehFile>96DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Stefan Erxmeyer</Name>
+<SteamID>76561197993128761</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.275" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Laps>1</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

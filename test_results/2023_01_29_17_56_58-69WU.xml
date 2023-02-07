@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674999398</DateTime>
+<TimeString>2023/01/29 14:36:38</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Warmup>
+<DateTime>1675010724</DateTime>
+<TimeString>2023/01/29 17:45:24</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Command et="10.8">/w Andrej Warkentin If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="10.8">&gt; /w Andrej Warkentin If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="11.0">&gt; /w Andrej Warkentin germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.0">/w Andrej Warkentin germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.2">&gt; /w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.2">/w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.4">&gt; /w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.4">/w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.6">&gt; /w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.6">/w Sven Heide If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.8">&gt; /w Sven Heide germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.8">/w Sven Heide germansimracing.de | discord.gg/GSR</Command>
+<Score et="60.3">Sven Heide(16) lap=0 point=1 t=-1.000 et=60.238</Score>
+<Score et="108.8">Sven Heide(16) lap=0 point=2 t=-1.000 et=108.741</Score>
+<Incident et="139.4">Sven Heide(16) reported contact (111.72) with Sign</Incident>
+<Incident et="139.4">Sven Heide(16) reported contact (35.03) with Sign</Incident>
+<Incident et="139.5">Sven Heide(16) reported contact (22.53) with Sign</Incident>
+<Score et="142.6">Sven Heide(16) lap=1 point=0 t=-1.000 et=142.598</Score>
+<Sector et="165.5">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="165.5">Sven Heide(16) lap=1 point=1 t=22.867 et=165.465</Score>
+<Sector et="165.5">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="165.5">Kay Uwe Fischer(13) set new best for sector 2</Sector>
+<Sector et="165.5">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Score et="187.9">Sven Heide(16) lap=1 point=2 t=-1.000 et=187.871</Score>
+<Score et="187.9">Sven Heide(16) lap=2 point=0 t=-1.000 et=187.871</Score>
+<Score et="283.2">Sven Heide(16) lap=2 point=1 t=-1.000 et=283.164</Score>
+<Score et="332.0">Sven Heide(16) lap=2 point=2 t=-1.000 et=331.923</Score>
+<Score et="365.4">Sven Heide(16) lap=3 point=0 t=-1.000 et=365.347</Score>
+<Chat et="378.8">Kay Uwe Fischer left the race.</Chat>
+<Sector et="388.3">Sven Heide(16) set new best for sector 2</Sector>
+<Score et="388.3">Sven Heide(16) lap=3 point=1 t=22.953 et=388.300</Score>
+<Sector et="388.3">Sven Heide(16) set new best for sector 2</Sector>
+<Sector et="388.3">Andrej Warkentin(14) set new best for sector 2</Sector>
+<Sector et="436.2">Sven Heide(16) set new best for sector 3</Sector>
+<Score et="436.2">Sven Heide(16) lap=3 point=2 t=70.810 et=436.156</Score>
+<Sector et="436.2">Sven Heide(16) set new best for sector 3</Sector>
+<Sector et="436.2">Andrej Warkentin(14) set new best for sector 3</Sector>
+<Sector et="469.3">Sven Heide(16) set new best for sector 1</Sector>
+<Score et="469.3">Sven Heide(16) lap=4 point=0 t=103.906 et=469.253</Score>
+<Sector et="469.3">Sven Heide(16) set new best for sector 1</Sector>
+<Sector et="469.3">Andrej Warkentin(14) set new best for sector 1</Sector>
+<Score et="493.6">Sven Heide(16) lap=4 point=1 t=-1.000 et=493.578</Score>
+<Score et="493.6">Sven Heide(16) lap=4 point=2 t=-1.000 et=493.578</Score>
+<Score et="493.6">Sven Heide(16) lap=5 point=0 t=-1.000 et=493.578</Score>
+<Chat et="520.8">Sven Heide left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Sven Heide</Name>
+<SteamID>76561198012671202</SteamID>
+<Connected>0</Connected>
+<VehFile>69_DAR_69.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#69 Sven Heide</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>69</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.439" twfl="0.988" twfr="0.988" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="142.5976" s1="22.8671" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="187.8707" fuel="0.439" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="365.3466" s1="22.9532" s2="47.8563" s3="33.0969" fuel="0.420" twfl="0.965" twfr="0.984" twrl="0.957" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">103.9064</Lap>
+<Lap num="5" p="1" et="469.2530" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.9064</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="5"></Swap></Driver>
+<Driver>
+<Name>Kay Uwe Fischer</Name>
+<SteamID>76561197984706933</SteamID>
+<Connected>0</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Andrej Warkentin</Name>
+<SteamID>76561198070672426</SteamID>
+<Connected>1</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Warmup>
+</RaceResults>
+</rFactorXML>

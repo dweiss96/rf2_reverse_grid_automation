@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675587395</DateTime>
+<TimeString>2023/02/05 09:56:35</TimeString>
+<Mod>GSR_CUP_231_R1_v4</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\Monza_2021\1.33\layoutMonza.mas</TrackData>
+<TrackLength>5780.6</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Warmup>
+<DateTime>1675594529</DateTime>
+<TimeString>2023/02/05 11:55:29</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>10</Minutes>
+<Stream>
+<Command et="10.8">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="10.8">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="11.0">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.0">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Command et="11.2">/w Speedibus Rex  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.2">&gt; /w Speedibus Rex  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="11.4">&gt; /w Speedibus Rex  germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.4">/w Speedibus Rex  germansimracing.de | discord.gg/GSR</Command>
+<Command from="Daniel Weiss" nodeid="1" et="13.8">/callvote nextrace</Command>
+<Vote et="13.8">Daniel Weiss: /callvote nextrace</Vote>
+<Sent et="13.8">&quot;load next circuit&quot; proposed by Daniel Weiss: 1 vote needed to pass</Sent>
+<Score et="69.6">Speedibus Rex (30) lap=0 point=1 t=-1.000 et=69.538</Score>
+<Chat et="82.2">Daniel Weiss left the race.</Chat>
+<Score et="108.7">Speedibus Rex (30) lap=0 point=2 t=-1.000 et=108.638</Score>
+<Score et="147.5">Speedibus Rex (30) lap=1 point=0 t=-1.000 et=147.444</Score>
+<Sector et="192.7">Speedibus Rex (30) set new best for sector 2</Sector>
+<Score et="192.7">Speedibus Rex (30) lap=1 point=1 t=45.192 et=192.636</Score>
+<Sector et="192.7">Speedibus Rex (30) set new best for sector 2</Sector>
+<Sector et="231.7">Speedibus Rex (30) set new best for sector 3</Sector>
+<Score et="231.7">Speedibus Rex (30) lap=1 point=2 t=84.185 et=231.629</Score>
+<Sector et="231.7">Speedibus Rex (30) set new best for sector 3</Sector>
+<Sector et="270.2">Speedibus Rex (30) set new best for sector 1</Sector>
+<Score et="270.2">Speedibus Rex (30) lap=2 point=0 t=122.690 et=270.134</Score>
+<Sector et="270.2">Speedibus Rex (30) set new best for sector 1</Sector>
+<Sector et="306.6">Speedibus Rex (30) set new best for sector 2</Sector>
+<Score et="306.6">Speedibus Rex (30) lap=2 point=1 t=36.412 et=306.545</Score>
+<Sector et="306.6">Speedibus Rex (30) set new best for sector 2</Sector>
+<Sector et="345.2">Speedibus Rex (30) set new best for sector 3</Sector>
+<Score et="345.2">Speedibus Rex (30) lap=2 point=2 t=75.022 et=345.156</Score>
+<Sector et="345.2">Speedibus Rex (30) set new best for sector 3</Sector>
+<Sector et="383.5">Speedibus Rex (30) set new best for sector 1</Sector>
+<Score et="383.5">Speedibus Rex (30) lap=3 point=0 t=113.311 et=383.445</Score>
+<Sector et="383.5">Speedibus Rex (30) set new best for sector 1</Sector>
+<Sector et="419.8">Speedibus Rex (30) set new best for sector 2</Sector>
+<Score et="419.8">Speedibus Rex (30) lap=3 point=1 t=36.302 et=419.747</Score>
+<Sector et="419.8">Speedibus Rex (30) set new best for sector 2</Sector>
+<Sector et="458.8">Speedibus Rex (30) set new best for sector 3</Sector>
+<Score et="458.8">Speedibus Rex (30) lap=3 point=2 t=75.300 et=458.744</Score>
+<Sector et="458.8">Speedibus Rex (30) set new best for sector 3</Sector>
+<Score et="497.3">Speedibus Rex (30) lap=4 point=0 t=113.780 et=497.224</Score>
+<Sector et="533.9">Speedibus Rex (30) set new best for sector 2</Sector>
+<Score et="533.9">Speedibus Rex (30) lap=4 point=1 t=36.671 et=533.895</Score>
+<Sector et="533.9">Speedibus Rex (30) set new best for sector 2</Sector>
+<Sector et="572.2">Speedibus Rex (30) set new best for sector 3</Sector>
+<Score et="572.2">Speedibus Rex (30) lap=4 point=2 t=74.949 et=572.174</Score>
+<Sector et="572.2">Speedibus Rex (30) set new best for sector 3</Sector>
+<Score et="610.9">Speedibus Rex (30) lap=5 point=0 t=113.683 et=610.907</Score>
+<Score et="628.3">Speedibus Rex (30) lap=5 point=1 t=-1.000 et=628.313</Score>
+<Score et="628.3">Speedibus Rex (30) lap=5 point=2 t=-1.000 et=628.313</Score>
+<Score et="628.3">Speedibus Rex (30) lap=6 point=0 t=-1.000 et=628.313</Score>
+<Chat et="640.0">Speedibus Rex  left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Speedibus Rex </Name>
+<SteamID>76561198032872825</SteamID>
+<Connected>0</Connected>
+<VehFile>70_DAR_70.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#70 Torsten Spindler</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>70</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.427" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="147.4440" s1="45.1921" s2="38.9926" s3="38.5050" fuel="0.400" twfl="0.980" twfr="0.969" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">122.6897</Lap>
+<Lap num="3" p="1" et="270.1337" s1="36.4116" s2="38.6103" s3="38.2890" fuel="0.369" twfl="0.969" twfr="0.933" twrl="0.965" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">113.3109</Lap>
+<Lap num="4" p="1" et="383.4446" s1="36.3020" s2="38.9977" s3="38.4800" fuel="0.341" twfl="0.949" twfr="0.910" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">113.7797</Lap>
+<Lap num="5" p="1" et="497.2242" s1="36.6707" s2="38.2786" s3="38.7333" fuel="0.314" twfl="0.933" twfr="0.894" twrl="0.929" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">113.6827</Lap>
+<Lap num="6" p="1" et="610.9069" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>113.3109</BestLapTime>
+<Laps>6</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="6">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="6"></Swap></Driver>
+<Driver>
+<Name>Daniel Weiss</Name>
+<SteamID>76561198060516602</SteamID>
+<Connected>0</Connected>
+<VehFile>96_DAR_96.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Warmup>
+</RaceResults>
+</rFactorXML>

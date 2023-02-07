@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675264115</DateTime>
+<TimeString>2023/02/01 16:08:35</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v4</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675264115</DateTime>
+<TimeString>2023/02/01 16:08:35</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="2642.3">Jerome Delbarre has entered the race.</Chat>
+<System et="2642.3">Jerome Delbarre(0) 90.0.141.169 has joined as a participant</System>
+<Chat et="2652.4">&gt; /w Jerome Delbarre If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="2652.4">/w Jerome Delbarre If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="2652.6">/w Jerome Delbarre germansimracing.de | discord.gg/GSR</Command>
+<Chat et="2652.6">&gt; /w Jerome Delbarre germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="4629.3">Kay Uwe Fischer has entered the race.</Chat>
+<System et="4629.3">Kay Uwe Fischer(1) 93.204.71.79 has joined as a participant</System>
+<Command et="4632.2">/w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="4632.2">&gt; /w Kay Uwe Fischer If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="4632.4">/w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Command>
+<Chat et="4632.4">&gt; /w Kay Uwe Fischer germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="4664.2">Kay Uwe Fischer: hallo</Chat>
+<Score et="4770.9">Kay Uwe Fischer(1) lap=0 point=1 t=-1.000 et=4770.859</Score>
+<Score et="4818.9">Kay Uwe Fischer(1) lap=0 point=2 t=-1.000 et=4818.826</Score>
+<Score et="4852.8">Kay Uwe Fischer(1) lap=1 point=0 t=-1.000 et=4852.779</Score>
+<Sector et="4876.2">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="4876.2">Kay Uwe Fischer(1) lap=1 point=1 t=23.371 et=4876.150</Score>
+<Sector et="4876.2">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="4876.2">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="4923.6">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="4923.6">Kay Uwe Fischer(1) lap=1 point=2 t=70.812 et=4923.591</Score>
+<Sector et="4923.6">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="4923.6">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="4957.7">Kay Uwe Fischer(1) set new best for sector 1</Sector>
+<Score et="4957.7">Kay Uwe Fischer(1) lap=2 point=0 t=104.883 et=4957.662</Score>
+<Sector et="4957.7">Kay Uwe Fischer(1) set new best for sector 1</Sector>
+<Sector et="4957.7">Jerome Delbarre(0) set new best for sector 1</Sector>
+<Sector et="4981.7">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="4981.7">Kay Uwe Fischer(1) lap=2 point=1 t=23.990 et=4981.652</Score>
+<Sector et="4981.7">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="4981.7">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="5031.1">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="5031.1">Kay Uwe Fischer(1) lap=2 point=2 t=73.428 et=5031.090</Score>
+<Sector et="5031.1">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="5031.1">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="5065.2">Kay Uwe Fischer(1) lap=3 point=0 t=107.536 et=5065.198</Score>
+<Incident et="5071.7">Kay Uwe Fischer(1) reported contact (96.25) with Sign</Incident>
+<Sector et="5088.6">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="5088.6">Kay Uwe Fischer(1) lap=3 point=1 t=23.374 et=5088.572</Score>
+<Sector et="5088.6">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="5088.6">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="5138.3">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="5138.3">Kay Uwe Fischer(1) lap=3 point=2 t=73.029 et=5138.228</Score>
+<Sector et="5138.3">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="5138.3">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="5172.6">Kay Uwe Fischer(1) lap=4 point=0 t=107.396 et=5172.594</Score>
+<Sector et="5198.7">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="5198.7">Kay Uwe Fischer(1) lap=4 point=1 t=26.053 et=5198.646</Score>
+<Sector et="5198.7">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="5198.7">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="5249.9">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="5249.9">Kay Uwe Fischer(1) lap=4 point=2 t=77.272 et=5249.866</Score>
+<Sector et="5249.9">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="5249.9">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="5255.7">Jerome Delbarre(0) lap=0 point=1 t=-1.000 et=5255.637</Score>
+<Score et="5284.0">Kay Uwe Fischer(1) lap=5 point=0 t=111.380 et=5283.974</Score>
+<Score et="5304.5">Jerome Delbarre(0) lap=0 point=2 t=-1.000 et=5304.493</Score>
+<Sector et="5307.8">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="5307.8">Kay Uwe Fischer(1) lap=5 point=1 t=23.768 et=5307.742</Score>
+<Sector et="5307.8">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="5307.8">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="5355.5">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="5355.5">Kay Uwe Fischer(1) lap=5 point=2 t=71.542 et=5355.516</Score>
+<Sector et="5355.5">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="5355.6">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="5362.2">Jerome Delbarre(0) lap=1 point=0 t=-1.000 et=5362.201</Score>
+<Score et="5385.9">Jerome Delbarre(0) lap=1 point=1 t=23.689 et=5385.890</Score>
+<Score et="5396.4">Kay Uwe Fischer(1) lap=6 point=0 t=-1.000 et=5396.383</Score>
+<Score et="5426.8">Jerome Delbarre(0) lap=1 point=2 t=-1.000 et=5426.766</Score>
+<Score et="5426.8">Jerome Delbarre(0) lap=2 point=0 t=-1.000 et=5426.766</Score>
+<Penalty et="5480.9">Jerome Delbarre received Stop/Go penalty, 10s, 0laps for &quot;Speeding In Pitlane&quot;. Result: penalties=1, 1st=Stop/Go,10s</Penalty>
+<Score et="5502.3">Jerome Delbarre(0) lap=2 point=1 t=-1.000 et=5502.314</Score>
+<Score et="5551.4">Jerome Delbarre(0) lap=2 point=2 t=-1.000 et=5551.374</Score>
+<Score et="5585.8">Jerome Delbarre(0) lap=3 point=0 t=-1.000 et=5585.773</Score>
+<Score et="5610.9">Jerome Delbarre(0) lap=3 point=1 t=25.100 et=5610.874</Score>
+<Score et="5632.4">Jerome Delbarre(0) lap=3 point=2 t=-1.000 et=5632.434</Score>
+<Score et="5632.5">Jerome Delbarre(0) lap=4 point=0 t=-1.000 et=5632.434</Score>
+<Score et="5703.9">Jerome Delbarre(0) lap=4 point=1 t=-1.000 et=5703.852</Score>
+<Score et="5752.8">Jerome Delbarre(0) lap=4 point=2 t=-1.000 et=5752.748</Score>
+<Score et="5765.7">Jerome Delbarre(0) lap=5 point=0 t=-1.000 et=5765.686</Score>
+<Score et="5825.2">Jerome Delbarre(0) lap=5 point=1 t=-1.000 et=5825.124</Score>
+<Score et="5873.1">Jerome Delbarre(0) lap=5 point=2 t=-1.000 et=5873.033</Score>
+<Score et="5907.5">Jerome Delbarre(0) lap=6 point=0 t=-1.000 et=5907.500</Score>
+<Score et="5909.1">Kay Uwe Fischer(1) lap=6 point=1 t=-1.000 et=5909.092</Score>
+<Sector et="5930.6">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Score et="5930.6">Jerome Delbarre(0) lap=6 point=1 t=23.076 et=5930.576</Score>
+<Sector et="5930.6">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="5930.6">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="5957.1">Kay Uwe Fischer(1) lap=6 point=2 t=-1.000 et=5957.117</Score>
+<Score et="5978.6">Jerome Delbarre(0) lap=6 point=2 t=71.083 et=5978.583</Score>
+<Score et="5990.8">Kay Uwe Fischer(1) lap=7 point=0 t=-1.000 et=5990.732</Score>
+<Score et="6014.1">Kay Uwe Fischer(1) lap=7 point=1 t=23.378 et=6014.110</Score>
+<Score et="6017.9">Jerome Delbarre(0) lap=7 point=0 t=-1.000 et=6017.918</Score>
+<Penalty et="6020.9">Jerome Delbarre served 1st Stop/Go penalty, result: penalties=0, 1st=Stop/Go,10s</Penalty>
+<Score et="6022.4">Kay Uwe Fischer(1) lap=7 point=2 t=-1.000 et=6022.370</Score>
+<Score et="6022.4">Kay Uwe Fischer(1) lap=8 point=0 t=-1.000 et=6022.370</Score>
+<Score et="6072.1">Jerome Delbarre(0) lap=7 point=1 t=-1.000 et=6072.078</Score>
+<Score et="6075.2">Kay Uwe Fischer(1) lap=8 point=1 t=-1.000 et=6075.180</Score>
+<Score et="6121.3">Jerome Delbarre(0) lap=7 point=2 t=-1.000 et=6121.266</Score>
+<Score et="6123.1">Kay Uwe Fischer(1) lap=8 point=2 t=-1.000 et=6123.081</Score>
+<Score et="6155.8">Jerome Delbarre(0) lap=8 point=0 t=-1.000 et=6155.745</Score>
+<Score et="6156.9">Kay Uwe Fischer(1) lap=9 point=0 t=-1.000 et=6156.896</Score>
+<Score et="6166.8">Jerome Delbarre(0) lap=8 point=1 t=-1.000 et=6166.794</Score>
+<Score et="6166.8">Jerome Delbarre(0) lap=8 point=2 t=-1.000 et=6166.794</Score>
+<Score et="6166.8">Jerome Delbarre(0) lap=9 point=0 t=-1.000 et=6166.794</Score>
+<Score et="6180.4">Kay Uwe Fischer(1) lap=9 point=1 t=23.500 et=6180.396</Score>
+<Incident et="6182.4">Kay Uwe Fischer(1) reported contact (798.85) with Sign</Incident>
+<Incident et="6186.5">Kay Uwe Fischer(1) reported contact (17.69) with Sign</Incident>
+<Score et="6189.0">Kay Uwe Fischer(1) lap=9 point=2 t=-1.000 et=6189.002</Score>
+<Score et="6189.0">Kay Uwe Fischer(1) lap=10 point=0 t=-1.000 et=6189.002</Score>
+<Score et="6238.4">Kay Uwe Fischer(1) lap=10 point=1 t=-1.000 et=6238.378</Score>
+<Score et="6285.8">Kay Uwe Fischer(1) lap=10 point=2 t=-1.000 et=6285.738</Score>
+<Score et="6288.5">Jerome Delbarre(0) lap=9 point=1 t=-1.000 et=6288.455</Score>
+<Score et="6319.2">Kay Uwe Fischer(1) lap=11 point=0 t=-1.000 et=6319.147</Score>
+<Score et="6336.3">Jerome Delbarre(0) lap=9 point=2 t=-1.000 et=6336.228</Score>
+<Score et="6342.5">Kay Uwe Fischer(1) lap=11 point=1 t=23.276 et=6342.424</Score>
+<Score et="6370.0">Jerome Delbarre(0) lap=10 point=0 t=-1.000 et=6369.948</Score>
+<Sector et="6389.8">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="6389.8">Kay Uwe Fischer(1) lap=11 point=2 t=70.658 et=6389.805</Score>
+<Sector et="6389.8">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="6389.9">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="6393.8">Jerome Delbarre(0) lap=10 point=1 t=23.814 et=6393.762</Score>
+<Sector et="6393.8">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="6393.8">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="6393.8">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="6424.1">Kay Uwe Fischer(1) lap=12 point=0 t=104.967 et=6424.114</Score>
+<Score et="6441.6">Jerome Delbarre(0) lap=10 point=2 t=71.664 et=6441.612</Score>
+<Score et="6447.8">Kay Uwe Fischer(1) lap=12 point=1 t=23.692 et=6447.806</Score>
+<Score et="6476.3">Jerome Delbarre(0) lap=11 point=0 t=106.307 et=6476.255</Score>
+<Sector et="6495.7">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="6495.7">Kay Uwe Fischer(1) lap=12 point=2 t=71.553 et=6495.667</Score>
+<Sector et="6495.7">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="6495.7">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="6499.6">Jerome Delbarre(0) lap=11 point=1 t=23.339 et=6499.594</Score>
+<Sector et="6499.6">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="6499.6">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="6499.6">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="6535.2">Kay Uwe Fischer(1) lap=13 point=0 t=-1.000 et=6535.164</Score>
+<Score et="6547.4">Jerome Delbarre(0) lap=11 point=2 t=71.099 et=6547.354</Score>
+<Score et="6581.7">Jerome Delbarre(0) lap=12 point=0 t=105.431 et=6581.686</Score>
+<Sector et="6604.8">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Score et="6604.8">Jerome Delbarre(0) lap=12 point=1 t=23.129 et=6604.815</Score>
+<Sector et="6604.8">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="6604.9">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="6652.5">Jerome Delbarre(0) lap=12 point=2 t=70.768 et=6652.454</Score>
+<Score et="6686.6">Jerome Delbarre(0) lap=13 point=0 t=104.931 et=6686.617</Score>
+<Sector et="6709.9">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Score et="6709.9">Jerome Delbarre(0) lap=13 point=1 t=23.212 et=6709.829</Score>
+<Sector et="6709.9">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="6709.9">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="6734.8">Jerome Delbarre(0) lap=13 point=2 t=-1.000 et=6734.791</Score>
+<Score et="6734.8">Jerome Delbarre(0) lap=14 point=0 t=-1.000 et=6734.791</Score>
+<Chat et="7346.9">Daniel Weiss has entered the race.</Chat>
+<System et="7346.9">Daniel Weiss(2) 79.252.153.155 has joined as a participant</System>
+<Chat et="7352.0">&gt; /w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7352.0">/w Daniel Weiss If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="7352.2">/w Daniel Weiss germansimracing.de | discord.gg/GSR</Command>
+<Chat et="7352.2">&gt; /w Daniel Weiss germansimracing.de | discord.gg/GSR</Chat>
+<Score et="7412.4">Jerome Delbarre(0) lap=14 point=1 t=-1.000 et=7412.328</Score>
+<Score et="7422.5">Daniel Weiss(2) lap=0 point=1 t=-1.000 et=7422.455</Score>
+<Score et="7461.8">Jerome Delbarre(0) lap=14 point=2 t=-1.000 et=7461.790</Score>
+<Score et="7469.6">Daniel Weiss(2) lap=0 point=2 t=-1.000 et=7469.604</Score>
+<Score et="7497.1">Jerome Delbarre(0) lap=15 point=0 t=-1.000 et=7497.087</Score>
+<Score et="7502.4">Daniel Weiss(2) lap=1 point=0 t=-1.000 et=7502.380</Score>
+<Score et="7520.2">Jerome Delbarre(0) lap=15 point=1 t=23.080 et=7520.167</Score>
+<Sector et="7520.2">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="7520.2">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="7520.2">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="7520.2">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="7524.9">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="7524.9">Daniel Weiss(2) lap=1 point=1 t=22.456 et=7524.836</Score>
+<Sector et="7524.9">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="7524.9">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="7524.9">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="7567.7">Jerome Delbarre(0) lap=15 point=2 t=70.631 et=7567.718</Score>
+<Sector et="7567.7">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="7567.7">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="7567.7">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="7567.8">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="7572.2">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="7572.2">Daniel Weiss(2) lap=1 point=2 t=69.761 et=7572.141</Score>
+<Sector et="7572.2">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="7572.2">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="7572.2">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="7602.7">Jerome Delbarre(0) lap=16 point=0 t=105.586 et=7602.673</Score>
+<Sector et="7604.8">Daniel Weiss(2) set new best for sector 1</Sector>
+<Score et="7604.8">Daniel Weiss(2) lap=2 point=0 t=102.407 et=7604.787</Score>
+<Sector et="7604.8">Daniel Weiss(2) set new best for sector 1</Sector>
+<Sector et="7604.8">Jerome Delbarre(0) set new best for sector 1</Sector>
+<Sector et="7604.8">Kay Uwe Fischer(1) set new best for sector 1</Sector>
+<Score et="7625.5">Jerome Delbarre(0) lap=16 point=1 t=22.799 et=7625.472</Score>
+<Sector et="7644.5">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="7644.5">Daniel Weiss(2) lap=2 point=1 t=39.651 et=7644.438</Score>
+<Sector et="7644.5">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="7644.5">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="7644.5">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Score et="7673.1">Jerome Delbarre(0) lap=16 point=2 t=70.428 et=7673.102</Score>
+<Score et="7692.8">Daniel Weiss(2) lap=2 point=2 t=-1.000 et=7692.803</Score>
+<Score et="7692.8">Daniel Weiss(2) lap=3 point=0 t=-1.000 et=7692.803</Score>
+<Score et="7707.1">Jerome Delbarre(0) lap=17 point=0 t=104.359 et=7707.032</Score>
+<Score et="7730.0">Jerome Delbarre(0) lap=17 point=1 t=22.982 et=7730.014</Score>
+<Score et="7748.7">Daniel Weiss(2) lap=3 point=1 t=-1.000 et=7748.665</Score>
+<Score et="7777.9">Jerome Delbarre(0) lap=17 point=2 t=70.821 et=7777.854</Score>
+<Score et="7795.7">Daniel Weiss(2) lap=3 point=2 t=-1.000 et=7795.720</Score>
+<Score et="7811.4">Jerome Delbarre(0) lap=18 point=0 t=104.315 et=7811.348</Score>
+<Score et="7818.7">Kay Uwe Fischer(1) lap=13 point=1 t=-1.000 et=7818.669</Score>
+<Score et="7828.5">Daniel Weiss(2) lap=4 point=0 t=-1.000 et=7828.536</Score>
+<Score et="7834.0">Jerome Delbarre(0) lap=18 point=1 t=-1.000 et=7833.990</Score>
+<Sector et="7851.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="7851.0">Daniel Weiss(2) lap=4 point=1 t=22.465 et=7851.001</Score>
+<Sector et="7851.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="7851.1">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="7851.1">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="7866.2">Kay Uwe Fischer(1) lap=13 point=2 t=-1.000 et=7866.208</Score>
+<Score et="7881.9">Jerome Delbarre(0) lap=18 point=2 t=-1.000 et=7881.846</Score>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (8294.71) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (8529.67) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (1551.95) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (1587.97) with Immovable</Incident>
+<Sector et="7898.0">Daniel Weiss(2) reports new suspension damage</Sector>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (4716.88) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (5236.25) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (2874.71) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (3482.26) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (1630.52) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (2491.84) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (1695.50) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (1854.13) with Immovable</Incident>
+<Incident et="7898.0">Daniel Weiss(2) reported contact (1102.36) with Immovable</Incident>
+<Score et="7899.8">Daniel Weiss(2) lap=4 point=2 t=-1.000 et=7899.789</Score>
+<Score et="7899.8">Daniel Weiss(2) lap=5 point=0 t=-1.000 et=7899.789</Score>
+<Score et="7900.0">Kay Uwe Fischer(1) lap=14 point=0 t=-1.000 et=7900.007</Score>
+<Score et="7923.3">Kay Uwe Fischer(1) lap=14 point=1 t=23.272 et=7923.279</Score>
+<Score et="7924.1">Jerome Delbarre(0) lap=19 point=0 t=-1.000 et=7924.112</Score>
+<Score et="7947.1">Jerome Delbarre(0) lap=19 point=1 t=22.933 et=7947.045</Score>
+<Score et="7970.7">Kay Uwe Fischer(1) lap=14 point=2 t=70.670 et=7970.677</Score>
+<Score et="7997.1">Jerome Delbarre(0) lap=19 point=2 t=-1.000 et=7997.064</Score>
+<Score et="8004.2">Kay Uwe Fischer(1) lap=15 point=0 t=104.189 et=8004.196</Score>
+<Score et="8027.5">Kay Uwe Fischer(1) lap=15 point=1 t=23.290 et=8027.485</Score>
+<Score et="8032.1">Jerome Delbarre(0) lap=20 point=0 t=107.962 et=8032.075</Score>
+<Score et="8055.0">Jerome Delbarre(0) lap=20 point=1 t=-1.000 et=8054.954</Score>
+<Score et="8074.7">Kay Uwe Fischer(1) lap=15 point=2 t=70.515 et=8074.711</Score>
+<Score et="8107.5">Jerome Delbarre(0) lap=20 point=2 t=-1.000 et=8107.457</Score>
+<Score et="8107.5">Jerome Delbarre(0) lap=21 point=0 t=-1.000 et=8107.457</Score>
+<Score et="8109.9">Kay Uwe Fischer(1) lap=16 point=0 t=-1.000 et=8109.869</Score>
+<Score et="8109.9">Kay Uwe Fischer(1) lap=16 point=1 t=-1.000 et=8109.869</Score>
+<Score et="8109.9">Kay Uwe Fischer(1) lap=16 point=2 t=-1.000 et=8109.869</Score>
+<Score et="8109.9">Kay Uwe Fischer(1) lap=17 point=0 t=-1.000 et=8109.869</Score>
+<Score et="8174.6">Daniel Weiss(2) lap=5 point=1 t=-1.000 et=8174.638</Score>
+<Score et="8222.0">Daniel Weiss(2) lap=5 point=2 t=-1.000 et=8222.016</Score>
+<Score et="8255.2">Daniel Weiss(2) lap=6 point=0 t=-1.000 et=8255.200</Score>
+<Sector et="8278.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="8278.0">Daniel Weiss(2) lap=6 point=1 t=22.756 et=8277.956</Score>
+<Sector et="8278.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="8278.0">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="8278.0">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="8324.3">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="8324.3">Daniel Weiss(2) lap=6 point=2 t=69.078 et=8324.278</Score>
+<Sector et="8324.3">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="8324.3">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="8324.3">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="8357.0">Daniel Weiss(2) set new best for sector 1</Sector>
+<Score et="8357.0">Daniel Weiss(2) lap=7 point=0 t=101.757 et=8356.957</Score>
+<Sector et="8357.0">Daniel Weiss(2) set new best for sector 1</Sector>
+<Sector et="8357.0">Kay Uwe Fischer(1) set new best for sector 1</Sector>
+<Sector et="8357.0">Jerome Delbarre(0) set new best for sector 1</Sector>
+<Score et="8362.0">Jerome Delbarre(0) lap=21 point=1 t=-1.000 et=8361.952</Score>
+<Sector et="8379.5">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="8379.5">Daniel Weiss(2) lap=7 point=1 t=22.501 et=8379.458</Score>
+<Sector et="8379.5">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="8379.5">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="8379.5">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Score et="8405.3">Daniel Weiss(2) lap=7 point=2 t=-1.000 et=8405.296</Score>
+<Score et="8405.3">Daniel Weiss(2) lap=8 point=0 t=-1.000 et=8405.296</Score>
+<Score et="8410.4">Jerome Delbarre(0) lap=21 point=2 t=-1.000 et=8410.356</Score>
+<Score et="8422.9">Kay Uwe Fischer(1) lap=17 point=1 t=-1.000 et=8422.852</Score>
+<Score et="8444.3">Jerome Delbarre(0) lap=22 point=0 t=-1.000 et=8444.300</Score>
+<Score et="8452.4">Daniel Weiss(2) lap=8 point=1 t=-1.000 et=8452.369</Score>
+<Score et="8467.7">Jerome Delbarre(0) lap=22 point=1 t=23.323 et=8467.623</Score>
+<Score et="8470.0">Kay Uwe Fischer(1) lap=17 point=2 t=-1.000 et=8469.920</Score>
+<Score et="8498.9">Daniel Weiss(2) lap=8 point=2 t=-1.000 et=8498.926</Score>
+<Score et="8503.7">Kay Uwe Fischer(1) lap=18 point=0 t=-1.000 et=8503.638</Score>
+<Score et="8516.5">Jerome Delbarre(0) lap=22 point=2 t=72.136 et=8516.436</Score>
+<Score et="8526.6">Kay Uwe Fischer(1) lap=18 point=1 t=22.890 et=8526.527</Score>
+<Score et="8531.5">Daniel Weiss(2) lap=9 point=0 t=-1.000 et=8531.422</Score>
+<Sector et="8553.8">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="8553.8">Daniel Weiss(2) lap=9 point=1 t=22.382 et=8553.804</Score>
+<Sector et="8553.8">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="8553.9">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="8553.9">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Score et="8560.3">Jerome Delbarre(0) lap=23 point=0 t=115.963 et=8560.263</Score>
+<Score et="8573.8">Kay Uwe Fischer(1) lap=18 point=2 t=70.180 et=8573.817</Score>
+<Score et="8583.1">Jerome Delbarre(0) lap=23 point=1 t=22.816 et=8583.079</Score>
+<Sector et="8600.0">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="8600.0">Daniel Weiss(2) lap=9 point=2 t=68.581 et=8600.003</Score>
+<Sector et="8600.0">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="8600.1">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="8600.1">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="8607.5">Kay Uwe Fischer(1) lap=19 point=0 t=103.854 et=8607.491</Score>
+<Score et="8630.4">Jerome Delbarre(0) lap=23 point=2 t=70.139 et=8630.401</Score>
+<Score et="8630.7">Kay Uwe Fischer(1) lap=19 point=1 t=23.166 et=8630.657</Score>
+<Sector et="8632.7">Daniel Weiss(2) set new best for sector 1</Sector>
+<Score et="8632.7">Daniel Weiss(2) lap=10 point=0 t=101.271 et=8632.693</Score>
+<Sector et="8632.7">Daniel Weiss(2) set new best for sector 1</Sector>
+<Sector et="8632.7">Kay Uwe Fischer(1) set new best for sector 1</Sector>
+<Sector et="8632.7">Jerome Delbarre(0) set new best for sector 1</Sector>
+<Sector et="8655.2">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="8655.2">Daniel Weiss(2) lap=10 point=1 t=22.490 et=8655.184</Score>
+<Sector et="8655.2">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="8655.2">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="8655.2">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Score et="8664.7">Jerome Delbarre(0) lap=24 point=0 t=104.376 et=8664.639</Score>
+<Score et="8678.0">Kay Uwe Fischer(1) lap=19 point=2 t=70.485 et=8677.977</Score>
+<Score et="8687.8">Jerome Delbarre(0) lap=24 point=1 t=23.101 et=8687.739</Score>
+<Sector et="8702.0">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="8702.0">Daniel Weiss(2) lap=10 point=2 t=69.283 et=8701.977</Score>
+<Sector et="8702.0">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="8702.0">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="8702.0">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="8711.7">Kay Uwe Fischer(1) lap=20 point=0 t=104.132 et=8711.623</Score>
+<Sector et="8715.7">(3) set new best for sector 1</Sector>
+<Chat et="8715.7">Fred Bart has entered the race.</Chat>
+<System et="8715.7">Fred Bart(3) 176.168.165.76 has joined as a participant</System>
+<Command et="8721.8">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="8721.8">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="8722.0">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="8722.0">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Score et="8730.9">Kay Uwe Fischer(1) lap=20 point=1 t=-1.000 et=8727.584</Score>
+<Score et="8730.9">Kay Uwe Fischer(1) lap=20 point=2 t=-1.000 et=8727.584</Score>
+<Score et="8730.9">Kay Uwe Fischer(1) lap=21 point=0 t=-1.000 et=8727.584</Score>
+<Score et="8734.8">Daniel Weiss(2) lap=11 point=0 t=102.078 et=8734.771</Score>
+<Score et="8735.6">Jerome Delbarre(0) lap=24 point=2 t=70.955 et=8735.594</Score>
+<Sector et="8735.6">Fred Bart(3) set new best for sector 3</Sector>
+<Chat et="8750.7">Fred Bart: hi guys, salut Jerome</Chat>
+<Sector et="8757.4">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="8757.4">Daniel Weiss(2) lap=11 point=1 t=22.617 et=8757.389</Score>
+<Sector et="8757.4">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="8757.4">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="8757.4">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="8757.5">Fred Bart(3) set new best for sector 2</Sector>
+<Chat et="8766.4">Kay Uwe Fischer: moin</Chat>
+<Score et="8769.8">Jerome Delbarre(0) lap=25 point=0 t=105.148 et=8769.787</Score>
+<Score et="8792.9">Jerome Delbarre(0) lap=25 point=1 t=23.086 et=8792.873</Score>
+<Sector et="8804.3">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="8804.3">Daniel Weiss(2) lap=11 point=2 t=69.539 et=8804.311</Score>
+<Sector et="8804.3">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="8804.4">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="8804.4">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="8804.4">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="8820.6">Jerome Delbarre(0) lap=25 point=2 t=-1.000 et=8818.513</Score>
+<Score et="8820.6">Jerome Delbarre(0) lap=26 point=0 t=-1.000 et=8818.513</Score>
+<Score et="8837.4">Daniel Weiss(2) lap=12 point=0 t=102.619 et=8837.391</Score>
+<Chat et="8839.0">Jerome Delbarre: salut fred</Chat>
+<Sector et="8860.1">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="8860.1">Daniel Weiss(2) lap=12 point=1 t=22.668 et=8860.059</Score>
+<Sector et="8860.1">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="8860.1">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="8860.1">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="8860.1">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="8863.0">Fred Bart(3) lap=0 point=1 t=-1.000 et=8862.953</Score>
+<Sector et="8907.2">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="8907.2">Daniel Weiss(2) lap=12 point=2 t=69.731 et=8907.122</Score>
+<Sector et="8907.2">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="8907.2">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="8907.2">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="8907.2">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="8911.2">Fred Bart(3) lap=0 point=2 t=-1.000 et=8911.126</Score>
+<Score et="8940.4">Daniel Weiss(2) lap=13 point=0 t=103.008 et=8940.398</Score>
+<Score et="8944.6">Fred Bart(3) lap=1 point=0 t=-1.000 et=8944.567</Score>
+<Sector et="8963.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="8963.0">Daniel Weiss(2) lap=13 point=1 t=22.630 et=8963.028</Score>
+<Sector et="8963.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="8963.1">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="8963.1">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="8963.1">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="8967.6">Fred Bart(3) lap=1 point=1 t=23.015 et=8967.582</Score>
+<Sector et="9009.9">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9009.9">Daniel Weiss(2) lap=13 point=2 t=69.520 et=9009.918</Score>
+<Sector et="9009.9">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9010.0">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="9010.0">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="9010.0">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="9014.6">Fred Bart(3) lap=1 point=2 t=70.052 et=9014.619</Score>
+<Score et="9042.9">Daniel Weiss(2) lap=14 point=0 t=102.453 et=9042.852</Score>
+<Sector et="9047.8">Fred Bart(3) set new best for sector 1</Sector>
+<Score et="9047.8">Fred Bart(3) lap=2 point=0 t=103.241 et=9047.809</Score>
+<Sector et="9065.5">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="9065.5">Daniel Weiss(2) lap=14 point=1 t=22.605 et=9065.457</Score>
+<Sector et="9065.5">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9065.5">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9065.5">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="9065.5">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="9070.6">Fred Bart(3) lap=2 point=1 t=22.801 et=9070.609</Score>
+<Sector et="9112.4">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9112.4">Daniel Weiss(2) lap=14 point=2 t=69.516 et=9112.367</Score>
+<Sector et="9112.4">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9112.4">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="9112.4">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="9112.4">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="9117.5">Fred Bart(3) lap=2 point=2 t=69.616 et=9117.425</Score>
+<Score et="9145.2">Daniel Weiss(2) lap=15 point=0 t=102.318 et=9145.170</Score>
+<Sector et="9150.7">Fred Bart(3) set new best for sector 1</Sector>
+<Score et="9150.7">Fred Bart(3) lap=3 point=0 t=102.816 et=9150.625</Score>
+<Sector et="9168.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="9168.0">Daniel Weiss(2) lap=15 point=1 t=22.766 et=9167.936</Score>
+<Sector et="9168.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9168.0">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9168.0">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="9168.0">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="9173.4">Fred Bart(3) lap=3 point=1 t=22.755 et=9173.380</Score>
+<Sector et="9214.9">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9214.9">Daniel Weiss(2) lap=15 point=2 t=69.702 et=9214.872</Score>
+<Sector et="9214.9">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9214.9">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="9214.9">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="9214.9">Fred Bart(3) set new best for sector 3</Sector>
+<Sector et="9220.0">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="9220.0">Fred Bart(3) lap=3 point=2 t=69.306 et=9219.931</Score>
+<Score et="9248.1">Daniel Weiss(2) lap=16 point=0 t=102.931 et=9248.101</Score>
+<Score et="9253.9">Fred Bart(3) lap=4 point=0 t=103.199 et=9253.824</Score>
+<Score et="9260.4">Fred Bart(3) lap=4 point=1 t=-1.000 et=9260.417</Score>
+<Score et="9260.4">Fred Bart(3) lap=4 point=2 t=-1.000 et=9260.417</Score>
+<Score et="9260.4">Fred Bart(3) lap=5 point=0 t=-1.000 et=9260.417</Score>
+<Sector et="9271.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="9271.0">Daniel Weiss(2) lap=16 point=1 t=22.862 et=9270.963</Score>
+<Sector et="9271.0">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9271.0">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9271.0">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="9271.0">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="9281.2">Jerome Delbarre(0) lap=26 point=1 t=-1.000 et=9281.155</Score>
+<Sector et="9318.1">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9318.1">Daniel Weiss(2) lap=16 point=2 t=70.036 et=9318.137</Score>
+<Sector et="9318.1">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9318.2">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="9318.2">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="9330.2">Jerome Delbarre(0) lap=26 point=2 t=-1.000 et=9330.187</Score>
+<Score et="9347.6">Fred Bart(3) lap=5 point=1 t=-1.000 et=9347.576</Score>
+<Score et="9351.4">Daniel Weiss(2) lap=17 point=0 t=103.246 et=9351.347</Score>
+<Score et="9364.9">Jerome Delbarre(0) lap=27 point=0 t=-1.000 et=9364.907</Score>
+<Sector et="9374.3">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="9374.3">Daniel Weiss(2) lap=17 point=1 t=22.952 et=9374.299</Score>
+<Sector et="9374.3">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9374.3">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9374.3">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="9374.3">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="9387.9">Jerome Delbarre(0) lap=27 point=1 t=22.956 et=9387.863</Score>
+<Score et="9395.4">Fred Bart(3) lap=5 point=2 t=-1.000 et=9395.400</Score>
+<Sector et="9421.3">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9421.3">Daniel Weiss(2) lap=17 point=2 t=69.940 et=9421.287</Score>
+<Sector et="9421.3">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9421.3">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="9421.3">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Score et="9428.8">Fred Bart(3) lap=6 point=0 t=-1.000 et=9428.792</Score>
+<Score et="9435.3">Jerome Delbarre(0) lap=27 point=2 t=-1.000 et=9435.226</Score>
+<Incident et="9443.3">Jerome Delbarre(0) reported contact (147.73) with Sign</Incident>
+<Incident et="9443.3">Jerome Delbarre(0) reported contact (176.04) with Sign</Incident>
+<Incident et="9443.3">Jerome Delbarre(0) reported contact (77.78) with Sign</Incident>
+<Incident et="9443.4">Jerome Delbarre(0) reported contact (110.44) with Sign</Incident>
+<Incident et="9443.6">Jerome Delbarre(0) reported contact (261.50) with Sign</Incident>
+<Score et="9451.6">Fred Bart(3) lap=6 point=1 t=22.785 et=9451.577</Score>
+<Score et="9454.7">Daniel Weiss(2) lap=18 point=0 t=103.331 et=9454.678</Score>
+<Score et="9476.8">Jerome Delbarre(0) lap=28 point=0 t=111.833 et=9476.740</Score>
+<Sector et="9477.4">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="9477.4">Daniel Weiss(2) lap=18 point=1 t=22.733 et=9477.411</Score>
+<Sector et="9477.4">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9477.5">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="9477.5">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9477.5">Fred Bart(3) set new best for sector 2</Sector>
+<Sector et="9498.5">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="9498.5">Fred Bart(3) lap=6 point=2 t=69.634 et=9498.426</Score>
+<Score et="9500.0">Jerome Delbarre(0) lap=28 point=1 t=23.220 et=9499.960</Score>
+<Sector et="9524.5">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9524.5">Daniel Weiss(2) lap=18 point=2 t=69.787 et=9524.465</Score>
+<Sector et="9524.5">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9524.5">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="9524.5">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="9531.6">Fred Bart(3) set new best for sector 1</Sector>
+<Score et="9531.6">Fred Bart(3) lap=7 point=0 t=102.781 et=9531.573</Score>
+<Score et="9547.9">Jerome Delbarre(0) lap=28 point=2 t=71.119 et=9547.859</Score>
+<Score et="9554.4">Fred Bart(3) lap=7 point=1 t=22.829 et=9554.402</Score>
+<Score et="9557.7">Daniel Weiss(2) lap=19 point=0 t=103.001 et=9557.679</Score>
+<Score et="9580.9">Daniel Weiss(2) lap=19 point=1 t=23.194 et=9580.873</Score>
+<Sector et="9580.9">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9580.9">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9580.9">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9580.9">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="9580.9">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="9581.9">Jerome Delbarre(0) lap=29 point=0 t=105.152 et=9581.893</Score>
+<Sector et="9601.5">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="9601.5">Fred Bart(3) lap=7 point=2 t=69.900 et=9601.474</Score>
+<Score et="9605.1">Jerome Delbarre(0) lap=29 point=1 t=23.137 et=9605.029</Score>
+<Sector et="9628.2">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9628.2">Daniel Weiss(2) lap=19 point=2 t=70.534 et=9628.213</Score>
+<Sector et="9628.2">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9628.2">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="9628.3">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Score et="9634.9">Fred Bart(3) lap=8 point=0 t=103.289 et=9634.862</Score>
+<Score et="9652.4">Jerome Delbarre(0) lap=29 point=2 t=70.499 et=9652.392</Score>
+<Sector et="9657.5">Fred Bart(3) set new best for sector 2</Sector>
+<Score et="9657.5">Fred Bart(3) lap=8 point=1 t=22.598 et=9657.460</Score>
+<Score et="9661.5">Daniel Weiss(2) lap=20 point=0 t=103.824 et=9661.503</Score>
+<Sector et="9684.4">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="9684.4">Daniel Weiss(2) lap=20 point=1 t=22.871 et=9684.374</Score>
+<Sector et="9684.4">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9684.4">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9684.4">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Score et="9686.2">Jerome Delbarre(0) lap=30 point=0 t=104.284 et=9686.177</Score>
+<Sector et="9688.6">(4) set new best for sector 2</Sector>
+<Sector et="9688.6">(4) set new best for sector 1</Sector>
+<Chat et="9688.7">Clement Gergaud has entered the race.</Chat>
+<System et="9688.7">Clement Gergaud(4) 90.25.73.17 has joined as a participant</System>
+<Command et="9691.6">/w Clement Gergaud If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="9691.6">&gt; /w Clement Gergaud If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="9691.8">/w Clement Gergaud germansimracing.de | discord.gg/GSR</Command>
+<Chat et="9691.8">&gt; /w Clement Gergaud germansimracing.de | discord.gg/GSR</Chat>
+<Score et="9699.3">Jerome Delbarre(0) lap=30 point=1 t=-1.000 et=9697.436</Score>
+<Score et="9699.3">Jerome Delbarre(0) lap=30 point=2 t=-1.000 et=9697.436</Score>
+<Score et="9699.3">Jerome Delbarre(0) lap=31 point=0 t=-1.000 et=9697.436</Score>
+<Sector et="9704.4">Fred Bart(3) set new best for sector 3</Sector>
+<Score et="9704.4">Fred Bart(3) lap=8 point=2 t=69.531 et=9704.394</Score>
+<Sector et="9704.5">Clement Gergaud(4) set new best for sector 3</Sector>
+<Score et="9731.6">Daniel Weiss(2) lap=20 point=2 t=70.107 et=9731.610</Score>
+<Sector et="9731.6">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9731.6">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9731.7">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="9731.7">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="9737.6">Fred Bart(3) set new best for sector 1</Sector>
+<Score et="9737.6">Fred Bart(3) lap=9 point=0 t=102.698 et=9737.561</Score>
+<Sector et="9737.6">Clement Gergaud(4) set new best for sector 1</Sector>
+<Command from="Clement Gergaud" nodeid="5" et="9740.7">/callvote restartweekend</Command>
+<Vote et="9740.7">Clement Gergaud: /callvote restartweekend</Vote>
+<Sent et="9740.7">&quot;restart weekend&quot; proposed by Clement Gergaud: 3 votes needed to pass</Sent>
+<Command from="Clement Gergaud" nodeid="5" et="9743.3">/callvote restartweekend</Command>
+<Vote et="9743.3">Clement Gergaud: /callvote restartweekend</Vote>
+<Sent et="9743.3">Cannot call vote: there is a vote in progress</Sent>
+<Command from="Daniel Weiss" nodeid="3" et="9746.4">/vote no</Command>
+<Vote et="9746.4">Daniel Weiss: /vote no</Vote>
+<Sent et="9746.4">Daniel Weiss voted NO to restart weekend</Sent>
+<Command from="Clement Gergaud" nodeid="5" et="9746.8">/callvote restartweekend</Command>
+<Vote et="9746.8">Clement Gergaud: /callvote restartweekend</Vote>
+<Sent et="9746.8">Cannot call vote: there is a vote in progress</Sent>
+<Command from="Clement Gergaud" nodeid="5" et="9747.4">/vote yes</Command>
+<Vote et="9747.4">Clement Gergaud: /vote yes</Vote>
+<Sent et="9747.4">Vote ignored: You can only vote once per issue</Sent>
+<Score et="9748.1">Fred Bart(3) lap=9 point=1 t=-1.000 et=9746.357</Score>
+<Score et="9748.1">Fred Bart(3) lap=9 point=2 t=-1.000 et=9746.357</Score>
+<Score et="9748.1">Fred Bart(3) lap=10 point=0 t=-1.000 et=9746.357</Score>
+<Score et="9765.3">Daniel Weiss(2) lap=21 point=0 t=103.733 et=9765.236</Score>
+<Command from="Clement Gergaud" nodeid="5" et="9787.7">/vote yes</Command>
+<Vote et="9787.7">Clement Gergaud: /vote yes</Vote>
+<Sent et="9787.7">Vote ignored: There is no vote in progress</Sent>
+<Sector et="9788.2">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="9788.2">Daniel Weiss(2) lap=21 point=1 t=22.922 et=9788.158</Score>
+<Sector et="9788.2">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9788.2">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="9788.2">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9788.2">Clement Gergaud(4) set new best for sector 2</Sector>
+<Command from="Jerome Delbarre" nodeid="1" et="9794.1">/vote yes</Command>
+<Vote et="9794.1">Jerome Delbarre: /vote yes</Vote>
+<Sent et="9794.1">Vote ignored: There is no vote in progress</Sent>
+<Command from="Clement Gergaud" nodeid="5" et="9794.7">/callvote restartweekend</Command>
+<Vote et="9794.7">Clement Gergaud: /callvote restartweekend</Vote>
+<Sent et="9794.7">Cannot call vote: vote just ended (wait 7 seconds)</Sent>
+<Command from="Clement Gergaud" nodeid="5" et="9811.3">/vote yes</Command>
+<Vote et="9811.3">Clement Gergaud: /vote yes</Vote>
+<Sent et="9811.3">Vote ignored: There is no vote in progress</Sent>
+<Sector et="9835.5">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9835.5">Daniel Weiss(2) lap=21 point=2 t=70.266 et=9835.502</Score>
+<Sector et="9835.5">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9835.5">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Sector et="9835.6">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Command from="Clement Gergaud" nodeid="5" et="9838.8">/callvote restartweekend</Command>
+<Vote et="9838.8">Clement Gergaud: /callvote restartweekend</Vote>
+<Sent et="9838.8">&quot;restart weekend&quot; proposed by Clement Gergaud: 3 votes needed to pass</Sent>
+<Command from="Clement Gergaud" nodeid="5" et="9840.3">/callvote restartweekend</Command>
+<Vote et="9840.3">Clement Gergaud: /callvote restartweekend</Vote>
+<Sent et="9840.3">Cannot call vote: there is a vote in progress</Sent>
+<Command from="Clement Gergaud" nodeid="5" et="9841.9">/callvote restartweekend</Command>
+<Vote et="9841.9">Clement Gergaud: /callvote restartweekend</Vote>
+<Sent et="9841.9">Cannot call vote: there is a vote in progress</Sent>
+<Command from="Daniel Weiss" nodeid="3" et="9844.4">/vote no</Command>
+<Vote et="9844.4">Daniel Weiss: /vote no</Vote>
+<Sent et="9844.4">Daniel Weiss voted NO to restart weekend</Sent>
+<Score et="9869.1">Daniel Weiss(2) lap=22 point=0 t=103.805 et=9869.041</Score>
+<Sector et="9891.8">Daniel Weiss(2) set new best for sector 2</Sector>
+<Score et="9891.8">Daniel Weiss(2) lap=22 point=1 t=22.743 et=9891.784</Score>
+<Sector et="9891.8">Daniel Weiss(2) set new best for sector 2</Sector>
+<Sector et="9891.8">Kay Uwe Fischer(1) set new best for sector 2</Sector>
+<Sector et="9891.8">Jerome Delbarre(0) set new best for sector 2</Sector>
+<Sector et="9891.8">Clement Gergaud(4) set new best for sector 2</Sector>
+<Sector et="9939.1">Daniel Weiss(2) set new best for sector 3</Sector>
+<Score et="9939.1">Daniel Weiss(2) lap=22 point=2 t=70.016 et=9939.057</Score>
+<Sector et="9939.1">Daniel Weiss(2) set new best for sector 3</Sector>
+<Sector et="9939.1">Jerome Delbarre(0) set new best for sector 3</Sector>
+<Sector et="9939.1">Kay Uwe Fischer(1) set new best for sector 3</Sector>
+<Chat et="9943.5">Udo Remme  has entered the race.</Chat>
+<System et="9943.5">Udo Remme (5) 92.73.149.254 has joined as a participant</System>
+<Sector et="9946.5">Udo Remme (5) set new best for sector 3</Sector>
+<Command et="9951.4">/w Udo Remme  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="9951.4">&gt; /w Udo Remme  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="9951.6">/w Udo Remme  germansimracing.de | discord.gg/GSR</Command>
+<Chat et="9951.6">&gt; /w Udo Remme  germansimracing.de | discord.gg/GSR</Chat>
+<Command from="Udo Remme " nodeid="6" et="9963.2">/vote yes</Command>
+<Vote et="9963.2">Udo Remme : /vote yes</Vote>
+<Sent et="9963.2">Vote ignored: There is no vote in progress</Sent>
+<Chat et="9964.8">Reiko Arnold has entered the race.</Chat>
+<System et="9964.8">Reiko Arnold(6) 46.142.105.156 has joined as a participant</System>
+<Command et="9971.2">/w Reiko Arnold If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="9971.2">&gt; /w Reiko Arnold If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="9971.4">/w Reiko Arnold germansimracing.de | discord.gg/GSR</Command>
+<Chat et="9971.4">&gt; /w Reiko Arnold germansimracing.de | discord.gg/GSR</Chat>
+<Score et="9972.3">Daniel Weiss(2) lap=23 point=0 t=103.278 et=9972.319</Score>
+<Command from="Kay Uwe Fischer" nodeid="2" et="9976.8">/callvote nextrace</Command>
+<Vote et="9976.8">Kay Uwe Fischer: /callvote nextrace</Vote>
+<Sent et="9976.8">&quot;load next circuit&quot; proposed by Kay Uwe Fischer: 4 votes needed to pass</Sent>
+<Command from="Daniel Weiss" nodeid="3" et="9978.3">/vote yes</Command>
+<Vote et="9978.3">Daniel Weiss: /vote yes</Vote>
+<Sent et="9978.3">Daniel Weiss voted YES to load next circuit: 3 more to pass</Sent>
+<Command from="Udo Remme " nodeid="6" et="9979.6">/vote yes</Command>
+<Vote et="9979.6">Udo Remme : /vote yes</Vote>
+<Sent et="9979.6">Udo Remme  voted YES to load next circuit: 2 more to pass</Sent>
+<Command from="Reiko Arnold" nodeid="7" et="9983.7">/vote yes</Command>
+<Vote et="9983.7">Reiko Arnold: /vote yes</Vote>
+<Sent et="9983.7">Reiko Arnold voted YES to load next circuit: 1 more to pass</Sent>
+<Command from="Clement Gergaud" nodeid="5" et="9984.1">/vote yes</Command>
+<Vote et="9984.1">Clement Gergaud: /vote yes</Vote>
+<Sent et="9984.1">Clement Gergaud voted YES to load next circuit: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>31</MostLapsCompleted>
+<Driver>
+<Name>Daniel Weiss</Name>
+<SteamID>76561198060516602</SteamID>
+<Connected>1</Connected>
+<VehFile>96_DAR_96.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#96 Daniel Weiss</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>96</CarNumber>
+<TeamName>Motorheads</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.431" twfl="0.980" twfr="0.992" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="7502.3804" s1="22.4561" s2="47.3047" s3="32.6460" fuel="0.408" twfl="0.961" twfr="0.980" twrl="0.941" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">102.4067</Lap>
+<Lap num="3" p="1" et="7604.7871" s1="39.6514" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="7692.8032" fuel="0.431" twfl="0.980" twfr="0.992" twrl="0.965" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="7828.5361" s1="22.4653" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="7899.7891" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.976" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="8255.2002" s1="22.7559" s2="46.3223" s3="32.6787" fuel="0.404" twfl="0.965" twfr="0.984" twrl="0.945" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.7568</Lap>
+<Lap num="8" p="1" et="8356.9570" s1="22.5010" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="8405.2959" fuel="0.431" twfl="0.980" twfr="0.988" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="8531.4219" s1="22.3818" s2="46.1992" s3="32.6904" fuel="0.408" twfl="0.953" twfr="0.976" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">101.2715</Lap>
+<Lap num="11" p="1" et="8632.6934" s1="22.4902" s2="46.7930" s3="32.7949" fuel="0.384" twfl="0.929" twfr="0.969" twrl="0.914" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">102.0781</Lap>
+<Lap num="12" p="1" et="8734.7715" s1="22.6172" s2="46.9219" s3="33.0801" fuel="0.361" twfl="0.910" twfr="0.961" twrl="0.882" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">102.6191</Lap>
+<Lap num="13" p="1" et="8837.3906" s1="22.6680" s2="47.0635" s3="33.2764" fuel="0.337" twfl="0.894" twfr="0.953" twrl="0.855" twrr="0.914" fcompound="0,Dry" rcompound="0,Dry">103.0078</Lap>
+<Lap num="14" p="1" et="8940.3984" s1="22.6299" s2="46.8896" s3="32.9336" fuel="0.314" twfl="0.875" twfr="0.945" twrl="0.820" twrr="0.898" fcompound="0,Dry" rcompound="0,Dry">102.4531</Lap>
+<Lap num="15" p="1" et="9042.8516" s1="22.6055" s2="46.9102" s3="32.8027" fuel="0.290" twfl="0.851" twfr="0.933" twrl="0.780" twrr="0.878" fcompound="0,Dry" rcompound="0,Dry">102.3184</Lap>
+<Lap num="16" p="1" et="9145.1699" s1="22.7656" s2="46.9365" s3="33.2285" fuel="0.267" twfl="0.835" twfr="0.925" twrl="0.745" twrr="0.859" fcompound="0,Dry" rcompound="0,Dry">102.9307</Lap>
+<Lap num="17" p="1" et="9248.1006" s1="22.8623" s2="47.1738" s3="33.2100" fuel="0.243" twfl="0.820" twfr="0.918" twrl="0.714" twrr="0.843" fcompound="0,Dry" rcompound="0,Dry">103.2461</Lap>
+<Lap num="18" p="1" et="9351.3467" s1="22.9521" s2="46.9883" s3="33.3906" fuel="0.220" twfl="0.800" twfr="0.910" twrl="0.686" twrr="0.820" fcompound="0,Dry" rcompound="0,Dry">103.3311</Lap>
+<Lap num="19" p="1" et="9454.6777" s1="22.7334" s2="47.0537" s3="33.2139" fuel="0.196" twfl="0.784" twfr="0.898" twrl="0.655" twrr="0.800" fcompound="0,Dry" rcompound="0,Dry">103.0010</Lap>
+<Lap num="20" p="1" et="9557.6787" s1="23.1943" s2="47.3398" s3="33.2900" fuel="0.173" twfl="0.769" twfr="0.890" twrl="0.624" twrr="0.784" fcompound="0,Dry" rcompound="0,Dry">103.8242</Lap>
+<Lap num="21" p="1" et="9661.5029" s1="22.8711" s2="47.2363" s3="33.6260" fuel="0.149" twfl="0.753" twfr="0.882" twrl="0.596" twrr="0.769" fcompound="0,Dry" rcompound="0,Dry">103.7334</Lap>
+<Lap num="22" p="1" et="9765.2363" s1="22.9219" s2="47.3438" s3="33.5391" fuel="0.125" twfl="0.737" twfr="0.875" twrl="0.573" twrr="0.749" fcompound="0,Dry" rcompound="0,Dry">103.8047</Lap>
+<Lap num="23" p="1" et="9869.0410" s1="22.7432" s2="47.2725" s3="33.2627" fuel="0.102" twfl="0.714" twfr="0.863" twrl="0.541" twrr="0.725" fcompound="0,Dry" rcompound="0,Dry">103.2783</Lap>
+<BestLapTime>101.2715</BestLapTime>
+<Laps>23</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="23">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="4" et="--.---" fuel="0.078" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="8944.5674" s1="23.0146" s2="47.0371" s3="33.1895" fuel="0.055" twfl="0.969" twfr="0.988" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">103.2412</Lap>
+<Lap num="3" p="2" et="9047.8086" s1="22.8008" s2="46.8154" s3="33.2002" fuel="0.035" twfl="0.949" twfr="0.976" twrl="0.941" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">102.8164</Lap>
+<Lap num="4" p="2" et="9150.6250" s1="22.7549" s2="46.5508" s3="33.8936" fuel="0.012" twfl="0.929" twfr="0.969" twrl="0.914" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.1992</Lap>
+<Lap num="5" p="2" et="9253.8242" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="9260.4170" fuel="0.078" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="9428.7920" s1="22.7852" s2="46.8486" s3="33.1475" fuel="0.055" twfl="0.973" twfr="0.984" twrl="0.969" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.7813</Lap>
+<Lap num="8" p="2" et="9531.5732" s1="22.8291" s2="47.0713" s3="33.3887" fuel="0.035" twfl="0.953" twfr="0.976" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.2891</Lap>
+<Lap num="9" p="2" et="9634.8623" s1="22.5977" s2="46.9336" s3="33.1670" fuel="0.012" twfl="0.933" twfr="0.969" twrl="0.922" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">102.6982</Lap>
+<Lap num="10" p="2" et="9737.5605" fuel="0.102" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.6982</BestLapTime>
+<Laps>10</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="10">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Kay Uwe Fischer</Name>
+<SteamID>76561197984706933</SteamID>
+<Connected>1</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>3</Position>
+<ClassPosition>3</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.341" twfl="0.984" twfr="0.984" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="4852.7793" s1="23.3706" s2="47.4414" s3="34.0708" fuel="0.318" twfl="0.957" twfr="0.965" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.8828</Lap>
+<Lap num="3" p="1" et="4957.6621" s1="23.9902" s2="49.4380" s3="34.1079" fuel="0.290" twfl="0.890" twfr="0.910" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">107.5361</Lap>
+<Lap num="4" p="1" et="5065.1982" s1="23.3735" s2="49.6558" s3="34.3662" fuel="0.267" twfl="0.847" twfr="0.863" twrl="0.910" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">107.3955</Lap>
+<Lap num="5" p="1" et="5172.5938" s1="26.0527" s2="51.2197" s3="34.1074" fuel="0.247" twfl="0.812" twfr="0.851" twrl="0.894" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">111.3799</Lap>
+<Lap num="6" p="1" et="5283.9736" s1="23.7681" s2="47.7744" fuel="0.224" twfl="0.761" twfr="0.824" twrl="0.875" twrr="0.918" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="7" p="1" et="5396.3833" fuel="0.067" twfl="0.988" twfr="0.984" twrl="0.984" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="5990.7319" s1="23.3784" fuel="0.090" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="6022.3701" fuel="0.067" twfl="0.984" twfr="0.984" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="6156.8965" s1="23.4995" fuel="0.090" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="6189.0020" fuel="0.067" twfl="0.984" twfr="0.969" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="6319.1475" s1="23.2764" s2="47.3813" s3="34.3091" fuel="0.043" twfl="0.953" twfr="0.949" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.9668</Lap>
+<Lap num="13" p="1" et="6424.1143" s1="23.6919" s2="47.8608" fuel="0.020" twfl="0.910" twfr="0.843" twrl="0.937" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="14" p="3" et="6535.1636" fuel="0.067" twfl="0.988" twfr="0.984" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="2" et="7900.0068" s1="23.2720" s2="47.3984" s3="33.5186" fuel="0.043" twfl="0.957" twfr="0.933" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.1890</Lap>
+<Lap num="16" p="2" et="8004.1958" s1="23.2896" s2="47.2256" fuel="0.090" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="2" et="8109.8691" fuel="0.090" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="2" et="8109.8691" fuel="0.067" twfl="0.980" twfr="0.976" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="8503.6377" s1="22.8896" s2="47.2900" s3="33.6738" fuel="0.043" twfl="0.957" twfr="0.961" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.8535</Lap>
+<Lap num="20" p="2" et="8607.4912" s1="23.1660" s2="47.3193" s3="33.6465" fuel="0.020" twfl="0.902" twfr="0.925" twrl="0.929" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">104.1318</Lap>
+<Lap num="21" p="2" et="8711.6230" fuel="0.090" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.8535</BestLapTime>
+<Laps>21</Laps>
+<Pitstops>5</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="16">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="17" endLap="17">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="18" endLap="21">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Jerome Delbarre</Name>
+<SteamID>76561199232552780</SteamID>
+<Connected>1</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>4</Position>
+<ClassPosition>4</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.431" twfl="0.847" twfr="0.969" twrl="0.976" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="5362.2007" s1="23.6890" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="5426.7661" fuel="0.431" twfl="0.980" twfr="0.988" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="2" et="5585.7734" s1="25.1001" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="5632.4341" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="5765.6860" fuel="0.431" twfl="0.969" twfr="0.980" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="5907.5000" s1="23.0762" s2="48.0063" fuel="0.412" twfl="0.953" twfr="0.922" twrl="0.961" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="8" p="2" et="6017.9180" fuel="0.388" twfl="0.835" twfr="0.886" twrl="0.929" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="6155.7446" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="2" et="6166.7939" fuel="0.431" twfl="0.973" twfr="0.988" twrl="0.976" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="2" et="6369.9482" s1="23.8140" s2="47.8501" s3="34.6426" fuel="0.408" twfl="0.957" twfr="0.941" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">106.3066</Lap>
+<Lap num="12" p="2" et="6476.2549" s1="23.3389" s2="47.7603" s3="34.3320" fuel="0.384" twfl="0.933" twfr="0.925" twrl="0.925" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">105.4312</Lap>
+<Lap num="13" p="2" et="6581.6860" s1="23.1294" s2="47.6382" s3="34.1631" fuel="0.361" twfl="0.898" twfr="0.906" twrl="0.906" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">104.9307</Lap>
+<Lap num="14" p="2" et="6686.6167" s1="23.2124" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="2" et="6734.7910" fuel="0.431" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="2" et="7497.0869" s1="23.0801" s2="47.5508" s3="34.9556" fuel="0.408" twfl="0.969" twfr="0.980" twrl="0.961" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">105.5864</Lap>
+<Lap num="17" p="2" et="7602.6733" s1="22.7988" s2="47.6294" s3="33.9307" fuel="0.388" twfl="0.941" twfr="0.961" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">104.3589</Lap>
+<Lap num="18" p="2" et="7707.0322" s1="22.9819" s2="47.8394" s3="33.4941" fuel="0.365" twfl="0.914" twfr="0.941" twrl="0.898" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">104.3154</Lap>
+<Lap num="19" p="2" et="7811.3477" fuel="0.341" twfl="0.871" twfr="0.875" twrl="0.855" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="20" p="3" et="7924.1123" s1="22.9326" fuel="0.318" twfl="0.847" twfr="0.855" twrl="0.831" twrr="0.906" fcompound="0,Dry" rcompound="0,Dry">107.9624</Lap>
+<Lap num="21" p="3" et="8032.0747" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="3" et="8107.4565" fuel="0.431" twfl="0.992" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="3" et="8444.2998" s1="23.3232" s2="48.8125" s3="43.8271" fuel="0.412" twfl="0.957" twfr="0.953" twrl="0.965" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">115.9629</Lap>
+<Lap num="24" p="3" et="8560.2627" s1="22.8164" s2="47.3223" s3="34.2373" fuel="0.388" twfl="0.929" twfr="0.835" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">104.3760</Lap>
+<Lap num="25" p="3" et="8664.6387" s1="23.1006" s2="47.8545" s3="34.1934" fuel="0.365" twfl="0.906" twfr="0.808" twrl="0.922" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">105.1484</Lap>
+<Lap num="26" p="3" et="8769.7871" s1="23.0859" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="27" p="4" et="8818.5127" fuel="0.431" twfl="0.992" twfr="0.988" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="28" p="4" et="9364.9072" s1="22.9561" fuel="0.408" twfl="0.961" twfr="0.937" twrl="0.941" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">111.8330</Lap>
+<Lap num="29" p="4" et="9476.7402" s1="23.2197" s2="47.8994" s3="34.0332" fuel="0.388" twfl="0.941" twfr="0.918" twrl="0.918" twrr="0.910" fcompound="0,Dry" rcompound="0,Dry">105.1523</Lap>
+<Lap num="30" p="4" et="9581.8926" s1="23.1367" s2="47.3623" s3="33.7852" fuel="0.365" twfl="0.902" twfr="0.902" twrl="0.890" twrr="0.890" fcompound="0,Dry" rcompound="0,Dry">104.2842</Lap>
+<Lap num="31" p="4" et="9686.1768" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>104.2842</BestLapTime>
+<Laps>31</Laps>
+<Pitstops>5</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="31">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Clement Gergaud</Name>
+<SteamID>76561198865698760</SteamID>
+<Connected>1</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>5</Position>
+<ClassPosition>5</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Udo Remme </Name>
+<SteamID>76561198197336510</SteamID>
+<Connected>1</Connected>
+<VehFile>9_DAR_9.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#9 Udo Remme</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>9</CarNumber>
+<TeamName>RUR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>6</Position>
+<ClassPosition>6</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Reiko Arnold</Name>
+<SteamID>76561198030101515</SteamID>
+<Connected>1</Connected>
+<VehFile>75_DAR_75.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#75 Reiko Arnold</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>75</CarNumber>
+<TeamName>RUR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>7</Position>
+<ClassPosition>7</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

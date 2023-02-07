@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675012089</DateTime>
+<TimeString>2023/01/29 18:08:09</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1675012090</DateTime>
+<TimeString>2023/01/29 18:08:10</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="0.0">Andrej Warkentin has entered the race.</Chat>
+<System et="0.0">Andrej Warkentin(14) 86.103.194.131 has joined as a participant</System>
+<Chat et="11.8">&gt; /w Andrej Warkentin If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.8">/w Andrej Warkentin If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="12.0">&gt; /w Andrej Warkentin germansimracing.de | discord.gg/GSR</Chat>
+<Command et="12.0">/w Andrej Warkentin germansimracing.de | discord.gg/GSR</Command>
+<Chat et="273.7">Andrej Warkentin left the race.</Chat>
+<Chat et="2476.5">Torsten Spindler has entered the race.</Chat>
+<System et="2476.5">Torsten Spindler(17) 24.134.216.129 has joined as a participant</System>
+<Chat et="2483.0">&gt; /w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="2483.0">/w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="2483.2">&gt; /w Torsten Spindler germansimracing.de | discord.gg/GSR</Chat>
+<Command et="2483.2">/w Torsten Spindler germansimracing.de | discord.gg/GSR</Command>
+<Score et="2548.0">Torsten Spindler(17) lap=0 point=1 t=-1.000 et=2547.986</Score>
+<Score et="2596.8">Torsten Spindler(17) lap=0 point=2 t=-1.000 et=2596.838</Score>
+<Score et="2630.8">Torsten Spindler(17) lap=1 point=0 t=-1.000 et=2630.814</Score>
+<Incident et="2637.3">Torsten Spindler(17) reported contact (175.01) with Sign</Incident>
+<Incident et="2637.3">Torsten Spindler(17) reported contact (55.46) with Sign</Incident>
+<Score et="2653.9">Torsten Spindler(17) lap=1 point=1 t=23.040 et=2653.853</Score>
+<Sector et="2653.9">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="2653.9">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="2700.7">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="2700.7">Torsten Spindler(17) lap=1 point=2 t=69.901 et=2700.715</Score>
+<Sector et="2700.7">Torsten Spindler(17) set new best for sector 3</Sector>
+<Sector et="2734.1">Torsten Spindler(17) set new best for sector 1</Sector>
+<Score et="2734.1">Torsten Spindler(17) lap=2 point=0 t=103.280 et=2734.094</Score>
+<Sector et="2734.1">Torsten Spindler(17) set new best for sector 1</Sector>
+<Score et="2757.1">Torsten Spindler(17) lap=2 point=1 t=-1.000 et=2757.040</Score>
+<Score et="2804.2">Torsten Spindler(17) lap=2 point=2 t=-1.000 et=2804.201</Score>
+<Score et="2838.5">Torsten Spindler(17) lap=3 point=0 t=-1.000 et=2838.499</Score>
+<Score et="2861.6">Torsten Spindler(17) lap=3 point=1 t=23.080 et=2861.579</Score>
+<Sector et="2861.6">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="2861.6">Torsten Spindler(17) set new best for sector 2</Sector>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (2430.05) with Immovable</Incident>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (2691.77) with Immovable</Incident>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (1905.86) with Immovable</Incident>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (2582.38) with Immovable</Incident>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (2851.30) with Immovable</Incident>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (3254.91) with Immovable</Incident>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (2751.76) with Immovable</Incident>
+<Sector et="2912.9">Torsten Spindler(17) reports new suspension damage</Sector>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (1474.13) with Immovable</Incident>
+<Incident et="2912.9">Torsten Spindler(17) reported contact (1212.41) with Immovable</Incident>
+<Score et="2914.1">Torsten Spindler(17) lap=3 point=2 t=75.546 et=2914.045</Score>
+<Sector et="2914.1">Torsten Spindler(17) set new best for sector 3</Sector>
+<Sector et="2914.1">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="2916.9">Torsten Spindler(17) lap=4 point=0 t=-1.000 et=2916.932</Score>
+<Score et="2957.1">Torsten Spindler(17) lap=4 point=1 t=-1.000 et=2957.082</Score>
+<Score et="3005.4">Torsten Spindler(17) lap=4 point=2 t=-1.000 et=3005.326</Score>
+<Score et="3040.0">Torsten Spindler(17) lap=5 point=0 t=-1.000 et=3039.981</Score>
+<Score et="3062.9">Torsten Spindler(17) lap=5 point=1 t=22.942 et=3062.924</Score>
+<Sector et="3062.9">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="3063.0">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="3109.8">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3109.8">Torsten Spindler(17) lap=5 point=2 t=69.773 et=3109.755</Score>
+<Sector et="3109.8">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3143.0">Torsten Spindler(17) lap=6 point=0 t=103.018 et=3142.999</Score>
+<Sector et="3143.0">Torsten Spindler(17) set new best for sector 1</Sector>
+<Sector et="3143.0">Torsten Spindler(17) set new best for sector 1</Sector>
+<Sector et="3166.0">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3166.0">Torsten Spindler(17) lap=6 point=1 t=22.945 et=3165.944</Score>
+<Sector et="3166.0">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="3213.7">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3213.7">Torsten Spindler(17) lap=6 point=2 t=70.711 et=3213.711</Score>
+<Sector et="3213.7">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3247.6">Torsten Spindler(17) lap=7 point=0 t=104.579 et=3247.578</Score>
+<Sector et="3270.8">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3270.8">Torsten Spindler(17) lap=7 point=1 t=23.147 et=3270.725</Score>
+<Sector et="3270.8">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3318.4">Torsten Spindler(17) lap=7 point=2 t=-1.000 et=3318.384</Score>
+<Score et="3352.4">Torsten Spindler(17) lap=8 point=0 t=104.776 et=3352.354</Score>
+<Score et="3375.1">Torsten Spindler(17) lap=8 point=1 t=22.764 et=3375.118</Score>
+<Sector et="3375.1">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="3375.1">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3422.9">Torsten Spindler(17) lap=8 point=2 t=70.586 et=3422.940</Score>
+<Sector et="3422.9">Torsten Spindler(17) set new best for sector 3</Sector>
+<Sector et="3423.0">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3457.1">Torsten Spindler(17) lap=9 point=0 t=104.719 et=3457.073</Score>
+<Sector et="3480.8">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3480.8">Torsten Spindler(17) lap=9 point=1 t=23.648 et=3480.721</Score>
+<Sector et="3480.8">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3488.3">Torsten Spindler(17) lap=9 point=2 t=-1.000 et=3488.286</Score>
+<Score et="3488.3">Torsten Spindler(17) lap=10 point=0 t=-1.000 et=3488.286</Score>
+<Score et="3544.1">Torsten Spindler(17) lap=10 point=1 t=-1.000 et=3544.077</Score>
+<Score et="3592.1">Torsten Spindler(17) lap=10 point=2 t=-1.000 et=3592.066</Score>
+<Score et="3625.8">Torsten Spindler(17) lap=11 point=0 t=-1.000 et=3625.802</Score>
+<Sector et="3648.5">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3648.5">Torsten Spindler(17) lap=11 point=1 t=22.640 et=3648.442</Score>
+<Sector et="3648.5">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3695.4">Torsten Spindler(17) lap=11 point=2 t=69.620 et=3695.421</Score>
+<Sector et="3695.4">Torsten Spindler(17) set new best for sector 3</Sector>
+<Sector et="3695.5">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3728.9">Torsten Spindler(17) lap=12 point=0 t=103.075 et=3728.876</Score>
+<Score et="3751.8">Torsten Spindler(17) lap=12 point=1 t=22.869 et=3751.745</Score>
+<Sector et="3751.8">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="3751.8">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="3798.8">Torsten Spindler(17) lap=12 point=2 t=69.927 et=3798.804</Score>
+<Sector et="3798.8">Torsten Spindler(17) set new best for sector 3</Sector>
+<Sector et="3798.8">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3834.1">Torsten Spindler(17) lap=13 point=0 t=105.208 et=3834.084</Score>
+<Score et="3857.0">Torsten Spindler(17) lap=13 point=1 t=22.892 et=3856.976</Score>
+<Sector et="3857.0">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="3857.0">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="3903.9">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3903.9">Torsten Spindler(17) lap=13 point=2 t=69.807 et=3903.891</Score>
+<Sector et="3903.9">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="3939.1">Torsten Spindler(17) lap=14 point=0 t=105.027 et=3939.111</Score>
+<Score et="3961.5">Torsten Spindler(17) lap=14 point=1 t=-1.000 et=3961.458</Score>
+<Score et="3961.5">Torsten Spindler(17) lap=14 point=2 t=-1.000 et=3961.458</Score>
+<Score et="3961.5">Torsten Spindler(17) lap=15 point=0 t=-1.000 et=3961.458</Score>
+<Score et="4002.6">Torsten Spindler(17) lap=15 point=1 t=-1.000 et=4002.552</Score>
+<Score et="4050.5">Torsten Spindler(17) lap=15 point=2 t=-1.000 et=4050.441</Score>
+<Score et="4084.8">Torsten Spindler(17) lap=16 point=0 t=-1.000 et=4084.735</Score>
+<Score et="4107.2">Torsten Spindler(17) lap=16 point=1 t=22.485 et=4107.220</Score>
+<Sector et="4107.2">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="4107.2">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="4154.1">Torsten Spindler(17) lap=16 point=2 t=69.342 et=4154.076</Score>
+<Sector et="4154.1">Torsten Spindler(17) set new best for sector 3</Sector>
+<Sector et="4154.1">Torsten Spindler(17) set new best for sector 3</Sector>
+<Score et="4187.6">Torsten Spindler(17) lap=17 point=0 t=102.829 et=4187.564</Score>
+<Sector et="4187.6">Torsten Spindler(17) set new best for sector 1</Sector>
+<Sector et="4187.6">Torsten Spindler(17) set new best for sector 1</Sector>
+<Score et="4210.4">Torsten Spindler(17) lap=17 point=1 t=22.789 et=4210.353</Score>
+<Sector et="4210.4">Torsten Spindler(17) set new best for sector 2</Sector>
+<Sector et="4210.4">Torsten Spindler(17) set new best for sector 2</Sector>
+<Score et="4257.4">Torsten Spindler(17) lap=17 point=2 t=-1.000 et=4257.333</Score>
+<Score et="4292.8">Torsten Spindler(17) lap=18 point=0 t=105.171 et=4292.735</Score>
+<Score et="4314.4">Torsten Spindler(17) lap=18 point=1 t=-1.000 et=4314.380</Score>
+<Score et="4314.4">Torsten Spindler(17) lap=18 point=2 t=-1.000 et=4314.380</Score>
+<Score et="4314.4">Torsten Spindler(17) lap=19 point=0 t=-1.000 et=4314.380</Score>
+<Chat et="4330.3">Torsten Spindler left the race.</Chat>
+<Chat et="7320.3">Fred Bart has entered the race.</Chat>
+<System et="7320.3">Fred Bart(18) 176.168.165.76 has joined as a participant</System>
+<Command et="7324.2">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="7324.2">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="7324.4">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="7324.4">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Score et="7406.4">Fred Bart(18) lap=0 point=1 t=-1.000 et=7406.387</Score>
+<Score et="7455.0">Fred Bart(18) lap=0 point=2 t=-1.000 et=7455.020</Score>
+<Score et="7478.1">Fred Bart(18) lap=1 point=0 t=-1.000 et=7478.060</Score>
+<Score et="7546.2">Fred Bart(18) lap=1 point=1 t=-1.000 et=7546.153</Score>
+<Score et="7591.1">Fred Bart(18) lap=1 point=2 t=-1.000 et=7591.063</Score>
+<Score et="7591.1">Fred Bart(18) lap=2 point=0 t=-1.000 et=7591.063</Score>
+<Score et="7646.1">Fred Bart(18) lap=2 point=1 t=-1.000 et=7646.077</Score>
+<Score et="7646.1">Fred Bart(18) lap=2 point=2 t=-1.000 et=7646.077</Score>
+<Score et="7646.1">Fred Bart(18) lap=3 point=0 t=-1.000 et=7646.077</Score>
+<Score et="7724.7">Fred Bart(18) lap=3 point=1 t=-1.000 et=7724.712</Score>
+<Score et="7772.1">Fred Bart(18) lap=3 point=2 t=-1.000 et=7772.047</Score>
+<Score et="7805.3">Fred Bart(18) lap=4 point=0 t=-1.000 et=7805.308</Score>
+<Score et="7828.2">Fred Bart(18) lap=4 point=1 t=22.879 et=7828.187</Score>
+<Sector et="7828.2">Fred Bart(18) set new best for sector 2</Sector>
+<Sector et="7828.2">Fred Bart(18) set new best for sector 2</Sector>
+<Sector et="7875.1">Fred Bart(18) set new best for sector 3</Sector>
+<Score et="7875.1">Fred Bart(18) lap=4 point=2 t=69.714 et=7875.022</Score>
+<Sector et="7875.1">Fred Bart(18) set new best for sector 3</Sector>
+<Score et="7901.0">Fred Bart(18) lap=5 point=0 t=-1.000 et=7900.965</Score>
+<Score et="7901.0">Fred Bart(18) lap=5 point=1 t=-1.000 et=7900.965</Score>
+<Score et="7901.0">Fred Bart(18) lap=5 point=2 t=-1.000 et=7900.965</Score>
+<Score et="7901.0">Fred Bart(18) lap=6 point=0 t=-1.000 et=7900.965</Score>
+<Score et="7955.3">Fred Bart(18) lap=6 point=1 t=-1.000 et=7955.272</Score>
+<Score et="8003.2">Fred Bart(18) lap=6 point=2 t=-1.000 et=8003.210</Score>
+<Score et="8036.9">Fred Bart(18) lap=7 point=0 t=-1.000 et=8036.838</Score>
+<Score et="8059.8">Fred Bart(18) lap=7 point=1 t=-1.000 et=8059.774</Score>
+<Score et="8059.8">Fred Bart(18) lap=7 point=2 t=-1.000 et=8059.774</Score>
+<Score et="8059.8">Fred Bart(18) lap=8 point=0 t=-1.000 et=8059.774</Score>
+<Score et="8124.2">Fred Bart(18) lap=8 point=1 t=-1.000 et=8124.192</Score>
+<Score et="8171.6">Fred Bart(18) lap=8 point=2 t=-1.000 et=8171.586</Score>
+<Score et="8205.1">Fred Bart(18) lap=9 point=0 t=-1.000 et=8205.053</Score>
+<Score et="8227.7">Fred Bart(18) lap=9 point=1 t=22.602 et=8227.654</Score>
+<Sector et="8227.7">Fred Bart(18) set new best for sector 2</Sector>
+<Sector et="8227.7">Fred Bart(18) set new best for sector 2</Sector>
+<Sector et="8274.5">Fred Bart(18) set new best for sector 3</Sector>
+<Score et="8274.5">Fred Bart(18) lap=9 point=2 t=69.415 et=8274.468</Score>
+<Sector et="8274.5">Fred Bart(18) set new best for sector 3</Sector>
+<Sector et="8307.4">Fred Bart(18) set new best for sector 1</Sector>
+<Score et="8307.4">Fred Bart(18) lap=10 point=0 t=102.335 et=8307.388</Score>
+<Sector et="8307.4">Fred Bart(18) set new best for sector 1</Sector>
+<Sector et="8330.1">Fred Bart(18) set new best for sector 2</Sector>
+<Score et="8330.1">Fred Bart(18) lap=10 point=1 t=22.655 et=8330.043</Score>
+<Sector et="8330.1">Fred Bart(18) set new best for sector 2</Sector>
+<Sector et="8376.4">Fred Bart(18) set new best for sector 3</Sector>
+<Score et="8376.4">Fred Bart(18) lap=10 point=2 t=69.024 et=8376.412</Score>
+<Sector et="8376.4">Fred Bart(18) set new best for sector 3</Sector>
+<Sector et="8409.6">Fred Bart(18) set new best for sector 1</Sector>
+<Score et="8409.6">Fred Bart(18) lap=11 point=0 t=102.210 et=8409.598</Score>
+<Sector et="8409.6">Fred Bart(18) set new best for sector 1</Sector>
+<Sector et="8432.2">Fred Bart(18) set new best for sector 2</Sector>
+<Score et="8432.2">Fred Bart(18) lap=11 point=1 t=22.561 et=8432.158</Score>
+<Sector et="8432.2">Fred Bart(18) set new best for sector 2</Sector>
+<Sector et="8478.8">Fred Bart(18) set new best for sector 3</Sector>
+<Score et="8478.8">Fred Bart(18) lap=11 point=2 t=69.168 et=8478.766</Score>
+<Sector et="8478.8">Fred Bart(18) set new best for sector 3</Sector>
+<Score et="8512.1">Fred Bart(18) lap=12 point=0 t=102.429 et=8512.026</Score>
+<Sector et="8534.8">Fred Bart(18) set new best for sector 2</Sector>
+<Score et="8534.8">Fred Bart(18) lap=12 point=1 t=22.766 et=8534.792</Score>
+<Sector et="8534.8">Fred Bart(18) set new best for sector 2</Sector>
+<Sector et="8581.6">Fred Bart(18) set new best for sector 3</Sector>
+<Score et="8581.6">Fred Bart(18) lap=12 point=2 t=69.588 et=8581.614</Score>
+<Sector et="8581.6">Fred Bart(18) set new best for sector 3</Sector>
+<Score et="8614.7">Fred Bart(18) lap=13 point=0 t=102.688 et=8614.715</Score>
+<Score et="8622.2">Fred Bart(18) lap=13 point=1 t=-1.000 et=8622.183</Score>
+<Score et="8622.2">Fred Bart(18) lap=13 point=2 t=-1.000 et=8622.183</Score>
+<Score et="8622.2">Fred Bart(18) lap=14 point=0 t=-1.000 et=8622.183</Score>
+<Chat et="8645.5">Fred Bart left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="7478.0601" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="1" et="7591.0625" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="7646.0767" fuel="0.431" twfl="0.984" twfr="0.988" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="7805.3081" s1="22.8789" s2="46.8354" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="7900.9648" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="7900.9648" fuel="0.106" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="8036.8379" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="8059.7739" fuel="0.106" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="8205.0527" s1="22.6016" s2="46.8135" s3="32.9199" fuel="0.082" twfl="0.969" twfr="0.984" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.3350</Lap>
+<Lap num="11" p="1" et="8307.3877" s1="22.6553" s2="46.3691" s3="33.1855" fuel="0.059" twfl="0.949" twfr="0.969" twrl="0.937" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">102.2100</Lap>
+<Lap num="12" p="1" et="8409.5977" s1="22.5605" s2="46.6074" s3="33.2607" fuel="0.039" twfl="0.925" twfr="0.957" twrl="0.910" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">102.4287</Lap>
+<Lap num="13" p="1" et="8512.0264" s1="22.7656" s2="46.8223" s3="33.1006" fuel="0.016" twfl="0.902" twfr="0.949" twrl="0.886" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">102.6885</Lap>
+<Lap num="14" p="1" et="8614.7148" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.2100</BestLapTime>
+<Laps>14</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="6" endLap="6">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="7" endLap="14">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="14"></Swap></Driver>
+<Driver>
+<Name>Torsten Spindler</Name>
+<SteamID>76561198042616734</SteamID>
+<Connected>0</Connected>
+<VehFile>70_DAR_70.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#70 Torsten Spindler</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>70</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.439" twfl="0.976" twfr="0.988" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="2630.8137" s1="23.0396" s2="46.8616" s3="33.3792" fuel="0.416" twfl="0.937" twfr="0.973" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.2803</Lap>
+<Lap num="3" p="1" et="2734.0940" fuel="0.392" twfl="0.859" twfr="0.937" twrl="0.933" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="2838.4990" s1="23.0803" s2="52.4661" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="2916.9316" fuel="0.439" twfl="0.988" twfr="0.988" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="3039.9814" s1="22.9424" s2="46.8311" s3="33.2444" fuel="0.416" twfl="0.953" twfr="0.969" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.0178</Lap>
+<Lap num="7" p="1" et="3142.9993" s1="22.9448" s2="47.7666" s3="33.8672" fuel="0.396" twfl="0.922" twfr="0.941" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">104.5786</Lap>
+<Lap num="8" p="1" et="3247.5779" s1="23.1467" fuel="0.373" twfl="0.886" twfr="0.922" twrl="0.910" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">104.7761</Lap>
+<Lap num="9" p="1" et="3352.3540" s1="22.7644" s2="47.8213" s3="34.1335" fuel="0.349" twfl="0.855" twfr="0.898" twrl="0.886" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">104.7192</Lap>
+<Lap num="10" p="1" et="3457.0732" s1="23.6482" fuel="0.463" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="3488.2856" fuel="0.114" twfl="0.980" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="3625.8015" s1="22.6404" s2="46.9792" s3="33.4551" fuel="0.090" twfl="0.945" twfr="0.961" twrl="0.957" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">103.0747</Lap>
+<Lap num="13" p="1" et="3728.8762" s1="22.8687" s2="47.0588" s3="35.2805" fuel="0.067" twfl="0.914" twfr="0.941" twrl="0.941" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">105.2080</Lap>
+<Lap num="14" p="1" et="3834.0842" s1="22.8921" s2="46.9146" s3="35.2202" fuel="0.047" twfl="0.882" twfr="0.914" twrl="0.922" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">105.0269</Lap>
+<Lap num="15" p="1" et="3939.1111" fuel="0.137" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="1" et="3961.4578" fuel="0.114" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="1" et="4084.7346" s1="22.4851" s2="46.8564" s3="33.4878" fuel="0.090" twfl="0.941" twfr="0.976" twrl="0.957" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.8293</Lap>
+<Lap num="18" p="1" et="4187.5640" s1="22.7886" fuel="0.071" twfl="0.914" twfr="0.949" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">105.1714</Lap>
+<Lap num="19" p="1" et="4292.7354" fuel="0.137" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>102.8293</BestLapTime>
+<Laps>19</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="19">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="19"></Swap></Driver>
+<Driver>
+<Name>Andrej Warkentin</Name>
+<SteamID>76561198070672426</SteamID>
+<Connected>0</Connected>
+<VehFile>00_DAR_00.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

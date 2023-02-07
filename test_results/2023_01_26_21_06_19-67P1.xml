@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674741615</DateTime>
+<TimeString>2023/01/26 15:00:15</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674753535</DateTime>
+<TimeString>2023/01/26 18:18:55</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Command from="Fred Bart" nodeid="2" et="0.0">/vote yes</Command>
+<Vote et="0.0">Fred Bart: /vote yes</Vote>
+<Sent et="0.0">Vote ignored: There is no vote in progress</Sent>
+<Command et="10.8">/w Cyrille If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="10.8">&gt; /w Cyrille If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.0">/w Cyrille germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.0">&gt; /w Cyrille germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="11.2">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.2">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.4">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command et="11.4">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Score et="90.0">Cyrille(86) lap=0 point=1 t=-1.000 et=89.995</Score>
+<Score et="91.1">Fred Bart(88) lap=0 point=1 t=-1.000 et=91.022</Score>
+<Score et="139.0">Cyrille(86) lap=0 point=2 t=-1.000 et=138.958</Score>
+<Score et="140.0">Fred Bart(88) lap=0 point=2 t=-1.000 et=139.986</Score>
+<Score et="173.5">Cyrille(86) lap=1 point=0 t=-1.000 et=173.493</Score>
+<Score et="175.1">Fred Bart(88) lap=1 point=0 t=-1.000 et=175.094</Score>
+<Sector et="196.8">Cyrille(86) set new best for sector 2</Sector>
+<Score et="196.8">Cyrille(86) lap=1 point=1 t=23.265 et=196.758</Score>
+<Sector et="196.8">Cyrille(86) set new best for sector 2</Sector>
+<Sector et="196.8">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="198.1">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="198.1">Fred Bart(88) lap=1 point=1 t=22.999 et=198.093</Score>
+<Sector et="198.1">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="198.2">Cyrille(86) set new best for sector 2</Sector>
+<Sector et="243.8">Cyrille(86) set new best for sector 3</Sector>
+<Score et="243.8">Cyrille(86) lap=1 point=2 t=70.247 et=243.740</Score>
+<Sector et="243.8">Cyrille(86) set new best for sector 3</Sector>
+<Sector et="243.8">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="245.2">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="245.2">Fred Bart(88) lap=1 point=2 t=70.054 et=245.148</Score>
+<Sector et="245.2">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="245.2">Cyrille(86) set new best for sector 3</Sector>
+<Sector et="277.4">Cyrille(86) set new best for sector 1</Sector>
+<Score et="277.4">Cyrille(86) lap=2 point=0 t=103.869 et=277.362</Score>
+<Sector et="277.4">Cyrille(86) set new best for sector 1</Sector>
+<Sector et="277.4">Fred Bart(88) set new best for sector 1</Sector>
+<Sector et="279.3">Fred Bart(88) set new best for sector 1</Sector>
+<Score et="279.3">Fred Bart(88) lap=2 point=0 t=104.209 et=279.303</Score>
+<Sector et="279.3">Fred Bart(88) set new best for sector 1</Sector>
+<Sector et="279.4">Cyrille(86) set new best for sector 1</Sector>
+<Sector et="300.3">Cyrille(86) set new best for sector 2</Sector>
+<Score et="300.3">Cyrille(86) lap=2 point=1 t=22.883 et=300.245</Score>
+<Sector et="300.3">Cyrille(86) set new best for sector 2</Sector>
+<Sector et="300.3">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="302.1">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="302.1">Fred Bart(88) lap=2 point=1 t=22.804 et=302.107</Score>
+<Sector et="302.1">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="302.2">Cyrille(86) set new best for sector 2</Sector>
+<Sector et="347.5">Cyrille(86) set new best for sector 3</Sector>
+<Score et="347.5">Cyrille(86) lap=2 point=2 t=70.078 et=347.440</Score>
+<Sector et="347.5">Cyrille(86) set new best for sector 3</Sector>
+<Sector et="347.5">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="349.1">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="349.1">Fred Bart(88) lap=2 point=2 t=69.726 et=349.029</Score>
+<Sector et="349.1">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="349.1">Cyrille(86) set new best for sector 3</Sector>
+<Score et="378.5">Cyrille(86) lap=3 point=0 t=-1.000 et=378.435</Score>
+<Score et="378.5">Cyrille(86) lap=3 point=1 t=-1.000 et=378.435</Score>
+<Score et="378.5">Cyrille(86) lap=3 point=2 t=-1.000 et=378.435</Score>
+<Score et="378.5">Cyrille(86) lap=4 point=0 t=-1.000 et=378.435</Score>
+<Sector et="382.8">Fred Bart(88) set new best for sector 1</Sector>
+<Score et="382.8">Fred Bart(88) lap=3 point=0 t=103.434 et=382.738</Score>
+<Sector et="382.8">Fred Bart(88) set new best for sector 1</Sector>
+<Sector et="382.8">Cyrille(86) set new best for sector 1</Sector>
+<Score et="388.9">Fred Bart(88) lap=3 point=1 t=-1.000 et=388.846</Score>
+<Score et="388.9">Fred Bart(88) lap=3 point=2 t=-1.000 et=388.846</Score>
+<Score et="388.9">Fred Bart(88) lap=4 point=0 t=-1.000 et=388.846</Score>
+<Score et="496.7">Cyrille(86) lap=4 point=1 t=-1.000 et=496.723</Score>
+<Score et="496.7">Cyrille(86) lap=4 point=2 t=-1.000 et=496.723</Score>
+<Score et="496.7">Cyrille(86) lap=5 point=0 t=-1.000 et=496.723</Score>
+<Chat et="504.4">Cyrille left the race.</Chat>
+<Score et="516.7">Fred Bart(88) lap=4 point=1 t=-1.000 et=516.667</Score>
+<Score et="550.0">Fred Bart(88) lap=4 point=2 t=-1.000 et=550.002</Score>
+<Score et="550.0">Fred Bart(88) lap=5 point=0 t=-1.000 et=550.002</Score>
+<Chat et="656.6">Cyrille has entered the race.</Chat>
+<System et="656.6">Cyrille(89) 90.51.91.27 has joined as a participant</System>
+<System et="656.6">Cyrille returned with matching vehicle/upgrades: restoring score (5 laps)</System>
+<Chat et="660.6">&gt; /w Cyrille If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="660.6">/w Cyrille If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="660.8">&gt; /w Cyrille germansimracing.de | discord.gg/GSR</Chat>
+<Command et="660.8">/w Cyrille germansimracing.de | discord.gg/GSR</Command>
+<Score et="711.8">Fred Bart(88) lap=5 point=1 t=-1.000 et=711.793</Score>
+<Score et="716.6">Cyrille(89) lap=5 point=1 t=-1.000 et=716.572</Score>
+<Score et="727.7">Fred Bart(88) lap=5 point=2 t=-1.000 et=727.711</Score>
+<Score et="727.7">Fred Bart(88) lap=6 point=0 t=-1.000 et=727.711</Score>
+<Score et="728.9">Cyrille(89) lap=5 point=2 t=-1.000 et=728.852</Score>
+<Score et="728.9">Cyrille(89) lap=6 point=0 t=-1.000 et=728.852</Score>
+<Score et="797.7">Fred Bart(88) lap=6 point=1 t=-1.000 et=797.706</Score>
+<Score et="798.2">Cyrille(89) lap=6 point=1 t=-1.000 et=798.149</Score>
+<Score et="846.1">Fred Bart(88) lap=6 point=2 t=-1.000 et=846.041</Score>
+<Score et="847.3">Cyrille(89) lap=6 point=2 t=-1.000 et=847.240</Score>
+<Score et="880.6">Fred Bart(88) lap=7 point=0 t=-1.000 et=880.523</Score>
+<Score et="881.1">Cyrille(89) lap=7 point=0 t=-1.000 et=881.094</Score>
+<Sector et="903.3">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="903.3">Fred Bart(88) lap=7 point=1 t=22.711 et=903.234</Score>
+<Sector et="903.3">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="903.3">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="904.4">Cyrille(89) set new best for sector 2</Sector>
+<Score et="904.4">Cyrille(89) lap=7 point=1 t=23.248 et=904.342</Score>
+<Sector et="904.4">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="904.4">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="949.9">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="949.9">Fred Bart(88) lap=7 point=2 t=69.342 et=949.865</Score>
+<Sector et="949.9">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="950.0">Cyrille(89) set new best for sector 3</Sector>
+<Score et="951.5">Cyrille(89) lap=7 point=2 t=-1.000 et=951.459</Score>
+<Score et="983.1">Fred Bart(88) lap=8 point=0 t=102.563 et=983.086</Score>
+<Sector et="983.1">Fred Bart(88) set new best for sector 1</Sector>
+<Sector et="983.1">Fred Bart(88) set new best for sector 1</Sector>
+<Sector et="983.2">Cyrille(89) set new best for sector 1</Sector>
+<Score et="997.5">Cyrille(89) lap=8 point=0 t=-1.000 et=997.448</Score>
+<Sector et="1005.9">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="1005.9">Fred Bart(88) lap=8 point=1 t=22.826 et=1005.912</Score>
+<Sector et="1005.9">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="1006.0">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="1023.7">Cyrille(89) set new best for sector 2</Sector>
+<Score et="1023.7">Cyrille(89) lap=8 point=1 t=26.181 et=1023.629</Score>
+<Sector et="1023.7">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="1023.7">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="1052.7">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="1052.7">Fred Bart(88) lap=8 point=2 t=69.633 et=1052.719</Score>
+<Sector et="1052.7">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="1052.8">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="1072.4">Cyrille(89) set new best for sector 3</Sector>
+<Score et="1072.4">Cyrille(89) lap=8 point=2 t=74.898 et=1072.346</Score>
+<Sector et="1072.4">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="1072.4">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="1085.7">Fred Bart(88) lap=9 point=0 t=102.613 et=1085.699</Score>
+<Score et="1106.9">Cyrille(89) lap=9 point=0 t=109.420 et=1106.868</Score>
+<Sector et="1109.0">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="1109.0">Fred Bart(88) lap=9 point=1 t=23.230 et=1108.929</Score>
+<Sector et="1109.0">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="1109.0">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="1130.1">Cyrille(89) set new best for sector 2</Sector>
+<Score et="1130.1">Cyrille(89) lap=9 point=1 t=23.217 et=1130.085</Score>
+<Sector et="1130.1">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="1130.2">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="1155.9">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="1155.9">Fred Bart(88) lap=9 point=2 t=70.215 et=1155.914</Score>
+<Sector et="1155.9">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="1156.0">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="1177.5">Cyrille(89) set new best for sector 3</Sector>
+<Score et="1177.5">Cyrille(89) lap=9 point=2 t=70.638 et=1177.506</Score>
+<Sector et="1177.5">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="1177.6">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="1189.4">Fred Bart(88) lap=10 point=0 t=103.661 et=1189.359</Score>
+<Score et="1212.1">Cyrille(89) lap=10 point=0 t=105.200 et=1212.068</Score>
+<Sector et="1212.1">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="1212.1">Fred Bart(88) lap=10 point=1 t=22.722 et=1212.081</Score>
+<Sector et="1212.1">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="1212.2">Cyrille(89) set new best for sector 2</Sector>
+<Incident et="1218.7">Cyrille(89) reported contact (45.21) with Sign</Incident>
+<Incident et="1218.7">Cyrille(89) reported contact (168.51) with Sign</Incident>
+<Incident et="1218.7">Cyrille(89) reported contact (12.45) with Sign</Incident>
+<Incident et="1218.7">Cyrille(89) reported contact (18.74) with Sign</Incident>
+<Incident et="1219.3">Cyrille(89) reported contact (10.25) with Sign</Incident>
+<Incident et="1219.4">Cyrille(89) reported contact (10.31) with Sign</Incident>
+<Score et="1235.8">Cyrille(89) lap=10 point=1 t=-1.000 et=1235.769</Score>
+<Score et="1259.5">Fred Bart(88) lap=10 point=2 t=70.073 et=1259.432</Score>
+<Sector et="1259.5">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="1259.5">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="1259.5">Cyrille(89) set new best for sector 3</Sector>
+<Score et="1277.7">Fred Bart(88) lap=11 point=0 t=-1.000 et=1277.671</Score>
+<Score et="1283.8">Cyrille(89) lap=10 point=2 t=-1.000 et=1283.774</Score>
+<Score et="1301.9">Cyrille(89) lap=11 point=0 t=-1.000 et=1301.873</Score>
+<Score et="1607.6">Fred Bart(88) lap=11 point=1 t=-1.000 et=1607.592</Score>
+<Score et="1608.8">Cyrille(89) lap=11 point=1 t=-1.000 et=1608.726</Score>
+<Score et="1615.8">Cyrille(89) lap=11 point=2 t=-1.000 et=1615.814</Score>
+<Score et="1615.8">Cyrille(89) lap=12 point=0 t=-1.000 et=1615.814</Score>
+<Score et="1619.1">Fred Bart(88) lap=11 point=2 t=-1.000 et=1619.049</Score>
+<Score et="1619.1">Fred Bart(88) lap=12 point=0 t=-1.000 et=1619.049</Score>
+<Score et="1660.4">Fred Bart(88) lap=12 point=1 t=-1.000 et=1660.352</Score>
+<Score et="1661.0">Cyrille(89) lap=12 point=1 t=-1.000 et=1660.991</Score>
+<Chat et="1706.8">consorevueltaalfonsoo12 has entered the race.</Chat>
+<System et="1706.8">consorevueltaalfonsoo12(90) 85.217.156.124 has joined as a participant</System>
+<Score et="1708.2">Fred Bart(88) lap=12 point=2 t=-1.000 et=1708.139</Score>
+<Score et="1708.7">Cyrille(89) lap=12 point=2 t=-1.000 et=1708.709</Score>
+<Command et="1710.4">/w consorevueltaalfonsoo12 If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="1710.4">&gt; /w consorevueltaalfonsoo12 If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="1710.6">&gt; /w consorevueltaalfonsoo12 germansimracing.de | discord.gg/GSR</Chat>
+<Command et="1710.6">/w consorevueltaalfonsoo12 germansimracing.de | discord.gg/GSR</Command>
+<Score et="1741.7">Fred Bart(88) lap=13 point=0 t=-1.000 et=1741.645</Score>
+<Score et="1742.3">Cyrille(89) lap=13 point=0 t=-1.000 et=1742.246</Score>
+<Score et="1759.9">Fred Bart(88) lap=13 point=1 t=-1.000 et=1757.965</Score>
+<Score et="1759.9">Fred Bart(88) lap=13 point=2 t=-1.000 et=1757.965</Score>
+<Score et="1759.9">Fred Bart(88) lap=14 point=0 t=-1.000 et=1757.965</Score>
+<Incident et="1776.7">Cyrille(89) reported contact (2256.39) with Immovable</Incident>
+<Incident et="1776.7">Cyrille(89) reported contact (2322.88) with Immovable</Incident>
+<Incident et="1776.7">Cyrille(89) reported contact (1043.84) with Immovable</Incident>
+<Incident et="1776.7">Cyrille(89) reported contact (1248.36) with Immovable</Incident>
+<Score et="1781.4">Cyrille(89) lap=13 point=1 t=-1.000 et=1779.568</Score>
+<Score et="1781.4">Cyrille(89) lap=13 point=2 t=-1.000 et=1779.568</Score>
+<Score et="1781.4">Cyrille(89) lap=14 point=0 t=-1.000 et=1779.568</Score>
+<Score et="1825.4">Fred Bart(88) lap=14 point=1 t=-1.000 et=1825.328</Score>
+<Score et="1825.9">Cyrille(89) lap=14 point=1 t=-1.000 et=1825.883</Score>
+<Score et="1872.9">Fred Bart(88) lap=14 point=2 t=-1.000 et=1872.827</Score>
+<Score et="1873.9">Cyrille(89) lap=14 point=2 t=-1.000 et=1873.852</Score>
+<Score et="1906.5">Fred Bart(88) lap=15 point=0 t=-1.000 et=1906.468</Score>
+<Score et="1907.6">Cyrille(89) lap=15 point=0 t=-1.000 et=1907.555</Score>
+<Sector et="1931.4">Cyrille(89) set new best for sector 2</Sector>
+<Score et="1931.4">Cyrille(89) lap=15 point=1 t=23.802 et=1931.357</Score>
+<Sector et="1931.4">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="1931.4">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="1931.4">consorevueltaalfonsoo12(90) set new best for sector 2</Sector>
+<Sector et="1932.2">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="1932.2">Fred Bart(88) lap=15 point=1 t=25.708 et=1932.176</Score>
+<Sector et="1932.2">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="1932.2">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="1932.3">consorevueltaalfonsoo12(90) set new best for sector 2</Sector>
+<Sector et="1978.9">Cyrille(89) set new best for sector 3</Sector>
+<Score et="1978.9">Cyrille(89) lap=15 point=2 t=71.301 et=1978.855</Score>
+<Sector et="1978.9">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="1978.9">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="1979.8">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="1979.8">Fred Bart(88) lap=15 point=2 t=73.314 et=1979.781</Score>
+<Sector et="1979.8">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="1979.9">Cyrille(89) set new best for sector 3</Sector>
+<Chat et="1991.8">consorevueltaalfonsoo12 left the race.</Chat>
+<Score et="2012.9">Cyrille(89) lap=16 point=0 t=105.325 et=2012.880</Score>
+<Score et="2013.7">Fred Bart(88) lap=16 point=0 t=107.242 et=2013.710</Score>
+<Sector et="2036.2">Cyrille(89) set new best for sector 2</Sector>
+<Score et="2036.2">Cyrille(89) lap=16 point=1 t=23.271 et=2036.150</Score>
+<Sector et="2036.2">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2036.2">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2036.7">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="2036.7">Fred Bart(88) lap=16 point=1 t=22.932 et=2036.642</Score>
+<Sector et="2036.7">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2036.7">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2083.6">Cyrille(89) set new best for sector 3</Sector>
+<Score et="2083.6">Cyrille(89) lap=16 point=2 t=70.713 et=2083.592</Score>
+<Sector et="2083.6">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="2083.7">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="2084.3">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="2084.3">Fred Bart(88) lap=16 point=2 t=70.536 et=2084.246</Score>
+<Sector et="2084.3">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="2084.3">Cyrille(89) set new best for sector 3</Sector>
+<Chat et="2106.4">consorevueltaalfonsoo12 has entered the race.</Chat>
+<System et="2106.4">consorevueltaalfonsoo12(91) 85.217.156.124 has joined as a participant</System>
+<System et="2106.4">consorevueltaalfonsoo12 returned with matching vehicle/upgrades: restoring score (0 laps)</System>
+<Command et="2110.2">/w consorevueltaalfonsoo12 If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="2110.2">&gt; /w consorevueltaalfonsoo12 If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Chat et="2110.4">&gt; /w consorevueltaalfonsoo12 germansimracing.de | discord.gg/GSR</Chat>
+<Command et="2110.4">/w consorevueltaalfonsoo12 germansimracing.de | discord.gg/GSR</Command>
+<Score et="2118.1">Cyrille(89) lap=17 point=0 t=105.175 et=2118.054</Score>
+<Score et="2118.4">Fred Bart(88) lap=17 point=0 t=104.675 et=2118.385</Score>
+<Score et="2141.3">Cyrille(89) lap=17 point=1 t=-1.000 et=2141.288</Score>
+<Sector et="2142.0">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="2142.0">Fred Bart(88) lap=17 point=1 t=23.571 et=2141.956</Score>
+<Sector et="2142.0">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2142.0">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2142.0">consorevueltaalfonsoo12(91) set new best for sector 2</Sector>
+<Score et="2189.9">Cyrille(89) lap=17 point=2 t=-1.000 et=2189.846</Score>
+<Sector et="2190.9">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="2190.9">Fred Bart(88) lap=17 point=2 t=72.534 et=2190.919</Score>
+<Sector et="2190.9">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="2191.0">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="2201.5">consorevueltaalfonsoo12(91) set new best for sector 3</Sector>
+<Incident et="2215.5">consorevueltaalfonsoo12(91) reported contact (14482.31) with Immovable</Incident>
+<Sector et="2215.5">consorevueltaalfonsoo12(91) reports new suspension damage</Sector>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (10871.36) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (8215.74) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (6233.04) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (3975.22) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (4663.55) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (1345.44) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (2771.00) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (2082.77) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (1588.34) with Immovable</Incident>
+<Incident et="2215.6">consorevueltaalfonsoo12(91) reported contact (1335.69) with Immovable</Incident>
+<Score et="2218.5">consorevueltaalfonsoo12(91) lap=0 point=1 t=-1.000 et=2218.418</Score>
+<Score et="2218.5">consorevueltaalfonsoo12(91) lap=0 point=2 t=-1.000 et=2218.418</Score>
+<Score et="2218.5">consorevueltaalfonsoo12(91) lap=1 point=0 t=-1.000 et=2218.418</Score>
+<Score et="2224.7">Cyrille(89) lap=18 point=0 t=-1.000 et=2224.653</Score>
+<Score et="2225.2">Fred Bart(88) lap=18 point=0 t=106.786 et=2225.171</Score>
+<Sector et="2248.0">Cyrille(89) set new best for sector 2</Sector>
+<Score et="2248.0">Cyrille(89) lap=18 point=1 t=23.307 et=2247.960</Score>
+<Sector et="2248.0">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2248.0">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2248.0">consorevueltaalfonsoo12(91) set new best for sector 2</Sector>
+<Score et="2248.9">Fred Bart(88) lap=18 point=1 t=23.661 et=2248.833</Score>
+<Sector et="2248.9">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2248.9">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2248.9">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2248.9">consorevueltaalfonsoo12(91) set new best for sector 2</Sector>
+<Chat et="2270.3">consorevueltaalfonsoo12 left the race.</Chat>
+<Sector et="2296.1">Cyrille(89) set new best for sector 3</Sector>
+<Score et="2296.1">Cyrille(89) lap=18 point=2 t=71.413 et=2296.065</Score>
+<Sector et="2296.1">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="2296.1">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="2298.1">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="2298.1">Fred Bart(88) lap=18 point=2 t=72.870 et=2298.041</Score>
+<Sector et="2298.1">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="2298.1">Cyrille(89) set new best for sector 3</Sector>
+<Score et="2330.5">Cyrille(89) lap=19 point=0 t=105.771 et=2330.424</Score>
+<Score et="2333.4">Fred Bart(88) lap=19 point=0 t=108.226 et=2333.397</Score>
+<Score et="2355.4">Fred Bart(88) lap=19 point=1 t=-1.000 et=2355.342</Score>
+<Score et="2355.4">Fred Bart(88) lap=19 point=2 t=-1.000 et=2355.342</Score>
+<Score et="2355.4">Fred Bart(88) lap=20 point=0 t=-1.000 et=2355.342</Score>
+<Score et="2355.4">Cyrille(89) lap=19 point=1 t=-1.000 et=2355.425</Score>
+<Score et="2355.4">Cyrille(89) lap=19 point=2 t=-1.000 et=2355.425</Score>
+<Score et="2355.4">Cyrille(89) lap=20 point=0 t=-1.000 et=2355.425</Score>
+<Score et="2461.5">Fred Bart(88) lap=20 point=1 t=-1.000 et=2461.450</Score>
+<Score et="2463.0">Cyrille(89) lap=20 point=1 t=-1.000 et=2462.987</Score>
+<Score et="2509.8">Fred Bart(88) lap=20 point=2 t=-1.000 et=2509.816</Score>
+<Score et="2510.7">Cyrille(89) lap=20 point=2 t=-1.000 et=2510.646</Score>
+<Score et="2543.4">Fred Bart(88) lap=21 point=0 t=-1.000 et=2543.408</Score>
+<Score et="2546.0">Cyrille(89) lap=21 point=0 t=-1.000 et=2545.984</Score>
+<Sector et="2566.2">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="2566.2">Fred Bart(88) lap=21 point=1 t=22.758 et=2566.166</Score>
+<Sector et="2566.2">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2566.2">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2568.7">Cyrille(89) set new best for sector 2</Sector>
+<Score et="2568.7">Cyrille(89) lap=21 point=1 t=22.679 et=2568.663</Score>
+<Sector et="2568.7">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2568.7">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2613.1">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="2613.1">Fred Bart(88) lap=21 point=2 t=69.672 et=2613.079</Score>
+<Sector et="2613.1">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="2613.1">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="2615.7">Cyrille(89) set new best for sector 3</Sector>
+<Score et="2615.7">Cyrille(89) lap=21 point=2 t=69.705 et=2615.690</Score>
+<Sector et="2615.7">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="2615.8">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="2646.3">Fred Bart(88) lap=22 point=0 t=102.846 et=2646.254</Score>
+<Sector et="2649.3">Cyrille(89) set new best for sector 1</Sector>
+<Score et="2649.3">Cyrille(89) lap=22 point=0 t=103.256 et=2649.241</Score>
+<Sector et="2649.3">Cyrille(89) set new best for sector 1</Sector>
+<Sector et="2649.3">Fred Bart(88) set new best for sector 1</Sector>
+<Score et="2669.6">Fred Bart(88) lap=22 point=1 t=23.335 et=2669.589</Score>
+<Sector et="2669.6">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2669.6">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2669.6">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2672.5">Cyrille(89) set new best for sector 2</Sector>
+<Score et="2672.5">Cyrille(89) lap=22 point=1 t=23.271 et=2672.512</Score>
+<Sector et="2672.5">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="2672.6">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2716.1">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="2716.1">Fred Bart(88) lap=22 point=2 t=69.851 et=2716.105</Score>
+<Sector et="2716.1">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="2716.2">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="2720.7">Cyrille(89) set new best for sector 3</Sector>
+<Score et="2720.7">Cyrille(89) lap=22 point=2 t=71.429 et=2720.670</Score>
+<Sector et="2720.7">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="2720.7">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="2749.7">Fred Bart(88) lap=23 point=0 t=103.433 et=2749.687</Score>
+<Score et="2755.7">Cyrille(89) lap=23 point=0 t=106.404 et=2755.645</Score>
+<Sector et="2772.6">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="2772.6">Fred Bart(88) lap=23 point=1 t=22.837 et=2772.524</Score>
+<Sector et="2772.6">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="2772.6">Cyrille(89) set new best for sector 2</Sector>
+<Incident et="2777.4">Cyrille(89) reported contact (1139.42) with Immovable</Incident>
+<Incident et="2777.4">Cyrille(89) reported contact (2265.46) with Immovable</Incident>
+<Incident et="2777.4">Cyrille(89) reported contact (2437.24) with Immovable</Incident>
+<Incident et="2777.4">Cyrille(89) reported contact (1309.14) with Immovable</Incident>
+<Incident et="2777.4">Cyrille(89) reported contact (1606.42) with Immovable</Incident>
+<Incident et="2777.5">Cyrille(89) reported contact (1114.16) with Immovable</Incident>
+<Score et="2780.3">Cyrille(89) lap=23 point=1 t=-1.000 et=2780.260</Score>
+<Score et="2780.3">Cyrille(89) lap=23 point=2 t=-1.000 et=2780.260</Score>
+<Score et="2780.3">Cyrille(89) lap=24 point=0 t=-1.000 et=2780.260</Score>
+<Sector et="2819.4">Fred Bart(88) set new best for sector 3</Sector>
+<Score et="2819.4">Fred Bart(88) lap=23 point=2 t=69.718 et=2819.405</Score>
+<Sector et="2819.4">Fred Bart(88) set new best for sector 3</Sector>
+<Sector et="2819.5">Cyrille(89) set new best for sector 3</Sector>
+<Score et="2852.5">Fred Bart(88) lap=24 point=0 t=102.744 et=2852.430</Score>
+<Score et="2861.6">Fred Bart(88) lap=24 point=1 t=-1.000 et=2861.571</Score>
+<Score et="2861.6">Fred Bart(88) lap=24 point=2 t=-1.000 et=2861.571</Score>
+<Score et="2861.6">Fred Bart(88) lap=25 point=0 t=-1.000 et=2861.571</Score>
+<Score et="2923.5">Fred Bart(88) lap=25 point=1 t=-1.000 et=2923.430</Score>
+<Score et="2923.9">Cyrille(89) lap=24 point=1 t=-1.000 et=2923.847</Score>
+<Score et="2972.0">Fred Bart(88) lap=25 point=2 t=-1.000 et=2971.986</Score>
+<Score et="2972.8">Cyrille(89) lap=24 point=2 t=-1.000 et=2972.744</Score>
+<Score et="3005.3">Fred Bart(88) lap=26 point=0 t=-1.000 et=3005.246</Score>
+<Score et="3006.0">Cyrille(89) lap=25 point=0 t=-1.000 et=3005.946</Score>
+<Sector et="3028.0">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="3028.0">Fred Bart(88) lap=26 point=1 t=22.693 et=3027.939</Score>
+<Sector et="3028.0">Fred Bart(88) set new best for sector 2</Sector>
+<Sector et="3028.0">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="3028.7">Cyrille(89) set new best for sector 2</Sector>
+<Score et="3028.7">Cyrille(89) lap=25 point=1 t=22.744 et=3028.690</Score>
+<Sector et="3028.7">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="3028.8">Fred Bart(88) set new best for sector 2</Sector>
+<Score et="3052.4">Fred Bart(88) lap=26 point=2 t=-1.000 et=3052.341</Score>
+<Score et="3052.4">Fred Bart(88) lap=27 point=0 t=-1.000 et=3052.341</Score>
+<Chat et="3056.3">Fred Bart left the race.</Chat>
+<Sector et="3075.5">Cyrille(89) set new best for sector 3</Sector>
+<Score et="3075.5">Cyrille(89) lap=25 point=2 t=69.537 et=3075.483</Score>
+<Sector et="3075.5">Cyrille(89) set new best for sector 3</Sector>
+<Incident et="3084.3">Cyrille(89) reported contact (6151.96) with Immovable</Incident>
+<Incident et="3084.4">Cyrille(89) reported contact (3533.34) with Immovable</Incident>
+<Incident et="3084.4">Cyrille(89) reported contact (3895.78) with Immovable</Incident>
+<Incident et="3084.4">Cyrille(89) reported contact (2436.96) with Immovable</Incident>
+<Incident et="3084.4">Cyrille(89) reported contact (3191.29) with Immovable</Incident>
+<Incident et="3084.4">Cyrille(89) reported contact (2003.79) with Immovable</Incident>
+<Incident et="3087.8">Cyrille(89) reported contact (1066.99) with Immovable</Incident>
+<Score et="3089.1">Cyrille(89) lap=26 point=0 t=-1.000 et=3089.122</Score>
+<Chat et="3140.2">Fred Bart has entered the race.</Chat>
+<System et="3140.2">Fred Bart(92) 176.168.165.76 has joined as a participant</System>
+<System et="3140.2">Fred Bart returned with matching vehicle/upgrades: restoring score (27 laps)</System>
+<Command et="3150.0">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="3150.0">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="3150.2">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="3150.2">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Score et="3167.7">Cyrille(89) lap=26 point=1 t=-1.000 et=3167.678</Score>
+<Score et="3196.1">Fred Bart(92) lap=27 point=1 t=-1.000 et=3196.079</Score>
+<Score et="3216.5">Cyrille(89) lap=26 point=2 t=-1.000 et=3216.509</Score>
+<Score et="3243.3">Fred Bart(92) lap=27 point=2 t=-1.000 et=3243.302</Score>
+<Score et="3249.8">Cyrille(89) lap=27 point=0 t=-1.000 et=3249.750</Score>
+<Sector et="3273.5">Cyrille(89) set new best for sector 2</Sector>
+<Score et="3273.5">Cyrille(89) lap=27 point=1 t=23.717 et=3273.466</Score>
+<Sector et="3273.5">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="3273.5">Fred Bart(92) set new best for sector 2</Sector>
+<Score et="3276.4">Fred Bart(92) lap=28 point=0 t=-1.000 et=3276.407</Score>
+<Sector et="3299.2">Fred Bart(92) set new best for sector 2</Sector>
+<Score et="3299.2">Fred Bart(92) lap=28 point=1 t=22.790 et=3299.196</Score>
+<Sector et="3299.2">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="3299.3">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="3320.9">Cyrille(89) set new best for sector 3</Sector>
+<Score et="3320.9">Cyrille(89) lap=27 point=2 t=71.143 et=3320.892</Score>
+<Sector et="3320.9">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="3321.0">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="3345.8">Fred Bart(92) set new best for sector 3</Sector>
+<Score et="3345.8">Fred Bart(92) lap=28 point=2 t=69.392 et=3345.799</Score>
+<Sector et="3345.8">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="3345.9">Cyrille(89) set new best for sector 3</Sector>
+<Score et="3353.8">Cyrille(89) lap=28 point=0 t=104.055 et=3353.805</Score>
+<Sector et="3376.6">Cyrille(89) set new best for sector 2</Sector>
+<Score et="3376.6">Cyrille(89) lap=28 point=1 t=22.734 et=3376.539</Score>
+<Sector et="3376.6">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="3376.6">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="3378.7">Fred Bart(92) set new best for sector 1</Sector>
+<Score et="3378.7">Fred Bart(92) lap=29 point=0 t=102.282 et=3378.689</Score>
+<Sector et="3378.7">Fred Bart(92) set new best for sector 1</Sector>
+<Sector et="3378.8">Cyrille(89) set new best for sector 1</Sector>
+<Sector et="3401.7">Fred Bart(92) set new best for sector 2</Sector>
+<Score et="3401.7">Fred Bart(92) lap=29 point=1 t=22.987 et=3401.676</Score>
+<Sector et="3401.7">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="3401.7">Cyrille(89) set new best for sector 2</Sector>
+<Incident et="3422.4">Cyrille(89) reported contact (2966.99) with Immovable</Incident>
+<Incident et="3422.4">Cyrille(89) reported contact (2971.11) with Immovable</Incident>
+<Incident et="3422.4">Cyrille(89) reported contact (1159.11) with Immovable</Incident>
+<Incident et="3422.4">Cyrille(89) reported contact (1417.66) with Immovable</Incident>
+<Incident et="3422.6">Cyrille(89) reported contact (1377.67) with Immovable</Incident>
+<Incident et="3422.6">Cyrille(89) reported contact (1268.70) with Immovable</Incident>
+<Incident et="3423.5">Cyrille(89) reported contact (1522.85) with Immovable</Incident>
+<Score et="3432.5">Cyrille(89) lap=28 point=2 t=-1.000 et=3430.695</Score>
+<Score et="3432.5">Cyrille(89) lap=29 point=0 t=-1.000 et=3430.695</Score>
+<Sector et="3448.4">Fred Bart(92) set new best for sector 3</Sector>
+<Score et="3448.4">Fred Bart(92) lap=29 point=2 t=69.695 et=3448.384</Score>
+<Sector et="3448.4">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="3448.5">Cyrille(89) set new best for sector 3</Sector>
+<Score et="3481.2">Fred Bart(92) lap=30 point=0 t=102.507 et=3481.196</Score>
+<Score et="3502.7">Fred Bart(92) lap=30 point=1 t=-1.000 et=3502.634</Score>
+<Score et="3502.7">Fred Bart(92) lap=30 point=2 t=-1.000 et=3502.634</Score>
+<Score et="3502.7">Fred Bart(92) lap=31 point=0 t=-1.000 et=3502.634</Score>
+<Score et="3766.3">Fred Bart(92) lap=31 point=1 t=-1.000 et=3766.259</Score>
+<Score et="3767.7">Cyrille(89) lap=29 point=1 t=-1.000 et=3767.695</Score>
+<Score et="3814.0">Fred Bart(92) lap=31 point=2 t=-1.000 et=3813.992</Score>
+<Score et="3814.7">Cyrille(89) lap=29 point=2 t=-1.000 et=3814.716</Score>
+<Score et="3829.9">Fred Bart(92) lap=32 point=0 t=-1.000 et=3829.898</Score>
+<Score et="3835.8">Cyrille(89) lap=30 point=0 t=-1.000 et=3835.782</Score>
+<Score et="3889.4">Fred Bart(92) lap=32 point=1 t=-1.000 et=3889.393</Score>
+<Score et="3890.0">Cyrille(89) lap=30 point=1 t=-1.000 et=3890.004</Score>
+<Score et="3938.7">Fred Bart(92) lap=32 point=2 t=-1.000 et=3938.630</Score>
+<Score et="3939.1">Cyrille(89) lap=30 point=2 t=-1.000 et=3939.096</Score>
+<Score et="3972.2">Fred Bart(92) lap=33 point=0 t=-1.000 et=3972.178</Score>
+<Score et="3972.7">Cyrille(89) lap=31 point=0 t=-1.000 et=3972.645</Score>
+<Sector et="3994.7">Fred Bart(92) set new best for sector 2</Sector>
+<Score et="3994.7">Fred Bart(92) lap=33 point=1 t=22.529 et=3994.706</Score>
+<Sector et="3994.7">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="3994.8">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="3995.6">Cyrille(89) set new best for sector 2</Sector>
+<Score et="3995.6">Cyrille(89) lap=31 point=1 t=22.963 et=3995.608</Score>
+<Sector et="3995.6">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="3995.7">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="4041.0">Fred Bart(92) set new best for sector 3</Sector>
+<Score et="4041.0">Fred Bart(92) lap=33 point=2 t=68.802 et=4040.980</Score>
+<Sector et="4041.0">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="4041.0">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="4042.8">Cyrille(89) set new best for sector 3</Sector>
+<Score et="4042.8">Cyrille(89) lap=31 point=2 t=70.102 et=4042.747</Score>
+<Sector et="4042.8">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="4042.8">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="4073.8">Fred Bart(92) set new best for sector 1</Sector>
+<Score et="4073.8">Fred Bart(92) lap=34 point=0 t=101.583 et=4073.760</Score>
+<Sector et="4073.8">Fred Bart(92) set new best for sector 1</Sector>
+<Sector et="4073.8">Cyrille(89) set new best for sector 1</Sector>
+<Score et="4076.4">Cyrille(89) lap=32 point=0 t=103.696 et=4076.341</Score>
+<Score et="4096.9">Fred Bart(92) lap=34 point=1 t=23.075 et=4096.835</Score>
+<Sector et="4096.9">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="4096.9">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="4096.9">Cyrille(89) set new best for sector 2</Sector>
+<Score et="4099.2">Cyrille(89) lap=32 point=1 t=-1.000 et=4099.153</Score>
+<Sector et="4145.6">Fred Bart(92) set new best for sector 3</Sector>
+<Score et="4145.6">Fred Bart(92) lap=34 point=2 t=71.795 et=4145.555</Score>
+<Sector et="4145.6">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="4145.6">Cyrille(89) set new best for sector 3</Sector>
+<Score et="4146.9">Cyrille(89) lap=32 point=2 t=-1.000 et=4146.833</Score>
+<Score et="4182.6">Cyrille(89) lap=33 point=0 t=-1.000 et=4182.604</Score>
+<Score et="4184.2">Fred Bart(92) lap=35 point=0 t=110.366 et=4184.126</Score>
+<Sector et="4206.2">Cyrille(89) set new best for sector 2</Sector>
+<Score et="4206.2">Cyrille(89) lap=33 point=1 t=23.521 et=4206.125</Score>
+<Sector et="4206.2">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="4206.2">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="4207.2">Fred Bart(92) set new best for sector 2</Sector>
+<Score et="4207.2">Fred Bart(92) lap=35 point=1 t=23.030 et=4207.156</Score>
+<Sector et="4207.2">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="4207.2">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="4256.4">Cyrille(89) set new best for sector 3</Sector>
+<Score et="4256.4">Cyrille(89) lap=33 point=2 t=73.767 et=4256.370</Score>
+<Sector et="4256.4">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="4256.4">Fred Bart(92) set new best for sector 3</Sector>
+<Score et="4257.2">Fred Bart(92) lap=35 point=2 t=73.021 et=4257.146</Score>
+<Sector et="4257.2">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="4257.2">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="4257.2">Cyrille(89) set new best for sector 3</Sector>
+<Score et="4277.2">Fred Bart(92) lap=36 point=0 t=-1.000 et=4277.150</Score>
+<Score et="4277.7">Cyrille(89) lap=34 point=0 t=-1.000 et=4277.648</Score>
+<Score et="4469.1">Fred Bart(92) lap=36 point=1 t=-1.000 et=4469.115</Score>
+<Score et="4469.5">Cyrille(89) lap=34 point=1 t=-1.000 et=4469.431</Score>
+<Score et="4517.9">Fred Bart(92) lap=36 point=2 t=-1.000 et=4517.856</Score>
+<Score et="4518.1">Cyrille(89) lap=34 point=2 t=-1.000 et=4518.033</Score>
+<Score et="4551.2">Fred Bart(92) lap=37 point=0 t=-1.000 et=4551.170</Score>
+<Score et="4551.8">Cyrille(89) lap=35 point=0 t=-1.000 et=4551.731</Score>
+<Sector et="4574.0">Fred Bart(92) set new best for sector 2</Sector>
+<Score et="4574.0">Fred Bart(92) lap=37 point=1 t=22.760 et=4573.930</Score>
+<Sector et="4574.0">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="4574.0">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="4575.1">Cyrille(89) set new best for sector 2</Sector>
+<Score et="4575.1">Cyrille(89) lap=35 point=1 t=23.340 et=4575.071</Score>
+<Sector et="4575.1">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="4575.1">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="4620.5">Fred Bart(92) set new best for sector 3</Sector>
+<Score et="4620.5">Fred Bart(92) lap=37 point=2 t=69.311 et=4620.480</Score>
+<Sector et="4620.5">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="4620.6">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="4622.1">Cyrille(89) set new best for sector 3</Sector>
+<Score et="4622.1">Cyrille(89) lap=35 point=2 t=70.386 et=4622.117</Score>
+<Sector et="4622.1">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="4622.2">Fred Bart(92) set new best for sector 3</Sector>
+<Score et="4653.3">Fred Bart(92) lap=38 point=0 t=102.127 et=4653.297</Score>
+<Score et="4665.4">Cyrille(89) lap=36 point=0 t=113.604 et=4665.334</Score>
+<Sector et="4676.0">Fred Bart(92) set new best for sector 2</Sector>
+<Score et="4676.0">Fred Bart(92) lap=38 point=1 t=22.662 et=4675.959</Score>
+<Sector et="4676.0">Fred Bart(92) set new best for sector 2</Sector>
+<Sector et="4676.0">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="4689.6">Cyrille(89) set new best for sector 2</Sector>
+<Score et="4689.6">Cyrille(89) lap=36 point=1 t=24.233 et=4689.568</Score>
+<Sector et="4689.6">Cyrille(89) set new best for sector 2</Sector>
+<Sector et="4689.6">Fred Bart(92) set new best for sector 2</Sector>
+<Score et="4722.9">Fred Bart(92) lap=38 point=2 t=69.554 et=4722.851</Score>
+<Sector et="4722.9">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="4722.9">Fred Bart(92) set new best for sector 3</Sector>
+<Sector et="4722.9">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="4737.3">Cyrille(89) set new best for sector 3</Sector>
+<Score et="4737.3">Cyrille(89) lap=36 point=2 t=71.933 et=4737.268</Score>
+<Sector et="4737.3">Cyrille(89) set new best for sector 3</Sector>
+<Sector et="4737.3">Fred Bart(92) set new best for sector 3</Sector>
+<Incident et="4746.7">Cyrille(89) reported contact (1984.77) with Immovable</Incident>
+<Incident et="4746.7">Cyrille(89) reported contact (1788.55) with Immovable</Incident>
+<Incident et="4746.7">Cyrille(89) reported contact (1841.72) with Immovable</Incident>
+<Incident et="4746.7">Cyrille(89) reported contact (1836.80) with Immovable</Incident>
+<Incident et="4746.7">Cyrille(89) reported contact (1849.47) with Immovable</Incident>
+<Incident et="4746.7">Cyrille(89) reported contact (1345.37) with Immovable</Incident>
+<Score et="4751.0">Cyrille(89) lap=37 point=0 t=-1.000 et=4750.999</Score>
+<Score et="4755.8">Fred Bart(92) lap=39 point=0 t=102.520 et=4755.817</Score>
+<Score et="4764.5">Fred Bart(92) lap=39 point=1 t=-1.000 et=4764.510</Score>
+<Score et="4764.5">Fred Bart(92) lap=39 point=2 t=-1.000 et=4764.510</Score>
+<Score et="4764.5">Fred Bart(92) lap=40 point=0 t=-1.000 et=4764.510</Score>
+<Chat et="4876.7">Fred Bart left the race.</Chat>
+<Chat et="4934.9">Cyrille left the race.</Chat>
+<Chat et="5567.6">Volker Schmidt has entered the race.</Chat>
+<System et="5567.6">Volker Schmidt(93) 84.118.169.209 has joined as a participant</System>
+<Chat et="5571.2">&gt; /w Volker Schmidt If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="5571.2">/w Volker Schmidt If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="5571.4">/w Volker Schmidt germansimracing.de | discord.gg/GSR</Command>
+<Chat et="5571.4">&gt; /w Volker Schmidt germansimracing.de | discord.gg/GSR</Chat>
+<Score et="5642.3">Volker Schmidt(93) lap=0 point=1 t=-1.000 et=5642.294</Score>
+<Score et="5692.2">Volker Schmidt(93) lap=0 point=2 t=-1.000 et=5692.183</Score>
+<Chat et="5725.3">Connor Roth has entered the race.</Chat>
+<System et="5725.3">Connor Roth(94) 93.213.179.75 has joined as a participant</System>
+<Chat et="5731.0">&gt; /w Connor Roth If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="5731.0">/w Connor Roth If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="5731.2">&gt; /w Connor Roth germansimracing.de | discord.gg/GSR</Chat>
+<Command et="5731.2">/w Connor Roth germansimracing.de | discord.gg/GSR</Command>
+<Score et="5735.1">Volker Schmidt(93) lap=1 point=0 t=-1.000 et=5735.090</Score>
+<Score et="5760.4">Volker Schmidt(93) lap=1 point=1 t=25.332 et=5760.422</Score>
+<Sector et="5760.4">Volker Schmidt(93) set new best for sector 2</Sector>
+<Sector et="5760.5">Volker Schmidt(93) set new best for sector 2</Sector>
+<Sector et="5760.5">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="5812.5">Volker Schmidt(93) lap=1 point=2 t=77.394 et=5812.484</Score>
+<Sector et="5812.5">Volker Schmidt(93) set new best for sector 3</Sector>
+<Sector et="5812.5">Volker Schmidt(93) set new best for sector 3</Sector>
+<Sector et="5812.5">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="5825.8">Connor Roth(94) lap=0 point=1 t=-1.000 et=5825.725</Score>
+<Score et="5862.1">Volker Schmidt(93) lap=2 point=0 t=127.040 et=5862.130</Score>
+<Sector et="5862.1">Volker Schmidt(93) set new best for sector 1</Sector>
+<Sector et="5862.2">Volker Schmidt(93) set new best for sector 1</Sector>
+<Sector et="5862.2">Connor Roth(94) set new best for sector 1</Sector>
+<Score et="5873.8">Connor Roth(94) lap=0 point=2 t=-1.000 et=5873.813</Score>
+<Score et="5887.0">Volker Schmidt(93) lap=2 point=1 t=24.890 et=5887.020</Score>
+<Sector et="5887.0">Volker Schmidt(93) set new best for sector 2</Sector>
+<Sector et="5887.0">Volker Schmidt(93) set new best for sector 2</Sector>
+<Sector et="5887.1">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="5906.9">Connor Roth(94) lap=1 point=0 t=-1.000 et=5906.884</Score>
+<Sector et="5929.5">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="5929.5">Connor Roth(94) lap=1 point=1 t=22.538 et=5929.421</Score>
+<Sector et="5929.5">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="5929.5">Volker Schmidt(93) set new best for sector 2</Sector>
+<Score et="5936.4">Volker Schmidt(93) lap=2 point=2 t=74.211 et=5936.341</Score>
+<Sector et="5936.4">Volker Schmidt(93) set new best for sector 3</Sector>
+<Sector et="5936.4">Volker Schmidt(93) set new best for sector 3</Sector>
+<Sector et="5936.4">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="5969.1">Volker Schmidt(93) lap=3 point=0 t=-1.000 et=5966.729</Score>
+<Score et="5969.1">Volker Schmidt(93) lap=3 point=1 t=-1.000 et=5966.729</Score>
+<Score et="5969.1">Volker Schmidt(93) lap=3 point=2 t=-1.000 et=5966.729</Score>
+<Score et="5969.1">Volker Schmidt(93) lap=4 point=0 t=-1.000 et=5966.729</Score>
+<Chat et="5975.8">Volker Schmidt left the race.</Chat>
+<Sector et="5976.4">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="5976.4">Connor Roth(94) lap=1 point=2 t=69.484 et=5976.368</Score>
+<Sector et="5976.4">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="6009.2">Connor Roth(94) set new best for sector 1</Sector>
+<Score et="6009.2">Connor Roth(94) lap=2 point=0 t=102.268 et=6009.151</Score>
+<Sector et="6009.2">Connor Roth(94) set new best for sector 1</Sector>
+<Score et="6031.8">Connor Roth(94) lap=2 point=1 t=22.571 et=6031.722</Score>
+<Sector et="6031.8">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6031.8">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6078.5">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6078.5">Connor Roth(94) lap=2 point=2 t=69.275 et=6078.427</Score>
+<Sector et="6078.5">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="6111.4">Connor Roth(94) set new best for sector 1</Sector>
+<Score et="6111.4">Connor Roth(94) lap=3 point=0 t=102.172 et=6111.323</Score>
+<Sector et="6111.4">Connor Roth(94) set new best for sector 1</Sector>
+<Score et="6133.9">Connor Roth(94) lap=3 point=1 t=22.585 et=6133.909</Score>
+<Sector et="6133.9">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6133.9">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6181.2">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6181.2">Connor Roth(94) lap=3 point=2 t=69.858 et=6181.182</Score>
+<Sector et="6181.2">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6206.3">Connor Roth(94) lap=4 point=0 t=-1.000 et=6206.246</Score>
+<Score et="6206.3">Connor Roth(94) lap=4 point=1 t=-1.000 et=6206.246</Score>
+<Score et="6206.3">Connor Roth(94) lap=4 point=2 t=-1.000 et=6206.246</Score>
+<Score et="6206.3">Connor Roth(94) lap=5 point=0 t=-1.000 et=6206.246</Score>
+<Score et="6260.6">Connor Roth(94) lap=5 point=1 t=-1.000 et=6260.616</Score>
+<Score et="6308.1">Connor Roth(94) lap=5 point=2 t=-1.000 et=6308.097</Score>
+<Score et="6340.9">Connor Roth(94) lap=6 point=0 t=-1.000 et=6340.882</Score>
+<Score et="6363.4">Connor Roth(94) lap=6 point=1 t=22.446 et=6363.328</Score>
+<Sector et="6363.4">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6363.4">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="6410.1">Connor Roth(94) lap=6 point=2 t=69.155 et=6410.037</Score>
+<Sector et="6410.1">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="6410.1">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6442.8">Connor Roth(94) lap=7 point=0 t=101.916 et=6442.798</Score>
+<Sector et="6442.8">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="6442.8">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="6465.5">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="6465.5">Connor Roth(94) lap=7 point=1 t=22.647 et=6465.445</Score>
+<Sector et="6465.5">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6512.2">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6512.2">Connor Roth(94) lap=7 point=2 t=69.359 et=6512.157</Score>
+<Sector et="6512.2">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6544.9">Connor Roth(94) lap=8 point=0 t=102.049 et=6544.847</Score>
+<Sector et="6567.5">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="6567.5">Connor Roth(94) lap=8 point=1 t=22.667 et=6567.513</Score>
+<Sector et="6567.5">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6614.5">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6614.5">Connor Roth(94) lap=8 point=2 t=69.579 et=6614.425</Score>
+<Sector et="6614.5">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6647.8">Connor Roth(94) lap=9 point=0 t=102.899 et=6647.746</Score>
+<Score et="6657.4">Connor Roth(94) lap=9 point=1 t=-1.000 et=6657.431</Score>
+<Score et="6657.4">Connor Roth(94) lap=9 point=2 t=-1.000 et=6657.431</Score>
+<Score et="6657.4">Connor Roth(94) lap=10 point=0 t=-1.000 et=6657.431</Score>
+<Score et="6763.4">Connor Roth(94) lap=10 point=1 t=-1.000 et=6763.386</Score>
+<Score et="6810.9">Connor Roth(94) lap=10 point=2 t=-1.000 et=6810.904</Score>
+<Score et="6843.4">Connor Roth(94) lap=11 point=0 t=-1.000 et=6843.391</Score>
+<Score et="6866.0">Connor Roth(94) lap=11 point=1 t=22.540 et=6865.931</Score>
+<Sector et="6866.0">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6866.0">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="6912.5">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6912.5">Connor Roth(94) lap=11 point=2 t=69.078 et=6912.469</Score>
+<Sector et="6912.5">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="6945.4">Connor Roth(94) lap=12 point=0 t=101.991 et=6945.382</Score>
+<Score et="6978.4">Connor Roth(94) lap=12 point=1 t=-1.000 et=6978.336</Score>
+<Score et="6978.4">Connor Roth(94) lap=12 point=2 t=-1.000 et=6978.336</Score>
+<Score et="6978.4">Connor Roth(94) lap=13 point=0 t=-1.000 et=6978.336</Score>
+<Score et="7032.8">Connor Roth(94) lap=13 point=1 t=-1.000 et=7032.809</Score>
+<Score et="7080.1">Connor Roth(94) lap=13 point=2 t=-1.000 et=7080.112</Score>
+<Score et="7112.6">Connor Roth(94) lap=14 point=0 t=-1.000 et=7112.527</Score>
+<Sector et="7135.5">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="7135.5">Connor Roth(94) lap=14 point=1 t=22.906 et=7135.434</Score>
+<Sector et="7135.5">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="7182.2">Connor Roth(94) lap=14 point=2 t=69.658 et=7182.186</Score>
+<Sector et="7182.2">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="7182.2">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="7215.3">Connor Roth(94) lap=15 point=0 t=102.721 et=7215.248</Score>
+<Score et="7228.5">Connor Roth(94) lap=15 point=1 t=-1.000 et=7228.461</Score>
+<Score et="7228.5">Connor Roth(94) lap=15 point=2 t=-1.000 et=7228.461</Score>
+<Score et="7228.5">Connor Roth(94) lap=16 point=0 t=-1.000 et=7228.461</Score>
+<Score et="7426.0">Connor Roth(94) lap=16 point=1 t=-1.000 et=7426.015</Score>
+<Score et="7473.3">Connor Roth(94) lap=16 point=2 t=-1.000 et=7473.228</Score>
+<Score et="7506.2">Connor Roth(94) lap=17 point=0 t=-1.000 et=7506.144</Score>
+<Score et="7528.8">Connor Roth(94) lap=17 point=1 t=22.612 et=7528.756</Score>
+<Sector et="7528.8">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="7528.8">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="7575.8">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="7575.8">Connor Roth(94) lap=17 point=2 t=69.654 et=7575.798</Score>
+<Sector et="7575.8">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="7608.2">Connor Roth(94) lap=18 point=0 t=102.059 et=7608.203</Score>
+<Sector et="7631.0">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="7631.0">Connor Roth(94) lap=18 point=1 t=22.791 et=7630.994</Score>
+<Sector et="7631.0">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="7677.7">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="7677.7">Connor Roth(94) lap=18 point=2 t=69.444 et=7677.647</Score>
+<Sector et="7677.7">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="7710.8">Connor Roth(94) lap=19 point=0 t=102.526 et=7710.729</Score>
+<Sector et="7733.6">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="7733.6">Connor Roth(94) lap=19 point=1 t=22.851 et=7733.581</Score>
+<Sector et="7733.6">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="7780.4">Connor Roth(94) lap=19 point=2 t=69.667 et=7780.396</Score>
+<Sector et="7780.4">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="7780.4">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="7813.1">Connor Roth(94) lap=20 point=0 t=102.370 et=7813.099</Score>
+<Score et="7839.6">Connor Roth(94) lap=20 point=1 t=-1.000 et=7839.560</Score>
+<Score et="7839.6">Connor Roth(94) lap=20 point=2 t=-1.000 et=7839.560</Score>
+<Score et="7839.6">Connor Roth(94) lap=21 point=0 t=-1.000 et=7839.560</Score>
+<Score et="7948.2">Connor Roth(94) lap=21 point=1 t=-1.000 et=7948.191</Score>
+<Chat et="7988.8">Christian Tropeano  has entered the race.</Chat>
+<System et="7988.8">Christian Tropeano (95) 82.136.69.142 has joined as a participant</System>
+<Chat et="7990.8">&gt; /w Christian Tropeano  If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="7990.8">/w Christian Tropeano  If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="7991.0">/w Christian Tropeano  germansimracing.de | discord.gg/GSR</Command>
+<Chat et="7991.0">&gt; /w Christian Tropeano  germansimracing.de | discord.gg/GSR</Chat>
+<Score et="7995.0">Connor Roth(94) lap=21 point=2 t=-1.000 et=7994.961</Score>
+<Chat et="8008.8">Marcel Wolf has entered the race.</Chat>
+<System et="8008.8">Marcel Wolf(96) 78.31.198.170 has joined as a participant</System>
+<Command et="8010.6">/w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="8010.6">&gt; /w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="8010.8">/w Marcel Wolf germansimracing.de | discord.gg/GSR</Command>
+<Chat et="8010.8">&gt; /w Marcel Wolf germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="8011.6">Christian Tropeano : ABEND</Chat>
+<Score et="8027.4">Connor Roth(94) lap=22 point=0 t=-1.000 et=8027.385</Score>
+<Sector et="8049.9">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="8049.9">Connor Roth(94) lap=22 point=1 t=22.439 et=8049.824</Score>
+<Sector et="8049.9">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8049.9">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8049.9">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="8066.0">Marcel Wolf(96) lap=0 point=1 t=-1.000 et=8065.991</Score>
+<Score et="8096.5">Connor Roth(94) lap=22 point=2 t=69.041 et=8096.425</Score>
+<Sector et="8096.5">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8096.5">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8096.5">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="8096.5">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="8114.9">Marcel Wolf(96) lap=0 point=2 t=-1.000 et=8114.881</Score>
+<Score et="8121.1">Christian Tropeano (95) lap=0 point=1 t=-1.000 et=8121.065</Score>
+<Score et="8121.1">Christian Tropeano (95) lap=0 point=2 t=-1.000 et=8121.065</Score>
+<Score et="8121.1">Christian Tropeano (95) lap=1 point=0 t=-1.000 et=8121.065</Score>
+<Sector et="8129.3">Connor Roth(94) set new best for sector 1</Sector>
+<Score et="8129.3">Connor Roth(94) lap=23 point=0 t=101.867 et=8129.252</Score>
+<Sector et="8129.3">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="8129.3">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="8129.3">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="8151.9">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="8151.9">Connor Roth(94) lap=23 point=1 t=22.667 et=8151.919</Score>
+<Sector et="8151.9">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8152.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="8152.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="8165.7">Marcel Wolf(96) lap=1 point=0 t=-1.000 et=8165.707</Score>
+<Score et="8177.8">Marcel Wolf(96) lap=1 point=1 t=-1.000 et=8177.766</Score>
+<Score et="8177.8">Marcel Wolf(96) lap=1 point=2 t=-1.000 et=8177.766</Score>
+<Score et="8177.8">Marcel Wolf(96) lap=2 point=0 t=-1.000 et=8177.766</Score>
+<Sector et="8198.7">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="8198.7">Connor Roth(94) lap=23 point=2 t=69.391 et=8198.643</Score>
+<Sector et="8198.7">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8198.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="8198.7">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="8231.2">Connor Roth(94) lap=24 point=0 t=101.935 et=8231.187</Score>
+<Score et="8254.0">Connor Roth(94) lap=24 point=1 t=22.823 et=8254.010</Score>
+<Sector et="8254.0">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8254.0">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8254.1">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8254.1">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="8268.9">Christian Tropeano (95) lap=1 point=1 t=-1.000 et=8268.898</Score>
+<Score et="8298.4">Marcel Wolf(96) lap=2 point=1 t=-1.000 et=8298.396</Score>
+<Score et="8300.8">Connor Roth(94) lap=24 point=2 t=69.568 et=8300.755</Score>
+<Sector et="8300.8">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8300.8">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8300.8">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="8300.8">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="8317.6">Connor Roth(94) lap=25 point=0 t=-1.000 et=8314.928</Score>
+<Score et="8318.5">Christian Tropeano (95) lap=1 point=2 t=-1.000 et=8318.440</Score>
+<Score et="8346.0">Marcel Wolf(96) lap=2 point=2 t=-1.000 et=8346.018</Score>
+<Score et="8354.0">Christian Tropeano (95) lap=2 point=0 t=-1.000 et=8353.942</Score>
+<Sector et="8377.9">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="8377.9">Christian Tropeano (95) lap=2 point=1 t=23.917 et=8377.859</Score>
+<Sector et="8377.9">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="8377.9">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8377.9">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="8379.8">Marcel Wolf(96) lap=3 point=0 t=-1.000 et=8379.730</Score>
+<Sector et="8403.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="8403.7">Marcel Wolf(96) lap=3 point=1 t=23.971 et=8403.701</Score>
+<Sector et="8403.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8403.8">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="8403.8">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8426.2">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="8426.2">Christian Tropeano (95) lap=2 point=2 t=72.201 et=8426.144</Score>
+<Sector et="8426.2">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="8426.2">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="8426.2">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8451.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="8451.3">Marcel Wolf(96) lap=3 point=2 t=71.568 et=8451.299</Score>
+<Sector et="8451.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="8451.4">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8451.4">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="8460.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Score et="8460.0">Christian Tropeano (95) lap=3 point=0 t=106.010 et=8459.952</Score>
+<Sector et="8460.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="8460.0">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="8460.0">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="8483.5">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="8483.5">Christian Tropeano (95) lap=3 point=1 t=23.561 et=8483.513</Score>
+<Sector et="8483.5">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="8483.6">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8483.6">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8484.1">Marcel Wolf(96) set new best for sector 1</Sector>
+<Score et="8484.1">Marcel Wolf(96) lap=4 point=0 t=104.369 et=8484.100</Score>
+<Sector et="8484.1">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="8484.2">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="8484.2">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="8507.3">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="8507.3">Marcel Wolf(96) lap=4 point=1 t=23.195 et=8507.295</Score>
+<Sector et="8507.3">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8507.4">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8507.7">Christian Tropeano (95) set new best for sector 2</Sector>
+<Incident et="8529.6">Marcel Wolf(96) reported contact (2257.01) with Immovable</Incident>
+<Incident et="8529.6">Marcel Wolf(96) reported contact (1772.52) with Immovable</Incident>
+<Incident et="8529.6">Marcel Wolf(96) reported contact (1086.77) with Immovable</Incident>
+<Incident et="8529.7">Marcel Wolf(96) reported contact (1044.72) with Immovable</Incident>
+<Sector et="8530.5">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="8530.5">Christian Tropeano (95) lap=3 point=2 t=70.557 et=8530.509</Score>
+<Sector et="8530.5">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="8530.6">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="8530.6">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="8533.4">Marcel Wolf(96) lap=4 point=2 t=-1.000 et=8533.397</Score>
+<Score et="8533.4">Marcel Wolf(96) lap=5 point=0 t=-1.000 et=8533.397</Score>
+<Sector et="8565.1">Christian Tropeano (95) set new best for sector 1</Sector>
+<Score et="8565.1">Christian Tropeano (95) lap=4 point=0 t=105.109 et=8565.062</Score>
+<Sector et="8565.1">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="8565.1">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="8565.1">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="8588.6">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="8588.6">Christian Tropeano (95) lap=4 point=1 t=23.485 et=8588.547</Score>
+<Sector et="8588.6">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="8588.6">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8588.6">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="8589.5">Marcel Wolf(96) lap=5 point=1 t=-1.000 et=8589.437</Score>
+<Sector et="8635.6">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="8635.6">Christian Tropeano (95) lap=4 point=2 t=70.530 et=8635.592</Score>
+<Sector et="8635.6">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="8635.6">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="8635.7">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="8636.6">Marcel Wolf(96) lap=5 point=2 t=-1.000 et=8636.591</Score>
+<Sector et="8669.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Score et="8669.0">Christian Tropeano (95) lap=5 point=0 t=103.872 et=8668.934</Score>
+<Sector et="8669.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="8669.0">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="8669.0">Connor Roth(94) set new best for sector 1</Sector>
+<Score et="8669.5">Marcel Wolf(96) lap=6 point=0 t=-1.000 et=8669.481</Score>
+<Sector et="8692.1">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="8692.1">Christian Tropeano (95) lap=5 point=1 t=23.153 et=8692.087</Score>
+<Sector et="8692.1">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="8692.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8692.2">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8692.5">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="8692.5">Marcel Wolf(96) lap=6 point=1 t=22.956 et=8692.438</Score>
+<Sector et="8692.5">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8692.5">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="8692.5">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="8739.7">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="8739.7">Marcel Wolf(96) lap=6 point=2 t=70.157 et=8739.639</Score>
+<Sector et="8739.7">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="8739.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="8739.7">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8740.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="8740.7">Christian Tropeano (95) lap=5 point=2 t=71.776 et=8740.710</Score>
+<Sector et="8740.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="8740.8">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="8740.8">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="8772.7">Marcel Wolf(96) set new best for sector 1</Sector>
+<Score et="8772.7">Marcel Wolf(96) lap=7 point=0 t=103.147 et=8772.629</Score>
+<Sector et="8772.7">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="8772.7">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="8772.7">Connor Roth(94) set new best for sector 1</Sector>
+<Score et="8774.6">Christian Tropeano (95) lap=6 point=0 t=105.636 et=8774.569</Score>
+<Score et="8785.2">Marcel Wolf(96) lap=7 point=1 t=-1.000 et=8785.145</Score>
+<Score et="8785.2">Marcel Wolf(96) lap=7 point=2 t=-1.000 et=8785.145</Score>
+<Score et="8785.2">Marcel Wolf(96) lap=8 point=0 t=-1.000 et=8785.145</Score>
+<Score et="8793.8">Christian Tropeano (95) lap=6 point=1 t=-1.000 et=8793.730</Score>
+<Score et="8793.8">Christian Tropeano (95) lap=6 point=2 t=-1.000 et=8793.730</Score>
+<Score et="8793.8">Christian Tropeano (95) lap=7 point=0 t=-1.000 et=8793.730</Score>
+<Score et="8876.3">Christian Tropeano (95) lap=7 point=1 t=-1.000 et=8876.297</Score>
+<Score et="8888.3">Marcel Wolf(96) lap=8 point=1 t=-1.000 et=8888.226</Score>
+<Score et="8923.1">Christian Tropeano (95) lap=7 point=2 t=-1.000 et=8923.059</Score>
+<Score et="8925.3">Connor Roth(94) lap=25 point=1 t=-1.000 et=8925.313</Score>
+<Score et="8935.2">Marcel Wolf(96) lap=8 point=2 t=-1.000 et=8935.161</Score>
+<Score et="8967.3">Christian Tropeano (95) lap=8 point=0 t=-1.000 et=8967.224</Score>
+<Score et="8968.7">Marcel Wolf(96) lap=9 point=0 t=-1.000 et=8968.673</Score>
+<Score et="8973.0">Connor Roth(94) lap=25 point=2 t=-1.000 et=8972.937</Score>
+<Sector et="8990.1">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="8990.1">Christian Tropeano (95) lap=8 point=1 t=22.815 et=8990.039</Score>
+<Sector et="8990.1">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="8990.1">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="8990.1">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="8991.9">Marcel Wolf(96) lap=9 point=1 t=-1.000 et=8991.892</Score>
+<Score et="9006.1">Connor Roth(94) lap=26 point=0 t=-1.000 et=9006.044</Score>
+<Sector et="9028.6">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="9028.6">Connor Roth(94) lap=26 point=1 t=22.563 et=9028.606</Score>
+<Sector et="9028.6">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9028.7">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9028.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9037.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9037.3">Christian Tropeano (95) lap=8 point=2 t=70.069 et=9037.293</Score>
+<Sector et="9037.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9037.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9037.3">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="9038.5">Marcel Wolf(96) lap=9 point=2 t=-1.000 et=9038.489</Score>
+<Score et="9071.6">Marcel Wolf(96) lap=10 point=0 t=-1.000 et=9071.599</Score>
+<Score et="9075.1">Connor Roth(94) lap=26 point=2 t=69.058 et=9075.102</Score>
+<Sector et="9075.1">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9075.1">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9075.2">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9075.2">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9081.2">Christian Tropeano (95) lap=9 point=0 t=113.978 et=9081.201</Score>
+<Sector et="9094.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9094.2">Marcel Wolf(96) lap=10 point=1 t=22.607 et=9094.206</Score>
+<Sector et="9094.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9094.3">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9094.3">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9104.2">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="9104.2">Christian Tropeano (95) lap=9 point=1 t=22.951 et=9104.152</Score>
+<Sector et="9104.2">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9104.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9104.2">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="9107.7">Connor Roth(94) lap=27 point=0 t=101.582 et=9107.626</Score>
+<Sector et="9107.7">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="9107.7">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="9107.7">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="9107.7">Christian Tropeano (95) set new best for sector 1</Sector>
+<Score et="9130.1">Connor Roth(94) lap=27 point=1 t=22.459 et=9130.085</Score>
+<Sector et="9130.1">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9130.1">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9130.1">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9130.1">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9142.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9142.3">Marcel Wolf(96) lap=10 point=2 t=70.688 et=9142.287</Score>
+<Sector et="9142.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9142.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9142.3">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="9151.3">Christian Tropeano (95) lap=9 point=2 t=70.085 et=9151.286</Score>
+<Sector et="9151.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9151.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9151.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9151.3">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="9175.9">Marcel Wolf(96) lap=11 point=0 t=104.287 et=9175.886</Score>
+<Score et="9176.7">Connor Roth(94) lap=27 point=2 t=69.090 et=9176.716</Score>
+<Sector et="9176.7">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9176.7">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9176.8">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9176.8">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9184.9">Christian Tropeano (95) set new best for sector 1</Sector>
+<Score et="9184.9">Christian Tropeano (95) lap=10 point=0 t=103.623 et=9184.824</Score>
+<Sector et="9184.9">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="9184.9">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="9184.9">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="9199.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9199.0">Marcel Wolf(96) lap=11 point=1 t=23.047 et=9198.933</Score>
+<Sector et="9199.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9199.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9199.0">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9208.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="9208.0">Christian Tropeano (95) lap=10 point=1 t=23.167 et=9207.991</Score>
+<Sector et="9208.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9208.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9208.1">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="9209.4">Connor Roth(94) lap=28 point=0 t=101.735 et=9209.361</Score>
+<Score et="9232.1">Connor Roth(94) lap=28 point=1 t=22.743 et=9232.104</Score>
+<Sector et="9232.1">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9232.1">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9232.2">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9232.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9242.8">Marcel Wolf(96) lap=11 point=2 t=-1.000 et=9242.745</Score>
+<Score et="9242.8">Marcel Wolf(96) lap=12 point=0 t=-1.000 et=9242.745</Score>
+<Sector et="9255.2">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9255.2">Christian Tropeano (95) lap=10 point=2 t=70.369 et=9255.193</Score>
+<Sector et="9255.2">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9255.2">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9255.2">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9279.0">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="9279.0">Connor Roth(94) lap=28 point=2 t=69.606 et=9278.968</Score>
+<Sector et="9279.0">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9279.0">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9279.0">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9296.6">Christian Tropeano (95) lap=11 point=0 t=-1.000 et=9296.550</Score>
+<Score et="9308.0">Marcel Wolf(96) lap=12 point=1 t=-1.000 et=9307.970</Score>
+<Score et="9311.5">Connor Roth(94) lap=29 point=0 t=102.110 et=9311.472</Score>
+<Sector et="9334.2">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="9334.2">Connor Roth(94) lap=29 point=1 t=22.678 et=9334.149</Score>
+<Sector et="9334.2">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9334.2">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9334.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9354.5">Marcel Wolf(96) lap=12 point=2 t=-1.000 et=9354.469</Score>
+<Score et="9370.2">Christian Tropeano (95) lap=11 point=1 t=-1.000 et=9370.184</Score>
+<Score et="9381.2">Connor Roth(94) lap=29 point=2 t=69.719 et=9381.190</Score>
+<Sector et="9381.2">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9381.2">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9381.2">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9381.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9387.7">Marcel Wolf(96) lap=13 point=0 t=-1.000 et=9387.639</Score>
+<Sector et="9410.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9410.2">Marcel Wolf(96) lap=13 point=1 t=22.524 et=9410.163</Score>
+<Sector et="9410.2">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9410.2">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9410.2">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="9414.0">Connor Roth(94) lap=30 point=0 t=102.530 et=9414.002</Score>
+<Score et="9418.2">Christian Tropeano (95) lap=11 point=2 t=-1.000 et=9418.128</Score>
+<Sector et="9436.6">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="9436.6">Connor Roth(94) lap=30 point=1 t=22.603 et=9436.604</Score>
+<Sector et="9436.6">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9436.7">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9436.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9451.8">Christian Tropeano (95) lap=12 point=0 t=-1.000 et=9451.744</Score>
+<Sector et="9457.7">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9457.7">Marcel Wolf(96) lap=13 point=2 t=70.050 et=9457.688</Score>
+<Sector et="9457.7">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9457.8">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9457.8">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9474.6">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="9474.6">Christian Tropeano (95) lap=12 point=1 t=22.842 et=9474.586</Score>
+<Sector et="9474.6">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9474.6">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9474.7">Connor Roth(94) set new best for sector 2</Sector>
+<Sector et="9483.3">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="9483.3">Connor Roth(94) lap=30 point=2 t=69.259 et=9483.261</Score>
+<Sector et="9483.3">Connor Roth(94) set new best for sector 3</Sector>
+<Sector et="9483.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9483.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9490.4">Marcel Wolf(96) set new best for sector 1</Sector>
+<Score et="9490.4">Marcel Wolf(96) lap=14 point=0 t=102.695 et=9490.334</Score>
+<Sector et="9490.4">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="9490.4">Connor Roth(94) set new best for sector 1</Sector>
+<Sector et="9490.4">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="9513.3">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9513.3">Marcel Wolf(96) lap=14 point=1 t=22.891 et=9513.225</Score>
+<Sector et="9513.3">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9513.3">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9513.3">Connor Roth(94) set new best for sector 2</Sector>
+<Score et="9516.3">Connor Roth(94) lap=31 point=0 t=102.311 et=9516.313</Score>
+<Sector et="9522.5">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9522.5">Christian Tropeano (95) lap=12 point=2 t=70.768 et=9522.512</Score>
+<Sector et="9522.5">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9522.6">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9522.6">Connor Roth(94) set new best for sector 3</Sector>
+<Score et="9533.0">Connor Roth(94) lap=31 point=1 t=-1.000 et=9532.967</Score>
+<Score et="9533.0">Connor Roth(94) lap=31 point=2 t=-1.000 et=9532.967</Score>
+<Score et="9533.0">Connor Roth(94) lap=32 point=0 t=-1.000 et=9532.967</Score>
+<Score et="9555.8">Christian Tropeano (95) lap=13 point=0 t=103.993 et=9555.737</Score>
+<Chat et="9556.7">Connor Roth left the race.</Chat>
+<Sector et="9560.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9560.3">Marcel Wolf(96) lap=14 point=2 t=69.900 et=9560.234</Score>
+<Sector et="9560.3">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9560.3">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9578.8">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="9578.8">Christian Tropeano (95) lap=13 point=1 t=23.064 et=9578.802</Score>
+<Sector et="9578.8">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9578.9">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9593.1">Marcel Wolf(96) lap=15 point=0 t=102.768 et=9593.102</Score>
+<Sector et="9615.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9615.7">Marcel Wolf(96) lap=15 point=1 t=22.580 et=9615.682</Score>
+<Sector et="9615.7">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9615.7">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9625.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9625.7">Christian Tropeano (95) lap=13 point=2 t=69.917 et=9625.654</Score>
+<Sector et="9625.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9625.7">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9659.0">Christian Tropeano (95) lap=14 point=0 t=103.285 et=9659.022</Score>
+<Sector et="9659.0">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="9659.1">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="9659.1">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="9662.1">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9662.1">Marcel Wolf(96) lap=15 point=2 t=69.018 et=9662.119</Score>
+<Sector et="9662.1">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9662.2">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9682.3">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="9682.3">Christian Tropeano (95) lap=14 point=1 t=23.202 et=9682.225</Score>
+<Sector et="9682.3">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9682.3">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9695.7">Marcel Wolf(96) set new best for sector 1</Sector>
+<Score et="9695.7">Marcel Wolf(96) lap=16 point=0 t=102.568 et=9695.670</Score>
+<Sector et="9695.7">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="9695.7">Christian Tropeano (95) set new best for sector 1</Sector>
+<Sector et="9718.5">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9718.5">Marcel Wolf(96) lap=16 point=1 t=22.833 et=9718.503</Score>
+<Sector et="9718.5">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9718.6">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9729.1">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9729.1">Christian Tropeano (95) lap=14 point=2 t=70.013 et=9729.035</Score>
+<Sector et="9729.1">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9729.1">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9746.0">Marcel Wolf(96) lap=16 point=2 t=-1.000 et=9745.978</Score>
+<Score et="9746.0">Marcel Wolf(96) lap=17 point=0 t=-1.000 et=9745.978</Score>
+<Score et="9762.5">Christian Tropeano (95) lap=15 point=0 t=103.481 et=9762.504</Score>
+<Sector et="9785.9">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="9785.9">Christian Tropeano (95) lap=15 point=1 t=23.321 et=9785.825</Score>
+<Sector et="9785.9">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9785.9">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9797.8">Marcel Wolf(96) lap=17 point=1 t=-1.000 et=9797.757</Score>
+<Sector et="9832.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9832.7">Christian Tropeano (95) lap=15 point=2 t=70.188 et=9832.691</Score>
+<Sector et="9832.7">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9832.7">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9844.7">Marcel Wolf(96) lap=17 point=2 t=-1.000 et=9844.663</Score>
+<Score et="9866.5">Christian Tropeano (95) lap=16 point=0 t=104.000 et=9866.504</Score>
+<Score et="9877.6">Marcel Wolf(96) lap=18 point=0 t=-1.000 et=9877.557</Score>
+<Sector et="9890.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Score et="9890.0">Christian Tropeano (95) lap=16 point=1 t=23.427 et=9889.931</Score>
+<Sector et="9890.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9890.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9900.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Score et="9900.0">Marcel Wolf(96) lap=18 point=1 t=22.432 et=9899.988</Score>
+<Sector et="9900.0">Marcel Wolf(96) set new best for sector 2</Sector>
+<Sector et="9900.0">Christian Tropeano (95) set new best for sector 2</Sector>
+<Sector et="9937.6">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9937.6">Christian Tropeano (95) lap=16 point=2 t=71.065 et=9937.569</Score>
+<Sector et="9937.6">Christian Tropeano (95) set new best for sector 3</Sector>
+<Sector et="9937.6">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9946.6">Marcel Wolf(96) set new best for sector 3</Sector>
+<Score et="9946.6">Marcel Wolf(96) lap=18 point=2 t=68.974 et=9946.530</Score>
+<Sector et="9946.6">Marcel Wolf(96) set new best for sector 3</Sector>
+<Sector et="9946.6">Christian Tropeano (95) set new best for sector 3</Sector>
+<Score et="9975.4">Christian Tropeano (95) lap=17 point=0 t=-1.000 et=9975.389</Score>
+<Sector et="9979.7">Marcel Wolf(96) set new best for sector 1</Sector>
+<Score et="9979.7">Marcel Wolf(96) lap=19 point=0 t=102.094 et=9979.650</Score>
+<Sector et="9979.7">Marcel Wolf(96) set new best for sector 1</Sector>
+<Sector et="9979.7">Christian Tropeano (95) set new best for sector 1</Sector>
+</Stream>
+<MostLapsCompleted>19</MostLapsCompleted>
+<Driver>
+<Name>Connor Roth</Name>
+<SteamID>76561197984386799</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.322" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="5906.8838" s1="22.5376" s2="46.9468" s3="32.7832" fuel="0.298" twfl="0.961" twfr="0.980" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">102.2676</Lap>
+<Lap num="3" p="1" et="6009.1514" s1="22.5708" s2="46.7046" s3="32.8965" fuel="0.275" twfl="0.929" twfr="0.965" twrl="0.922" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">102.1719</Lap>
+<Lap num="4" p="1" et="6111.3232" s1="22.5854" s2="47.2729" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="6206.2461" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="6206.2461" fuel="0.322" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="6340.8818" s1="22.4458" s2="46.7090" s3="32.7612" fuel="0.298" twfl="0.957" twfr="0.976" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">101.9160</Lap>
+<Lap num="8" p="1" et="6442.7979" s1="22.6475" s2="46.7114" s3="32.6899" fuel="0.275" twfl="0.929" twfr="0.965" twrl="0.914" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">102.0488</Lap>
+<Lap num="9" p="1" et="6544.8467" s1="22.6665" s2="46.9121" s3="33.3203" fuel="0.251" twfl="0.898" twfr="0.953" twrl="0.867" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">102.8989</Lap>
+<Lap num="10" p="1" et="6647.7456" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="1" et="6657.4307" fuel="0.102" twfl="0.980" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="6843.3911" s1="22.5396" s2="46.5381" s3="32.9136" fuel="0.078" twfl="0.945" twfr="0.976" twrl="0.941" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">101.9912</Lap>
+<Lap num="13" p="1" et="6945.3823" fuel="0.125" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="6978.3359" fuel="0.322" twfl="0.980" twfr="0.988" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="7112.5273" s1="22.9063" s2="46.7520" s3="33.0625" fuel="0.298" twfl="0.957" twfr="0.976" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">102.7207</Lap>
+<Lap num="16" p="1" et="7215.2480" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="17" p="1" et="7228.4609" fuel="0.322" twfl="0.980" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="1" et="7506.1440" s1="22.6118" s2="47.0425" s3="32.4048" fuel="0.298" twfl="0.961" twfr="0.980" twrl="0.949" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">102.0591</Lap>
+<Lap num="19" p="1" et="7608.2031" s1="22.7910" s2="46.6533" s3="33.0820" fuel="0.275" twfl="0.937" twfr="0.969" twrl="0.906" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">102.5264</Lap>
+<Lap num="20" p="1" et="7710.7295" s1="22.8511" s2="46.8159" s3="32.7026" fuel="0.251" twfl="0.906" twfr="0.957" twrl="0.863" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">102.3696</Lap>
+<Lap num="21" p="1" et="7813.0991" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="1" et="7839.5601" fuel="0.322" twfl="0.980" twfr="0.988" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="23" p="1" et="8027.3848" s1="22.4395" s2="46.6011" s3="32.8267" fuel="0.298" twfl="0.953" twfr="0.976" twrl="0.941" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">101.8672</Lap>
+<Lap num="24" p="1" et="8129.2520" s1="22.6675" s2="46.7231" s3="32.5439" fuel="0.275" twfl="0.925" twfr="0.965" twrl="0.898" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">101.9346</Lap>
+<Lap num="25" p="1" et="8231.1865" s1="22.8232" s2="46.7451" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="1" et="8314.9277" fuel="0.322" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="27" p="1" et="9006.0439" s1="22.5625" s2="46.4951" s3="32.5244" fuel="0.298" twfl="0.965" twfr="0.980" twrl="0.957" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">101.5820</Lap>
+<Lap num="28" p="1" et="9107.6260" s1="22.4590" s2="46.6309" s3="32.6455" fuel="0.278" twfl="0.941" twfr="0.969" twrl="0.929" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">101.7354</Lap>
+<Lap num="29" p="1" et="9209.3613" s1="22.7432" s2="46.8633" s3="32.5039" fuel="0.255" twfl="0.914" twfr="0.957" twrl="0.902" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">102.1104</Lap>
+<Lap num="30" p="1" et="9311.4717" s1="22.6777" s2="47.0410" s3="32.8115" fuel="0.231" twfl="0.890" twfr="0.945" twrl="0.875" twrr="0.914" fcompound="0,Dry" rcompound="0,Dry">102.5303</Lap>
+<Lap num="31" p="1" et="9414.0020" s1="22.6025" s2="46.6563" s3="33.0518" fuel="0.208" twfl="0.867" twfr="0.933" twrl="0.839" twrr="0.894" fcompound="0,Dry" rcompound="0,Dry">102.3105</Lap>
+<Lap num="32" p="1" et="9516.3125" fuel="0.345" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>101.5820</BestLapTime>
+<Laps>32</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="4">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="5" endLap="5">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="6" endLap="32">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="32"></Swap></Driver>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.063" twfl="0.992" twfr="0.992" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="175.0940" s1="22.9986" s2="47.0557" s3="34.1548" fuel="0.039" twfl="0.961" twfr="0.984" twrl="0.973" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">104.2092</Lap>
+<Lap num="3" p="1" et="279.3032" s1="22.8040" s2="46.9218" s3="33.7086" fuel="0.020" twfl="0.941" twfr="0.980" twrl="0.945" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">103.4344</Lap>
+<Lap num="4" p="1" et="382.7376" fuel="0.082" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="388.8462" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="1" et="550.0022" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="1" et="727.7107" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="880.5232" s1="22.7106" s2="46.6312" s3="33.2211" fuel="0.145" twfl="0.965" twfr="0.980" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">102.5629</Lap>
+<Lap num="9" p="1" et="983.0861" s1="22.8258" s2="46.8068" s3="32.9801" fuel="0.125" twfl="0.949" twfr="0.973" twrl="0.937" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">102.6127</Lap>
+<Lap num="10" p="1" et="1085.6987" s1="23.2301" s2="46.9851" s3="33.4456" fuel="0.102" twfl="0.925" twfr="0.961" twrl="0.910" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">103.6608</Lap>
+<Lap num="11" p="1" et="1189.3595" s1="22.7216" s2="47.3512" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="1" et="1277.6707" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="1" et="1619.0490" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="1" et="1741.6447" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="1" et="1757.9647" fuel="0.169" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="1" et="1906.4679" s1="25.7078" s2="47.6058" s3="33.9285" fuel="0.149" twfl="0.965" twfr="0.988" twrl="0.953" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">107.2421</Lap>
+<Lap num="17" p="1" et="2013.7100" s1="22.9316" s2="47.6045" s3="34.1389" fuel="0.129" twfl="0.945" twfr="0.980" twrl="0.933" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">104.6750</Lap>
+<Lap num="18" p="1" et="2118.3850" s1="23.5706" s2="48.9636" s3="34.2522" fuel="0.106" twfl="0.933" twfr="0.976" twrl="0.914" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">106.7864</Lap>
+<Lap num="19" p="1" et="2225.1714" s1="23.6611" s2="49.2085" s3="35.3564" fuel="0.086" twfl="0.918" twfr="0.969" twrl="0.894" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">108.2261</Lap>
+<Lap num="20" p="1" et="2333.3975" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="21" p="1" et="2355.3420" fuel="0.169" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="1" et="2543.4077" s1="22.7578" s2="46.9138" s3="33.1746" fuel="0.149" twfl="0.969" twfr="0.988" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">102.8462</Lap>
+<Lap num="23" p="1" et="2646.2539" s1="23.3352" s2="46.5156" s3="33.5820" fuel="0.125" twfl="0.945" twfr="0.976" twrl="0.937" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.4329</Lap>
+<Lap num="24" p="1" et="2749.6868" s1="22.8374" s2="46.8806" s3="33.0256" fuel="0.102" twfl="0.922" twfr="0.969" twrl="0.906" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">102.7437</Lap>
+<Lap num="25" p="1" et="2852.4304" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="1" et="2861.5708" fuel="0.169" twfl="0.984" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="27" p="1" et="3005.2461" s1="22.6929" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="28" p="1" et="--.---" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="29" p="1" et="3276.4067" s1="22.7896" s2="46.6028" s3="32.8899" fuel="0.145" twfl="0.965" twfr="0.984" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">102.2822</Lap>
+<Lap num="30" p="1" et="3378.6890" s1="22.9871" s2="46.7078" s3="32.8125" fuel="0.125" twfl="0.941" twfr="0.976" twrl="0.933" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">102.5073</Lap>
+<Lap num="31" p="1" et="3481.1963" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="32" p="1" et="3502.6343" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="33" p="1" et="3829.8979" fuel="0.173" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="34" p="1" et="3972.1777" s1="22.5286" s2="46.2737" s3="32.7803" fuel="0.149" twfl="0.965" twfr="0.984" twrl="0.957" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">101.5825</Lap>
+<Lap num="35" p="1" et="4073.7603" s1="23.0747" s2="48.7202" s3="38.5708" fuel="0.129" twfl="0.949" twfr="0.976" twrl="0.937" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">110.3657</Lap>
+<Lap num="36" p="1" et="4184.1260" s1="23.0298" s2="49.9907" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="37" p="1" et="4277.1504" fuel="0.169" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="38" p="1" et="4551.1699" s1="22.7598" s2="46.5508" s3="32.8169" fuel="0.149" twfl="0.961" twfr="0.984" twrl="0.957" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">102.1274</Lap>
+<Lap num="39" p="1" et="4653.2974" s1="22.6616" s2="46.8921" s3="32.9663" fuel="0.125" twfl="0.937" twfr="0.976" twrl="0.925" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">102.5200</Lap>
+<Lap num="40" p="1" et="4755.8174" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>101.5825</BestLapTime>
+<Laps>40</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="40">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="40"></Swap></Driver>
+<Driver>
+<Name>Marcel Wolf</Name>
+<SteamID>76561197979977963</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>3</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.431" twfl="0.984" twfr="0.988" twrl="0.976" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="3" et="8165.7065" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="3" et="8177.7661" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="2" et="8379.7305" s1="23.9707" s2="47.5977" s3="32.8008" fuel="0.408" twfl="0.969" twfr="0.988" twrl="0.949" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">104.3691</Lap>
+<Lap num="5" p="2" et="8484.0996" s1="23.1953" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="3" et="8533.3975" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="8669.4814" s1="22.9561" s2="47.2012" s3="32.9902" fuel="0.408" twfl="0.969" twfr="0.980" twrl="0.953" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">103.1475</Lap>
+<Lap num="8" p="2" et="8772.6289" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="8785.1445" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.976" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="2" et="8968.6729" fuel="0.408" twfl="0.969" twfr="0.984" twrl="0.941" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="11" p="2" et="9071.5986" s1="22.6074" s2="48.0811" s3="33.5986" fuel="0.384" twfl="0.949" twfr="0.976" twrl="0.910" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">104.2871</Lap>
+<Lap num="12" p="2" et="9175.8857" s1="23.0469" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="2" et="9242.7451" fuel="0.431" twfl="0.984" twfr="0.992" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="2" et="9387.6387" s1="22.5244" s2="47.5254" s3="32.6455" fuel="0.408" twfl="0.965" twfr="0.980" twrl="0.945" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">102.6953</Lap>
+<Lap num="15" p="1" et="9490.3340" s1="22.8906" s2="47.0098" s3="32.8672" fuel="0.384" twfl="0.945" twfr="0.973" twrl="0.902" twrr="0.945" fcompound="0,Dry" rcompound="0,Dry">102.7676</Lap>
+<Lap num="16" p="1" et="9593.1016" s1="22.5801" s2="46.4375" s3="33.5508" fuel="0.361" twfl="0.929" twfr="0.961" twrl="0.863" twrr="0.925" fcompound="0,Dry" rcompound="0,Dry">102.5684</Lap>
+<Lap num="17" p="1" et="9695.6699" s1="22.8330" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="18" p="1" et="9745.9775" fuel="0.431" twfl="0.988" twfr="0.992" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="1" et="9877.5566" s1="22.4316" s2="46.5420" s3="33.1201" fuel="0.408" twfl="0.973" twfr="0.984" twrl="0.957" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">102.0938</Lap>
+<BestLapTime>102.0938</BestLapTime>
+<Laps>19</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="19">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Cyrille</Name>
+<SteamID>76561199117420930</SteamID>
+<Connected>0</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>4</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.169" twfl="0.988" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="173.4931" s1="23.2650" s2="46.9818" s3="33.6217" fuel="0.145" twfl="0.969" twfr="0.945" twrl="0.953" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">103.8685</Lap>
+<Lap num="3" p="1" et="277.3616" s1="22.8830" s2="47.1953" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="378.4348" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="2" et="378.4348" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="6" p="2" et="--.---" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="7" p="2" et="728.8518" fuel="0.169" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="2" et="881.0942" s1="23.2476" fuel="0.145" twfl="0.941" twfr="0.965" twrl="0.910" twrr="0.965" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="2" et="997.4480" s1="26.1807" s2="48.7174" s3="34.5221" fuel="0.122" twfl="0.894" twfr="0.949" twrl="0.875" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">109.4202</Lap>
+<Lap num="10" p="2" et="1106.8682" s1="23.2167" s2="47.4216" s3="34.5615" fuel="0.098" twfl="0.863" twfr="0.910" twrl="0.847" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">105.1998</Lap>
+<Lap num="11" p="2" et="1212.0680" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="12" p="2" et="1301.8726" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="2" et="1615.8141" fuel="0.169" twfl="0.980" twfr="0.984" twrl="0.980" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="14" p="2" et="1742.2465" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="15" p="2" et="1779.5679" fuel="0.169" twfl="0.976" twfr="0.984" twrl="0.969" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="16" p="2" et="1907.5546" s1="23.8020" s2="47.4988" s3="34.0242" fuel="0.145" twfl="0.945" twfr="0.945" twrl="0.937" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">105.3250</Lap>
+<Lap num="17" p="2" et="2012.8795" s1="23.2705" s2="47.4420" s3="34.4622" fuel="0.122" twfl="0.890" twfr="0.906" twrl="0.910" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">105.1747</Lap>
+<Lap num="18" p="2" et="2118.0542" fuel="0.098" twfl="0.855" twfr="0.875" twrl="0.890" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="19" p="2" et="2224.6526" s1="23.3071" s2="48.1055" s3="34.3584" fuel="0.075" twfl="0.804" twfr="0.784" twrl="0.871" twrr="0.918" fcompound="0,Dry" rcompound="0,Dry">105.7710</Lap>
+<Lap num="20" p="2" et="2330.4236" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="21" p="2" et="2355.4253" fuel="0.169" twfl="0.973" twfr="0.988" twrl="0.961" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="22" p="2" et="2545.9844" s1="22.6787" s2="47.0266" s3="33.5510" fuel="0.145" twfl="0.941" twfr="0.941" twrl="0.914" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.2563</Lap>
+<Lap num="23" p="2" et="2649.2407" s1="23.2710" s2="48.1582" s3="34.9749" fuel="0.122" twfl="0.906" twfr="0.922" twrl="0.867" twrr="0.922" fcompound="0,Dry" rcompound="0,Dry">106.4041</Lap>
+<Lap num="24" p="2" et="2755.6448" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="25" p="2" et="2780.2598" fuel="0.169" twfl="0.980" twfr="0.988" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="26" p="1" et="3005.9460" s1="22.7441" s2="46.7927" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="27" p="2" et="3089.1221" fuel="0.169" twfl="0.980" twfr="0.988" twrl="0.976" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="28" p="2" et="3249.7495" s1="23.7168" s2="47.4260" s3="32.9126" fuel="0.145" twfl="0.945" twfr="0.976" twrl="0.925" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">104.0554</Lap>
+<Lap num="29" p="2" et="3353.8049" s1="22.7344" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="30" p="2" et="3430.6951" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="31" p="2" et="3835.7822" fuel="0.169" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="32" p="2" et="3972.6450" s1="22.9629" s2="47.1389" s3="33.5942" fuel="0.145" twfl="0.953" twfr="0.976" twrl="0.929" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">103.6960</Lap>
+<Lap num="33" p="2" et="4076.3411" fuel="0.122" twfl="0.922" twfr="0.961" twrl="0.882" twrr="0.937" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="34" p="2" et="4182.6035" s1="23.5210" s2="50.2456" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="35" p="2" et="4277.6484" fuel="0.169" twfl="0.984" twfr="0.992" twrl="0.980" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="36" p="2" et="4551.7310" s1="23.3398" s2="47.0459" s3="43.2178" fuel="0.145" twfl="0.941" twfr="0.976" twrl="0.914" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">113.6035</Lap>
+<Lap num="37" p="2" et="4665.3345" s1="24.2334" s2="47.6997" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>103.2563</BestLapTime>
+<Laps>37</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="4" endLap="4">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="5" endLap="37">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="37"></Swap></Driver>
+<Driver>
+<Name>Christian Tropeano </Name>
+<SteamID>76561198195847189</SteamID>
+<Connected>1</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>5</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="2" et="8121.0654" fuel="0.431" twfl="0.996" twfr="0.996" twrl="0.992" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="3" p="2" et="8353.9424" s1="23.9170" s2="48.2842" s3="33.8086" fuel="0.412" twfl="0.984" twfr="0.984" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">106.0098</Lap>
+<Lap num="4" p="3" et="8459.9521" s1="23.5605" s2="46.9961" s3="34.5527" fuel="0.388" twfl="0.965" twfr="0.965" twrl="0.949" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">105.1094</Lap>
+<Lap num="5" p="2" et="8565.0615" s1="23.4854" s2="47.0449" s3="33.3418" fuel="0.365" twfl="0.949" twfr="0.949" twrl="0.922" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">103.8721</Lap>
+<Lap num="6" p="3" et="8668.9336" s1="23.1533" s2="48.6230" s3="33.8594" fuel="0.341" twfl="0.933" twfr="0.941" twrl="0.894" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">105.6357</Lap>
+<Lap num="7" p="3" et="8774.5693" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="3" et="8793.7305" fuel="0.431" twfl="0.976" twfr="0.988" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="3" et="8967.2236" s1="22.8154" s2="47.2539" s3="43.9082" fuel="0.408" twfl="0.957" twfr="0.980" twrl="0.945" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">113.9775</Lap>
+<Lap num="10" p="3" et="9081.2012" s1="22.9512" s2="47.1338" s3="33.5381" fuel="0.384" twfl="0.937" twfr="0.973" twrl="0.925" twrr="0.949" fcompound="0,Dry" rcompound="0,Dry">103.6230</Lap>
+<Lap num="11" p="3" et="9184.8242" s1="23.1670" s2="47.2021" fuel="0.365" twfl="0.922" twfr="0.945" twrl="0.894" twrr="0.933" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<Lap num="12" p="3" et="9296.5498" fuel="0.431" twfl="0.988" twfr="0.996" twrl="0.984" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="13" p="3" et="9451.7441" s1="22.8418" s2="47.9258" s3="33.2256" fuel="0.408" twfl="0.973" twfr="0.976" twrl="0.953" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">103.9932</Lap>
+<Lap num="14" p="2" et="9555.7373" s1="23.0645" s2="46.8525" s3="33.3682" fuel="0.384" twfl="0.957" twfr="0.969" twrl="0.922" twrr="0.953" fcompound="0,Dry" rcompound="0,Dry">103.2852</Lap>
+<Lap num="15" p="2" et="9659.0225" s1="23.2021" s2="46.8105" s3="33.4688" fuel="0.361" twfl="0.937" twfr="0.953" twrl="0.875" twrr="0.929" fcompound="0,Dry" rcompound="0,Dry">103.4814</Lap>
+<Lap num="16" p="2" et="9762.5039" s1="23.3213" s2="46.8662" s3="33.8125" fuel="0.337" twfl="0.922" twfr="0.941" twrl="0.843" twrr="0.914" fcompound="0,Dry" rcompound="0,Dry">104.0000</Lap>
+<Lap num="17" p="2" et="9866.5039" s1="23.4268" s2="47.6387" fuel="0.314" twfl="0.906" twfr="0.929" twrl="0.808" twrr="0.890" fcompound="0,Dry" rcompound="0,Dry" pit="1">--.----</Lap>
+<BestLapTime>103.2852</BestLapTime>
+<Laps>17</Laps>
+<Pitstops>1</Pitstops>
+<FinishStatus>Finished Normally</FinishStatus>
+<ControlAndAids startLap="1" endLap="17">PlayerControl,Clutch</ControlAndAids>
+</Driver>
+<Driver>
+<Name>Volker Schmidt</Name>
+<SteamID>76561198100423709</SteamID>
+<Connected>0</Connected>
+<VehFile>38DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#38 Volker Schmidt</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>38</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>6</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.431" twfl="0.965" twfr="0.961" twrl="0.933" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="5735.0903" s1="25.3315" s2="52.0625" s3="49.6455" fuel="0.412" twfl="0.933" twfr="0.933" twrl="0.878" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">127.0396</Lap>
+<Lap num="3" p="1" et="5862.1299" s1="24.8896" s2="49.3213" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="5966.7295" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>127.0396</BestLapTime>
+<Laps>4</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="3">PlayerControl,Clutch</ControlAndAids>
+<ControlAndAids startLap="4" endLap="4">UnknownControl</ControlAndAids>
+<Swap startLap="1" endLap="4"></Swap></Driver>
+<Driver>
+<Name>consorevueltaalfonsoo12</Name>
+<SteamID>76561198857980852</SteamID>
+<Connected>0</Connected>
+<VehFile>70DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#70 Torsten Spindler</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>70</CarNumber>
+<TeamName>vaute racing</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>7</LapRankIncludingDiscos>
+<Lap num="1" p="3" et="--.---" fuel="0.455" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Laps>1</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="1">PlayerControl,Clutch</ControlAndAids>
+<Swap startLap="1" endLap="1"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

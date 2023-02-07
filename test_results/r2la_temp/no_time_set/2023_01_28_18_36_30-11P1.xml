@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674917726</DateTime>
+<TimeString>2023/01/28 15:55:26</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v3</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674917727</DateTime>
+<TimeString>2023/01/28 15:55:27</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="76.0">Marcel Wolf has entered the race.</Chat>
+<System et="76.0">Marcel Wolf(0) 78.31.198.205 has joined as a participant</System>
+<Chat et="82.4">&gt; /w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="82.4">/w Marcel Wolf If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="82.6">&gt; /w Marcel Wolf germansimracing.de | discord.gg/GSR</Chat>
+<Command et="82.6">/w Marcel Wolf germansimracing.de | discord.gg/GSR</Command>
+<Score et="169.0">Marcel Wolf(0) lap=0 point=1 t=-1.000 et=168.945</Score>
+<Score et="217.6">Marcel Wolf(0) lap=0 point=2 t=-1.000 et=217.564</Score>
+<Score et="251.4">Marcel Wolf(0) lap=1 point=0 t=-1.000 et=251.400</Score>
+<Sector et="275.6">Marcel Wolf(0) set new best for sector 2</Sector>
+<Score et="275.6">Marcel Wolf(0) lap=1 point=1 t=24.179 et=275.578</Score>
+<Sector et="275.6">Marcel Wolf(0) set new best for sector 2</Sector>
+<Sector et="323.7">Marcel Wolf(0) set new best for sector 3</Sector>
+<Score et="323.7">Marcel Wolf(0) lap=1 point=2 t=72.254 et=323.654</Score>
+<Sector et="323.7">Marcel Wolf(0) set new best for sector 3</Sector>
+<Sector et="357.6">Marcel Wolf(0) set new best for sector 1</Sector>
+<Score et="357.6">Marcel Wolf(0) lap=2 point=0 t=106.211 et=357.611</Score>
+<Sector et="357.6">Marcel Wolf(0) set new best for sector 1</Sector>
+<Incident et="363.9">Marcel Wolf(0) reported contact (106.90) with Sign</Incident>
+<Incident et="364.0">Marcel Wolf(0) reported contact (11.44) with Sign</Incident>
+<Incident et="364.0">Marcel Wolf(0) reported contact (83.69) with Sign</Incident>
+<Sector et="380.3">Marcel Wolf(0) set new best for sector 2</Sector>
+<Score et="380.3">Marcel Wolf(0) lap=2 point=1 t=22.688 et=380.299</Score>
+<Sector et="380.3">Marcel Wolf(0) set new best for sector 2</Sector>
+<Sector et="428.7">Marcel Wolf(0) set new best for sector 3</Sector>
+<Score et="428.7">Marcel Wolf(0) lap=2 point=2 t=71.010 et=428.621</Score>
+<Sector et="428.7">Marcel Wolf(0) set new best for sector 3</Sector>
+<Sector et="463.7">Marcel Wolf(0) set new best for sector 1</Sector>
+<Score et="463.7">Marcel Wolf(0) lap=3 point=0 t=106.031 et=463.642</Score>
+<Sector et="463.7">Marcel Wolf(0) set new best for sector 1</Sector>
+<Sector et="487.2">Marcel Wolf(0) set new best for sector 2</Sector>
+<Score et="487.2">Marcel Wolf(0) lap=3 point=1 t=23.492 et=487.134</Score>
+<Sector et="487.2">Marcel Wolf(0) set new best for sector 2</Sector>
+<Sector et="536.7">Marcel Wolf(0) set new best for sector 3</Sector>
+<Score et="536.7">Marcel Wolf(0) lap=3 point=2 t=73.068 et=536.710</Score>
+<Sector et="536.7">Marcel Wolf(0) set new best for sector 3</Sector>
+<Score et="571.5">Marcel Wolf(0) lap=4 point=0 t=107.816 et=571.458</Score>
+<Sector et="595.0">Marcel Wolf(0) set new best for sector 2</Sector>
+<Score et="595.0">Marcel Wolf(0) lap=4 point=1 t=23.553 et=595.011</Score>
+<Sector et="595.0">Marcel Wolf(0) set new best for sector 2</Sector>
+<Sector et="643.3">Marcel Wolf(0) set new best for sector 3</Sector>
+<Score et="643.3">Marcel Wolf(0) lap=4 point=2 t=71.766 et=643.224</Score>
+<Sector et="643.3">Marcel Wolf(0) set new best for sector 3</Sector>
+<Score et="689.4">Marcel Wolf(0) lap=5 point=0 t=117.862 et=689.320</Score>
+<Score et="714.6">Marcel Wolf(0) lap=5 point=1 t=-1.000 et=714.621</Score>
+<Score et="714.6">Marcel Wolf(0) lap=5 point=2 t=-1.000 et=714.621</Score>
+<Score et="714.6">Marcel Wolf(0) lap=6 point=0 t=-1.000 et=714.621</Score>
+<Chat et="787.3">Marcel Wolf left the race.</Chat>
+<Chat et="3463.2">Torsten Spindler has entered the race.</Chat>
+<System et="3463.2">Torsten Spindler(1) 24.134.216.129 has joined as a participant</System>
+<Command et="3473.8">/w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="3473.8">&gt; /w Torsten Spindler If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="3474.0">/w Torsten Spindler germansimracing.de | discord.gg/GSR</Command>
+<Chat et="3474.0">&gt; /w Torsten Spindler germansimracing.de | discord.gg/GSR</Chat>
+<Score et="3559.4">Torsten Spindler(1) lap=0 point=1 t=-1.000 et=3559.394</Score>
+<Score et="3607.6">Torsten Spindler(1) lap=0 point=2 t=-1.000 et=3607.574</Score>
+<Score et="3641.5">Torsten Spindler(1) lap=1 point=0 t=-1.000 et=3641.437</Score>
+<Score et="3664.2">Torsten Spindler(1) lap=1 point=1 t=22.767 et=3664.204</Score>
+<Sector et="3664.2">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="3711.2">Torsten Spindler(1) lap=1 point=2 t=69.772 et=3711.209</Score>
+<Sector et="3711.2">Torsten Spindler(1) set new best for sector 3</Sector>
+<Score et="3745.3">Torsten Spindler(1) lap=2 point=0 t=103.871 et=3745.308</Score>
+<Sector et="3745.3">Torsten Spindler(1) set new best for sector 1</Sector>
+<Sector et="3768.5">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="3768.5">Torsten Spindler(1) lap=2 point=1 t=23.196 et=3768.504</Score>
+<Score et="3816.2">Torsten Spindler(1) lap=2 point=2 t=70.860 et=3816.168</Score>
+<Sector et="3816.2">Torsten Spindler(1) set new best for sector 3</Sector>
+<Score et="3850.1">Torsten Spindler(1) lap=3 point=0 t=104.764 et=3850.072</Score>
+<Score et="3873.2">Torsten Spindler(1) lap=3 point=1 t=23.107 et=3873.179</Score>
+<Sector et="3873.2">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="3920.7">Torsten Spindler(1) lap=3 point=2 t=70.621 et=3920.693</Score>
+<Sector et="3920.7">Torsten Spindler(1) set new best for sector 3</Sector>
+<Score et="3955.1">Torsten Spindler(1) lap=4 point=0 t=104.954 et=3955.025</Score>
+<Sector et="3978.3">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="3978.3">Torsten Spindler(1) lap=4 point=1 t=23.288 et=3978.313</Score>
+<Score et="4026.1">Torsten Spindler(1) lap=4 point=2 t=-1.000 et=4026.065</Score>
+<Score et="4060.0">Torsten Spindler(1) lap=5 point=0 t=104.974 et=4059.999</Score>
+<Score et="4083.4">Torsten Spindler(1) lap=5 point=1 t=23.402 et=4083.401</Score>
+<Sector et="4083.4">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="4131.3">Torsten Spindler(1) lap=5 point=2 t=-1.000 et=4131.308</Score>
+<Score et="4165.5">Torsten Spindler(1) lap=6 point=0 t=-1.000 et=4165.503</Score>
+<Score et="4189.5">Torsten Spindler(1) lap=6 point=1 t=24.004 et=4189.508</Score>
+<Sector et="4189.5">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="4237.2">Torsten Spindler(1) lap=6 point=2 t=71.643 et=4237.146</Score>
+<Sector et="4237.2">Torsten Spindler(1) set new best for sector 3</Sector>
+<Incident et="4268.4">Torsten Spindler(1) reported contact (83.00) with Sign</Incident>
+<Incident et="4268.4">Torsten Spindler(1) reported contact (45.04) with Sign</Incident>
+<Incident et="4268.5">Torsten Spindler(1) reported contact (43.97) with Sign</Incident>
+<Score et="4272.0">Torsten Spindler(1) lap=7 point=0 t=106.467 et=4271.971</Score>
+<Score et="4296.0">Torsten Spindler(1) lap=7 point=1 t=-1.000 et=4295.941</Score>
+<Score et="4344.1">Torsten Spindler(1) lap=7 point=2 t=-1.000 et=4344.097</Score>
+<Score et="4384.4">Torsten Spindler(1) lap=8 point=0 t=-1.000 et=4384.322</Score>
+<Score et="4487.7">Torsten Spindler(1) lap=8 point=1 t=-1.000 et=4487.706</Score>
+<Score et="4535.3">Torsten Spindler(1) lap=8 point=2 t=-1.000 et=4535.277</Score>
+<Score et="4578.8">Torsten Spindler(1) lap=9 point=0 t=-1.000 et=4578.809</Score>
+<Score et="4602.3">Torsten Spindler(1) lap=9 point=1 t=23.488 et=4602.297</Score>
+<Sector et="4602.3">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="4649.4">Torsten Spindler(1) lap=9 point=2 t=-1.000 et=4649.347</Score>
+<Score et="4683.1">Torsten Spindler(1) lap=10 point=0 t=-1.000 et=4683.112</Score>
+<Sector et="4706.3">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="4706.3">Torsten Spindler(1) lap=10 point=1 t=23.116 et=4706.228</Score>
+<Score et="4753.2">Torsten Spindler(1) lap=10 point=2 t=70.083 et=4753.196</Score>
+<Sector et="4753.2">Torsten Spindler(1) set new best for sector 3</Sector>
+<Score et="4786.8">Torsten Spindler(1) lap=11 point=0 t=103.629 et=4786.741</Score>
+<Sector et="4786.8">Torsten Spindler(1) set new best for sector 1</Sector>
+<Score et="4809.7">Torsten Spindler(1) lap=11 point=1 t=-1.000 et=4809.718</Score>
+<Score et="4857.4">Torsten Spindler(1) lap=11 point=2 t=-1.000 et=4857.360</Score>
+<Score et="4891.5">Torsten Spindler(1) lap=12 point=0 t=-1.000 et=4891.481</Score>
+<Sector et="4914.6">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="4914.6">Torsten Spindler(1) lap=12 point=1 t=23.080 et=4914.562</Score>
+<Score et="4962.1">Torsten Spindler(1) lap=12 point=2 t=-1.000 et=4962.112</Score>
+<Score et="5004.0">Torsten Spindler(1) lap=13 point=0 t=-1.000 et=5003.962</Score>
+<Score et="5140.2">Torsten Spindler(1) lap=13 point=1 t=-1.000 et=5140.127</Score>
+<Score et="5187.8">Torsten Spindler(1) lap=13 point=2 t=-1.000 et=5187.725</Score>
+<Score et="5222.2">Torsten Spindler(1) lap=14 point=0 t=-1.000 et=5222.156</Score>
+<Sector et="5248.3">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="5248.3">Torsten Spindler(1) lap=14 point=1 t=26.163 et=5248.319</Score>
+<Score et="5296.3">Torsten Spindler(1) lap=14 point=2 t=74.081 et=5296.237</Score>
+<Sector et="5296.3">Torsten Spindler(1) set new best for sector 3</Sector>
+<Score et="5330.1">Torsten Spindler(1) lap=15 point=0 t=107.884 et=5330.040</Score>
+<Score et="5352.6">Torsten Spindler(1) lap=15 point=1 t=22.561 et=5352.601</Score>
+<Sector et="5352.6">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="5399.5">Torsten Spindler(1) lap=15 point=2 t=69.409 et=5399.449</Score>
+<Sector et="5399.5">Torsten Spindler(1) set new best for sector 3</Sector>
+<Score et="5433.3">Torsten Spindler(1) lap=16 point=0 t=103.273 et=5433.313</Score>
+<Sector et="5433.3">Torsten Spindler(1) set new best for sector 1</Sector>
+<Score et="5456.2">Torsten Spindler(1) lap=16 point=1 t=-1.000 et=5456.176</Score>
+<Score et="5503.1">Torsten Spindler(1) lap=16 point=2 t=-1.000 et=5503.080</Score>
+<Score et="5536.6">Torsten Spindler(1) lap=17 point=0 t=-1.000 et=5536.558</Score>
+<Score et="5559.5">Torsten Spindler(1) lap=17 point=1 t=22.914 et=5559.472</Score>
+<Sector et="5559.5">Torsten Spindler(1) set new best for sector 2</Sector>
+<Sector et="5607.5">Torsten Spindler(1) set new best for sector 3</Sector>
+<Score et="5607.5">Torsten Spindler(1) lap=17 point=2 t=70.889 et=5607.447</Score>
+<Score et="5641.3">Torsten Spindler(1) lap=18 point=0 t=104.719 et=5641.277</Score>
+<Sector et="5665.0">Torsten Spindler(1) set new best for sector 2</Sector>
+<Score et="5665.0">Torsten Spindler(1) lap=18 point=1 t=23.697 et=5664.974</Score>
+<Score et="5713.3">Torsten Spindler(1) lap=18 point=2 t=71.998 et=5713.275</Score>
+<Sector et="5713.3">Torsten Spindler(1) set new best for sector 3</Sector>
+<Score et="5755.0">Torsten Spindler(1) lap=19 point=0 t=-1.000 et=5754.982</Score>
+<Chat et="5775.3">Torsten Spindler left the race.</Chat>
+<Chat et="9567.8">Cyrille Canavate has entered the race.</Chat>
+<System et="9567.8">Cyrille Canavate(2) 90.51.91.27 has joined as a participant</System>
+<Chat et="9575.0">&gt; /w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="9575.0">/w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="9575.2">/w Cyrille Canavate germansimracing.de | discord.gg/GSR</Command>
+<Chat et="9575.2">&gt; /w Cyrille Canavate germansimracing.de | discord.gg/GSR</Chat>
+<Chat et="9609.0">Fred Bart has entered the race.</Chat>
+<System et="9609.0">Fred Bart(3) 176.168.165.76 has joined as a participant</System>
+<Chat et="9614.8">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="9614.8">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="9615.0">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="9615.0">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Command from="Cyrille Canavate" nodeid="2" et="9633.7">/callvote restartweekend</Command>
+<Vote et="9633.7">Cyrille Canavate: /callvote restartweekend</Vote>
+<Sent et="9633.7">&quot;restart weekend&quot; proposed by Cyrille Canavate: 1 vote needed to pass</Sent>
+<Command from="Fred Bart" nodeid="1" et="9635.1">/vote yes</Command>
+<Vote et="9635.1">Fred Bart: /vote yes</Vote>
+<Sent et="9635.1">Fred Bart voted YES to restart weekend: vote PASSED</Sent>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Cyrille Canavate</Name>
+<SteamID>76561199117420930</SteamID>
+<Connected>1</Connected>
+<VehFile>29_DAR_29.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#29 Cyrille Canavate</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>29</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>1</Position>
+<ClassPosition>1</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>1</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>2</Position>
+<ClassPosition>2</ClassPosition>
+<Points>0</Points>
+<ClassPoints>0</ClassPoints>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Laps>0</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+</Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>

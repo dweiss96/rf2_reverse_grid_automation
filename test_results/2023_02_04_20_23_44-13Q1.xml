@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1675527324</DateTime>
+<TimeString>2023/02/04 17:15:24</TimeString>
+<Mod>GSR_CUP_231_R1_v4</Mod>
+<Season></Season>
+<TrackVenue>Monza</TrackVenue>
+<TrackCourse>Monza</TrackCourse>
+<TrackEvent>Monza</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\Monza_2021\1.33\layoutMonza.mas</TrackData>
+<TrackLength>5780.6</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Qualify>
+<DateTime>1675537327</DateTime>
+<TimeString>2023/02/04 20:02:07</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>20</Minutes>
+<Stream>
+<Chat et="10.8">&gt; /w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="10.8">/w Cyrille Canavate If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Command et="11.0">/w Cyrille Canavate germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.0">&gt; /w Cyrille Canavate germansimracing.de | discord.gg/GSR</Chat>
+<Command from="Fred Bart" nodeid="1" et="11.1">/callvote restartweekend</Command>
+<Vote et="11.1">Fred Bart: /callvote restartweekend</Vote>
+<Sent et="11.1">&quot;restart weekend&quot; proposed by Fred Bart: 1 vote needed to pass</Sent>
+<Command et="11.2">/w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="11.2">&gt; /w Fred Bart If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="11.4">/w Fred Bart germansimracing.de | discord.gg/GSR</Command>
+<Chat et="11.4">&gt; /w Fred Bart germansimracing.de | discord.gg/GSR</Chat>
+<Score et="94.2">Fred Bart(23) lap=0 point=1 t=-1.000 et=94.111</Score>
+<Score et="95.6">Cyrille Canavate(22) lap=0 point=1 t=-1.000 et=95.541</Score>
+<Score et="132.4">Fred Bart(23) lap=0 point=2 t=-1.000 et=132.377</Score>
+<Score et="133.8">Cyrille Canavate(22) lap=0 point=2 t=-1.000 et=133.757</Score>
+<Score et="177.7">Fred Bart(23) lap=1 point=0 t=-1.000 et=177.685</Score>
+<Score et="184.5">Cyrille Canavate(22) lap=1 point=0 t=-1.000 et=184.498</Score>
+<Sector et="220.3">Fred Bart(23) set new best for sector 2</Sector>
+<Score et="220.3">Fred Bart(23) lap=1 point=1 t=42.548 et=220.233</Score>
+<Sector et="220.3">Fred Bart(23) set new best for sector 2</Sector>
+<Sector et="220.3">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Sector et="221.0">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Score et="221.0">Cyrille Canavate(22) lap=1 point=1 t=36.508 et=221.005</Score>
+<Sector et="221.0">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Sector et="221.1">Fred Bart(23) set new best for sector 2</Sector>
+<Sector et="258.2">Fred Bart(23) set new best for sector 3</Sector>
+<Score et="258.2">Fred Bart(23) lap=1 point=2 t=80.510 et=258.195</Score>
+<Sector et="258.2">Fred Bart(23) set new best for sector 3</Sector>
+<Sector et="258.3">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Sector et="259.0">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Score et="259.0">Cyrille Canavate(22) lap=1 point=2 t=74.451 et=258.948</Score>
+<Sector et="259.0">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Sector et="259.0">Fred Bart(23) set new best for sector 3</Sector>
+<Sector et="295.6">Fred Bart(23) set new best for sector 1</Sector>
+<Score et="295.6">Fred Bart(23) lap=2 point=0 t=117.846 et=295.531</Score>
+<Sector et="295.6">Fred Bart(23) set new best for sector 1</Sector>
+<Sector et="295.6">Cyrille Canavate(22) set new best for sector 1</Sector>
+<Sector et="296.5">Cyrille Canavate(22) set new best for sector 1</Sector>
+<Score et="296.5">Cyrille Canavate(22) lap=2 point=0 t=111.949 et=296.447</Score>
+<Sector et="296.5">Cyrille Canavate(22) set new best for sector 1</Sector>
+<Sector et="296.5">Fred Bart(23) set new best for sector 1</Sector>
+<Sector et="332.6">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Score et="332.6">Cyrille Canavate(22) lap=2 point=1 t=36.114 et=332.561</Score>
+<Sector et="332.6">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Sector et="332.6">Fred Bart(23) set new best for sector 2</Sector>
+<Sector et="335.6">Fred Bart(23) set new best for sector 2</Sector>
+<Score et="335.6">Fred Bart(23) lap=2 point=1 t=40.044 et=335.575</Score>
+<Sector et="335.6">Fred Bart(23) set new best for sector 2</Sector>
+<Sector et="335.6">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Sector et="369.9">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Score et="369.9">Cyrille Canavate(22) lap=2 point=2 t=73.407 et=369.854</Score>
+<Sector et="369.9">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Sector et="369.9">Fred Bart(23) set new best for sector 3</Sector>
+<Sector et="373.5">Fred Bart(23) set new best for sector 3</Sector>
+<Score et="373.5">Fred Bart(23) lap=2 point=2 t=77.900 et=373.432</Score>
+<Sector et="373.5">Fred Bart(23) set new best for sector 3</Sector>
+<Sector et="373.5">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Sector et="407.1">Cyrille Canavate(22) set new best for sector 1</Sector>
+<Score et="407.1">Cyrille Canavate(22) lap=3 point=0 t=110.650 et=407.097</Score>
+<Sector et="407.1">Cyrille Canavate(22) set new best for sector 1</Sector>
+<Sector et="407.2">Fred Bart(23) set new best for sector 1</Sector>
+<Sector et="410.8">Fred Bart(23) set new best for sector 1</Sector>
+<Score et="410.8">Fred Bart(23) lap=3 point=0 t=115.235 et=410.766</Score>
+<Sector et="410.8">Fred Bart(23) set new best for sector 1</Sector>
+<Sector et="410.8">Cyrille Canavate(22) set new best for sector 1</Sector>
+<Sector et="446.9">Fred Bart(23) set new best for sector 2</Sector>
+<Score et="446.9">Fred Bart(23) lap=3 point=1 t=36.055 et=446.821</Score>
+<Sector et="446.9">Fred Bart(23) set new best for sector 2</Sector>
+<Sector et="446.9">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Sector et="456.8">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Score et="456.8">Cyrille Canavate(22) lap=3 point=1 t=49.662 et=456.759</Score>
+<Sector et="456.8">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Sector et="456.8">Fred Bart(23) set new best for sector 2</Sector>
+<Sector et="484.3">Fred Bart(23) set new best for sector 3</Sector>
+<Score et="484.3">Fred Bart(23) lap=3 point=2 t=73.545 et=484.310</Score>
+<Sector et="484.3">Fred Bart(23) set new best for sector 3</Sector>
+<Sector et="484.4">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Sector et="494.9">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Score et="494.9">Cyrille Canavate(22) lap=3 point=2 t=87.776 et=494.873</Score>
+<Sector et="494.9">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Sector et="494.9">Fred Bart(23) set new best for sector 3</Sector>
+<Incident et="501.5">Cyrille Canavate(22) reported contact (2565.79) with Immovable</Incident>
+<Incident et="501.5">Cyrille Canavate(22) reported contact (2234.47) with Immovable</Incident>
+<Incident et="501.5">Cyrille Canavate(22) reported contact (1748.76) with Immovable</Incident>
+<Incident et="501.5">Cyrille Canavate(22) reported contact (1504.09) with Immovable</Incident>
+<Incident et="501.5">Cyrille Canavate(22) reported contact (1083.74) with Immovable</Incident>
+<Sector et="521.9">Fred Bart(23) set new best for sector 1</Sector>
+<Score et="521.9">Fred Bart(23) lap=4 point=0 t=111.089 et=521.855</Score>
+<Sector et="521.9">Fred Bart(23) set new best for sector 1</Sector>
+<Sector et="521.9">Cyrille Canavate(22) set new best for sector 1</Sector>
+<Score et="552.0">Cyrille Canavate(22) lap=4 point=0 t=144.855 et=551.952</Score>
+<Sector et="558.0">Fred Bart(23) set new best for sector 2</Sector>
+<Score et="558.0">Fred Bart(23) lap=4 point=1 t=36.095 et=557.950</Score>
+<Sector et="558.0">Fred Bart(23) set new best for sector 2</Sector>
+<Sector et="558.0">Cyrille Canavate(22) set new best for sector 2</Sector>
+<Score et="580.6">Cyrille Canavate(22) lap=4 point=1 t=-1.000 et=580.541</Score>
+<Score et="580.6">Cyrille Canavate(22) lap=4 point=2 t=-1.000 et=580.541</Score>
+<Score et="580.6">Cyrille Canavate(22) lap=5 point=0 t=-1.000 et=580.541</Score>
+<Sector et="596.0">Fred Bart(23) set new best for sector 3</Sector>
+<Score et="596.0">Fred Bart(23) lap=4 point=2 t=74.156 et=596.010</Score>
+<Sector et="596.0">Fred Bart(23) set new best for sector 3</Sector>
+<Sector et="596.1">Cyrille Canavate(22) set new best for sector 3</Sector>
+<Incident et="623.3">Fred Bart(23) reported contact (2639.69) with Immovable</Incident>
+<Incident et="623.3">Fred Bart(23) reported contact (1781.93) with Immovable</Incident>
+<Incident et="623.4">Fred Bart(23) reported contact (1232.31) with Immovable</Incident>
+<Score et="627.8">Fred Bart(23) lap=5 point=0 t=-1.000 et=627.794</Score>
+<Chat et="683.6">Fred Bart left the race.</Chat>
+<Chat et="703.0">Cyrille Canavate left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Cyrille Canavate</Name>
+<SteamID>76561199117420930</SteamID>
+<Connected>0</Connected>
+<VehFile>29_DAR_29.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#29 Cyrille Canavate</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>29</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="2" et="--.---" fuel="0.161" twfl="0.976" twfr="0.992" twrl="0.953" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="184.4978" s1="36.5077" s2="37.9429" s3="37.4986" fuel="0.133" twfl="0.961" twfr="0.980" twrl="0.933" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">111.9492</Lap>
+<Lap num="3" p="1" et="296.4470" s1="36.1143" s2="37.2923" s3="37.2435" fuel="0.102" twfl="0.949" twfr="0.965" twrl="0.918" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">110.6501</Lap>
+<Lap num="4" p="1" et="407.0970" s1="49.6616" s2="38.1139" s3="57.0791" fuel="0.075" twfl="0.929" twfr="0.949" twrl="0.882" twrr="0.941" fcompound="0,Dry" rcompound="0,Dry">144.8547</Lap>
+<Lap num="5" p="1" et="551.9517" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>110.6501</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="5"></Swap></Driver>
+<Driver>
+<Name>Fred Bart</Name>
+<SteamID>76561198885583279</SteamID>
+<Connected>0</Connected>
+<VehFile>18_DAR_18.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#18 Fred Bart</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>18</CarNumber>
+<TeamName>MSR</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>2</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.165" twfl="0.992" twfr="0.996" twrl="0.988" twrr="0.992" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="177.6850" s1="42.5478" s2="37.9621" s3="37.3362" fuel="0.137" twfl="0.980" twfr="0.992" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">117.8461</Lap>
+<Lap num="3" p="2" et="295.5311" s1="40.0442" s2="37.8563" s3="37.3342" fuel="0.106" twfl="0.973" twfr="0.988" twrl="0.961" twrr="0.973" fcompound="0,Dry" rcompound="0,Dry">115.2347</Lap>
+<Lap num="4" p="2" et="410.7657" s1="36.0552" s2="37.4894" s3="37.5443" fuel="0.078" twfl="0.965" twfr="0.980" twrl="0.945" twrr="0.961" fcompound="0,Dry" rcompound="0,Dry">111.0889</Lap>
+<Lap num="5" p="2" et="521.8546" s1="36.0955" s2="38.0602" fuel="0.192" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>111.0889</BestLapTime>
+<Laps>5</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="5">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="5"></Swap></Driver>
+</Qualify>
+</RaceResults>
+</rFactorXML>

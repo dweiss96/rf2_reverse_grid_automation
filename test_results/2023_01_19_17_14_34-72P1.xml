@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+<RaceResults>
+<Setting>Multiplayer</Setting>
+<ServerName>GermanSimRacing.de Cup</ServerName>
+<ClientFuelVisible>3</ClientFuelVisible>
+<PlayerFile>player</PlayerFile>
+<DateTime>1674134880</DateTime>
+<TimeString>2023/01/19 14:28:00</TimeString>
+<Mod>GSR_CUP_231_Testrennen_v1</Mod>
+<Season></Season>
+<TrackVenue>HockenheimRing</TrackVenue>
+<TrackCourse>HockenheimRing GP</TrackCourse>
+<TrackEvent>HockenheimRing GP</TrackEvent>
+<TrackData>C:\rFactor2\DediServer\CupServer\Installed\Locations\T78_Hockenheimring\1.5\HockenheimringGP.mas</TrackData>
+<TrackLength>4582.8</TrackLength>
+<GameVersion>1.1131</GameVersion>
+<Dedicated>1</Dedicated>
+<ConnectionType upload="200000" download="100000">Custom</ConnectionType>
+<RaceLaps>0</RaceLaps>
+<RaceTime>25</RaceTime>
+<MechFailRate>1</MechFailRate>
+<DamageMult>50</DamageMult>
+<FuelMult>1</FuelMult>
+<TireMult>1</TireMult>
+<VehiclesAllowed>|Porsche_Cup</VehiclesAllowed>
+<ParcFerme>3</ParcFerme>
+<FixedSetups>0</FixedSetups>
+<FreeSettings>244</FreeSettings>
+<FixedUpgrades>0</FixedUpgrades>
+<Practice1>
+<DateTime>1674134880</DateTime>
+<TimeString>2023/01/19 14:28:00</TimeString>
+<Laps>2147483647</Laps>
+<Minutes>165</Minutes>
+<Stream>
+<Chat et="5021.6">Peter Pieszek has entered the race.</Chat>
+<System et="5021.6">Peter Pieszek(0) 87.122.113.62 has joined as a participant</System>
+<Chat et="5032.2">&gt; /w Peter Pieszek If you are interested in organized league races, come and join GermanSimRacing</Chat>
+<Command et="5032.2">/w Peter Pieszek If you are interested in organized league races, come and join GermanSimRacing</Command>
+<Chat et="5032.4">&gt; /w Peter Pieszek germansimracing.de | discord.gg/GSR</Chat>
+<Command et="5032.4">/w Peter Pieszek germansimracing.de | discord.gg/GSR</Command>
+<Score et="6004.8">Peter Pieszek(0) lap=0 point=1 t=-1.000 et=6004.775</Score>
+<Score et="6058.7">Peter Pieszek(0) lap=0 point=2 t=-1.000 et=6058.692</Score>
+<Score et="6104.3">Peter Pieszek(0) lap=1 point=0 t=-1.000 et=6104.279</Score>
+<Score et="6129.1">Peter Pieszek(0) lap=1 point=1 t=24.824 et=6129.103</Score>
+<Sector et="6129.1">Peter Pieszek(0) set new best for sector 2</Sector>
+<Sector et="6129.1">Peter Pieszek(0) set new best for sector 2</Sector>
+<Score et="6180.8">Peter Pieszek(0) lap=1 point=2 t=76.479 et=6180.759</Score>
+<Sector et="6180.8">Peter Pieszek(0) set new best for sector 3</Sector>
+<Sector et="6180.8">Peter Pieszek(0) set new best for sector 3</Sector>
+<Score et="6216.0">Peter Pieszek(0) lap=2 point=0 t=111.686 et=6215.965</Score>
+<Sector et="6216.0">Peter Pieszek(0) set new best for sector 1</Sector>
+<Sector et="6216.0">Peter Pieszek(0) set new best for sector 1</Sector>
+<Score et="6240.3">Peter Pieszek(0) lap=2 point=1 t=24.313 et=6240.277</Score>
+<Sector et="6240.3">Peter Pieszek(0) set new best for sector 2</Sector>
+<Sector et="6240.3">Peter Pieszek(0) set new best for sector 2</Sector>
+<Score et="6292.6">Peter Pieszek(0) lap=2 point=2 t=-1.000 et=6292.539</Score>
+<Score et="6292.6">Peter Pieszek(0) lap=3 point=0 t=-1.000 et=6292.539</Score>
+<Score et="6580.5">Peter Pieszek(0) lap=3 point=1 t=-1.000 et=6580.500</Score>
+<Score et="6629.1">Peter Pieszek(0) lap=3 point=2 t=-1.000 et=6629.077</Score>
+<Score et="6664.3">Peter Pieszek(0) lap=4 point=0 t=-1.000 et=6664.271</Score>
+<Score et="6688.8">Peter Pieszek(0) lap=4 point=1 t=24.477 et=6688.748</Score>
+<Sector et="6688.8">Peter Pieszek(0) set new best for sector 2</Sector>
+<Sector et="6688.8">Peter Pieszek(0) set new best for sector 2</Sector>
+<Score et="6737.5">Peter Pieszek(0) lap=4 point=2 t=73.212 et=6737.483</Score>
+<Sector et="6737.5">Peter Pieszek(0) set new best for sector 3</Sector>
+<Sector et="6737.5">Peter Pieszek(0) set new best for sector 3</Sector>
+<Score et="6772.5">Peter Pieszek(0) lap=5 point=0 t=108.172 et=6772.443</Score>
+<Sector et="6772.5">Peter Pieszek(0) set new best for sector 1</Sector>
+<Sector et="6772.5">Peter Pieszek(0) set new best for sector 1</Sector>
+<Score et="6796.4">Peter Pieszek(0) lap=5 point=1 t=23.896 et=6796.339</Score>
+<Sector et="6796.4">Peter Pieszek(0) set new best for sector 2</Sector>
+<Sector et="6796.4">Peter Pieszek(0) set new best for sector 2</Sector>
+<Score et="6844.1">Peter Pieszek(0) lap=5 point=2 t=71.636 et=6844.079</Score>
+<Sector et="6844.1">Peter Pieszek(0) set new best for sector 3</Sector>
+<Sector et="6844.1">Peter Pieszek(0) set new best for sector 3</Sector>
+<Score et="6878.2">Peter Pieszek(0) lap=6 point=0 t=105.705 et=6878.147</Score>
+<Sector et="6878.2">Peter Pieszek(0) set new best for sector 1</Sector>
+<Sector et="6878.2">Peter Pieszek(0) set new best for sector 1</Sector>
+<Score et="6902.1">Peter Pieszek(0) lap=6 point=1 t=23.885 et=6902.033</Score>
+<Sector et="6902.1">Peter Pieszek(0) set new best for sector 2</Sector>
+<Sector et="6902.1">Peter Pieszek(0) set new best for sector 2</Sector>
+<Score et="6949.8">Peter Pieszek(0) lap=6 point=2 t=71.586 et=6949.734</Score>
+<Sector et="6949.8">Peter Pieszek(0) set new best for sector 3</Sector>
+<Sector et="6949.8">Peter Pieszek(0) set new best for sector 3</Sector>
+<Score et="6985.1">Peter Pieszek(0) lap=7 point=0 t=-1.000 et=6985.104</Score>
+<Score et="6985.1">Peter Pieszek(0) lap=7 point=1 t=-1.000 et=6985.104</Score>
+<Score et="6985.1">Peter Pieszek(0) lap=7 point=2 t=-1.000 et=6985.104</Score>
+<Score et="6985.1">Peter Pieszek(0) lap=8 point=0 t=-1.000 et=6985.104</Score>
+<Score et="7115.5">Peter Pieszek(0) lap=8 point=1 t=-1.000 et=7115.475</Score>
+<Score et="7163.0">Peter Pieszek(0) lap=8 point=2 t=-1.000 et=7163.025</Score>
+<Score et="7197.9">Peter Pieszek(0) lap=9 point=0 t=-1.000 et=7197.854</Score>
+<Score et="7221.3">Peter Pieszek(0) lap=9 point=1 t=23.374 et=7221.228</Score>
+<Sector et="7221.3">Peter Pieszek(0) set new best for sector 2</Sector>
+<Sector et="7221.3">Peter Pieszek(0) set new best for sector 2</Sector>
+<Score et="7268.7">Peter Pieszek(0) lap=9 point=2 t=70.815 et=7268.669</Score>
+<Sector et="7268.7">Peter Pieszek(0) set new best for sector 3</Sector>
+<Sector et="7268.7">Peter Pieszek(0) set new best for sector 3</Sector>
+<Score et="7303.2">Peter Pieszek(0) lap=10 point=0 t=105.321 et=7303.175</Score>
+<Sector et="7303.2">Peter Pieszek(0) set new best for sector 1</Sector>
+<Sector et="7303.2">Peter Pieszek(0) set new best for sector 1</Sector>
+<Score et="7326.6">Peter Pieszek(0) lap=10 point=1 t=23.377 et=7326.552</Score>
+<Sector et="7326.6">Peter Pieszek(0) set new best for sector 2</Sector>
+<Sector et="7326.6">Peter Pieszek(0) set new best for sector 2</Sector>
+<Score et="7374.2">Peter Pieszek(0) lap=10 point=2 t=70.970 et=7374.145</Score>
+<Sector et="7374.2">Peter Pieszek(0) set new best for sector 3</Sector>
+<Sector et="7374.2">Peter Pieszek(0) set new best for sector 3</Sector>
+<Incident et="7381.8">Peter Pieszek(0) reported contact (328.05) with Sign</Incident>
+<Incident et="7381.8">Peter Pieszek(0) reported contact (67.19) with Sign</Incident>
+<Incident et="7381.8">Peter Pieszek(0) reported contact (480.86) with Sign</Incident>
+<Score et="7388.2">Peter Pieszek(0) lap=11 point=0 t=-1.000 et=7388.194</Score>
+<Chat et="7415.1">Peter Pieszek left the race.</Chat>
+</Stream>
+<MostLapsCompleted>0</MostLapsCompleted>
+<Driver>
+<Name>Peter Pieszek</Name>
+<SteamID>76561198064565823</SteamID>
+<Connected>0</Connected>
+<VehFile>00DAR.VEH</VehFile>
+<UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+<VehName>#00 DAR</VehName>
+<Category>GSR Cup 2023-1, Porsche 992 GT3 Cup</Category>
+<CarType>Porsche 992 GT3 Cup</CarType>
+<CarClass>Porsche 992 GT3 Cup</CarClass>
+<CarNumber>00</CarNumber>
+<TeamName>GSR Cup</TeamName>
+<isPlayer>1</isPlayer>
+<ServerScored>1</ServerScored>
+<Position>-1</Position>
+<ClassPosition>-1</ClassPosition>
+<LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+<Lap num="1" p="1" et="--.---" fuel="0.522" twfl="0.965" twfr="0.984" twrl="0.973" twrr="0.980" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="2" p="1" et="6104.2793" s1="24.8237" s2="51.6558" s3="35.2061" fuel="0.498" twfl="0.945" twfr="0.976" twrl="0.949" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">111.6855</Lap>
+<Lap num="3" p="1" et="6215.9648" s1="24.3125" fuel="0.545" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="4" p="1" et="6292.5386" fuel="0.522" twfl="0.988" twfr="0.980" twrl="0.988" twrr="0.988" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="5" p="1" et="6664.2710" s1="24.4771" s2="48.7354" s3="34.9595" fuel="0.498" twfl="0.973" twfr="0.973" twrl="0.965" twrr="0.976" fcompound="0,Dry" rcompound="0,Dry">108.1719</Lap>
+<Lap num="6" p="1" et="6772.4429" s1="23.8960" s2="47.7402" s3="34.0684" fuel="0.475" twfl="0.957" twfr="0.949" twrl="0.945" twrr="0.957" fcompound="0,Dry" rcompound="0,Dry">105.7046</Lap>
+<Lap num="7" p="1" et="6878.1475" s1="23.8853" s2="47.7012" fuel="0.545" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="8" p="1" et="6985.1045" fuel="0.545" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="9" p="1" et="6985.1045" fuel="0.522" twfl="0.984" twfr="0.988" twrl="0.973" twrr="0.984" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<Lap num="10" p="1" et="7197.8540" s1="23.3740" s2="47.4414" s3="34.5054" fuel="0.498" twfl="0.969" twfr="0.973" twrl="0.941" twrr="0.969" fcompound="0,Dry" rcompound="0,Dry">105.3208</Lap>
+<Lap num="11" p="1" et="7303.1748" s1="23.3774" s2="47.5923" fuel="0.545" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,Dry" rcompound="0,Dry">--.----</Lap>
+<BestLapTime>105.3208</BestLapTime>
+<Laps>11</Laps>
+<Pitstops>0</Pitstops>
+<FinishStatus>None</FinishStatus>
+<ControlAndAids startLap="1" endLap="7">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<ControlAndAids startLap="8" endLap="8">UnknownControl</ControlAndAids>
+<ControlAndAids startLap="9" endLap="11">PlayerControl,Clutch,AutoLift,AutoBlip</ControlAndAids>
+<Swap startLap="1" endLap="11"></Swap></Driver>
+</Practice1>
+</RaceResults>
+</rFactorXML>
