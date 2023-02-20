@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'controller.dart';
+import 'newController.dart';
+import 'store.dart';
 
 void main() => runApp(const MyApp());
 
@@ -8,7 +9,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const appTitle = 'Form Styling Demo';
+    const appTitle = 'RF2 LiveTiming Tool';
     return MaterialApp(
       title: appTitle,
       home: Scaffold(
@@ -26,13 +27,24 @@ class MyCustomForm extends StatefulWidget {
   const MyCustomForm({super.key});
 
   @override
-  State<MyCustomForm> createState() => _MyCustomFormState();
+  // ignore: no_logic_in_create_state
+  State<MyCustomForm> createState() => _MyCustomFormState.create();
 }
 
 class _MyCustomFormState extends State<MyCustomForm> {
-  final TextEditingController xmlPathController = TextEditingController();
-  final TextEditingController reverseTopXController = TextEditingController();
+  final controller = Controller();
+  TextEditingController xmlPathController = TextEditingController();
+  TextEditingController reverseTopXController = TextEditingController();
   bool checkedValue = false;
+
+  static create() async {
+    return _MyCustomFormState(
+      xmlPathController: TextEditingController(text: await Store.getLogPath()),
+      reverseTopXController: TextEditingController(text: await Store.getReverseTopX().then((v) => v.toString())),
+    );
+  }
+
+  _MyCustomFormState({required this.xmlPathController,required this.reverseTopXController})
 
   @override
   void dispose() {
@@ -41,14 +53,12 @@ class _MyCustomFormState extends State<MyCustomForm> {
     super.dispose();
   }
 
-  Widget generateFetcher() => Controller.getEnabledState()
-      ? StreamBuilder(
-          stream: Stream.periodic(Duration(seconds: 1)).asyncMap(
-              (i) => Controller.fetchServerData()), // i is null here (check periodic docs)
+  Widget generateFetchesr() => StreamBuilder(
+          stream: Stream.periodic(const Duration(seconds: 1)).asyncMap(
+              (i) => controller.tick()), // i is null here (check periodic docs)
           builder: (context, snapshot) => 
           Text(snapshot.data.toString()), // builder should also handle the case when data is not fetched yet
         )
-      : Text("Double header mode disabled");
 
   @override
   Widget build(BuildContext context) {
@@ -87,35 +97,37 @@ class _MyCustomFormState extends State<MyCustomForm> {
               setState(() {
                 checkedValue = true;
               });
-              Controller.xmlResultFileFolder = xmlPathController.text.trim();
-              Controller.reverseTopX =
-                  int.parse(reverseTopXController.text.trim());
+              Store.setLogPath(xmlPathController.text.trim());
+              Store.setReverseTopX(
+                int.parse(reverseTopXController.text.trim())
+              );
             },
             child: const Text('Save Values'),
           ),
         ),
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 16),
-          child: Text(Controller.getConfig()),
-        ),
         CheckboxListTile(
           title: const Text("enable double race handling?"),
-          value: Controller.getEnabledState(),
+          value: controller.isEnabled(),
           onChanged: (newValue) {
             if (newValue ?? false) {
               setState(() {
-                Controller.enableDoubleWeekendMode();
+                controller.enable();
               });
             } else {
               setState(() {
-                Controller.disableDoubleWeekendMode();
+                controller.disable();
               });
             }
           },
           controlAffinity:
               ListTileControlAffinity.leading, //  <-- leading Checkbox
         ),
-        generateFetcher()
+        StreamBuilder(
+          stream: Stream.periodic(const Duration(seconds: 1)).asyncMap(
+              (i) => controller.tick()), // i is null here (check periodic docs)
+          builder: (context, snapshot) => 
+          Text(snapshot.data.toString()), // builder should also handle the case when data is not fetched yet
+        )
       ],
     );
   }
