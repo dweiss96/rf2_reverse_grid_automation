@@ -27,8 +27,7 @@ class MyCustomForm extends StatefulWidget {
   const MyCustomForm({super.key});
 
   @override
-  // ignore: no_logic_in_create_state
-  State<MyCustomForm> createState() => _MyCustomFormState.create();
+  State<MyCustomForm> createState() => _MyCustomFormState();
 }
 
 class _MyCustomFormState extends State<MyCustomForm> {
@@ -37,14 +36,7 @@ class _MyCustomFormState extends State<MyCustomForm> {
   TextEditingController reverseTopXController = TextEditingController();
   bool checkedValue = false;
 
-  static create() async {
-    return _MyCustomFormState(
-      xmlPathController: TextEditingController(text: await Store.getLogPath()),
-      reverseTopXController: TextEditingController(text: await Store.getReverseTopX().then((v) => v.toString())),
-    );
-  }
-
-  _MyCustomFormState({required this.xmlPathController,required this.reverseTopXController})
+  _MyCustomFormState();
 
   @override
   void dispose() {
@@ -53,12 +45,17 @@ class _MyCustomFormState extends State<MyCustomForm> {
     super.dispose();
   }
 
-  Widget generateFetchesr() => StreamBuilder(
-          stream: Stream.periodic(const Duration(seconds: 1)).asyncMap(
-              (i) => controller.tick()), // i is null here (check periodic docs)
-          builder: (context, snapshot) => 
-          Text(snapshot.data.toString()), // builder should also handle the case when data is not fetched yet
-        )
+  @override
+  void initState() {
+    super.initState();
+
+    Store.getLogPath().then((lp) {Store.getReverseTopX().then((rtx) {
+      setState(() {
+        xmlPathController = TextEditingController(text: lp);
+        reverseTopXController = TextEditingController(text: rtx?.toString());
+      });
+    });});
+  }
 
   @override
   Widget build(BuildContext context) {

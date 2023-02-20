@@ -1,6 +1,7 @@
 import 'dart:convert';
 
-import 'package:rf2_double_race_manager/StateMachine.dart';
+import 'package:rf2_double_race_manager/race_state_machine.dart';
+import 'package:rf2_double_race_manager/state_machine.dart';
 
 import 'xml_reader.dart';
 import 'dart:io';
@@ -29,7 +30,7 @@ class SessionInfo {
 
 class Controller {
   static const String _httpBaseUrl = "http://localhost:5397";
-  final RaceStateMachine _rsm = RaceStateMachine();
+  final StateMachine _rsm = RaceStateMachine.initialize();
 
   bool _enabled = false;
   static String xmlResultFileFolder = "";
@@ -44,26 +45,30 @@ class Controller {
   String debug() => '''
 Reverse Top $reverseTopX and search for logs herre: $xmlResultFileFolder
 
-current state = ${_rsm.getStateMachine().current.name}
+current state = ${_rsm.currentState.name}
 current session = ${currentSessionInfo?.session} - ${currentSessionInfo?.timeRemaining().round()}s remaining
 ''';
 
   Controller() {
-    _rsm.goToWarmup1.stream.listen((stateChange) async {
-      await _setRaceCount(2);
-    });
-    _rsm.goToGrid1.stream.listen((stateChange) async {
-      await _forwardSession();
-    });
-    _rsm.goToGrid2.stream.listen((stateChange) async {
-      await _setReverseGrid();
-      await _forwardSession();
-    });
-    _rsm.goToUnwantedRace.stream.listen((stateChange) async {
-      await _restartWarmup();
-    });
-    _rsm.goToWarmup2.stream.listen((stateChange) async {
-      await _setRaceCount(1);
+    _rsm.stream().listen((event) async {
+      switch (event) {
+        case RST.goToWarmup1:
+          await _setRaceCount(2);
+          break;
+        case RST.goToWarmup2:
+          await _setRaceCount(1);
+          break;
+        case RST.goToGrid1:
+          await _forwardSession();
+          break;
+        case RST.goToGrid2:
+          await _setReverseGrid();
+          await _forwardSession();
+          break;
+        case RST.goToUnwantedRace:
+          await _restartWarmup();
+          break;
+      }
     });
   }
 
@@ -76,26 +81,26 @@ current session = ${currentSessionInfo?.session} - ${currentSessionInfo?.timeRem
       // if multiple states just evalutate in reverse order. only one change should be legal then.
       switch (currentSessionInfo?.session.toLowerCase()) {
         case "practice":
-          _rsm.restartServer();
+          _rsm.transition(RST.restartWeekend);
           break;
         case "qualifying":
-          _rsm.goToQualy();
+          _rsm.transition(RST.goToQualy);
           break;
         case "warmup":
           if ((currentSessionInfo?.timeRemaining() ?? 666) < 1) {
-            _rsm.goToGrid2();
-            _rsm.goToGrid1();
+            _rsm.transition(RST.goToGrid2);
+            _rsm.transition(RST.goToGrid1);
           } else {
-            _rsm.goToWarmup2();
-            _rsm.goToWarmup1();
+            _rsm.transition(RST.goToWarmup2);
+            _rsm.transition(RST.goToWarmup1);
           }
           break;
         case "race1":
-          _rsm.goToRace2();
-          _rsm.goToRace1();
+          _rsm.transition(RST.goToRace2);
+          _rsm.transition(RST.goToRace1);
           break;
         case "race2":
-          _rsm.goToUnwantedRace();
+          _rsm.transition(RST.goToUnwantedRace);
           break;
       }
 
